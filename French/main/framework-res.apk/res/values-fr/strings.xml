@@ -570,7 +570,6 @@ Rendez-vous sur la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
     <string name="kg_sim_pin_instructions">Saisissez le code PIN de la carte SIM.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Déblocage de la carte SIM en cours…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Réessayez dans %1$d secondes.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Vous avez saisi un mot de passe incorrect à %1$d reprises. 
 
