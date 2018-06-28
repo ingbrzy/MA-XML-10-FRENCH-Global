@@ -17,10 +17,24 @@
         <item>Trois processus maximum</item>
         <item>Quatre processus maximum</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0 %</item>
         <item>50 %</item>
         <item>100 %</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Toujours afficher le pourcentage</item>
+        <item>Afficher le pourcentage pendant la charge (par défaut)</item>
+        <item>Ne pas afficher cette icône</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Utiliser sélection système (par défaut)</item>
@@ -95,6 +109,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="clock_options">
+        <item>Afficher les heures, minutes et secondes</item>
+        <item>Afficher les heures et minutes (par défaut)</item>
+        <item>Ne pas afficher cette icône</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Couleurs améliorées</item>
         <item>"Couleurs naturelles vues par l'œil"</item>
@@ -132,15 +151,15 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Désactivé</item>
-        <item>Demi-heure</item>
+        <item>30 minutes</item>
         <item>1 heure</item>
         <item>2 heures</item>
-        <item>8 Heures</item>
+        <item>8 hours</item>
     </string-array>
     <string-array name="nav_bar_buttons">
-        <item>Clipboard</item>
-        <item>Keycode</item>
-        <item>Keyboard switcher</item>
+        <item>Presse-papiers</item>
+        <item>Code</item>
+        <item>Sélectionneur de clavier</item>
         <item>Aucun</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">

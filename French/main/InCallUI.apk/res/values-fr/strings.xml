@@ -142,7 +142,7 @@
     <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
     <string name="call_recording_deny_permission_msg">"Vous avez rejeté l'autorisation d'enregistrement, impossible d'enregistrer."</string>
     <string name="call_contacts_deny_permission_msg">"Vous avez rejeté la permission de la lecture des contacts, impossible d'afficher les informations de contacts."</string>
-    <string name="conference_call_recorder_title">Conference call</string>
+    <string name="conference_call_recorder_title">Conférence téléphonique</string>
     <string name="antispam_marked_count">Rapporté par %1$d utilisateurs MIUI</string>
     <string name="antispam_local_marked">Marqué localement</string>
     <string name="antispam_provider">Identifié par %s</string>

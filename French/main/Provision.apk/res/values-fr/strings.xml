@@ -71,7 +71,7 @@ Vous devez accepter nos Conditions générales d'utilisation et notre Politique 
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Utilisez votre empreinte digitale pour déverrouiller votre appareil, ou pour se connecter à des applications ou services.</string>
     <string name="content_description_start">Démarrer</string>
-    <string name="start_up_slogan">Designed for full screen experience</string>
+    <string name="start_up_slogan">"Conçu pour l'expérience en plein écran"</string>
     <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">Terminé</string>
     <string name="language_picker_other_languages_title">Plus de langues</string>

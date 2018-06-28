@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="add_screen">Ajouter un écran</string>
@@ -92,6 +93,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">"Plus d'applications"</string>
     <string name="default_folder_title_security">Système</string>
+    <string name="default_folder_title_services">Services</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Outils</string>
     <string name="default_screen_preview_title">"Appuyer pour définir l'écran par défaut"</string>
@@ -235,6 +237,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Annuler</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Désactiver</string>
     <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser Coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
+    <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes de l'app coffre-fort (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
     <string name="open_personal_assistant_dialog_title">"Désactiver le Coffre d'applications"</string>
     <string name="open_personal_assistant_title">Application coffre-fort</string>
     <string name="out_of_space">"Plus d'espace sur ce bureau"</string>
@@ -342,6 +345,4 @@
     <string name="widget_gadget_player">Musique</string>
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
-    <string name="default_folder_title_services">Services</string>
-    <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes de l'app coffre-fort (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
 </resources>

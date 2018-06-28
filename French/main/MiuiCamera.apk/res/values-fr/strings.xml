@@ -32,10 +32,12 @@
     <string name="pref_front_mirror_title">"Miroiter l'appareil photo frontal"</string>
     <string name="pref_video_quality_title">Qualité de la vidéo</string>
     <string name="pref_video_hfr_title">Vidéo HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30 ips</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60 ips</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30 ips</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHP 1080P, 60 ips</string>
+    <string name="pref_video_quality_entry_720p">HD 720, 30 ips</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30 ips</string>
     <string name="pref_video_encoder_title">Encodeur vidéo</string>
     <string name="pref_video_encoder_entry_h264">Haute compatibilité H.264</string>
     <string name="pref_video_encoder_entry_h265">Haute performance H.265</string>
@@ -409,7 +411,7 @@
     <string name="dual_camera_lens_covered_toast">"L'objectif est couvert."</string>
     <string name="dual_camera_use_hint">"Assurez-vous que l'objet n'est pas plus loin de 2 mètres."</string>
     <string name="bokeh_use_hint">Effet de profondeur</string>
-    <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
+    <string name="back_bokeh_use_hint">"Assurez-vous que l'objet ne se trouve pas à plus de 1,5 mètres."</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">OBJECTIFS</string>
@@ -427,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Effet de profondeur</string>
     <string name="portrait_mode_use_hint">"Le mode Portrait brouille l'arrière-plan
 et fait ressortir les personnes à l'avant."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Carré</string>
     <string name="simple_mode_button_text_square">Désactiver le Carré</string>
     <string name="face_beauty_smart">Intelligent</string>
@@ -441,6 +444,7 @@ et fait ressortir les personnes à l'avant."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
@@ -533,6 +537,6 @@ et optimise vos photos basées sur cette information"</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Plein écran 16:9</string>
     <string name="lens_dirty_detected_title_back">"L'objectif arrière est sale"</string>
     <string name="lens_dirty_detected_title_front">"L'objectif avant est sale"</string>
-    <string name="lens_dirty_detected_content">"Votre objectif est sale.
-Merci de le nettoyer pour une meilleure image."</string>
+    <string name="lens_dirty_detected_content">"Il semble que la lentille de votre appareil photo est sale.
+Nettoyez la lentille pour un meilleur effet."</string>
 </resources>
