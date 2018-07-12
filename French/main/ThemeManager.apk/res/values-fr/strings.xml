@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">"C'est compris"</string>
     <string name="incompatible_dialog_title">Problèmes de compatibilité</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>
     <string name="item_resource_audio_optional_notification_ring">Notifications</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">"Prix d'origine : %1$s"</string>
     <string name="resource_pack_warning">"Attention, vous avez déjà acheté %1$d éléments de ce thème, il sera moins cher d'acheter les éléments restants individuellement."</string>
     <string name="resource_present">Cadeau</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="resource_price_unit"> Crédits Mi</string>
     <string name="resource_purchase_common_error">Une erreur est survenue, réessayez</string>
