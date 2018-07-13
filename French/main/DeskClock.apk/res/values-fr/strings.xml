@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Ajouter une alarme</string>
+    <string name="add_clock">Add Clock</string>
     <string name="add_timezone_title">Ajouter un fuseau horaire</string>
     <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %d minutes.</string>
     <string name="alarm_alert_snooze_set">Sliencieux pour %d minutes</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">Désactiver</string>
     <string name="common_settings">Paramètres</string>
     <string name="confirm_abort">Abandonner</string>
+    <string name="content_desc_keep_screen">\"Keep screen on\" button</string>
     <string name="control_set_alarm">Régler une alarme</string>
     <string name="control_set_alarm_with_existing">"Régler l'alarme : %s"</string>
     <string name="day">1 jour</string>
@@ -54,6 +56,7 @@
     <string name="dialog_message_agree">Accepter</string>
     <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, l'horloge doit accéder à vos contacts. Acceptez-vous?"</string>
     <string name="dialog_message_negative">Refuser</string>
+    <string name="dialog_message_not_remind">"Don't show again"</string>
     <string name="done">Terminé</string>
     <string name="dynamic_alarm_speech">Alarme intelligente</string>
     <string name="edit_alarm">"Éditer l'alarme"</string>
@@ -109,14 +112,14 @@
     <string name="menu_item_sort_by_name">Trier par nom</string>
     <string name="minute">1 minute</string>
     <string name="minutes">%d minutes</string>
-    <string name="module_download_cancel">Pas maintenant</string>
-    <string name="module_download_data_msg">"Afin de rendre disponible les alarmes intelligentes, les sons de la nature et les alarmes d'anniversaire, l'horloge doit se connecter à Internet et accéder à vos contacts. Vous devrez également télécharger de l'audio supplémentaire. Utiliser les données mobiles pour télécharger l'audio supplémentaire?"</string>
-    <string name="module_download_data_msg_golbal">"Afin de rendre disponible les alarmes intelligentes et sons de la nature, l'horloge doit télécharger de l'audio supplémentaire. Utiliser les données mobiles pour télécharger l'audio supplémentaire?"</string>
+    <string name="module_download_cancel">No thanks</string>
+    <string name="module_download_data_msg">"Clock needs to connect to the internet in order to download audio files (20MB) for ambient noises and smart alarms. You're using mobile data now. Allow?"</string>
+    <string name="module_download_data_msg_golbal">"Clock needs to download audio files (20MB) for ambient noises and smart alarms. You're using mobile data now. Allow?"</string>
     <string name="module_download_fail">Impossible de télécharger un module audio supplémentaire</string>
-    <string name="module_download_msg">"Afin de rendre disponible les alarmes intelligentes, les sons de la nature et les alarmes d'anniversaire, l'horloge doit se connecter à Internet et accéder à vos contacts. Vous devrez également télécharger de l'audio supplémentaire. Acceptez-vous?"</string>
-    <string name="module_download_msg_golbal">"Afin de rendre disponible les alarmes intelligentes et sons de la nature, l'horloge doit télécharger de l'audio supplémentaire. Acceptez-vous?"</string>
+    <string name="module_download_msg">Clock needs to connect to the internet in order to download audio files for ambient noises and smart alarms. Allow?</string>
+    <string name="module_download_msg_golbal">Clock needs to download audio files for ambient noises and smart alarms. Allow?</string>
     <string name="module_download_no_network">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
-    <string name="module_download_ok">Accepter &amp; télécharger</string>
+    <string name="module_download_ok">Autoriser</string>
     <string name="module_download_success">Module audio supplémentaire téléchargé avec succès</string>
     <string name="module_download_title">Audio supplémentaire requis</string>
     <string name="module_downloading">Téléchargement de module audio supplémentaire…</string>
@@ -145,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">"L'alarme sonnera après avoir éteint l'appareil"</string>
     <string name="shutdown_alarm_title">"Arrêter l'alarme"</string>
     <string name="silent_alarm_summary">Silencieux</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Désactiver une fois le %s</string>
     <string name="slider_text">Balayez vers le haut pour désactiver</string>
     <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
@@ -153,6 +157,7 @@
     <string name="start_up">Départ</string>
     <string name="stopwatch_lap_empty_text">Aucun tour</string>
     <string name="stopwatch_title">Chronomètre</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Paramètres</string>
     <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
     <string name="temperature_unit">%1$s°</string>
@@ -183,10 +188,8 @@
     <string name="timer_item_picker_second">s</string>
     <string name="timer_new_item">Ajouter une minuterie</string>
     <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
-    <string name="timer_pause_hint">Mettre en pause</string>
     <string name="timer_pause_timer">Mettre en pause le minuteur</string>
     <string name="timer_running">"Minuteur en cours d'exécution"</string>
-    <string name="timer_running_hint">Continuer</string>
     <string name="timer_start_alarm">Temps écoulé !</string>
     <string name="timer_start_timer">Démarrer le minuteur</string>
     <string name="timer_title">Minuteur</string>
@@ -203,7 +206,7 @@
     <string name="volume_button_setting_title">Boutons de volume</string>
     <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
     <string name="worldclock_empty_text">"Pas d'horloge"</string>
-    <string name="worldclock_input_hint_text">Enter city</string>
+    <string name="worldclock_input_hint_text">Entrer une ville</string>
     <string name="worldclock_search_city">Sélectionnez une ville</string>
     <string name="worldclock_title">Horloges</string>
     <string name="worldclock_world_time">Fuseaux horaires</string>
@@ -211,4 +214,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Heure</string>
     <string name="worldcolock_timezone_local">"Pareille que l'heure locale"</string>
+    <string name="timer_pause_hint">Mettre en pause</string>
+    <string name="timer_running_hint">Continuer</string>
 </resources>

@@ -149,6 +149,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="add_device_admin_msg">Activer appli administration appareil ?</string>
     <string name="add_facerecoginition_text">Ajouter des données de visage</string>
     <string name="add_fingerprint_cancel_button_text">Retour</string>
+    <string name="add_fingerprint_dirty_fingerprint">"Assurez-vous que la surface de l'écran est propre. Essayez d'enregistrer à nouveau votre empreinte digitale."</string>
     <string name="add_fingerprint_done_msg">Vous pouvez désormais déverrouiller votre appareil avec votre empreinte digitale.</string>
     <string name="add_fingerprint_done_title">Vous êtes prêt à faire sensation !</string>
     <string name="add_fingerprint_edge_instruction_msg">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales.</string>
@@ -157,6 +158,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="add_fingerprint_finished_button_text">Terminé</string>
     <string name="add_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est sur le bouton Accueil de votre appareil."</string>
     <string name="add_fingerprint_instruction_title">Ajouter votre empreinte digitale</string>
+    <string name="add_fingerprint_move_fast">"Gardez votre doigt sur l'écran un peu plus longtemps"</string>
     <string name="add_fingerprint_name_suggest_text">"Nom de l'empreinte digitale"</string>
     <string name="add_fingerprint_put_finger_edge_msg">"Déplacez votre doigt légèrement et posez le sur le capteur à nouveau afin d'ajouter toutes les parties de votre empreinte digitale."</string>
     <string name="add_fingerprint_put_finger_msg">Placez votre doigt sur le capteur et retirez le lorsque vous sentez une vibration.</string>
@@ -1898,8 +1900,18 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
+    <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
+    <string name="gxzw_add_fingerprint_edge_title">Ajustez votre prise</string>
+    <string name="gxzw_add_fingerprint_finish">Terminé!</string>
+    <string name="gxzw_add_fingerprint_indicate">Appuyez légèrement sur cette zone</string>
     <string name="gxzw_add_fingerprint_know">"C'est compris"</string>
+    <string name="gxzw_add_fingerprint_message">Veuillez à ce que votre doigt et écran soient propres</string>
     <string name="gxzw_add_fingerprint_move_indicate">Déplacez légèrement votre doigt</string>
+    <string name="gxzw_add_fingerprint_move_message">Déplacez vos doigts pour que le capteur enregistre toutes les parts de vos empreintes digitales</string>
+    <string name="gxzw_add_fingerprint_move_title">Déplacez légèrement votre doigt</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">"Appuyez sur l'écran et levez le doigt après avoir senti des vibrations. Répétez plusieurs fois."</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">Appuyer et retirer après vibration</string>
+    <string name="gxzw_add_fingerprint_title">Ajouter votre empreinte digitale</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_size">"Taille de l'écran"</string>
@@ -2148,6 +2160,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lift_to_wake_title">Soulever pour activer</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2488,6 +2501,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -2720,6 +2734,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -2917,6 +2932,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">"Exemple : l'Android de Jean"</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3194,6 +3210,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -3390,6 +3407,7 @@ Interface UT : %5$s"</string>
     <string name="retail_demo_reset_next">Suivant</string>
     <string name="retail_demo_reset_title">Mot de passe requis</string>
     <string name="retry">Réessayer</string>
+    <string name="rgb_manage_facerecoginition_text">Gérer les données de visage en 2D</string>
     <string name="ring_volume_option_title">Volume de la sonnerie</string>
     <string name="ring_volume_title">Volume de la sonnerie</string>
     <string name="ringtone_slot_setting_title">Paramètres SIM</string>
@@ -3773,6 +3791,9 @@ Pour épingler l'écran, procédez comme suit :
     <string name="second_space">Second espace</string>
     <string name="secondspace_category">Second espace</string>
     <string name="secondspace_delete_space_title">Supprimer le second espace</string>
+    <string name="secspace_fod_finger_tips">Impossible de vérifier. Réessayez.</string>
+    <string name="secspace_fod_finger_title">Vérifiez votre empreinte digitale</string>
+    <string name="secspace_fod_use_password">Saisir le mot de passe</string>
     <string name="secure_keyguard_business_title">"Définir l'écran de verrouillage"</string>
     <string name="secure_lock_encryption_warning">"Vous avez activé un service d'accessibilité. Votre appareil n'utilisera donc pas le verrouillage de l'écran pour améliorer le chiffrement des données."</string>
     <string name="security_dashboard_summary">"Verrouillage de l'écran, empreinte digitale"</string>
@@ -4030,6 +4051,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
+    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4104,6 +4126,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_key_position_custom">Modifier les positions des boutons</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_bar_screen_button_force_immersive_desc">"Balayez du haut vers le bas de l'écran pour afficher les boutons virtuels"</string>
     <string name="status_bar_screen_button_key_force_immersive">Masquer les boutons virtuels</string>
     <string name="status_bar_screen_key_back">Bouton Retour</string>
@@ -4130,10 +4153,11 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_show_carrier_summary">"Le nom de l'opérateur est affiché à l'écran de verrouillage et sur le panneau de notification quand cette fonction est désactivée"</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">"Montrer l'opérateur téléphonique pendant que l'appareil est verrouillé"</string>
     <string name="status_bar_settings_show_floating_notification">Notifications flottantes</string>
-    <string name="status_bar_settings_show_floating_notification_summary">"Les notifications flottantes disparaissent automatiquement après avoir été affichées en haut de l'écran"</string>
+    <string name="status_bar_settings_show_floating_notification_summary">"Autoriser les notifications importantes en haut de l'écran"</string>
     <string name="status_bar_settings_show_flow_info">"Afficher l'utilisation des données"</string>
     <string name="status_bar_settings_show_home_message">"Bulle sur l'icône de l'application"</string>
     <string name="status_bar_settings_show_keyguard_notification">"Notifications d'écran de verrouillage"</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">"Autoriser les notifications importantes sur l'écran verrouillé"</string>
     <string name="status_bar_settings_show_network_speed">Afficher la vitesse de connexion</string>
     <string name="status_bar_settings_show_notification_icon">"Afficher l'icône de notification"</string>
     <string name="status_bar_settings_show_wifi_name">Afficher le Wi-Fi</string>
@@ -4319,6 +4343,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="strict_mode">Mode Strict activé</string>
     <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
+    <string name="structure_manage_facerecoginition_text">Gérer les données de visage en 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode Plein écran</string>
     <string name="suggested_fingerprint_lock_settings_summary">Déverrouiller un appareil avec votre empreinte digitale</string>
     <string name="suggested_fingerprint_lock_settings_title">"Utiliser le lecteur d'empreinte digitale"</string>
@@ -4330,6 +4355,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="suggestion_remove">Supprimer</string>
     <string name="suggestions_summary">+ %1$d</string>
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="super_resolution_access_title">Applications accessibles</string>
     <string name="super_resolution_desc">Rendre les images plus nettes en utilisant un algorithme IA</string>

@@ -144,7 +144,7 @@ Pour activer votre compte, suivez le
     <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
     <string name="passport_login_failed">Impossible de se connecter</string>
     <string name="passport_reg_failed">"Échec de l'inscription"</string>
-    <string name="passport_verification_failed">"Échec de l'authentification"</string>
+    <string name="passport_verification_failed">Impossible de vérifier le compte</string>
     <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
     <string name="passport_identification_expired">Le code de vérification a expiré, recommencez</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>

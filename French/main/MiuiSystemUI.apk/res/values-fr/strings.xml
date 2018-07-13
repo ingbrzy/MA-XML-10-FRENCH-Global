@@ -88,6 +88,8 @@
     <string name="accessibility_key">Personnaliser un bouton de navigation</string>
     <string name="accessibility_location_active">Requêtes de localisation actives</string>
     <string name="accessibility_managed_profile">Profil de travail</string>
+    <string name="accessibility_menu_item_split_disable">"L'application ne prend pas en charge le diviseur de l'écran."</string>
+    <string name="accessibility_menu_item_split_enable">"L'application prend en charge le diviseur de l'écran"</string>
     <string name="accessibility_multi_user_switch_inactive">Utilisateur actuel %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">Afficher le profil</string>
     <string name="accessibility_multi_user_switch_switcher">"Changer d'utilisateur"</string>
@@ -198,6 +200,8 @@
     <string name="accessibility_settings">Paramètres</string>
     <string name="accessibility_settings_button">Paramètres système.</string>
     <string name="accessibility_signal_full">Signal plein.</string>
+    <string name="accessibility_splite_screen_primary">"Ajouter à l'écran partagé l'application principale"</string>
+    <string name="accessibility_splite_screen_secondary">"Ajouter à l'écran partagé l'application secondaire"</string>
     <string name="accessibility_status_bar_headphones">Écouteurs connectés</string>
     <string name="accessibility_status_bar_headset">Écouteurs connectés</string>
     <string name="accessibility_status_bar_hotspot">"Point d'accès"</string>
@@ -234,7 +238,6 @@
     <string name="adb_warning_title">Autoriser le débogage USB ?</string>
     <string name="add_tile">Ajouter une vignette</string>
     <string name="adjust_button_width">Ajuster la largeur du bouton</string>
-    <string name="airplane_mode">Mode Avion</string>
     <string name="alarm_template">à %1$s</string>
     <string name="alarm_template_far">le %1$s</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
@@ -245,7 +248,6 @@
     <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
     <string name="app_info">"Infos sur l'application"</string>
     <string name="app_label">Système IU</string>
-    <string name="app_name">Protection des touches</string>
     <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
     <string name="as_unimportant">Sans importance</string>
     <string name="audio_effect_custom">Configurer</string>
@@ -473,8 +475,6 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dlg_confirm_kill_storage_users_title">Activer le stockage USB</string>
     <string name="dlg_error_title">"Échec de l'opération"</string>
     <string name="dnd_is_off">NPD désactivé</string>
-    <string name="do_disclosure_generic">Cet appareil est géré par votre organisation</string>
-    <string name="do_disclosure_with_name">Cet appareil est géré par %s</string>
     <string name="do_not_silence">Ne pas mettre sur silence</string>
     <string name="do_not_silence_block">Ne pas mettre sur silence ou bloquer</string>
     <string name="dock_forced_resizable">"L'application peut ne pas fonctionner avec le diviseur d'écran."</string>
@@ -525,7 +525,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="external_source_trusted">Autorisé</string>
     <string name="external_source_untrusted">Pas autorisé</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
-    <string name="fingerprint_not_recognized">Non reconnu</string>
+    <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
     <string name="float_incall_ignore">Ignorer</string>
     <string name="force_allow_on_external">"Force permet aux applications d'écrire sur le stockage externe"</string>
     <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
@@ -651,97 +651,11 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyboard_shortcut_group_system_recents">Récents</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Raccourcis du clavier</string>
     <string name="keyboard_shortcut_group_system_switch_input">Bouton de méthode de saisie</string>
-    <string name="keyboardview_keycode_delete">Supprimer</string>
-    <string name="keyboardview_keycode_enter">Entrée</string>
-    <string name="keyguard_accessibility_next_alarm">Date et heure de la prochaine alarme : %1$s</string>
-    <string name="keyguard_accessibility_pin_area">Champ du code</string>
-    <string name="keyguard_accessibility_sim_pin_area">Champ du code PIN de la carte SIM</string>
-    <string name="keyguard_accessibility_sim_puk_area">Champ de la clé PUK de la carte SIM</string>
-    <string name="keyguard_carrier_default">Aucun service.</string>
-    <string name="keyguard_charged">Chargé</string>
     <string name="keyguard_indication_charging_time">"En charge (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_fast">"En charge rapide (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_slowly">"En charge lente (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_trust_disabled">"L'appareil restera verrouillé jusqu'à ce que vous le déverrouilliez manuellement"</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Appuyez sur \"Menu\" pour déverrouiller le clavier.</string>
-    <string name="keyguard_low_battery">Branchez votre chargeur.</string>
-    <string name="keyguard_missing_sim_instructions">Insérez une carte SIM.</string>
-    <string name="keyguard_missing_sim_instructions_long">Carte SIM absente ou illisible. Insérez une carte SIM.</string>
-    <string name="keyguard_missing_sim_message">"Aucune carte SIM n'est insérée dans le téléphone."</string>
-    <string name="keyguard_missing_sim_message_short">Pas de carte SIM</string>
-    <string name="keyguard_network_locked_message">Réseau verrouillé</string>
-    <string name="keyguard_password_enter_password_code">Saisissez le mot de passe pour déverrouiller le clavier</string>
-    <string name="keyguard_password_enter_pin_code">Saisissez le code PIN</string>
-    <string name="keyguard_password_enter_pin_password_code">Saisissez le code pour déverrouiller le clavier</string>
-    <string name="keyguard_password_enter_pin_prompt">Nouveau code PIN de la carte SIM</string>
-    <string name="keyguard_password_enter_puk_code">Saisissez la clé PUK et le nouveau code PIN de la carte SIM</string>
-    <string name="keyguard_password_enter_puk_prompt">Clé PUK de la carte SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Appuyez pour saisir mot passe</font></string>
-    <string name="keyguard_password_wrong_pin_code">Le code est incorrect.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Votre carte SIM a été définitivement désactivée.
-Veuillez contacter votre opérateur de téléphonie mobile pour en obtenir une autre."</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">La carte SIM est inutilisable.</string>
-    <string name="keyguard_plugged_in">En charge…</string>
-    <string name="keyguard_plugged_in_charging_fast">Chargement rapide…</string>
-    <string name="keyguard_plugged_in_charging_slowly">Chargement lent…</string>
-    <string name="keyguard_sim_locked_message">La carte SIM est verrouillée.</string>
-    <string name="keyguard_sim_puk_locked_message">La carte SIM est verrouillée par clé PUK.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Déblocage de la carte SIM…</string>
     <string name="keyguard_unlock">Balayez vers le haut pour déverrouiller</string>
-    <string name="kg_enter_confirm_pin_hint">Confirmez le code PIN souhaité</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">Vous avez tenté de déverrouiller le téléphone à %1$d reprises. Si vous échouez encore %2$d fois, le profil professionnel et toutes les données associées seront supprimés.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">Vous avez tenté de déverrouiller le téléphone à %1$d reprises. Si vous échouez encore %2$d fois, ce compte utilisateur et toutes les données associées seront supprimés.</string>
-    <string name="kg_failed_attempts_almost_at_login">"Vous avez dessiné un schéma de déverrouillage incorrect à %1$d reprises. Si vous échouez encore %2$d fois, vous devrez déverrouiller votre téléphone à l'aide d'un compte de messagerie électronique.
-
-Réessayez dans %3$d secondes."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">"Vous avez tenté de déverrouiller le téléphone à %1$d reprises. Si vous échouez encore %2$d fois, il sera réinitialisé et toutes les données qu'il contient seront supprimées."</string>
-    <string name="kg_failed_attempts_now_erasing_profile">Vous avez tenté de déverrouiller le téléphone à %d reprises. Le profil professionnel et toutes les données associées vont être supprimés.</string>
-    <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller le téléphone à %d reprises. Cet utilisateur et toutes les données associées vont être supprimés.</string>
-    <string name="kg_failed_attempts_now_wiping">"Vous avez tenté de déverrouiller le téléphone à %d reprises. Il va être réinitialisé et toutes les données qu'il contient seront supprimées."</string>
-    <string name="kg_forgot_pattern_button_text">"J'ai oublié le schéma"</string>
-    <string name="kg_invalid_confirm_pin_hint">Les codes PIN ne correspondent pas</string>
-    <string name="kg_invalid_puk">Veuillez saisir de nouveau la clé PUK. Après plusieurs tentatives, la carte SIM sera définitivement désactivée.</string>
-    <string name="kg_invalid_sim_pin_hint">Saisissez un code PIN comprenant 4 à 8 chiffres.</string>
-    <string name="kg_invalid_sim_puk_hint">La clé PUK doit contenir au moins 8 chiffres.</string>
-    <string name="kg_login_too_many_attempts">Trop de tentatives</string>
-    <string name="kg_password_instructions">Saisissez le mot de passe</string>
-    <string name="kg_password_pin_failed">"Échec du déverrouillage à l'aide du code PIN de la carte SIM."</string>
-    <string name="kg_password_puk_failed">"Échec du déverrouillage à l'aide de la clé PUK de la carte SIM."</string>
-    <string name="kg_password_wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
-    <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre opérateur.</string>
-    <string name="kg_pattern_instructions">Dessinez votre schéma</string>
-    <string name="kg_pin_accepted">Code accepté.</string>
-    <string name="kg_pin_instructions">Saisissez le code</string>
-    <string name="kg_prompt_reason_device_admin">"Appareil verrouillé par l'administrateur"</string>
-    <string name="kg_prompt_reason_restart_password">"Veuillez saisir le mot de passe après le redémarrage de l'appareil"</string>
-    <string name="kg_prompt_reason_restart_pattern">"Veuillez dessiner le schéma après le redémarrage de l'appareil"</string>
-    <string name="kg_prompt_reason_restart_pin">"Veuillez saisir le code après le redémarrage de l'appareil"</string>
-    <string name="kg_prompt_reason_switch_profiles_password">Veuillez saisir le mot de passe lorsque vous changez de profil</string>
-    <string name="kg_prompt_reason_switch_profiles_pattern">Veuillez dessiner le schéma lorsque vous changez de profil</string>
-    <string name="kg_prompt_reason_switch_profiles_pin">Veuillez saisir le code lorsque vous changez de profil</string>
-    <string name="kg_prompt_reason_timeout_password">Veuillez saisir le mot de passe pour renforcer la sécurité</string>
-    <string name="kg_prompt_reason_timeout_pattern">Veuillez dessiner le schéma pour renforcer la sécurité</string>
-    <string name="kg_prompt_reason_timeout_pin">Veuillez saisir le code pour renforcer la sécurité</string>
-    <string name="kg_prompt_reason_user_request">Appareil verrouillé manuellement</string>
-    <string name="kg_puk_enter_pin_hint">Saisissez le code PIN de votre choix</string>
-    <string name="kg_puk_enter_puk_hint">La carte SIM est maintenant désactivée. Pour continuer, saisissez la clé PUK. Contactez votre opérateur pour en savoir plus.</string>
-    <string name="kg_puk_enter_puk_hint_multi">La carte SIM \"%1$s\" est maintenant désactivée. Pour continuer, saisissez la clé PUK. Contactez votre opérateur pour en savoir plus.</string>
-    <string name="kg_sim_pin_instructions">Saisissez le code PIN de la carte SIM</string>
-    <string name="kg_sim_pin_instructions_multi">Saisissez le code PIN de la carte SIM \"%1$s\"</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Déblocage de la carte SIM…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Vous avez saisi un mot de passe incorrect à %1$d reprises.
-
-Réessayez dans %2$d secondes."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Vous avez dessiné un schéma de déverrouillage incorrect à %1$d reprises.
-
-Réessayez dans %2$d secondes."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Vous avez saisi un code incorrect à %1$d reprises.
-
-Réessayez dans %2$d secondes."</string>
-    <string name="kg_wrong_password">Mot de passe incorrect</string>
-    <string name="kg_wrong_pattern">Schéma incorrect</string>
-    <string name="kg_wrong_pin">Code incorrect</string>
     <string name="kilobyte_per_second">Ko/s</string>
     <string name="label_view">Voir</string>
     <string name="launch_defaults_none">Aucune préférence par défaut définie</string>
@@ -822,6 +736,9 @@ Réessayez dans %2$d secondes."</string>
     <string name="memory_clear_result_giga">%1$s Go effacés</string>
     <string name="memory_clear_result_mega">%1$s Mo effacés</string>
     <string name="menu_ime">Sélectionneur de clavier</string>
+    <string name="miui_guide_dialog_button_negative_text">Paramètres</string>
+    <string name="miui_guide_dialog_button_positive_text">"C'est compris"</string>
+    <string name="miui_guide_dialog_message">Les sons des médias (musique, vidéos, etc.) seront toujours lus en mode silencieux. Vous pouvez changer cela dans les paramètres.</string>
     <string name="miui_ringer_count_down">Compte à rebours</string>
     <string name="miui_ringer_count_down_time">Compte à rebours:%s</string>
     <string name="miui_ringer_standard">Silence</string>
@@ -830,8 +747,10 @@ Réessayez dans %2$d secondes."</string>
     <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
     <string name="miui_toast_zen_dnd_to_off">Sons et vibrations restaurés à la normale</string>
     <string name="miui_toast_zen_standard_to_off">Sonneries restaurées à la normale</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Les sonneries, ainsi que les notifications et les sons médiatiques, seront joués.</string>
     <string name="miui_toast_zen_to_dnd">Les sons sont réduits au silence et les vibrations sont coupées</string>
     <string name="miui_toast_zen_to_standard">Sonneries pour les appels et les notifications réduites au silence</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Les sonneries, ainsi que les notifications et les sons médiatiques, seront silencieux.</string>
     <string name="mobile_data">Données Mobiles</string>
     <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
     <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
@@ -918,6 +837,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="nav_guide_message">"Utilisez les gestes pour masquer/afficher les boutons à l'écran."</string>
     <string name="nav_guide_ok">Configurer</string>
     <string name="nav_guide_title">"Masquer les boutons à l'écran"</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Aucune</string>
     <string name="no_multi_window_app">Aucune application ne prend en charge le mode Écran divisé</string>
     <string name="no_notification_tips">Aucune notification</string>
@@ -1034,6 +954,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="power_remaining_charging_duration_only">"%1$s- Jusqu'à être complètement chargé"</string>
     <string name="power_remaining_duration_only">Environ %1$smin restantes</string>
     <string name="power_remaining_duration_only_short">%1$s restante(s)</string>
+    <string name="process_kernel_label">Android</string>
     <string name="profile_owned_footer">Le profil peut être surveillé</string>
     <string name="prompt_detecting">Détection</string>
     <string name="prompt_safe">Sécurisé</string>

@@ -32,16 +32,4 @@
         <item quantity="other">%1$d secondes</item>
         <item quantity="one">%1$d seconde</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Alarmes silencieuses après %d minutes</item>
-        <item quantity="one">Alarmes silencieuses après %d minute</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">1 minute</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d secondes</item>
-        <item quantity="one">1 seconde</item>
-    </plurals>
 </resources>
