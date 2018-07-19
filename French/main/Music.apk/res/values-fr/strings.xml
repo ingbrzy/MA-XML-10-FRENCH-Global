@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">Connectez le chargeur pour sauvegarder des chansons.</string>
     <string name="asset_sync_power_alert_title">Batterie faible</string>
     <string name="audio_picker_title">Choisir une chanson</string>
-    <string name="auto_payment">Renouvellement automatique</string>
-    <string name="auto_payment_date">Prochain paiement : %s</string>
     <string name="available_playlist_name_format">Nouvelle playlist %d</string>
     <string name="avoid_to_use_traffic_summary">Ne pas utiliser le réseau mobile pour écouter de la musique</string>
     <string name="avoid_to_use_traffic_title">Prévenir lorsque vous utilisez les données mobiles pour lire des chansons</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">Aucune chanson sélectionnée</string>
     <string name="backup_immediate">Sauvegarder</string>
     <string name="backup_song_title">Sélectionner les chansons à sauvegarder</string>
-    <string name="being_disable_auto_payment">Désactivation…</string>
-    <string name="being_enable_auto_payment">Activation…</string>
     <string name="bluetooth_device">Appareil audio Bluetooth</string>
     <string name="buffering">Chargement…</string>
     <string name="button_cancel_download">Annuler</string>
@@ -130,6 +126,7 @@
     <string name="continue_backup">Continuer</string>
     <string name="cp_info_first">"Le service de diffusion de musique en ligne
  est principalement produit par Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Impossible de commander, réessayer.</string>
     <string name="create_playlist">Créer une playlist</string>
     <string name="create_playlist_failure">Impossible de créer la playlist</string>
@@ -183,10 +180,6 @@
     <string name="dialog_title_not_available">Impossible de télécharger</string>
     <string name="dialog_title_queued_body">Fichier pas encore disponible</string>
     <string name="dialog_title_remove_tracks">Retirer</string>
-    <string name="disable_auto_payment_fail">Désactivation impossible</string>
-    <string name="disable_auto_payment_fail_message">Impossible de désactiver le renouvellement automatique</string>
-    <string name="disable_auto_payment_success">Désactivé</string>
-    <string name="disable_auto_payment_success_message">"Renouvellement automatique désactivé. Après l'expiration de votre abonnement actuel, vous devrez vous abonner à nouveau pour télécharger des chansons."</string>
     <string name="disallow_add_to_fm">"Impossible d'ajouter des chansons à la radio FM"</string>
     <string name="disallow_add_to_personal_radio">"Impossible d'ajouter des chansons à la radio personelle"</string>
     <string name="do_not_remind_this_version">Ne pas me rappeler cette version</string>
@@ -226,6 +219,7 @@
     <string name="download_method">Télécharger</string>
     <string name="download_no_application_title">"Impossible d'ouvrir le fichier"</string>
     <string name="download_paused_in_power_save_mode">"Les téléchargements sont en pause lorsque l'économiseur de batterie est activé"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Téléchargement…</string>
     <string name="download_quality">Qualité de téléchargement</string>
     <string name="download_quality_summary">Paramètres supplémentaires pour les chansons que vous téléchargez</string>
@@ -264,10 +258,6 @@
     <string name="edit_playlist_info">Modifier les informations de la Playlist</string>
     <string name="empty_page_no_album">Aucun album.</string>
     <string name="empty_page_no_artist">Aucun artiste.</string>
-    <string name="enable_auto_payment_fail">Activation impossible</string>
-    <string name="enable_auto_payment_fail_message">"Impossible d'activer le renouvellement automatique"</string>
-    <string name="enable_auto_payment_success">Renouveler automatiquement</string>
-    <string name="enable_auto_payment_success_message">Renouvellement automatique activé. Échéance le %s.</string>
     <string name="enabled">Activé</string>
     <string name="enter_garbage_clean">Nettoyer le stockage interne.</string>
     <string name="eq_auto">Personnaliser</string>
@@ -485,8 +475,9 @@
     <string name="modify_song_info_success">Info de la chanson a été mis à jour</string>
     <string name="more">Plus</string>
     <string name="more_add_song_list">"Ajouter des chansons à la file d'attente"</string>
+    <string name="more_milink">MI Link</string>
     <string name="more_settings">Paramètres avancés</string>
-    <string name="more_settings_summary">Paramètres de téléchargements, minuteur, gestion des données mobiles, filtres des fichiers, etc.</string>
+    <string name="more_settings_summary">Sleep timer, filters for files, etc.</string>
     <string name="more_share">Partager</string>
     <string name="music_browser_label">Musique</string>
     <string name="music_filter">Filtrer les fichiers audio</string>
@@ -594,6 +585,7 @@
     <string name="priority_storage">Utilisez une carte SD externe</string>
     <string name="priority_storage_summary">Télécharger automatiquement sur la carte SD externe si disponible</string>
     <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fr_FR</string>
     <string name="project_device">Téléphone Mi</string>
     <string name="prompt_grant_write_settings_permission">Autoriser la modification des paramètres systèmes</string>
     <string name="pulluprefreshrecyclerview_loading_error">Impossible de charger</string>
@@ -703,6 +695,7 @@
     <string name="start_to_check_new_version">Vérification des updates…</string>
     <string name="start_to_download">Téléchargement…</string>
     <string name="start_to_play">Lecture</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="stop">Arrêter</string>
     <string name="stop_backup">Arrêter</string>
     <string name="storage_internal">Stockage Interne</string>
@@ -764,6 +757,7 @@
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
     <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
     <string name="user_agreement">Accord Utilisateur</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fr_FR</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">"Your device isn't connected to Wi-Fi. Use mobile data?"</string>
     <string name="video_replay_btn">Play again</string>

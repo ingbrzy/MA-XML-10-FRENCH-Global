@@ -119,9 +119,9 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
     <string name="privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application cessera de collecter vos données et supprimera toutes vos données de ses serveurs. La synchronisation avec Mi Cloud, Mi Message et autres fonctionnalités de Messages ne seront plus disponibles. Révoquer l'autorisation quand même ?"</string>
     <string name="privacy_revoke_failed_msg">"L'activation nécessite une autorisation afin que Messages puisse obtenir votre numéro de téléphone."</string>
     <string name="waiting_sim_in_service">en attente de carte SIM en service</string>
-    <string name="checking_client">checking client env</string>
+    <string name="checking_client">"vérification de l'environnement client"</string>
     <string name="error_sim_not_in_service">carte SIM pas en service</string>
-    <string name="error_checking_client">client env error</string>
+    <string name="error_checking_client">"erreur de l'environnement client"</string>
     <string name="error_network_io">erreur réseau</string>
     <string name="error_no_send_sms_permission">"pas d'autorisation d'envoi SMS"</string>
 </resources>

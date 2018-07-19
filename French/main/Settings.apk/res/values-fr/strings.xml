@@ -876,6 +876,15 @@ Dernière exécution le %2$s"</string>
     <string name="brightness_title">Luminosité</string>
     <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
+    <string name="bt_ldac_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie plus élevée
+Cette fonctionnalité peut être désactivée dans [Settings]"</string>
+    <string name="bt_ldac_dialog_title">Les paramètres actuels supportent LDAC, qui a été connecté par défaut :</string>
+    <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une plus grande consommation d'énergie. La lecture peut se produire en raison des limites du matériel Bluetooth"</string>
+    <string name="bt_ldac_open_dialog_title">Voulez-vous activer LDAC ?</string>
+    <string name="bt_ldac_pre_summary">Fournit une expérience audio de haute qualité</string>
+    <string name="bt_ldac_property">Attributs</string>
+    <string name="bt_ldac_remember_choice">Se souvenir de mon choix</string>
+    <string name="bt_ldac_settings">Paramètres</string>
     <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
     <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
     <string name="bt_trace_log_summary">Log Bluetooth trace</string>
@@ -1781,6 +1790,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firewall_temp_rule_reason">%2$s a restreint la connexion Internet pour %1$s</string>
     <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à Internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
     <string name="firmware_version">Version Android</string>
+    <string name="flash_drive_backup_restore">Sauvegarder et restaurer via USB</string>
+    <string name="flash_drive_backup_restore_summary">Branchez un lecteur USB</string>
     <string name="floating_window_switch_label">Activer des fenêtres flottantes</string>
     <string name="floating_window_switch_label_disable">Désactiver des fenêtres flottantes</string>
     <string name="fluency_mode">Animations système</string>
@@ -2016,6 +2027,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="instant_app_details_summary">"Plus d'informations sur %1$s"</string>
     <string name="instant_apps_account">Compte pour les applis instantanées</string>
     <string name="instruction_privacy_password">Ce mot de passe protège les éléments suivants</string>
+    <string name="instruction_title">Informations de sécurité importantes</string>
     <string name="insufficient_storage">Espace de stockage insuffisant.</string>
     <string name="intent_sender_account_label">Compte :</string>
     <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
@@ -2160,6 +2172,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lift_to_wake_title">Soulever pour activer</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2500,6 +2513,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -2732,6 +2746,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -2929,6 +2944,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">"Exemple : l'Android de Jean"</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3206,6 +3222,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -3495,6 +3512,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode lecture</string>
     <string name="screen_paper_mode_range_title">Paramètres</string>
     <string name="screen_paper_mode_set_apps_title">Applications de mode de lecture</string>
+    <string name="screen_paper_mode_summary">Le mode Lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre.</string>
     <string name="screen_paper_mode_time_summary">"Définissez l'heure d'activation et de désactivation du mode lecture"</string>
     <string name="screen_paper_mode_time_title">Planifier</string>
     <string name="screen_paper_mode_title">Mode lecture</string>
@@ -4046,6 +4064,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
+    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4094,6 +4113,8 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sound_settings_summary">Volume de sonnerie à %1$s</string>
     <string name="sound_settings_summary_silent">Sonnerie en mode silencieux</string>
     <string name="sound_settings_summary_vibrate">Sonnerie en mode vibreur</string>
+    <string name="sound_stereo_mode_summary">Uniquement disponible lorsque vous jouez un son avec le haut-parleur</string>
+    <string name="sound_stereo_mode_title">Son stéréo</string>
     <string name="sound_vibrate_settings">Sons &amp; vibrations</string>
     <string name="sound_work_settings">Sons du profil professionnel</string>
     <string name="special_access">Accès spécifiques des applications</string>
@@ -4120,6 +4141,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_key_position_custom">Modifier les positions des boutons</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_bar_screen_button_force_immersive_desc">"Balayez du haut vers le bas de l'écran pour afficher les boutons virtuels"</string>
     <string name="status_bar_screen_button_key_force_immersive">Masquer les boutons virtuels</string>
     <string name="status_bar_screen_key_back">Bouton Retour</string>
@@ -4336,6 +4358,8 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="strict_mode">Mode Strict activé</string>
     <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5 % au moins pour démarrer un enregistrement.</string>
     <string name="structure_manage_facerecoginition_text">Gérer les données de visage en 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode Plein écran</string>
     <string name="suggested_fingerprint_lock_settings_summary">Déverrouiller un appareil avec votre empreinte digitale</string>
@@ -4348,6 +4372,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="suggestion_remove">Supprimer</string>
     <string name="suggestions_summary">+ %1$d</string>
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="super_resolution_access_title">Applications accessibles</string>
     <string name="super_resolution_desc">Rendre les images plus nettes en utilisant un algorithme IA</string>

@@ -163,4 +163,12 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="notification_channel_remind">Rappel</string>
     <string name="done_remove">Retiré avec succès</string>
     <string name="doing_restore_home">"Restauration de l'écran d'accueil et des paramètres…"</string>
+    <string name="title_alert_cancel_restore">Arrêter la restauration</string>
+    <string name="msg_alert_cancel_restore">"Sauvegarde Cloud est en cours de restauration, l'arrêter?"</string>
+    <string name="btn_restore_cancel">Annuler</string>
+    <string name="btn_restore_resume">Reprendre</string>
+    <string name="title_alert_restore_error">Échec de la restauration</string>
+    <string name="msg_alert_restore_error">La restauration de la sauvegarde dans le cloud a échoué. Veuillez réessayer.</string>
+    <string name="btn_restore_retry">Réessayer</string>
+    <string name="btn_restore_abort">Annuler</string>
 </resources>

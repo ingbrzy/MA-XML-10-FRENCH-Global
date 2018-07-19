@@ -868,6 +868,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Le réseau est lent car la intensité du signal est faible</item>
         <item>En déplacement…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Graphique</item>
+        <item>Pourcentage</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>

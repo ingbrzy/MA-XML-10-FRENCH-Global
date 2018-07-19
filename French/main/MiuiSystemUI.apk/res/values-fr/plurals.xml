@@ -20,6 +20,78 @@
         <item quantity="other">%d notifications sans importance</item>
         <item quantity="one">%d notification sans importance</item>
     </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Code PIN incorrect, %d tentatives restantes</item>
+        <item quantity="one">Code PIN incorrect, %d tentative restante</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Code PUK incorrect, %d tentatives restantes</item>
+        <item quantity="one">Code PUK incorrect, %d tentative restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">"Environ %d heures jusqu'à la charge complète"</item>
+        <item quantity="one">"Environ %d heure jusqu'à la charge complète"</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">"Environ %d minutes jusqu'à la charge complète"</item>
+        <item quantity="one">"Environ %d minute jusqu'à la charge complète"</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">"Environ %1$d h %2$d min jusqu'à la charge complète"</item>
+        <item quantity="one">"Environ %1$d h %2$d min jusqu'à la charge complète"</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Environ %d heures restantes</item>
+        <item quantity="one">Environ %d heure restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Environ %d minutes restantes</item>
+        <item quantity="one">Environ %d minute restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Environ %1$d h %2$d min restantes</item>
+        <item quantity="one">Environ %1$d h %2$d min restantes</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d min</item>
+        <item quantity="one">%1$d h %2$d min</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Saissisez le code PIN , vous avez %d tentatives restantes avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+        <item quantity="one">Saissisez le code PIN , vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable. Contactez le transporteur pour plus de détails.</item>
+        <item quantity="one">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable. Contactez le transporteur pour plus de détails.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Code PIN SIM incorrect, vous avez %d tentatives restantes avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+        <item quantity="one">Code PIN SIM incorrect, vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Code PUK SIM incorrect, vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable.</item>
+        <item quantity="one">Code PUK SIM incorrect, vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé pour %d heures. Confirmer le mot de passe."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé pour %d heure. Confirmer le mot de passe."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé pour %d heures. Confirmer le schéma."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé pour %d heure. Confirmer le schéma."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé pour %d heures. Confirmer le code PIN."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé pour %d heure. Confirmer le code PIN."</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">
         <item quantity="other">%1$s, %2$s et %3$d autres</item>
         <item quantity="one">%1$s, %2$s et %3$d autre</item>
@@ -35,6 +107,14 @@
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 sur %d catégories de notifications de cette application</item>
         <item quantity="one">1 sur %d catégorie de notifications de cette application</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Réessayer dans %d minutes</item>
+        <item quantity="one">Réessayer dans %d minute</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Réessayer dans %d secondes</item>
+        <item quantity="one">Réessayer dans %d seconde</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d interrupteurs au-dessus de cette barre sont actifs</item>

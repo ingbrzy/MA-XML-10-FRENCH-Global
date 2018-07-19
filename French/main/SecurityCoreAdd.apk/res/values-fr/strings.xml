@@ -298,7 +298,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xspace_default_setting_label">Application par défaut</string>
     <string name="xspace_default_app_title">Application par défaut</string>
     <string name="xspace_default_app_summary">"Définir l'application par défaut pour les paiements, les partages, les favoris et plus."</string>
-    <string name="xspace_default_setting_dialog_title">Par défaut</string>
+    <string name="xspace_default_setting_dialog_title">par défaut</string>
     <string name="xspace_default_guide_notification_content">Appuyer pour modifier</string>
     <string name="xspace_default_guide_notification_main_title">"Utiliser l'application par défaut"</string>
     <string name="xspace_default_guide_notification_xspace_title">"Utiliser l'application clônée"</string>

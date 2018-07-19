@@ -236,6 +236,10 @@
         <item quantity="other">Encore %1$d pas pour accéder au rapport de bug.</item>
         <item quantity="one">Encore %1$d pas pour accéder au rapport de bug.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">"Terminer %1$d pas pour effectuer une réinitialisation aux paramètres d'usine"</item>
+        <item quantity="one">"Terminer %1$d pas pour effectuer une réinitialisation aux paramètres d'usine"</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d applications peuvent utiliser les données sans restrictions</item>
         <item quantity="one">%d application peut utiliser les données sans restrictions</item>
