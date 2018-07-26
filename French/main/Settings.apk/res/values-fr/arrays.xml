@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Réseau domestique</item>
         <item>Tous les réseaux</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CHAUD</item>
         <item>TIÈDE</item>
         <item>FROID</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tous les jours</item>
@@ -39,6 +60,11 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP ou CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Mémoire interne du mobile</item>
@@ -204,6 +230,11 @@
         <item>Pourcentage</item>
         <item>Barre linéaire</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Non spécifié</item>
         <item>LTE</item>
@@ -289,6 +320,11 @@
         <item>LDAC</item>
         <item>Activer les codecs facultatifs</item>
         <item>Désactiver les codecs facultatifs</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (par défaut)</item>
@@ -656,6 +692,31 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Couleurs améliorées</item>
         <item>"Couleurs naturelles comme vues par l'œil"</item>
@@ -686,6 +747,10 @@
         <item>Compatibilité</item>
         <item>Haut débit</item>
     </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>30 derniers jours</item>
         <item>Définir cycle conso...</item>
@@ -708,6 +773,12 @@
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>30 minutes</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Aucun</item>
@@ -738,6 +809,11 @@
         <item>4,0 pouces</item>
         <item>3,5 pouces</item>
     </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Désactivé</item>
         <item>Léger</item>
@@ -753,6 +829,15 @@
         <item>Ne jamais vérifier</item>
         <item>Vérifier pour le contenu DRM uniquement</item>
         <item>Toujours vérifier</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Bleue</item>
@@ -792,6 +877,43 @@
         <item>Après 5 minutes</item>
         <item>Jamais</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom05</item>
+        <item>@drawable/longpressbottom06</item>
+        <item>@drawable/longpressbottom07</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom09</item>
+        <item>@drawable/longpressbottom10</item>
+        <item>@drawable/longpressbottom11</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Court</item>
         <item>Moyen</item>
@@ -825,6 +947,14 @@
         <item>Violette</item>
         <item>Pourpre</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP et version antérieure</item>
         <item>Windows Vista et plus récentes</item>
@@ -851,6 +981,14 @@
         <item>Accéder au périphérique monté : mtpfs/media/mtp via Explorateur de fichiers ; pareil que le dossier local.</item>
         <item>"Désinstaller le périphérique : fusermount -u/media/mtp
 Note : seulement pour Ubuntu 8.04 !"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -943,6 +1081,62 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Un seul microphone pour la suppression du bruit ambiant</item>
         <item>Deux microphones pour la suppression du bruit ambiant</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Haute performance</item>
         <item>Équilibré</item>
@@ -1030,6 +1224,16 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Augmenter le contraste</item>
         <item>Par défaut</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="screen_resolution_text">
+        <item>2K</item>
+        <item>1080P</item>
+        <item>720P</item>
+    </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillant</item>
         <item>Standard</item>
@@ -1087,6 +1291,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Dessiner une région de clip non rectangulaire en bleu</item>
         <item>Surligner les commandes de dessin testées en vert</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Toujours</item>
         <item>30 minutes</item>
@@ -1094,10 +1302,46 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>2 heures</item>
         <item>8 heures</item>
     </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>4</item>
+        <item>1</item>
+    </string-array>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
         <item>Refuser</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="timezone_filters">
         <item>Amérique</item>
         <item>Europe</item>
@@ -1116,6 +1360,11 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Désactivé</item>
         <item>Normal</item>
         <item>Extrême</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation désactivée</item>
@@ -1136,6 +1385,24 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Rapide</item>
         <item>Très rapide</item>
         <item>Le plus rapide</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>"Temps d'utilisation"</item>
@@ -1160,6 +1427,12 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Des contacts uniquement</item>
         <item>Des contacts favoris uniquement</item>
         <item>Aucun</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Déconnecté</item>
@@ -1191,6 +1464,12 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Moyen</item>
         <item>Élevé</item>
     </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi préféré</item>
         <item>Priorité au mobile</item>
@@ -1201,14 +1480,42 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Mobile</item>
         <item>Wi-Fi uniquement</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Mobile</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Wi-Fi de préférence</item>
         <item>Priorité au mobile</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>2</item>
+        <item>1</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Se connecter automatiquement</item>
         <item>Se connecter manuellement</item>
         <item>Toujours demander</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>Protocole DHCP</item>

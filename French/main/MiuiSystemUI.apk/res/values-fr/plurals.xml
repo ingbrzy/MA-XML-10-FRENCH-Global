@@ -56,6 +56,10 @@
         <item quantity="other">%d heures</item>
         <item quantity="one">%d heure</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">%1$d h %2$d min</item>
         <item quantity="one">%1$d h %2$d min</item>

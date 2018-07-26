@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">"Autorise l'application à accéder aux fonctionnalités avancées de Téléchargements et à l'utiliser pour télécharger des fichiers. Les applications malveillantes peuvent l'utiliser pour interrompre les téléchargements et accéder aux informations confidentielles."</string>
     <string name="permlab_downloadCompletedIntent">Envoyer les notifications de téléchargements.</string>
     <string name="permdesc_downloadCompletedIntent">"Autorise l'application à envoyer des notifications relatives aux téléchargements terminés. Les applications malveillantes peuvent l'utiliser pour confondre d'autres applications qui téléchargent des fichiers."</string>
-    <string name="permlab_seeAllExternal">Voir tous les téléchargements sur le stockage USB</string>
+    <string name="permlab_seeAllExternal">Voir tous les téléchargements sur la carte SD</string>
     <string name="permdesc_seeAllExternal">"Autoriser l'application à voir tous les téléchargements sur la carte SD, quelque soit l'application qui les a téléchargés."</string>
     <string name="permlab_downloadCacheNonPurgeable">"Réserver de l'espace dans le cache de téléchargements"</string>
     <string name="permdesc_downloadCacheNonPurgeable">"Autorise l'application à télécharger des fichiers vers le cache de téléchargements, qui ne peut être supprimé automatiquement lorsque les gestionnaire de téléchargements a besoin de plus d'espace."</string>
