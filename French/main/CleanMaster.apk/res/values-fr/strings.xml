@@ -26,7 +26,7 @@
     <string name="empty_title_apk">"Aucun paquet d'installation trouvé"</string>
     <string name="empty_title_residual">Aucun résidu trouvé</string>
     <string name="btn_text_quick_cleanup">Nettoyer</string>
-    <string name="hints_title_garbage">corbeille</string>
+    <string name="hints_title_garbage">Corbeille</string>
     <string name="activity_title_main">Nettoyeur</string>
     <string name="activity_title_deep_clean">Nettoyage en profondeur</string>
     <string name="activity_title_cache">Cache</string>
@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_residual_header_left">Résidus</string>
     <string name="hints_memory_header_left">Mémoire</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Gros fichiers : %d</string>
     <string name="hints_installed_apps_header_left">Applications installées : %d</string>
     <string name="toast_resolve_apk_error">"Résolution de l'erreur de l'apk"</string>
@@ -194,7 +195,7 @@
     <string name="deepclean_normal_title">Nettoyer automatiquement</string>
     <string name="deepclean_normal_item_desc1">Fichiers de la corbeille</string>
     <string name="deepclean_normal_item_desc2">"L'activité du nettoyeur n'influencera pas la performance du système"</string>
-    <string name="deepclean_1_k_clean">Nettoyage rapide</string>
+    <string name="deepclean_1_k_clean">Vider la mémoire</string>
     <string name="similar_image_title">Photos</string>
     <string name="similar_image_desc">Supprimer les photos similaires</string>
     <string name="similar_image_scaning">Vérification…</string>
@@ -298,6 +299,7 @@
     <string name="downloading">Téléchargement</string>
     <string name="installing">Installation</string>
     <string name="start_install">Installer maintenant</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Ouvrir dans le navigateur</string>
     <string name="title_share_link">"Partager l'URL"</string>
     <string name="connecting">Connexion…</string>
@@ -500,11 +502,11 @@
     <string name="pref_category_title_auto_clean_config_settings">Nettoyages automatiques</string>
     <string name="pref_title_auto_clean">Nettoyer automatiquement</string>
     <string name="pref_title_auto_clean_operation">Méthode de nettoyage</string>
-    <string name="pref_title_auto_clean_trigger">Netoyer le stockage</string>
+    <string name="pref_title_auto_clean_trigger">Nettoyer le stockage</string>
     <string name="auto_clean_operation_dialog_title">Méthode de nettoyage</string>
     <string name="auto_clean_operation_clean_and_alert">Rappeler et nettoyer</string>
     <string name="auto_clean_operation_just_clean">Nettoyage uniquement</string>
-    <string name="auto_clean_trigger_dialog_title">Netoyer le stockage</string>
+    <string name="auto_clean_trigger_dialog_title">Nettoyer le stockage</string>
     <string name="auto_clean_trigger_percent_ninety">Lorsque 90% est occupé</string>
     <string name="auto_clean_trigger_percent_eighty">Lorsque 80% est occupé</string>
     <string name="auto_clean_trigger_percent_sixty">Lorsque 60% est occupé</string>
@@ -528,7 +530,7 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">Total des déchets</string>
+    <string name="main_total_garbage">Taille de la corbeille</string>
     <string name="whatsapp_group_image">Images</string>
     <string name="whatsapp_group_video">Vidéos</string>
     <string name="whatsapp_group_voice">Message vocaux</string>
@@ -551,7 +553,17 @@
     <string name="whatsapp_content_empty">Aucun élément ici.</string>
     <string name="whatsapp_delete_confirm_message">Supprimer maintenant?</string>
     <string name="whatsapp_delete_done">Terminer</string>
-    <string name="whatsapp_title">Nettoyeur Whatsapp</string>
+    <string name="whatsapp_title">Nettoyeur WhatsApp</string>
     <string name="whatsapp_function_title">Nettoyeur WhatsApp</string>
     <string name="whatsapp_function_summery">Effacer les pièces jointes WhatsApp</string>
+    <string name="clean_summary">%1$s fichiers nettoyés</string>
+    <string name="onekeyclean_boosting_title">Augmentation de la vitesse</string>
+    <string name="onekeyclean_boosted_title">Effacé avec succès</string>
+    <string name="onekeyclean_boost_cleaned">%s effacé</string>
+    <string name="onekeyclean_boost_available">%s disponible</string>
+    <string name="onekeyclean_card_summery">"Vider la corbeille pour libérer de l'espace"</string>
+    <string name="onekeyclean_card_btn">Nettoyer maintenant</string>
+    <string name="memory_clean_icon_text">Vider la mémoire</string>
+    <string name="pref_title_create_onekeyclean_shortcut">"Afficher un raccourci sur l'écran d'accueil"</string>
+    <string name="memory_clean_no_trash_tip">Tout semble bon</string>
 </resources>

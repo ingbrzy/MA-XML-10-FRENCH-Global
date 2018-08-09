@@ -425,4 +425,5 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="xiaomi_calendar_display_name">Agenda</string>
     <string name="yearly">Annuel (le %s)</string>
     <string name="yearly_plain">Tous les ans</string>
+    <string name="discard_label">Annuler</string>
 </resources>

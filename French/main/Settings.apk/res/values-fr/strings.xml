@@ -305,7 +305,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="app_list_memory_use">Utilisation par les applis</string>
     <string name="app_list_preference_none">Aucune</string>
     <string name="app_memory_use">Utilisation de la mémoire</string>
-    <string name="app_mobile">Mobile</string>
+    <string name="app_mobile">Données Mobiles</string>
     <string name="app_name_label">Application</string>
     <string name="app_name_na">Utilisation des données</string>
     <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
@@ -362,7 +362,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="apply_now_button_text">Mise à jour</string>
     <string name="apply_password_to_category_title">Demande le déverrouillage</string>
     <string name="apply_update_fail">Impossible de mettre à jour</string>
-    <string name="approve_title">Vérification</string>
+    <string name="approve_title">Certification</string>
     <string name="apps_storage">Volume occupé par appli</string>
     <string name="apps_summary">%1$d applications installées</string>
     <string name="apps_summary_example">24 applications installées</string>
@@ -889,6 +889,8 @@ Dernière exécution le %2$s"</string>
     <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
 2. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
 3. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. Tap \"Add account\" below to associate your Mi Account with this device.
+2. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
     <string name="bootloader_locked_check_status">Ajouter un compte et un appareil</string>
     <string name="bootloader_locked_question_1">Pourquoi les appareils devraient-ils être verrouillés ?</string>
     <string name="bootloader_locked_question_2">Je comprends les risques, mais je souhaite toujours déverrouiller mon appareil.</string>
@@ -905,6 +907,7 @@ Dernière exécution le %2$s"</string>
     <string name="bootloader_status_unlocked">Déverrouillé</string>
     <string name="bootloader_status_unlocked_info">Cet appareil est déverrouillé</string>
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
@@ -916,12 +919,12 @@ Dernière exécution le %2$s"</string>
     <string name="brightness_title">Luminosité</string>
     <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
-    <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité et apporte également une plus grande consommation d'énergie. La lecture peut se produire en raison des limites du matériel Bluetooth"</string>
+    <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie plus élevée
-Cette fonctionnalité peut être désactivée dans [Settings]"</string>
+Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
     <string name="bt_ldac_dialog_title">Les paramètres actuels supportent LDAC, qui a été connecté par défaut :</string>
-    <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une plus grande consommation d'énergie. La lecture peut se produire en raison des limites du matériel Bluetooth"</string>
-    <string name="bt_ldac_open_dialog_title">Voulez-vous activer LDAC ?</string>
+    <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
+    <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
     <string name="bt_ldac_pre_summary">Fournit une expérience audio de haute qualité</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Attributs</string>
@@ -1541,6 +1544,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="dndm_auto_button_title">Programmer le mode Ne pas déranger</string>
     <string name="dndm_auto_setting_group">Programmation</string>
     <string name="dndm_auto_time_setting">"Régler l'heure"</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">À</string>
     <string name="dndm_auto_time_turn_off_title">Désactive automatiquement le mode Ne pas déranger</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -1942,6 +1946,12 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="foreground_traffic">Premier plan %s</string>
     <string name="forget">Supprimer</string>
     <string name="forget_password_button_text"><u>Mot de passe oublié</u></string>
+    <string name="forget_password_dialog_button_text">Back</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
+    <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
+    <string name="forget_password_dialog_title">Reset your password</string>
     <string name="forget_pattern"><u>Schéma oublié ?</u></string>
     <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
     <string name="forget_privacy_password_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
@@ -1990,6 +2000,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gadget_picker_title">Choisir un gadget</string>
     <string name="gadget_state_off">désactivé</string>
     <string name="gadget_state_on">activé</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">désactivation</string>
     <string name="gadget_state_turning_on">activation</string>
     <string name="gadget_sync">Synchronisation</string>
@@ -2297,6 +2308,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lift_to_wake_title">Soulever pour activer</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2650,6 +2662,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -2701,6 +2714,9 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_features">Fonctionnalités lab MIUI</string>
     <string name="miui_lab_gallery_search_desc">"Recherche d'image améliorée"</string>
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
+    <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
+    <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
+    <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
     <string name="miui_lab_settings">Lab MIUI</string>
     <string name="miui_lab_slogan">Apprendre. Explorer. Découvrir.</string>
     <string name="miui_lab_super_resolution_desc">Rendre les images plus nettes</string>
@@ -2836,8 +2852,6 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="navigation_guide_app_title">"Action du déclencheur d'applications"</string>
     <string name="navigation_guide_appswitch_summary">"Balayez vers la gauche ou la droite depuis le bord de l'écran et maintenez pour un moment"</string>
     <string name="navigation_guide_appswitch_title">"Passer à l'application précédente"</string>
-    <string name="navigation_guide_back_anim_summary">"Afficher l'animation pendant que vous balayez depuis le bord de l'écran"</string>
-    <string name="navigation_guide_back_anim_title">Animer le geste \"Retour\"</string>
     <string name="navigation_guide_back_summary">"Balayer vers la gauche ou la droite depuis le bord de l'écran"</string>
     <string name="navigation_guide_back_title">Retour</string>
     <string name="navigation_guide_dialog_dont_show_again">Ne plus afficher</string>
@@ -2896,6 +2910,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -3039,7 +3054,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_show_lights_title">Clignotement</string>
     <string name="notification_sound_default">Son de notification par défaut</string>
     <string name="notification_sound_dialog_title">Son de notification par défaut</string>
-    <string name="notification_sound_title">Sons pour les messages et les notifications</string>
+    <string name="notification_sound_title">Default notification sound</string>
     <string name="notification_suggestion_summary">Afficher ou masquer le contenu des notifications</string>
     <string name="notification_suggestion_title">Contrôler notifications écran verrouillage</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
@@ -3107,6 +3122,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">"Exemple : l'Android de Jean"</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3220,6 +3236,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="picture_in_picture_title">Picture-in-picture</string>
     <string name="pin_failed">"Échec du déverrouillage à l'aide du code PIN de la carte SIM."</string>
     <string name="ping_test_label">Effectuer un test de ping</string>
+    <string name="play_pause_description">Bouton Lecture/Pause</string>
     <string name="please_select_phase2">Authentification étape 2</string>
     <string name="please_type_passphrase">Mot de passe</string>
     <string name="pointer_location">Localisation du pointeur</string>
@@ -3418,6 +3435,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -4040,6 +4059,7 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_encryption_attention_3">"Vous devrez définir un nouveau mot de passe pour l'écran de verrouillage."</string>
     <string name="security_encryption_attention_4">"Assurez-vous que vous vous rappelez du mot de passe de votre écran de verrouillage, sinon vous serez obligé de faire une réinitialisation complète et effacer toutes les données sur l'appareil."</string>
     <string name="security_encryption_attention_info">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">"Choisir de ne pas chiffrer l'appareil en utilisant le mot de passe de l'écran de verrouillage pourrait rendre certains services de Google indisponibles."</string>
     <string name="security_encryption_close_dialog_title">Retourner au mot de passe de protection par défaut</string>
@@ -4049,6 +4069,8 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_encryption_progress_dialog_open">Chiffrement…</string>
     <string name="security_encryption_rejected_via_home_manager">"Cette fonctionnalité n'est pas prise en charge par la version démo."</string>
     <string name="security_encryption_title">"Chiffrer un appareil en utilisant le mot de passe de l'écran de verrouillage"</string>
+    <string name="security_input">Security input</string>
+    <string name="security_input_hint">Using security keyboard enter password</string>
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
     <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
@@ -4290,6 +4312,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
+    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4303,6 +4326,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="size_kilo_byte">ko</string>
     <string name="size_mega_byte">Mo</string>
     <string name="size_peta_byte">Po</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">To</string>
     <string name="skip_anyway_button_label">Ignorer quand même</string>
     <string name="skip_label">Ignorer</string>
@@ -4338,7 +4362,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sound_settings_summary">Volume de sonnerie à %1$s</string>
     <string name="sound_settings_summary_silent">Sonnerie en mode silencieux</string>
     <string name="sound_settings_summary_vibrate">Sonnerie en mode vibreur</string>
-    <string name="sound_stereo_mode_summary">Uniquement disponible lorsque vous jouez un son avec le haut-parleur</string>
+    <string name="sound_stereo_mode_summary">Marche seulement avec le haut-parleur</string>
     <string name="sound_stereo_mode_title">Son stéréo</string>
     <string name="sound_vibrate_settings">Sons &amp; vibrations</string>
     <string name="sound_work_settings">Sons du profil professionnel</string>
@@ -4380,6 +4404,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_app_notification_preferences">"Paramètres de l'application"</string>
     <string name="status_bar_settings_basic_settings">Paramètres de base</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">"Éditer le nom de l'opérateur"</string>
     <string name="status_bar_settings_custom_wifi_name">Editer le nom du Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Afficher les notifications</string>
@@ -4611,6 +4636,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="suggestions_title">Suggestions</string>
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="super_resolution_access_title">Applications accessibles</string>
     <string name="super_resolution_desc">Rendre les images plus nettes en utilisant un algorithme IA</string>
@@ -4758,7 +4784,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>
     <string name="toast_need_login">Connectez-vous à votre compte Mi</string>
     <string name="total">NPD</string>
-    <string name="total_info">Désactiver le son pour %1$s sauf pour les alarmes</string>
+    <string name="total_info">Desactivez les sons et le vibreur sauf pour les alarmes</string>
+    <string name="total_info_no_vibrator">Désactiver le son pour sauf pour les alarmes</string>
     <string name="total_memory">Mémoire totale</string>
     <string name="total_size">%s total</string>
     <string name="total_size_label">Total</string>
@@ -5315,21 +5342,21 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="wallpaper_suggestion_summary">Personnaliser votre écran</string>
     <string name="wallpaper_suggestion_title">"Changer de fond d'écran"</string>
     <string name="wapi_auto_sel_cert">Sélection automatique</string>
-    <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner automatiquement un certificat. Veuillez sélectionner un certificat de la liste et puis essayez de vous connecter.</string>
+    <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner les certificats automatiquement. Sélectionnez un certificat dans la liste, puis essayez de vous connecter.</string>
     <string name="wapi_cert_is_not_selected">"Sélectionnez d'abord le certificat"</string>
     <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
     <string name="wapi_cert_manage_title">Gestion du certificat WAPI</string>
     <string name="wapi_cert_select">Certificat WAPI</string>
-    <string name="wapi_no">non</string>
-    <string name="wapi_no_vaild_cert">"Certificats non disponible, l'installer maintenant ?"</string>
-    <string name="wapi_password_empty">Veuillez saisir le mot de passe</string>
-    <string name="wapi_password_hex_format_invalid">Les caractères hexadécimaux ne sont pas valides</string>
+    <string name="wapi_no">Non</string>
+    <string name="wapi_no_vaild_cert">On dirait que les certificats requis ne sont pas installés. Installer maintenant?</string>
+    <string name="wapi_password_empty">Saisir le mot de passe</string>
+    <string name="wapi_password_hex_format_invalid">Format invalide du mot de passe</string>
     <string name="wapi_password_hex_length_invalid">Le nombre de caractères hexadécimaux doit être pair</string>
-    <string name="wapi_password_length_invalid">Le mot de passe doit contenir : 8-64 caractères</string>
+    <string name="wapi_password_length_invalid">Le mot de passe doit contenir entre 8 et 64 caractères</string>
     <string name="wapi_psk_type">Type de mot de passe</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadécimal</string>
-    <string name="wapi_yes">oui</string>
+    <string name="wapi_yes">Oui</string>
     <string name="warm_color">Chaud</string>
     <string name="web_action_enable_summary">Ouvrez des liens dans des applications, même si celles-ci ne sont pas installées</string>
     <string name="web_action_enable_title">Applis instantanées</string>
@@ -5600,15 +5627,17 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
@@ -5931,7 +5960,6 @@ Toucher"<b> Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="audio_profile_bes_surround_summary">Surround audio</string>
     <string name="audio_profile_bes_surround_title">BesSurround</string>
     <string name="bg_power_saving_title">"Mise en veille à économie d'énergie intelligente"</string>
-    <string name="cancel_description">Annuler</string>
     <string name="card_emulation_settings_category_title">élément de sécurité disponible</string>
     <string name="card_emulation_settings_no_element_found">Aucun élément de sécurité disponible</string>
     <string name="card_emulation_settings_off_text">Pour afficher les éléments de sécurité disponibles, activez le mode émulation.</string>
@@ -5942,7 +5970,6 @@ Toucher"<b> Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="card_emulation_turning_on_text">Activation du mode émulation…</string>
     <string name="card_emulation_two_sim_not_supported_message">SIM1, SIM2 non compatibles avec la fonction émulation carte NFC.</string>
     <string name="clear_motion_summary">Optimiseur de fluidité vidéo</string>
-    <string name="confirm_description">Confirmer</string>
     <string name="custom_build_version">Version personnalisée</string>
     <string name="data_saving_title">Sauvegarde des données</string>
     <string name="data_usage_menu_cellular_data_control">Contrôle des données cellulaires</string>
@@ -6022,7 +6049,6 @@ Confirmer l'utilisation de l'heure du GPS?"</string>
     <string name="status_imei_slot2">IMEI(Fente2)</string>
     <string name="tethering_apn_settings_summary">Configurer APN pour tethering</string>
     <string name="tethering_apn_settings_title">Réglages APN</string>
-    <string name="total_info_sub">et désactivez le vibreur</string>
     <string name="two_cdma_dialog_msg">"L'emplacement 1 et l'emplacement 2 ne peuvent pas prendre en charge CDMA simultanément."</string>
     <string name="usb_bicr_summary">Afficher un CD-ROM virtuel contenant des logiciels utiles.</string>
     <string name="usb_ums_summary">XP recommandé. Pour transférer des fichiers entre votre ordinateur et votre stockage USB Android.</string>

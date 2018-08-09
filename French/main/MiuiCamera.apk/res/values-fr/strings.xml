@@ -29,7 +29,7 @@
     <string name="pref_camera_proximity_lock_summary">Verrouiller les gestes tactiles une fois placé dans une poche</string>
     <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone de l'écouteur"</string>
     <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonction, appuyez sur les boutons Volume haut et Retour simultanément.</string>
-    <string name="pref_front_mirror_title">"Miroiter l'appareil photo frontal"</string>
+    <string name="pref_front_mirror_title">"Effet miroir de l'appareil photo frontal"</string>
     <string name="pref_video_quality_title">Qualité de la vidéo</string>
     <string name="pref_video_hfr_title">Vidéo HFR</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30 ips</string>
@@ -38,7 +38,7 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHP 1080P, 60 ips</string>
     <string name="pref_video_quality_entry_720p">HD 720, 30 ips</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30 ips</string>
-    <string name="pref_video_encoder_title">Encodeur vidéo</string>
+    <string name="pref_video_encoder_title">Encodage vidéo</string>
     <string name="pref_video_encoder_entry_h264">Haute compatibilité H.264</string>
     <string name="pref_video_encoder_entry_h265">Haute performance H.265</string>
     <string name="pref_video_time_lapse_frame_interval_title">Retardateur</string>
@@ -57,7 +57,7 @@
     <string name="pref_video_time_lapse_frame_interval_entry_1800">"1800X (60-secondes d'intervalle)"</string>
     <string name="pref_camera_settings_category">"Paramètres de l'appareil photo"</string>
     <string name="pref_camcorder_settings_category">"Paramètres de l'appareil photo"</string>
-    <string name="pref_camera_picturesize_title_simple_mode">"Trame de l'appareil photo"</string>
+    <string name="pref_camera_picturesize_title_simple_mode">"Format de l'image"</string>
     <string name="pref_camera_picturesize_entry_4_3">4:3</string>
     <string name="pref_camera_picturesize_entry_16_9">16:9</string>
     <string name="pref_camera_picturesize_entry_18_9">18:9</string>
@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Effet de profondeur</string>
     <string name="portrait_mode_use_hint">"Le mode Portrait brouille l'arrière-plan
 et fait ressortir les personnes à l'avant."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Carré</string>
     <string name="simple_mode_button_text_square">Désactiver le Carré</string>
     <string name="face_beauty_smart">Intelligent</string>
@@ -445,6 +446,7 @@ et fait ressortir les personnes à l'avant."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
@@ -490,6 +492,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="beauty_fragment_tab_name_makeup">Avancé</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Beauté</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelage</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">Maquillage</string>
     <string name="edit_skin_white">Ton</string>
     <string name="edit_skin_smooth">Lisse</string>
     <string name="edit_eye_large">Grands yeux</string>
@@ -503,6 +506,10 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="edit_smile">Sourire</string>
     <string name="edit_slim_nose">Nez</string>
     <string name="popup_tip_3d_beauty_intro_text">Beauté 3D</string>
+    <string name="edit_eyebrow_dye">Sourcils</string>
+    <string name="edit_pupil_line">Eyeliner</string>
+    <string name="edit_jelly_lips">Gloss</string>
+    <string name="edit_blusher">Rouge</string>
     <string name="sticker_tab1">Mignon</string>
     <string name="sticker_tab2">Drôle</string>
     <string name="user_agreement2">"Conditions d'Utilisation"</string>
@@ -514,7 +521,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="install_confirmed">Installer</string>
     <string name="confirm_install_scanner_title">Installer Scanner</string>
     <string name="confirm_install_scanner_message">"Scanner vous permet de scanner des codes QR, code-barres et bien plus. Vous n'avez qu'à vous connecter à Internet pour l'installer."</string>
-    <string name="pref_camera_focus_shoot_title">Mise au point &amp; tirer</string>
+    <string name="pref_camera_focus_shoot_title">Mettre au point &amp; déclencher</string>
     <string name="pref_camera_focus_shoot_summary">Appuyez pour focaliser, puis appuyez encore pour prendre une photo.</string>
     <string name="pref_retain_camera_mode_title">Conserver le mode précédent</string>
     <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>

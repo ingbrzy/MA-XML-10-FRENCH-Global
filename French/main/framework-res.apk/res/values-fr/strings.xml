@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Impossible de lire cette vidéo en streaming sur cet appareil.</string>
     <string name="selectTextMode">Sélectionner texte</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">"Icône d'empreinte digitale"</string>
     <string name="paste_as_plain_text">Coller au format texte brut</string>
     <string name="autofill">Saisie automatique</string>
@@ -370,6 +371,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Code de service terminé</string>
     <string name="fcError">Problème de connexion ou code de service non valide</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Rechercher</string>
     <string name="find_next">Rechercher suivant</string>
     <string name="find_on_page">Rechercher sur la page</string>
@@ -555,6 +557,7 @@ Rendez-vous sur la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
     <string name="kg_sim_pin_instructions">Saisissez le code PIN de la carte SIM.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Déblocage de la carte SIM en cours…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Réessayez dans %1$d secondes.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Vous avez saisi un mot de passe incorrect à %1$d reprises. 
 
@@ -829,6 +832,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="notification_channel_wfc">Appels Wi-Fi</string>
     <string name="notification_hidden_text">Nouvelle notification</string>
     <string name="notification_listener_binding_label">"Outil d'écoute des notifications"</string>
+    <string name="notification_messaging_title_template">%1$s : %2$s</string>
     <string name="notification_ranker_binding_label">Service de classement des notifications</string>
     <string name="notification_reply_button_accessibility">Répondre</string>
     <string name="notification_title">Erreur de connexion au compte \"%1$s\"</string>
@@ -1502,5 +1506,6 @@ Voulez-vous quitter ?"</string>
     <string name="zen_mode_feature_name">Ne pas déranger</string>
     <string name="zen_mode_forever">"Jusqu'à ce que vous désactiviez ce mode"</string>
     <string name="zen_mode_forever_dnd">"Jusqu'à ce que vous désactiviez la fonctionnalité \"Ne pas déranger\""</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">"Jusqu'à %1$s"</string>
 </resources>

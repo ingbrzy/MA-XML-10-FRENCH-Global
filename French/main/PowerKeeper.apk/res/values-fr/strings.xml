@@ -85,4 +85,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="sleepmode_privacy_link">Apprendre plus à propos de la confidentialité et de la sécurité</string>
     <string name="sleepmode_disclaimer_cancel">Annuler</string>
     <string name="sleepmode_disclaimer_agree">Accepter</string>
+    <string name="appconfig_active_app_dialog_title">Gérer les applications actives</string>
+    <string name="config_classify">"Trier par paramètres d'application"</string>
+    <string name="active_classify">"Trier par statut d'activité"</string>
 </resources>

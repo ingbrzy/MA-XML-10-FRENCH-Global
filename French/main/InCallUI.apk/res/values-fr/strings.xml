@@ -128,6 +128,8 @@
     <string name="select_sim_hint">"Impossible d'accéder à la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
     <string name="select_one_sim_title">Peut seulement utiliser la SIM %1$d</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Enregistrement…</string>
     <string name="call_recording_error_privacy">"Impossible d'enregistrer en mode invité"</string>
     <string name="call_recording_error_sd_access">"Impossible d'accéder à la carte SD"</string>
@@ -171,7 +173,7 @@
     <string name="close_camera_requesting">"Désactivation de l'appareil photo…"</string>
     <string name="close_camera_failed">"Impossible de désactiver l'appareil photo…"</string>
     <string name="change_to_voice_tips_when_background">"L'autre partie a basculé en appel vocal"</string>
-    <string name="video_crbt_title">%s vidéo CRBT</string>
+    <string name="video_crbt_title">"La tonalité de retour d'appel vidéo de l'autre partie est en cours de lecture"</string>
     <string name="crbt_second_hold_prompt">%s est en attente…</string>
     <string name="crbt_second_hold_prompt_no_name">"L'appel précédent est attente…"</string>
     <string name="crbt_second_hold_prompt_conference">La conférence téléphonique est en attente…</string>

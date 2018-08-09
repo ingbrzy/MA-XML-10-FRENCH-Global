@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_confirm_multiple_files">
+    <plurals name="a">
         <item quantity="other">Supprimer %d fichiers sélectionnés ?</item>
         <item quantity="one">Supprimer %d fichier sélectionné ?</item>
     </plurals>
-    <plurals name="notif_receive_cancel">
+    <plurals name="b">
         <item quantity="other">Transferts vers %1$s annulés</item>
         <item quantity="one">Transfert vers %1$s annulé</item>
     </plurals>
-    <plurals name="notif_receive_progress">
+    <plurals name="c">
         <item quantity="other">Réception de %1$s fichiers…</item>
         <item quantity="one">Réception de %1$s fichier…</item>
     </plurals>
-    <plurals name="notif_receive_success">
+    <plurals name="d">
         <item quantity="other">Fichiers reçus de %1$s avec succès</item>
         <item quantity="one">Fichier reçu de %1$s avec succès</item>
     </plurals>
-    <plurals name="receiver_file_num">
+    <plurals name="e">
         <item quantity="other">%2$d fichiers de %1$s</item>
         <item quantity="one">%2$d fichier de %1$s</item>
     </plurals>
-    <plurals name="selected_file_num">
+    <plurals name="f">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
-    <plurals name="sender_file_num">
+    <plurals name="g">
         <item quantity="other">%1$d éléments</item>
         <item quantity="one">%1$d élément</item>
     </plurals>
-    <plurals name="transfer_list_received_header">
+    <plurals name="h">
         <item quantity="other">Recevoir %1$d fichiers (%2$s)</item>
         <item quantity="one">Recevoir %1$d fichier (%2$s)</item>
     </plurals>
-    <plurals name="transfer_list_sent_header">
+    <plurals name="i">
         <item quantity="other">Envoyer %1$d fichiers (%2$s)</item>
         <item quantity="one">Envoyer %1$d fichier (%2$s)</item>
     </plurals>

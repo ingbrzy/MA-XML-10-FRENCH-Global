@@ -6,6 +6,9 @@ Taille : %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Version %1$s
 Taille de la mise à jour : %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Stockage indisponible, vérifiez votre carte SD.</string>
+    <string name="xiaomi_bytes_unit">%1$s o</string>
+    <string name="xiaomi_kilobytes_unit">%1$s ko</string>
+    <string name="xiaomi_megabytes_unit">%1$s Mo</string>
     <string name="xiaomi_connect_download_manager_fail">Impossible de démarrer le téléchargement. Vérifier que le gestionnaire de téléchargements fonctionne normalement.</string>
     <string name="app_name">Sauvegarde</string>
     <string name="local_app_name">Sauvegarde</string>
@@ -225,6 +228,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="restore_backup">Restaurer</string>
     <string name="enable_encrypt_description">Chiffrer</string>
     <string name="disable_encrypt_description">Ne pas chiffrer</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Un instant…</string>
     <string name="state_mounting">Accès au stockage du routeur…</string>
     <string name="abort_backup_confirm">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
@@ -438,9 +442,9 @@ pour télécharger et installer Mi Mover."</string>
     <string name="trans_intro_title_multiapp">Données des applications clônées :</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover ne transfère pas les données des applications clônées afin d'éviter des conflits entre les fichiers."</string>
     <string name="trans_intro_question_9_market">%d. Commentaires.</string>
-    <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre retour utilisateur avec l'application \"Commentaire\"."</string>
-    <string name="trans_intro_desc_9_method_1_dec">"Allez dans l'écran d'accueil > Outils > Commentaire."</string>
-    <string name="trans_intro_desc_9_method_2_title">2. Nous envoyer un e-mail</string>
+    <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre avis avec l'application \"Commentaire\"."</string>
+    <string name="trans_intro_desc_9_method_1_dec">"Allez à l'écran d'accueil > Outils > Commentaire."</string>
+    <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un e-mail</string>
     <string name="trans_intro_desc_9_method_2_dec">Envoyez votre commentaire à miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_3_title">3. Signaler des problèmes dans QQ</string>
     <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Mover : 687338378</string>
@@ -452,7 +456,7 @@ pour télécharger et installer Mi Mover."</string>
     <string name="trans_cancel_selection_title">Restez dans Mi Mover</string>
     <string name="trans_cancel_selection_message">"Si vous quittez Mi Mover, le transfert en cours sera interrompu. Patientez jusqu'à ce que le transfert se termine."</string>
     <string name="trans_select_notification_title">"Mi Mover est en cours d'utilisation…"</string>
-    <string name="trans_select_notification_message">Appuyer pour voir</string>
+    <string name="trans_select_notification_message">Appuyer pour afficher</string>
     <string name="trans_button_stay">Rester</string>
     <string name="trans_button_exit">Quitter</string>
     <string name="trans_wlan_tips_title">Ne pas désactiver le Wi-Fi</string>
@@ -460,7 +464,7 @@ pour télécharger et installer Mi Mover."</string>
     <string name="trans_disconnected_tips_title">Appareil distant déconnecté</string>
     <string name="trans_disconnected_tips_message">Appareil distant déconnecté. Reconnectez-le manuellement ou annulez le transfert.</string>
     <string name="trans_button_cancel">Annuler</string>
-    <string name="trans_success_dialog_market_comment_title">"Votre nouvel appareil ressemble à chez vous à présent.
+    <string name="trans_success_dialog_market_comment_title">"Votre nouvel appareil se sent comme à la maison à présent.
 Avez-vous apprécié Mi Mover ?"</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Évaluer Mi Mover</string>
     <string name="trans_failed_details_page_title">Transferts sans succès</string>
@@ -533,6 +537,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
 ous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="list_footer_tip_title">Astuces :</string>
     <string name="import_tip_summary">En raison des problèmes de compatibilité, vous pouvez seulement transférer partiellement les données depuis vos appareil iOS. Assurez-vous de créer une sauvegarde iCloud avant de commencer le transfert.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importer</string>
     <string name="select_empty">Sélectionner les éléments à importer</string>
     <string name="select_item_summary_wait">En attente…</string>
@@ -584,7 +589,7 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
     <string name="perm_read_sms">Lire les SMS</string>
     <string name="perm_storage">Lire et écrire sur un support de stockage externe</string>
     <string name="lack_perm_title">Autorisation requise</string>
-    <string name="lack_perm_msg">Mi Mover a besoin des permissions suivantes : &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Mi Mover a besoin des autorisations suivantes : &lt;b>%s&lt;/b>.</string>
     <string name="flash_drive_backup_restore">Sauvegardes USB</string>
     <string name="flash_drive_backup_note">"Sauvegardez les applications sur un lecteur USB.
 Vérifiez que le lecteur USB dispose de suffisamment d'espace disponible avant de démarrer."</string>
@@ -604,5 +609,5 @@ Ne récupérez que les éléments importants pour aller plus vite."</string>
     <string name="usb_trans_native_no_space">"Seuls %s sont disponibles sur votre appareil.
 Libérez de l'espace ou faites plusieurs transferts plus petits."</string>
     <string name="usb_trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
-    <string name="usb_trans_old_phone_low_space_msg">"De l'espace supplémentaire est nécessaire pour préparer vos sauvegardes. Il n'y a pas assez d'espace de stockage pour continuer le transfert. Vous pouvez libérez de l'espace et supprimer les fichiers inutiles dans l'appli Sécurité, ou essayer de ne transférer que les éléments importants."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"De l'espace supplémentaire est nécessaire pour préparer vos sauvegardes. Il n'y a pas assez d'espace de stockage pour continuer le transfert. Vous pouvez libérer de l'espace et supprimer les fichiers inutiles dans l'appli Sécurité, ou essayer de ne transférer que les éléments importants."</string>
 </resources>

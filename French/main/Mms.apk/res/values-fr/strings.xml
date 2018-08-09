@@ -192,6 +192,7 @@
     <string name="file_size">Taille :</string>
     <string name="file_title">Nom :</string>
     <string name="file_width_height">Taille :</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">Transférer de:</string>
     <string name="forward_prefix">TR :</string>
@@ -360,9 +361,18 @@
     <string name="no_subject_view">(Aucun objet)</string>
     <string name="non_english_subject_limit">Maximum 13 caractères</string>
     <string name="nosend_message">Non envoyé</string>
+    <string name="notification_channel_msg_description">Notifications à propos des messages</string>
+    <string name="notification_channel_msg_name">Messages</string>
+    <string name="notification_channel_other_description">Autres notifications</string>
+    <string name="notification_channel_other_name">Autre</string>
+    <string name="notification_channel_sim1_description">Notifications de messages de SIM 1</string>
+    <string name="notification_channel_sim1_name">Messages de SIM 1</string>
+    <string name="notification_channel_sim2_description">Notifications de messages de SIM 2</string>
+    <string name="notification_channel_sim2_name">Messages de SIM 2</string>
     <string name="notification_copy">Copier OTP</string>
     <string name="notification_failed_multiple">"%s messages n'ont pu être envoyés"</string>
     <string name="notification_failed_multiple_title">Messages non envoyés</string>
+    <string name="notification_group_name">Message</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Nouveaux messages</string>
     <string name="number_add_hint">Entrez un numéro de téléphone</string>
@@ -397,7 +407,7 @@
     <string name="pref_show_sms_template_entry_summary">Détecter les mots de passe à usage unique et afficher les menus rapides</string>
     <string name="pref_show_sms_template_in_summary">Détectez automatiquement des mots de passe à usage unique inclus dans des SMS</string>
     <string name="pref_show_sms_template_summary">Activer pour utiliser les fonctionnalités intelligentes de Mi Message, telles que la copie de codes, la vérification de crédit, etc.</string>
-    <string name="pref_smart_messages_settings">Messages intelligents</string>
+    <string name="pref_smart_messages_settings">Messagerie intelligente</string>
     <string name="pref_sms_storage_title">Stockage</string>
     <string name="pref_sms_theme_title">Affichage</string>
     <string name="pref_summary_allow_si_sl_push">Autoriser les messager à charger du contenu depuis des sites Web</string>
@@ -541,6 +551,7 @@
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
     <string name="send_to">Envoyer à :</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Envoyé à : %1s</string>
     <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
@@ -652,6 +663,7 @@ Dernière tentative : %s."</string>
     <string name="unstick">Détacher</string>
     <string name="unstick_conversation">Libérer la conversation en cours</string>
     <string name="unsticked_conversation">La conversation est déjà désépinglé</string>
+    <string name="unsubscribe">Se désabonner</string>
     <string name="unsupported_media_format">Format %1$s non pris en charge.</string>
     <string name="url_fraud_dangerous_alert">"Le site Web que vous essayer de visiter pourrait être dangereux. Il pourrait endommager votre appareil et vos données. Le visiter quand même ?
 %s"</string>
@@ -672,6 +684,4 @@ Dernière tentative : %s."</string>
     <string name="wild_msg_title">Choisir un numéro de téléphone pour synchroniser</string>
     <string name="yes">OK</string>
     <string name="yesterday">Hier</string>
-    <string name="notification_channel_description">Notifications de Message</string>
-    <string name="notification_channel_name">Message</string>
 </resources>
