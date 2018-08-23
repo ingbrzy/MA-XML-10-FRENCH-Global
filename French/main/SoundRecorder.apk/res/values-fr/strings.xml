@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">Insérez une carte SD</string>
     <string name="record_back_pressed_hint">"Pour arrêter l'enregistrement, appuyez à nouveau sur Retour"</string>
     <string name="record_mark_point">Marque %s</string>
+    <string name="record_format_preference_title">"Format d'enregistrement"</string>
     <string name="record_quliaty_preference_title">"Qualité d'enregistrement"</string>
     <string name="cloud_record_tip">Synchroniser les enregistrements avec Mi Cloud.</string>
     <string name="cloud_record_open">Synchroniser les enregistrements</string>
@@ -152,4 +153,5 @@
     <string name="head_set_tip_dialog_ok">"C'est compris"</string>
     <string name="rename_fail_tip">Impossible de renommer. Un élément avec ce nom existe déjà.</string>
     <string name="dialog_privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application arrêtera de collecter les données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre l'application virtuellement inutilisable. Révoquer l'autorisation quand même ? Pour vous assurer de la sécurité de votre compte, connectez-vous à i.mi.com avant de révoquer l'autorisation des services Mi Cloud."</string>
+    <string name="privacy_policy_title">Politique de Confidentialité</string>
 </resources>

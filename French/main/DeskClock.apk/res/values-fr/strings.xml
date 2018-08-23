@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">"L'alarme sonnera après avoir éteint l'appareil"</string>
     <string name="shutdown_alarm_title">"Arrêter l'alarme"</string>
     <string name="silent_alarm_summary">Silencieux</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Désactiver une fois le %s</string>
     <string name="slider_text">Balayez vers le haut pour désactiver</string>
     <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Départ</string>
     <string name="stopwatch_lap_empty_text">Aucun tour</string>
     <string name="stopwatch_title">Chronomètre</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Paramètres</string>
     <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,6 +176,7 @@
     <string name="timer_alert_type_rain">Bruine</string>
     <string name="timer_alert_type_stove_fire">Feu de cuisinière</string>
     <string name="timer_alert_type_summer_night">"Nuit d'été"</string>
+    <string name="timer_can_continue_in_timer">Ouvrir Minuterie pour reprendre</string>
     <string name="timer_cancel_hint">Arrêter</string>
     <string name="timer_cancel_timer">Annuler le minuteur</string>
     <string name="timer_clock_alert_text">Réglez le minuteur</string>
@@ -183,6 +186,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_is_paused">La minuterie est en pause</string>
     <string name="timer_item_duration_display">%1$d min %2$d sec</string>
     <string name="timer_item_label_hint">Nom de la minuterie</string>
     <string name="timer_item_picker_hour">H</string>

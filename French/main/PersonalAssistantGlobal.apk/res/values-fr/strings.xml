@@ -299,6 +299,7 @@
     <string name="title_schema_title">Surligner le nom</string>
     <string name="toast_function_add_not_allowed">"Vous pouvez ajouter jusqu'à 8 raccourcis"</string>
     <string name="toast_function_remove_not_allowed">Vous devez ajouter au moins 1 raccourci</string>
+    <string name="today_apps">Recommandé</string>
     <string name="today_apps_bref">Découvrez de nouvelles applications géniales</string>
     <string name="today_apps_detail">Ici vous pouvez trouver des applications fraîches qui deviennent populaires en ce moment.</string>
     <string name="today_apps_loading">Juste un instant…</string>

@@ -61,4 +61,6 @@
     <string name="open_perm_title">Autorisation requise</string>
     <string name="cancel">Annuler</string>
     <string name="allow">Autoriser</string>
+    <string name="preference_other">Other</string>
+    <string name="preference_privacy_title">Privacy Policy</string>
 </resources>

@@ -220,6 +220,10 @@
         <item quantity="other">%1$d interrupteurs apparaîtront sur le panneau de notification</item>
         <item quantity="one">%1$d interrupteur apparaîtra sur le panneau de notification</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
         <item quantity="one">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
@@ -227,6 +231,14 @@
     <plurals name="show_dev_countdown">
         <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
         <item quantity="one">Plus que %1$d étape pour devenir développeur</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Encore %1$d pas pour accéder aux infos de l'appareil."</item>

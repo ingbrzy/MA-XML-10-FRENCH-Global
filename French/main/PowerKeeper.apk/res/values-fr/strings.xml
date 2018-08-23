@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
     <string name="power_config_select_apps_title">Applications</string>
     <string name="power_config_event_delete">Supprimer</string>
-    <string name="hide_mode_desc">"Lorsqu'une application est ouverte à l'arrière-plan, ses activités seront contrôlées afin de réduire l'utilisation de la batterie."</string>
+    <string name="hide_mode_desc"><font color="#000000">When an app runs in the background, its activities will be monitored to reduce battery usage. This function will get and use user data according to %s</font></string>
+    <string name="privacy">Privacy policy</string>
     <string name="power_hide_mode_title">Batterie &amp; performance</string>
     <string name="power_config_apps">Économiseur de batterie</string>
     <string name="app_list_title">"Choisir l'application"</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">"À propos de l'économiseur de batterie"</string>
     <string name="show_system_app">Afficher les applications système</string>
     <string name="hide_system_app">Masquer les applications système</string>
+    <string name="about_extreme_mode">Extreme battery saver</string>
     <string name="scenario_policies_title">Scènes intelligentes</string>
     <string name="config_scenario_policies_title">Scènes</string>
     <string name="scenario_policies_summary">"Appliquer différentes stratégies d'économie d'énergie pour des scènes différentes."</string>
@@ -88,4 +90,6 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="appconfig_active_app_dialog_title">Gérer les applications actives</string>
     <string name="config_classify">"Trier par paramètres d'application"</string>
     <string name="active_classify">"Trier par statut d'activité"</string>
+    <string name="extreme_mode_max_item_alert">Only 4 apps can be selected to be run in background in extreme battery save mode</string>
+    <string name="message_i_know">I Know</string>
 </resources>
