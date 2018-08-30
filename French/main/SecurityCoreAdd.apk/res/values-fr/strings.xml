@@ -68,7 +68,7 @@
     <string name="xspace_setting_label">Paramètres des applications clônées</string>
     <string name="xspace_account">Comptes des applications clônées</string>
     <string name="declare_dialog_title">À propos des applications clônées</string>
-    <string name="menu_item_about_privacy_title">Privacy Policy</string>
+    <string name="menu_item_about_privacy_title">Politique de Confidentialité</string>
     <string name="stop_xspace_alert_title">Suppression des comptes des applications clonées</string>
     <string name="stop_xspace_alert_content">"Vous avez supprimé toutes les applications clonées. Supprimer les comptes des applications clonées et les données de l'application également ? Après cela, vous devrez créer à nouveau des applications clonées lorsque vous en aurez besoin."</string>
     <string name="xspace_loading_msg">Chargement des applications…</string>
@@ -418,18 +418,18 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="ent_agree_privacy_policy">"J'ai lu et accepté la Politique de confidentialité"</string>
     <string name="ent_activation">Activer</string>
     <string name="ent_activating">Activation…</string>
-    <string name="ent_installing">Installing…</string>
+    <string name="ent_installing">Installation en cours…</string>
     <string name="ent_network_error">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="ent_invalid_qr">Code QR non valide.</string>
     <string name="ent_invalid_agency">"Le code entreprise n'est pas valide."</string>
     <string name="ent_privacy_policy_notice">* Les données personnelles dans ce mode sont collectées conformément aux politiques établies par votre société. Xiaomi ne collecte pas de données personnelles dans ce mode.</string>
     <string name="ent_confirm_dialog_content">"Vous ne pourrez pas revenir à l'état actuel de votre système après avoir activé le mode Entreprise. Cependant, toutes vos données seront stockées sur cet appareil. Vous devrez redémarrer votre appareil pour activer le mode Entreprise. Activer maintenant ?"</string>
     <string name="ent_error_dialog_content">Au moins un des codes que vous avez entrés est incorrect. Vérifiez vos codes de compagnie et de licence puis saisissez-les à nouveau.</string>
-    <string name="ent_download_install_dialog_content">You must install corporate apps to activate Enterprise mode. Install now?</string>
-    <string name="ent_download_install_dialog_title">Download corporate apps</string>
-    <string name="ent_downloading_message">Downloading %d%%</string>
-    <string name="install">Install</string>
-    <string name="install_error">"Couldn't install. Try again."</string>
-    <string name="ent_install_dialog_content">Install apps and reboot your device now?</string>
+    <string name="ent_download_install_dialog_content">"Vous devez installer les applications d'entreprise pour activer le mode Entreprise. Installer maintenant ?"</string>
+    <string name="ent_download_install_dialog_title">"Télécharger des applications d'entreprise"</string>
+    <string name="ent_downloading_message">Téléchargement %d%%</string>
+    <string name="install">Installer</string>
+    <string name="install_error">"Impossible d'installer, réessayez."</string>
+    <string name="ent_install_dialog_content">Installer les applications et redémarrez votre appareil maintenant ?</string>
     <string name="ent_disallow_running">"L'application est interdite d'exécution"</string>
 </resources>

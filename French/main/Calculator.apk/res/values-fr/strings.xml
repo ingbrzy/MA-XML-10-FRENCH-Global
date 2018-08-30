@@ -256,6 +256,7 @@
     <string name="unit_data_display_currency_bhd">Dinar bahreïni</string>
     <string name="unit_data_display_currency_bnd">Dollar de Brunei</string>
     <string name="unit_data_display_currency_brl">Réal brésilien</string>
+    <string name="unit_data_display_currency_byn">Rouble biélorusse</string>
     <string name="unit_data_display_currency_cad">Dollar canadien</string>
     <string name="unit_data_display_currency_chf">Franc suisse</string>
     <string name="unit_data_display_currency_clp">Peso chilien</string>
@@ -532,5 +533,4 @@
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
     <string name="year" />
-    <string name="unit_data_display_currency_byr">Rouble biélorusse</string>
 </resources>

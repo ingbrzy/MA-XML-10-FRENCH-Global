@@ -62,6 +62,7 @@
     <string name="edit_alarm">"Éditer l'alarme"</string>
     <string name="edit_systemtime">"Éditer l'heure du système"</string>
     <string name="every_day">Tous les jours</string>
+    <string name="expired_timers_dismissed">Minuteur rejeté</string>
     <string name="force_touch_add_alarm">Ajouter une alarme</string>
     <string name="force_touch_enter_stopwatch">Chrono.</string>
     <string name="force_touch_enter_timer">Minuteur</string>
@@ -72,6 +73,7 @@
     <string name="install_weather_app_error">"Impossible de charger l'application"</string>
     <string name="install_weather_app_loading">Juste un instant…</string>
     <string name="invalid_time">Heure non valide : %3$s %1$d : %2$d</string>
+    <string name="invalid_timer_length">Durée du minuteur non valide</string>
     <string name="keep_screen_on">"Laisser l'écran allumé"</string>
     <string name="label">Définir un label</string>
     <string name="label_pref_summary">Label</string>
@@ -129,8 +131,10 @@
     <string name="never">Une fois</string>
     <string name="oneshot_alarm">"Supprimer quand l'alarme s'arrête"</string>
     <string name="open_keep_screen">"L'écran pourra rester allumé"</string>
+    <string name="other_category_title">Autre</string>
     <string name="pause">Pause</string>
     <string name="percentage_sign">%</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
     <string name="remind_ringtone">Sonnerie</string>
     <string name="reset">RAZ</string>
     <string name="revert">Revenir</string>
@@ -148,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">"L'alarme sonnera après avoir éteint l'appareil"</string>
     <string name="shutdown_alarm_title">"Arrêter l'alarme"</string>
     <string name="silent_alarm_summary">Silencieux</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Désactiver une fois le %s</string>
     <string name="slider_text">Balayez vers le haut pour désactiver</string>
     <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
@@ -156,6 +161,7 @@
     <string name="start_up">Départ</string>
     <string name="stopwatch_lap_empty_text">Aucun tour</string>
     <string name="stopwatch_title">Chronomètre</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Paramètres</string>
     <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
     <string name="temperature_unit">%1$s°</string>
@@ -180,6 +186,7 @@
     <string name="timer_clock_alert_text">Réglez le minuteur</string>
     <string name="timer_continue">Continuer</string>
     <string name="timer_continue_timer">Continuer</string>
+    <string name="timer_created">Minuteur cré</string>
     <string name="timer_end_time">"La minuterie s'arrêtera à %s"</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

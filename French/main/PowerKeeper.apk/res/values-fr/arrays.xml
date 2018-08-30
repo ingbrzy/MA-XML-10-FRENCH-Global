@@ -13,8 +13,8 @@
         <item>Applications en veille</item>
     </string-array>
     <string-array name="emode_app_groups">
-        <item>System apps</item>
-        <item>Other apps</item>
+        <item>Applications système</item>
+        <item>Autres applications</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Mode Contrôle de température par défaut</item>

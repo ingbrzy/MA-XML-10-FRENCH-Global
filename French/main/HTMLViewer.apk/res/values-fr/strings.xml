@@ -11,7 +11,7 @@
 allez sur %s sur un autre périphérique connecté."</string>
     <string name="permdesc_accessDrm">"Autorise l'application à accéder au contenu protégé par DRM."</string>
     <string name="open_wifi_connect_title">Connecté à %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">continue to use traffic, tap to switch wifi and verify.</string>
+    <string name="open_wifi_connect_and_use_data_summary">continuer à utiliser les données mobiles, appuyez sur pour changer de Wi-Fi et vérifier.</string>
     <string name="open_wifi_connect_summary">Appuyez pour voir les détails.</string>
     <string name="settings_license_activity_title">Licences open source</string>
     <string name="settings_license_activity_loading">Un instant…</string>

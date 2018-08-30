@@ -9,8 +9,8 @@
         <item quantity="one">%d élément bloqué</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d articles mis à jour pour vous</item>
-        <item quantity="one">%1$d article mis à jour pour vous</item>
+        <item quantity="other">Découvrez %1$d les nouveaux articles</item>
+        <item quantity="one">Découvrez %1$d le nouvel article</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Supprimer %d tâches ?</item>
@@ -21,12 +21,12 @@
         <item quantity="one">%d résultat</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d days</item>
+        <item quantity="other">Les %d derniers jours</item>
+        <item quantity="one">Les %d derniers jours</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
+        <item quantity="other">%1$d sur %2$d</item>
+        <item quantity="one">1 correspondance</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Après %d secondes, une nouvelle page sera automatiquement créée</item>
@@ -81,8 +81,8 @@
         <item quantity="one">%d minute restante</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d vidéos mises à jour pour vous</item>
-        <item quantity="one">%1$d vidéo mise à jour pour vous</item>
+        <item quantity="other">Découvrez %1$d les nouvelles vidéos</item>
+        <item quantity="one">Découvrez %1$d la nouvelle vidéo</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Dégagé</item>
