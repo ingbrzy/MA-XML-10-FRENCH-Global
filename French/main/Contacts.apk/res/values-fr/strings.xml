@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">"Détails de l'historique des appels"</string>
     <string name="accessibility_contact_detail">Détails du contact</string>
     <string name="account_container_title">Importé depuis</string>
@@ -55,7 +56,6 @@
     <string name="btn_split_contact">Séparer</string>
     <string name="button_cancel_scan">Arrêter</string>
     <string name="button_join_service_number">Ajouter un numéro de service</string>
-    <string name="button_my_center">Profile</string>
     <string name="button_scan">Scanner</string>
     <string name="caching_vcard_message">Mise en cache du fichier vCard…</string>
     <string name="caching_vcard_title">Mise en cache</string>
@@ -99,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Principal)</string>
     <string name="call_telex">Appeler par télex</string>
     <string name="call_tty_tdd">Appeler TTY/TTD (malentendants)</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Appeler bureau</string>
     <string name="call_work_mobile">Appeler mobile professionnel</string>
@@ -191,6 +192,7 @@
     <string name="composer_failed_to_get_database_infomation">"Impossible d'obtenir les informations concernant la base de données."</string>
     <string name="composer_has_no_exportable_contact">"Il n'y a pas de contacts exportables. Si vous avez des contacts sur votre appareil, certains fournisseurs de données peuvent ne pas autoriser l'exportation des contacts à partir de l'appareil."</string>
     <string name="composer_not_initialized">"Le système de composition vCard n'a pas démarré correctement."</string>
+    <string name="conference_call_disable_tip">"Can't make calls. Make sure your device is connected to a 4G network with VoLTE support."</string>
     <string name="confirm_delete_contact_all_call_logs">"Effacer tout l'historique de %s ?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Effacer l'historique des appels ?"</string>
     <string name="confirm_delete_sim_entry_miui_title">Supprimer</string>
@@ -398,6 +400,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialer_menu_description">Afficher le menu</string>
     <string name="dialer_menu_title">Options menu</string>
     <string name="dialer_returnToInCallScreen">"Retourner à l'appel en cours"</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Utilisez le clavier à touches</string>
     <string name="dialog_import">Importer les contacts</string>
     <string name="dialog_import_export">Importer/Exporter les contacts</string>
@@ -485,8 +488,8 @@ Raison: \"%s\""</string>
     <string name="firewall_setting">Liste de blocage</string>
     <string name="force_touch_miprofile">Cartes de contact</string>
     <string name="force_touch_new_contact">Nouveau contact</string>
-    <string name="foundTooManyContacts">Plus de %d trouvés.</string>
     <string name="frequentList">Contacts fréquents</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nom complet</string>
     <string name="gallery">Galerie</string>
     <string name="generic_no_account_prompt">Protégez vos contacts même si vous perdez votre téléphone ; synchronisez les avec un service en ligne.</string>
@@ -654,7 +657,6 @@ Raison: \"%s\""</string>
     <string name="menu_splitAggregate">Séparer</string>
     <string name="menu_sync_remove">Supprimer la synchronisation du groupe</string>
     <string name="menu_viewContact">Afficher le contact</string>
-    <string name="merge_contact_message">%1$d contacts avec des informations partiellement identiques</string>
     <string name="messageShortcutActivityTitle">Choisissez le numéro auquel envoyer le message</string>
     <string name="miprofile_account_type">Cartes de contact</string>
     <string name="miprofile_alertdialog_edit">Saisir un nom</string>
@@ -668,6 +670,7 @@ Raison: \"%s\""</string>
     <string name="miprofile_contact_header">Contacts avec des cartes de contact</string>
     <string name="miprofile_contact_meaasge">Contacts locaux</string>
     <string name="miprofile_contact_verifying">Vérification</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Éditer le profil</string>
     <string name="miprofile_error_accept_self">"Impossible d'échanger votre propre carte de contact"</string>
     <string name="miprofile_error_no_miaccount">Connectez-vous à votre compte Mi</string>
@@ -813,7 +816,10 @@ Raison: \"%s\""</string>
     <string name="path_wipe_data">Applications système/Contacts/Organiser les contacts/Effacer les données</string>
     <string name="payphone">Cabine téléphonique</string>
     <string name="people">Contacts</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Téléphone</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Ce numéro est trop long</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible sur le périphérique.</string>
@@ -1008,8 +1014,6 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="search_wipe_data">Organiser;Contacts</string>
     <string name="searching_vcard_message">"Recherche de données vCard depuis l'appareil…"</string>
     <string name="select_all">Tout sélectionner</string>
-    <string name="select_all_exceed">Sélectionner au plus %1$d, impossible de sélectionner plus</string>
-    <string name="select_exceed">Sélectionner au plus %1$d</string>
     <string name="select_groups">Sélectionner les groupes</string>
     <string name="select_none">Aucun élément sélectionné</string>
     <string name="select_show_contacts">Liste des contacts</string>
@@ -1062,6 +1066,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="sim_unloaded">Carte SIM non installée</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Aucun membre dans le groupe</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Entreprises</string>
     <string name="smart_group_company_unavailable">"Aucune info sur l'entreprise"</string>
     <string name="smart_group_frequency_1">Dans le dernier mois</string>
@@ -1196,6 +1201,7 @@ Choisissez une des options suivantes:"</string>
     <string name="voip_audio_description">Appel VoiP</string>
     <string name="voip_video_description">Appel vidéo VoiP</string>
     <string name="websiteLabelsGroup">Site Web</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Supprimer les données</string>
     <string name="yellowPageNavigationIconLabel">Pages Jaunes</string>
     <string name="yellowPageNavigationLabel">Pages Jaunes</string>
@@ -1222,4 +1228,5 @@ Choisissez une des options suivantes:"</string>
     <string name="yellowpage_search_the_yellowpage">Chercher sur les Pages Jaunes</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="zero_items_selected">Sélectionnez les éléments</string>
+    <string name="button_my_center">Profile</string>
 </resources>

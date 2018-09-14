@@ -142,7 +142,7 @@
     <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
     <string name="network_confirm_title">Autorisation requise</string>
     <string name="percent" />
-    <string name="percentDesc">pour cent</string>
+    <string name="percentDesc">pourcentage</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">plus</string>
     <string name="powerDesc">puissance</string>
@@ -159,6 +159,8 @@
     <string name="preference_follow_web_title">Site Web officiel</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_other">Autre</string>
+    <string name="preference_privacy_title">Politique de Confidentialité</string>
     <string name="preference_settings">Paramètres</string>
     <string name="preference_use_degress_summary">Substituer les radians par les angles dans les fonctions trigonométriques</string>
     <string name="preference_use_degress_title">Utiliser les angles</string>
@@ -400,8 +402,8 @@
     <string name="unit_data_display_weight_uk.cwt">Quintal anglais</string>
     <string name="unit_data_display_weight_uk.st">Stone</string>
     <string name="unit_data_display_weight_us.cwt">Qintal américain</string>
-    <string name="unit_data_short_area_acre">acre</string>
-    <string name="unit_data_short_area_are">aire</string>
+    <string name="unit_data_short_area_acre">ac</string>
+    <string name="unit_data_short_area_are">a</string>
     <string name="unit_data_short_area_ha">ha</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
@@ -425,7 +427,7 @@
     <string name="unit_data_short_length_cun">cun</string>
     <string name="unit_data_short_length_dm">dm</string>
     <string name="unit_data_short_length_fen">fen</string>
-    <string name="unit_data_short_length_fm">fm</string>
+    <string name="unit_data_short_length_fm">ftm</string>
     <string name="unit_data_short_length_ft">ft</string>
     <string name="unit_data_short_length_fur">fur</string>
     <string name="unit_data_short_length_gongli">gongli</string>

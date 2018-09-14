@@ -120,6 +120,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">%d problèmes de batterie détectés, réparer</item>
         <item quantity="one">%d problème de batterie détecté, réparer</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">éléments</item>
+        <item quantity="one">élément</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Ajouter %d minutes</item>
+        <item quantity="one">Ajouter %d minute</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personne</item>
@@ -351,6 +359,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d applications sont cachées</item>
         <item quantity="one">%d application est cachée</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="one">%d app may be displayed incorrectly. Restrict floating notifications.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

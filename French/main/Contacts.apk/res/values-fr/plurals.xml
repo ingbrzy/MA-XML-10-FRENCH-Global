@@ -52,6 +52,10 @@
         <item quantity="other">La carte SIM peut stocker %1$d contacts.</item>
         <item quantity="one">La carte SIM peut stocker %1$d contact.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Trouver plus que %d contacts.</item>
+        <item quantity="one">Trouver plus que %d contact.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d contacts ajoutés</item>
         <item quantity="one">%1$d contact ajouté</item>
@@ -80,6 +84,10 @@
         <item quantity="other">%1$d numéros</item>
         <item quantity="one">%1$d numéro</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d contacts trouvés</item>
         <item quantity="one">1 contact trouvé</item>
@@ -91,6 +99,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Affichage de %d contacts avec numéros de téléphone</item>
         <item quantity="one">Afficher 1 contact avec son numéro de téléphone</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacts avec des informations partiellement identiques</item>
+        <item quantity="one">%1$d contacts avec des informations partiellement identiques</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">fusionnés depuis %0$d contacts sources</item>
@@ -139,6 +151,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d contacts trouvés</item>
         <item quantity="one">1 contact trouvé</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Sélectionner au plus %1$d, impossible de sélectionner plus</item>
+        <item quantity="one">Sélectionner au plus %1$d, impossible de sélectionner plus</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Sélectionner au plus %1$d</item>
+        <item quantity="one">Sélectionner au plus %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d personnes</item>

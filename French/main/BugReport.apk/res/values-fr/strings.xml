@@ -57,6 +57,7 @@
     <string name="save_pic_success">Image sauvegardée dans %s</string>
     <string name="save_pic_fail">"Impossible de sauvegarder l'image, vérifiez votre carte SD"</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Sélectionnez un produit</string>
     <string name="michat_skillset_business_type_title">Sélectionnez le service</string>
     <string name="michat_close_text">Conversation terminée</string>
@@ -161,13 +162,16 @@
     <string name="cta_cancel">Annuler</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
-    <string name="submit_dialog_content">Votre commentaire avec vos pièces jointes et journaux seront envoyés aux serveurs MIUI. Cela pourrait contenir des informations personnelles et vos données de localisation.</string>
-    <string name="submit_dialog_content_global">"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les articles que vous ne voulez pas télécharger) seront envoyés aux serveurs MIUI et une section restreinte de MIUI Forum pour les développeurs. Les informations sur vos discussions et l'activité du forum seront également collectées pour analyse et communication ultérieure . Les journaux peuvent contenir des informations personnelles et vos données de localisation."</string>
+    <string name="submit_dialog_content"><Data>Vos commentaires, ainsi que les pièces jointes et les journaux, seront envoyés aux serveurs de MIUI. Il peut contenir des informations personnelles et vos données de localisation. Choisir \"Agree\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
+    <string name="tab_title_preferences">Paramètres</string>
+    <string name="privacy_policy_title">Politique de confidentialité</string>
+    <string name="privacy_category_title">Confidentialité</string>
     <string name="mobile_data_note_dialog_title">"Alerte d'utilisation des données"</string>
-    <string name="mobile_data_note_dialog_content">Utiliser les données mobiles pour envoyer vos fichiers journaux peut générer des frais supplémentaires.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Envoyer les fichiers journaux en utilisant la connexion de données mobiles nécessite %s Mo de données.</string>
+    <string name="mobile_data_note_dialog_content">On dirait que vous êtes connecté à un réseau payant. Le téléchargement de journaux peut générer des frais supplémentaires.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données mobiles."</string>
     <string name="mobile_data_note_dialog_cancel">En attente du Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Ajouter</string>
     <string name="modem_tool_log_dumping_title">Capturer des journaux de modem</string>
@@ -177,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Journal de modem capturé</string>
     <string name="modem_tool_log_finish_desc">Journal enregistré sous %s</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content">"Vous êtes en train d'enregistrer les journaux de logiciels sur cet appareil. Les journaux peuvent contenir des informations personnelles et vos données de géolocalisation. Ne partagez pas les journaux avec quelqu'un d'autre si vous ne souhaitez pas que cette information soit exposée."</string>
+    <string name="bugreport_dialog_submit_content"><Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">"Création du journal d'erreurs…"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
@@ -242,6 +246,7 @@
     <string name="feedback_third_packagename_hint">Quelle application tierce cause problèmes ?</string>
     <string name="toast_third_packagename_required">"Saisir le nom de l'application"</string>
     <string name="feedback_contact_info_hint">Numéro de téléphone/E-mail</string>
+    <string name="toast_loading_app_id">"Obtention d'informations…"</string>
     <string name="feedback_status_commit_succ_title">Envoyé</string>
     <string name="feedback_status_commit_uploading_title">Envoi…</string>
     <string name="feedback_status_commit_failed_title">"Impossible d'envoyer le rapport"</string>
@@ -285,6 +290,8 @@
     <string name="warning_field_invalid">Sélectionner un %1$s valide</string>
     <string name="min_error">Votre %1$s doit être plus long.</string>
     <string name="max_error">Votre %1$s doit être plus court.</string>
+    <string name="reply_option_log_hint">可选</string>
+    <string name="reply_select_log_hint">选择日志文件</string>
     <string name="title_mi_family">Mi Home à proximité</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
     <string name="goon_feedback_main">Continuer</string>
@@ -320,7 +327,6 @@
     <string name="toast_pic_not_exists">"L'image en cache a été supprimée"</string>
     <string name="toast_screenshot_too_large">Impossible de charger des fichiers de plus de 10 Mo.</string>
     <string name="toast_log_too_large">"Impossible d'ajouter. Le fichier est trop gros."</string>
-    <string name="title_bbs_feedback_main">En savoir plus sur les téléphones Mi</string>
     <string name="title_customer_service">Service clientèle</string>
     <string name="customer_service_apply">Demander le Service clientèle</string>
     <string name="customer_service_complain">Signaler le Service clientèle</string>

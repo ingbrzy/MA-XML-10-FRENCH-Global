@@ -105,6 +105,7 @@
     <string name="card_settings_rule">Paramètres de commande de la carte</string>
     <string name="card_title_funclaunch">Raccourcis</string>
     <string name="card_title_noteboard">Une note brève</string>
+    <string name="card_title_utilities">Utilitaires</string>
     <string name="check_network">Vérifiez les paramètres réseau</string>
     <string name="check_network_retry">Vérifiez vos paramètres réseau, puis réessayez</string>
     <string name="cleanup_garbage">Nettoyeur</string>
@@ -141,6 +142,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">"Accédez à des fonctionnalités d'applications spécifiques à l'aide de raccourcis"</string>
     <string name="hold_down_adjustment_order">"Maintenez l'icône sur la droite pour faire glisser des éléments"</string>
+    <string name="holiday_empty_desc">Cliquez ici pour lire la suite</string>
     <string name="home">Domicile</string>
     <string name="home_and_company">Domicile &amp; bureau</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -202,6 +204,7 @@
     <string name="no_more_result">"C'est tout pour l'instant."</string>
     <string name="no_settings">Non défini</string>
     <string name="no_signal">"Impossible d'actualiser, réessayez plus tard"</string>
+    <string name="no_utilities_apps">Aucun service utilitaire disponible. Découvrez plus tard.</string>
     <string name="not_install_c1">"Cette application n'est pas installée sur votre téléphone. La télécharger et l'installer ?"</string>
     <string name="not_install_c3">Télécharger</string>
     <string name="not_install_c4">Non, merci</string>
@@ -344,6 +347,7 @@
     <string name="upgrade_log_title">Nouvelle version</string>
     <string name="upgrade_now">Mettre à jour</string>
     <string name="user_id">ID utilisateur : %s</string>
+    <string name="utilities_apps_bref">Découvrez ici les services de tiers</string>
     <string name="walk">À pied</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Comment arrivez-vous normalement à votre destination ?</string>

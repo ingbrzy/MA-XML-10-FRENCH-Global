@@ -297,6 +297,7 @@ Pour activer votre compte, suivez le
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
+    <string name="account_invalid_user_avatar">"Cette photo n'est pas valide. Essayez un autre."</string>
     <string name="account_none_binded_info">Aucun</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone</string>
     <string name="account_bind_secure_email_title">Ajouter un e-mail</string>

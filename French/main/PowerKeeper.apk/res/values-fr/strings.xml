@@ -5,7 +5,7 @@
     <string name="power_config_select_apps_title">Applications</string>
     <string name="power_config_event_delete">Supprimer</string>
     <string name="hide_mode_desc"><font color="#000000">"Lorsqu'une application s'exécute en arrière-plan, ses activités seront surveillées pour réduire l'utilisation de la batterie. Cette fonction permet d'obtenir et d'utiliser les données utilisateur %s"</font></string>
-    <string name="privacy">Politique de confidentialité</string>
+    <string name="privacy">Politique de Confidentialité</string>
     <string name="power_hide_mode_title">Batterie &amp; performance</string>
     <string name="power_config_apps">Économiseur de batterie</string>
     <string name="app_list_title">"Choisir l'application"</string>
@@ -13,7 +13,7 @@
     <string name="about_hide_mode">"À propos de l'économiseur de batterie"</string>
     <string name="show_system_app">Afficher les applications système</string>
     <string name="hide_system_app">Masquer les applications système</string>
-    <string name="about_extreme_mode">Économiseur de batterie extrême</string>
+    <string name="about_extreme_mode">Mode Extrême</string>
     <string name="scenario_policies_title">Scènes intelligentes</string>
     <string name="config_scenario_policies_title">Scènes</string>
     <string name="scenario_policies_summary">"Appliquer différentes stratégies d'économie d'énergie pour des scènes différentes."</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">Activer les commentaires VIP</string>
     <string name="extreme_power_config_mode_category">Mode extrême</string>
     <string name="extreme_power_config_mode_title">Mode extrême</string>
-    <string name="extreme_power_config_mode_desc">"Passez au mode extrême pour désactiver la synchronisation, le Bluetooth, le GPS, le NFC, le double appui, les boutons lumineux, l'écran de verrouillage pour les notifications, ainsi que les voyants de notification. MIUI se concentrera sur l'économie de la batterie."</string>
+    <string name="extreme_power_config_mode_desc">"Passez au mode Extrême pour désactiver la synchronisation, le Bluetooth, le GPS, le NFC, le double appui, les boutons lumineux, l'écran de verrouillage pour les notifications, ainsi que les voyants de notification. MIUI se concentrera sur l'économie de la batterie."</string>
     <string name="empty_title_apps_container_list">Aucune application</string>
     <string name="hints_loading_text">Un instant…</string>
     <string name="config_mode_title">"Paramètres d'arrière-plan"</string>
@@ -90,6 +90,6 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="appconfig_active_app_dialog_title">Gérer les applications actives</string>
     <string name="config_classify">"Trier par paramètres d'application"</string>
     <string name="active_classify">"Trier par statut d'activité"</string>
-    <string name="extreme_mode_max_item_alert">"Seules 4 applications peuvent être sélectionnées pour être exécutées en arrière-plan en mode d'économie de batterie extrême"</string>
-    <string name="message_i_know">Je sais</string>
+    <string name="extreme_mode_max_item_alert">Vous pouvez sélectionner jusqu 4 applications à exécuter en arrière-plan en mode Extrême</string>
+    <string name="message_i_know">"C'est compris"</string>
 </resources>

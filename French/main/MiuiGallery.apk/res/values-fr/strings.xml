@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">"Ajouté à l'album privé"</string>
     <string name="add_to_share_album_not_delete">"Vous ne pouvez pas supprimer la photo d'un album partagé"</string>
     <string name="added_to_favorites">Ajouté aux favoris</string>
+    <string name="added_to_favorites_desc">Ajouté aux favoris</string>
     <string name="added_to_favorites_tip">"Ajoutés à l'album \"Favoris\""</string>
     <string name="adding">Ajout…</string>
     <string name="adding_recipients">Ajouter des destinataires…</string>
@@ -98,7 +99,6 @@
     <string name="app_name_view_picture">Afficher les photos</string>
     <string name="app_name_view_video">Afficher les vidéos</string>
     <string name="apply">Appliquer</string>
-    <string name="assistant_page_label">Assistant</string>
     <string name="associate_face_album">Choisir un album</string>
     <string name="auto_backup_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
     <string name="auto_download_media_title">Télécharger des photos automatiquement depuis Mi Cloud</string>
@@ -226,7 +226,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cleaner_screen_shot_action">Effacer</string>
     <string name="cleaner_screen_shot_description">"Supprimer les captures d'écran dont vous n'avez plus besoin."</string>
     <string name="cleaner_screen_shot_title">"Suppression des captures d'écran"</string>
-    <string name="cleaner_slim_action">"Démarrage de l'optimisation…"</string>
+    <string name="cleaner_slim_action">"Démarrer l'optimisation"</string>
     <string name="cleaner_slim_description">"Continuez d'optimiser les photos sur votre appareil. Les fichiers originaux seront stockés sur Mi Cloud."</string>
     <string name="cleaner_slim_start">Optimiser</string>
     <string name="cleaner_slim_title">Optimiser les photos</string>
@@ -261,6 +261,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cloudfolder_name_reserved">"Le nom d'album est réservé"</string>
     <string name="collage__talkback_effect">Effet %d</string>
     <string name="collage_choose">Sélectionner</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Marges</string>
     <string name="collage_mirror">Mirroir</string>
     <string name="collage_poster_global_cat_text">PATTES</string>
@@ -463,6 +466,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="face_name_edit">Éditer</string>
     <string name="face_name_input">Saisissez un nom</string>
     <string name="face_recommend">Recommandations</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Impossible de terminer l'opération"</string>
     <string name="fail_to_pick_email">Adresse e-mail incorrecte</string>
     <string name="fail_to_sync_album">"Impossible de synchroniser l'album. Vérifier votre connexion réseau."</string>
@@ -473,6 +477,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Mémoire</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Rose</string>
@@ -541,6 +546,7 @@ sont disponibles"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
     <string name="grant_permission_go_and_set">Définir</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
@@ -649,6 +655,7 @@ pour personnaliser Galerie"</string>
     <string name="merge_album_title">Fusionner avec une personne</string>
     <string name="messagelist_sender_self">Moi</string>
     <string name="micloud_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
+    <string name="more">Plus</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Plus de personnes qui se ressemblent</string>
     <string name="more_face_album_name">Plus de personnes</string>
@@ -699,6 +706,7 @@ pour personnaliser Galerie"</string>
     <string name="operation_edit_video">Éditer</string>
     <string name="operation_enable_auto_upload">Activer la synchronisation avec Mi Cloud</string>
     <string name="operation_failed">"Impossible de terminer l'opération"</string>
+    <string name="operation_favorites">Favoris</string>
     <string name="operation_force_top">Épingler</string>
     <string name="operation_hide">Masquer</string>
     <string name="operation_in_process">Traitement en cours…</string>
@@ -736,6 +744,7 @@ pour personnaliser Galerie"</string>
     <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
     <string name="people_page_label">Personnes</string>
     <string name="people_page_unname">Sans nom</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">"Photos d'animaux"</string>
     <string name="petabyteShort">Po</string>
     <string name="photo">Photos</string>
@@ -867,6 +876,10 @@ pour personnaliser Galerie"</string>
     <string name="play_gif_desc">Lire le GIF</string>
     <string name="play_video_desc">Lire la vidéo</string>
     <string name="preparing_data">Un instant…</string>
+    <string name="privacy_permission_request_message">"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec notre %1$s et %2$s. Autoriser?"</string>
+    <string name="privacy_permission_request_negative">Restreindre</string>
+    <string name="privacy_permission_request_positive">Autoriser</string>
+    <string name="privacy_permission_request_title">Autorisation requise</string>
     <string name="projection_cancel">Annuler</string>
     <string name="projection_checkbox_text">Mémoriser cet affichage</string>
     <string name="projection_device_connection_failed">Impossible de se connecter au projecteur</string>
@@ -912,6 +925,7 @@ pour personnaliser Galerie"</string>
     <string name="remove_from_secret_successful">"Retiré de l'album caché"</string>
     <string name="remove_to_album_title">Fusionner avec</string>
     <string name="remove_to_other_album">Fusionner avec une personne différente</string>
+    <string name="removed_from_favorites_desc">Retiré des favoris</string>
     <string name="remover_edit_type_free">Objets</string>
     <string name="remover_edit_type_line">Lignes</string>
     <string name="remover_erase_aera_too_big">"L'espace effacé est trop grand"</string>
@@ -988,6 +1002,9 @@ pour personnaliser Galerie"</string>
     <string name="search_title_recommend">Recommandé</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objets</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Recherche de projecteur…</string>
     <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
     <string name="secret_album_card_title">Essayer de cacher un album</string>
@@ -1170,10 +1187,15 @@ pour personnaliser Galerie"</string>
     <string name="video_editor_auto_trim">Découpage auto</string>
     <string name="video_editor_auto_trim_tip">Découpage auto…</string>
     <string name="video_editor_cancel">Annuler</string>
+    <string name="video_editor_cancel_download">Annuler</string>
     <string name="video_editor_done">Terminé</string>
     <string name="video_editor_down_load_later">Plus tard</string>
     <string name="video_editor_down_load_no_wifi_tips">Se connecter au Wi-Fi pour télécharger</string>
     <string name="video_editor_down_load_now">Téléchargements</string>
+    <string name="video_editor_download">Télécharger</string>
+    <string name="video_editor_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
+    <string name="video_editor_download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
+    <string name="video_editor_download_without_wifi_title">"Alerte d'utilisation des données"</string>
     <string name="video_editor_encode_video">Encodage de la vidéo…</string>
     <string name="video_editor_encode_video_error">"Impossible d'encoder la vidéo"</string>
     <string name="video_editor_fatal_error">Erreur inconnue</string>
@@ -1212,6 +1234,8 @@ pour personnaliser Galerie"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Télécharger les bandes sonores via les données mobiles ?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Via données mobiles</string>
     <string name="video_editor_res_not_load_dialog_msg">Téléchargez des bandes sonores pour utiliser cette fonctionnalité (plus de 20 Mo).</string>
+    <string name="video_editor_return">Retour</string>
+    <string name="video_editor_save">Enrergistrer</string>
     <string name="video_editor_smart_effect_beat">Battements</string>
     <string name="video_editor_smart_effect_big_film">Épopée</string>
     <string name="video_editor_smart_effect_cadence">Rythme</string>
@@ -1257,6 +1281,7 @@ pour personnaliser Galerie"</string>
     <string name="view_face_album">"Afficher l'album"</string>
     <string name="view_more_face_desc">Afficher plus de personnes</string>
     <string name="voice_assistant">Assistant vocal</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Bienvenue sur Mi Cloud</string>
     <string name="where_is_barcode">Où est le code QR?</string>
     <string name="who_is_this">Qui est-ce ?</string>

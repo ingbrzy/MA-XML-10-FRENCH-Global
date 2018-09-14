@@ -38,6 +38,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHP 1080P, 60 ips</string>
     <string name="pref_video_quality_entry_720p">HD 720, 30 ips</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30 ips</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720P videos with 240FPS</string>
     <string name="pref_video_encoder_title">Encodage vidéo</string>
     <string name="pref_video_encoder_entry_h264">Haute compatibilité H.264</string>
     <string name="pref_video_encoder_entry_h265">Haute performance H.265</string>
@@ -414,7 +417,7 @@
     <string name="dual_camera_lens_covered_toast">"L'objectif est couvert."</string>
     <string name="dual_camera_use_hint">"Assurez-vous que l'objet n'est pas plus loin de 2 mètres."</string>
     <string name="bokeh_use_hint">Effet de profondeur</string>
-    <string name="back_bokeh_use_hint">"Assurez-vous que l'objet ne se trouve pas à plus de 1,5 mètres."</string>
+    <string name="back_bokeh_use_hint">Gardez votre sujet à moins de 1,5 mètres pour un meilleur effet</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">OBJECTIFS</string>
@@ -432,6 +435,9 @@
     <string name="portrait_mode_depth_effect_success_hint">Effet de profondeur</string>
     <string name="portrait_mode_use_hint">"Le mode Portrait brouille l'arrière-plan
 et fait ressortir les personnes à l'avant."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"Essayez le mode Portrait.
+Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_camera_square_mode_title">Carré</string>
     <string name="simple_mode_button_text_square">Désactiver le Carré</string>
     <string name="face_beauty_smart">Intelligent</string>
@@ -446,6 +452,7 @@ et fait ressortir les personnes à l'avant."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
@@ -470,6 +477,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="hint_ae_af_lock">Mise au point automatique / exposition automatique a été verrouillé</string>
     <string name="hint_device_water_mark">Le filigrane photo sera ajouté automatiquement.</string>
     <string name="module_name_fun">Vidéo courte</string>
+    <string name="module_name_new_slow_motion">Slow motion</string>
     <string name="module_name_video">Vidéo</string>
     <string name="module_name_capture">Photo</string>
     <string name="module_name_beauty">Beauté</string>
@@ -559,4 +567,5 @@ en mode Portrait"</string>
     <string name="lighting_pattern_dot">Points</string>
     <string name="lighting_pattern_shutter">Stores</string>
     <string name="view_privacy_policy">Voir la Politique de Confidentialité</string>
+    <string name="fps960_toast">Slow-motion capture will start when the timer reaches the white dot</string>
 </resources>

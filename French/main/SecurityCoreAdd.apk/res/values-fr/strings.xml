@@ -287,6 +287,8 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xpsace_guide_button">Créer</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Impossible de trouver une application</string>
+    <string name="confirm_close_password_title">Turning off password</string>
+    <string name="confirm_close_password_desc">"You won't be able to enter Second space from the Lock screen after you turn the password off. Turn off anyway?"</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Se connecter et partager</string>

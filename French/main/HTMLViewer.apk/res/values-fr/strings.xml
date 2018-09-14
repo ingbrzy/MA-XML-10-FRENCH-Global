@@ -11,7 +11,7 @@
 allez sur %s sur un autre périphérique connecté."</string>
     <string name="permdesc_accessDrm">"Autorise l'application à accéder au contenu protégé par DRM."</string>
     <string name="open_wifi_connect_title">Connecté à %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">continuer à utiliser les données mobiles, appuyez sur pour changer de Wi-Fi et vérifier.</string>
+    <string name="open_wifi_connect_and_use_data_summary">Utilisez les données mobiles. Appuyez pour basculer sur le Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Appuyez pour voir les détails.</string>
     <string name="settings_license_activity_title">Licences open source</string>
     <string name="settings_license_activity_loading">Un instant…</string>
@@ -25,4 +25,5 @@ allez sur %s sur un autre périphérique connecté."</string>
     <string name="settings_ad_loading">Un instant…</string>
     <string name="settings_ad_loading_unavailable">"Impossible de charger l'information."</string>
     <string name="autoconnect">Se connecter automatiquement</string>
+    <string name="poco_privacy_policy">POCO Launcher Privacy Policy &amp; POCO Launcher User Agreement</string>
 </resources>
