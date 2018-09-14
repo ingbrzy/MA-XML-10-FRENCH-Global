@@ -60,7 +60,6 @@
     <string name="fm_has_turned_off">Radio FM désactivée</string>
     <string name="msg_fm_starting">Démarrage …</string>
     <string name="txt_sleep_mode">Mode veille programmable</string>
-    <string name="txt_divider">" | "</string>
     <string name="group_favor">Préréglages</string>
     <string name="group_other">Autres</string>
     <string name="using_recorder_dialog_title">Autorisation requise</string>
