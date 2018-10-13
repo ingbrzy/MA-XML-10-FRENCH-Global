@@ -49,8 +49,6 @@
     <string name="self_device">"This phone's "</string>
     <string name="main_space">Main space</string>
     <string name="second_space">Second space</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
@@ -132,8 +130,6 @@
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
     <string name="loading_user_backup">Loading user backups…</string>
-    <string name="loading_progress_num">(%s%%)</string>
-    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
     <string name="no_backup">Aucune sauvegarde dans Mi Cloud.</string>
