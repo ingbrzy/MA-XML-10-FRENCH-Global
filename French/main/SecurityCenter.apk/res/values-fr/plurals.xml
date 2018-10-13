@@ -241,12 +241,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d jour depuis la dernière vérification</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risques,</item>
-        <item quantity="one">%d risque,</item>
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d chevaux de Troie</item>
-        <item quantity="one">%d cheval de Troie</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Applis dangereuses : %d</item>
@@ -361,8 +361,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d application est cachée</item>
     </plurals>
     <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
-        <item quantity="one">%d app may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="other">%d applications peuvent être affiché de manière incorrecte. Restreindre les notifications flottantes.</item>
+        <item quantity="one">%d application peut être affiché de manière incorrecte. Restreindre les notifications flottantes.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

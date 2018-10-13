@@ -9,7 +9,7 @@
     <string name="passport_login">Se connecter</string>
     <string name="passport_relogin">Se connecter à nouveau</string>
     <string name="passport_skip_login">Ignorer</string>
-    <string name="passport_skip_setup_account_title">Ignorer la configuration</string>
+    <string name="passport_skip_setup_account_title">Ne pas utiliser Mi Cloud ?</string>
     <string name="passport_skip_setup_account_msg">Vous pouvez configurer votre compte Mi plus tard dans Paramètres.</string>
     <string name="passport_confirm_login">Continuer</string>
     <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>

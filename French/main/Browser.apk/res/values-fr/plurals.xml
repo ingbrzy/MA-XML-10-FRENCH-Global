@@ -88,6 +88,10 @@
         <item quantity="other">Dégagé</item>
         <item quantity="one">Dégagé</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d personnes ont voté</item>
+        <item quantity="one">%d personne a voté</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Les %d derniers jours</item>
         <item quantity="one">%d dernier jour</item>

@@ -287,8 +287,8 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xpsace_guide_button">Créer</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Impossible de trouver une application</string>
-    <string name="confirm_close_password_title">Turning off password</string>
-    <string name="confirm_close_password_desc">"You won't be able to enter Second space from the Lock screen after you turn the password off. Turn off anyway?"</string>
+    <string name="confirm_close_password_title">Désactivation du mot de passe</string>
+    <string name="confirm_close_password_desc">"Vous ne serez plus en mesure d'accéder au Second espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe. Désactiver de toute manière?"</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Se connecter et partager</string>
@@ -403,8 +403,8 @@ Si vous n'effectuez pas la mise à jour, les applications clônées peuvent ne p
     <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
     <string name="enterprise_mode">Mode Entreprise</string>
     <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode Entreprise ?"</string>
-    <string name="activate_ent_mode">Activer le mode Entrprise</string>
-    <string name="about_ent_mode">À propos du mode Entrprise</string>
+    <string name="activate_ent_mode">Activer le mode Entreprise</string>
+    <string name="about_ent_mode">À propos du mode Entreprise</string>
     <string name="ent_mode_activated">Le mode Entreprise est activé</string>
     <string name="ent_activation_hint">"Saisissez votre code d'entreprise avec le code de licence pour activer le mode Entreprise. Après cela, les services d'entreprise personnalisés seront activés."</string>
     <string name="ent_activation_hint_whit_licence">"Activez le mode Entreprise pour activer les services d'entreprise personnalisés.

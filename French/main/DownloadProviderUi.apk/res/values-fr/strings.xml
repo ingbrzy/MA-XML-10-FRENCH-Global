@@ -197,7 +197,11 @@
     <string name="toast_only_wifi_download">Se connecter au Wi-Fi pour télécharger cet élément</string>
     <string name="total_speedup">Augmentation de la vitesse (total)</string>
     <string name="version">Version %s</string>
+    <string name="check_new_downloaded_action">Afficher</string>
+    <string name="check_new_downloaded_file">Un nouveau fichier trouvé</string>
     <string name="get_data_failed">"Impossible d'obtenir les informations. Attendez une minute ou deux et réessayez."</string>
+    <string name="info_download_details">Détails</string>
+    <string name="info_download_progress">Afficher la progression du téléchargement</string>
     <string name="load_finish_hint">"C'est tout pour l'instant."</string>
     <string name="loading">Un instant…</string>
     <string name="net_error">Connectez-vous à Internet et réessayez</string>

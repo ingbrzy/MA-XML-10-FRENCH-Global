@@ -65,8 +65,8 @@
         <item quantity="one">%1$d h %2$d min restante</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Saissisez le code PIN , vous avez %d tentatives restantes avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
-        <item quantity="one">Saissisez le code PIN , vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+        <item quantity="other">Saisissez le code PIN , vous avez %d tentatives restantes avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+        <item quantity="one">Saisissez le code PIN , vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable. Contactez le transporteur pour plus de détails.</item>

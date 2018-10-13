@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">App. photo</string>
     <string name="accessibility_carrier_network_change_mode">"Changement d'opérateur réseau."</string>
     <string name="accessibility_cast_name">Connecté à %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">"La diffusion de l'écran s'est arrêtée."</string>
     <string name="accessibility_cell_data">Données Mobiles</string>
     <string name="accessibility_cell_data_off">Données Mobiles désactivées</string>
@@ -539,7 +540,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dock_keyguard_locked_failed_to_dock_text">"Écran divisé n'est pas pris en charge à l'écran de verrouillage."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"L'application ne prend pas en charge le diviseur de l'écran."</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
-    <string name="drag_to_add_tiles">Faire glisser pour ajouter des vignettes</string>
+    <string name="drag_to_add_tiles">Appuyez et maintenez pour ajouter ou réarranger les éléments</string>
     <string name="drag_to_remove_tiles">Faire glisser ici pour supprimer</string>
     <string name="drive_mode_tip">Mode Voiture est activé</string>
     <string name="drive_mode_tip_idle">Le mode Voiture est activé</string>
@@ -635,7 +636,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_rise">Baissez votre tête</string>
     <string name="face_unlock_rotated_left">Tournez votre tête vers la droite</string>
     <string name="face_unlock_rotated_right">Tournez votre tête vers la gauche</string>
-    <string name="face_unlock_sc_status">Push the screen down to open camera</string>
+    <string name="face_unlock_sc_status">"Faites glisser vers le bas pour ouvrir l'appareil photo"</string>
     <string name="face_unlock_stay_away_screen">"Restez à une distance de 25 à 40 cm de l'écran"</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
     <string name="fingerprint_add_text">"L'interface d'empreinte digitale a été mise à jour. Ajoutez de nouveau votre empreinte digitale."</string>
@@ -812,6 +813,10 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_charging_back_to_lockscreen">"Retour à L'écran de verrouillage"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Sur batterie</string>
     <string name="keyguard_charging_info_click_to_detail">Afficher les détails</string>
+    <string name="keyguard_charging_info_data_c">%s °C</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s V</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Épuisée</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
@@ -836,6 +841,7 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_missing_sim_instructions_long">La carte SIM est absente ou illisible. Veuillez insérer une carte SIM.</string>
     <string name="keyguard_missing_sim_message">Aucune carte SIM dans le téléphone.</string>
     <string name="keyguard_missing_sim_message_short">Aucune carte SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Le réseau est verrouillé</string>
     <string name="keyguard_password_enter_password_code">Saisissez le mot de passe pour déverrouiller</string>
     <string name="keyguard_password_enter_pin_code">Saisir le code PIN</string>
@@ -919,15 +925,18 @@ Réessayez dans %2$d secondes."</string>
     <string name="left_keycode">Code gauche</string>
     <string name="left_nav_bar_button_type">Appuyer une fois de plus sur le bouton gauche</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
     <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont’ pas actuellement protégées"</string>
     <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
     <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
     <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Mode Avion</string>
     <string name="lock_screen_date">EEEE, MMMM d</string>
     <string name="lock_screen_date_12">EEEE, MMMM d</string>
-    <string name="lock_screen_no_sim_card">Pas de carte SIM</string>
+    <string name="lock_screen_no_sim_card_emergency_only">"Appel d'urgence uniquement"</string>
+    <string name="lock_screen_no_sim_card_no_service">Aucun service</string>
     <string name="lock_wallpaper_enter">Saisir</string>
     <string name="lock_wallpaper_learn_more">Plus</string>
     <string name="lockscreen_access_pattern_area">Zone du Schéma.</string>
@@ -980,6 +989,7 @@ Réessayez dans %2$d secondes."</string>
     <string name="miui_guide_dialog_message">Les sons des médias (musique, vidéos, etc.) seront toujours lus en mode silencieux. Vous pouvez changer cela dans les paramètres.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par un périphérique Bluetooth</string>
     <string name="miui_ringer_count_down">Compte à rebours</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Silencieux</string>
     <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
     <string name="miui_ringer_total">NPD</string>
@@ -1007,12 +1017,14 @@ Vous êtes aussi connecté à %3$s, qui peut contrôler l'activité de votre ré
 
 Pour plus d'informations, contactez votre administrateur."</string>
     <string name="monitoring_description_ca_cert_settings">"Ouvrir les informations d'identification approuvées"</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">"Un certificat d'autorité est installé sur cet appareil. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
     <string name="monitoring_description_do_body">"Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil."</string>
     <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
     <string name="monitoring_description_do_header_generic">Votre appareil est géré par %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s utilise %2$s pour gérer votre appareil.</string>
     <string name="monitoring_description_do_learn_more">En savoir plus</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">"Votre organisation a installé un certificat d'autorité dans votre profil de travail. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
     <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
     <string name="monitoring_description_management">"Votre appareil est géré par votre organisation.
@@ -1044,6 +1056,7 @@ Pour plus d'informations, contactez votre administrateur.
 
 Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité de votre réseau."</string>
     <string name="monitoring_description_vpn_settings">Ouvrir les paramètres VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Certificats CA</string>
     <string name="monitoring_subtitle_network_logging">Journalisation du réseau</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1058,11 +1071,13 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="nav_guide_message">"Utilisez les gestes pour masquer/afficher les boutons à l'écran."</string>
     <string name="nav_guide_ok">Configurer</string>
     <string name="nav_guide_title">"Masquer les boutons à l'écran"</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Aucune</string>
     <string name="no_multi_window_app">Aucune application ne prend en charge le mode Écran divisé</string>
     <string name="no_notification_tips">Aucune notification</string>
     <string name="no_weather_description">Obtenir les informations de la météo ></string>
     <string name="not_support_multi_window">Les applications actuelles ne prennent pas en charge le mode Écran divisé</string>
+    <string name="notch_sos_status_bar_title">SOS</string>
     <string name="notification_all_categories">Toutes les catégories</string>
     <string name="notification_app_settings">Personnaliser : %1$s</string>
     <string name="notification_channel_alerts">Alertes</string>
@@ -1195,6 +1210,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="power_remaining_charging_duration_only">"%1$s- Jusqu'à être complètement chargé"</string>
     <string name="power_remaining_duration_only">Environ %1$smin restantes</string>
     <string name="power_remaining_duration_only_short">%1$s restante(s)</string>
+    <string name="process_kernel_label">Android</string>
     <string name="profile_owned_footer">Le profil peut être surveillé</string>
     <string name="prompt_danger">Danger</string>
     <string name="prompt_detecting">Détection</string>
@@ -1298,6 +1314,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_sync_label">Synchro</string>
     <string name="quick_settings_tethering_label">Partage de connexion</string>
     <string name="quick_settings_time_label">Durée</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez et maintenez-le, puis faites-le glisser dans la partie supérieure du panneau.</string>
     <string name="quick_settings_user_label">Moi</string>
     <string name="quick_settings_user_new_user">Nouvel utilisateur</string>
     <string name="quick_settings_user_title">Utilisateur</string>
@@ -1325,7 +1342,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="recents_accessibility_split_screen_top">"Diviser l'écran dans la partie supérieure"</string>
     <string name="recents_app_info_button_label">"Informations sur l'application"</string>
     <string name="recents_caption_resize">Sélectionner une nouvelle disposition des tâches</string>
-    <string name="recents_drag_hint_message">"Faites glisser ici pour diviser l'écran"</string>
+    <string name="recents_drag_hint_message">Appuyez et maintenez sur une application, puis faites-la glisser ici.</string>
     <string name="recents_empty_message">Aucun élément récent</string>
     <string name="recents_empty_message_dismissed_all">Vous avez tout effacé</string>
     <string name="recents_empty_message_multi_window">"Ouvrez les applications depuis l'écran d'accueil"</string>
@@ -1438,6 +1455,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="snooze_option_30_min">30 minutes</string>
     <string name="snooze_undo">ANNULER</string>
     <string name="snoozed_for_time">Répété pendant %1$s</string>
+    <string name="sos_status_bar_summary">cliquez pour quitter</string>
+    <string name="sos_status_bar_title">SOS</string>
     <string name="speed_bump_explanation">Notifications moins urgentes ci-dessous</string>
     <string name="ssl_ca_cert_warning">"Le réseau peut
 être surveillé"</string>
@@ -1450,7 +1469,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="status_bar_clock_date_format">EEEE d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
-    <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mmaa d MMMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -1581,6 +1600,7 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="torch_activity_hint">"Maintenez [icon] pour activer la torche à l'écran de verrouillage"</string>
     <string name="torch_activity_name">Torche</string>
     <string name="torch_closed">Torche éteinte</string>
+    <string name="torch_high_temperature_warning">"Votre appareil est en surchauffe. Impossible d'utiliser la torche maintenant."</string>
     <string name="torch_opened">Torche allumée</string>
     <string name="track_frame_time">Profil de rendu gpu</string>
     <string name="transition_animation_scale_title">"Échelle de l'animation de transition"</string>
@@ -1657,7 +1677,6 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="usb_debugging_title">Autoriser le débogage USB ?</string>
     <string name="usb_device_confirm_prompt">Ouvrir %1$s quand cet appareil USB est connecté ?</string>
     <string name="usb_device_permission_prompt">"Autoriser l'application %1$s à accéder au périphérique USB ?"</string>
-    <string name="usb_function_charging_text">Connecté en mode de charge</string>
     <string name="usb_mode_dont_ask">Se souvenir de ce choix</string>
     <string name="usb_mode_mount_storage_title">Monter le stockage USB ?</string>
     <string name="usb_mode_notification">Stockage USB</string>
@@ -1723,6 +1742,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wait_for_debugger">Attendre le débogage</string>
     <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Relâcher pour voir les détails</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Mis à jour à %1$s</string>
     <string name="wifi_aggressive_handover">Wi‑fi agressif pour un transfert mobile</string>
     <string name="wifi_aggressive_handover_summary">Une fois activée, la connexion basculera vers les données mobiles plus activement, lorsque le signal du Wi-Fi est faible.</string>
@@ -1747,9 +1767,11 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

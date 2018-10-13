@@ -25,5 +25,5 @@ allez sur %s sur un autre périphérique connecté."</string>
     <string name="settings_ad_loading">Un instant…</string>
     <string name="settings_ad_loading_unavailable">"Impossible de charger l'information."</string>
     <string name="autoconnect">Se connecter automatiquement</string>
-    <string name="poco_privacy_policy">POCO Launcher Privacy Policy &amp; POCO Launcher User Agreement</string>
+    <string name="poco_privacy_policy">"Politique de confidentialité &amp; accord d'utilisateur POCO Launcher"</string>
 </resources>

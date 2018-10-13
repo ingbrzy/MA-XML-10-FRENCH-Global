@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">"Saisissez le nom d'utilisateur de votre compte Mi"</string>
     <string name="security_permission_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
+    <string name="security_permission_network_failed_text">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="xspace_resolver_activity_title">Sélectionner une application</string>
     <string name="user_switching_dialog_text">Changement…</string>
     <string name="activity_package_delete_confirm_title">Attention</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">OK </string>
     <string name="miui_warning_button_cancel">Annuler</string>
     <string name="miui_warning_tip_info">Une erreur est survenue dans %1$s. Fermer cette application maintenant ?</string>
+    <string name="talk_back_water_mark_string1">TalkBack est activé</string>
+    <string name="talk_back_water_mark_string2">Appuyez et maintenez \"Volume +\" et \"Volume-\" pendant 3 secondes pour désactiver</string>
 </resources>

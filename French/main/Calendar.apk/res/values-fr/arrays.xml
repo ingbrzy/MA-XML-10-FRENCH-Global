@@ -48,6 +48,10 @@
         <item>Celui-ci et les événements futurs</item>
         <item>Tous les événements</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gémeaux</item>
         <item>Gémeaux</item>
@@ -315,5 +319,12 @@
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Arrière-plan blanc</item>
+    </string-array>
+    <string-array name="edit_event_dislike">
+        <item>No event type I want to create</item>
+        <item>More Settings</item>
+        <item>Some Settings cannot be determined</item>
+        <item>Just look around</item>
+        <item>"Don't tell you"</item>
     </string-array>
 </resources>

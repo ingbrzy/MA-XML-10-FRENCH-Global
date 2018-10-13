@@ -92,4 +92,6 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="active_classify">"Trier par statut d'activité"</string>
     <string name="extreme_mode_max_item_alert">Vous pouvez sélectionner jusqu 4 applications à exécuter en arrière-plan en mode Extrême</string>
     <string name="message_i_know">"C'est compris"</string>
+    <string name="high_temp_state">Haute température</string>
+    <string name="high_temp_state_message">La protection pour haute température, les données, wifiap, gps, appareil photo, etc. seront limités</string>
 </resources>

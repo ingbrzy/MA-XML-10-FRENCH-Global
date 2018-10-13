@@ -92,6 +92,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="accessibility_shortcut_service_on_lock_screen_title">Autoriser depuis écran verrouillage</string>
     <string name="accessibility_shortcut_service_title">Service associé au raccourci</string>
     <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
+    <string name="accessibility_summary_source">Fourni par %s</string>
     <string name="accessibility_summary_state_disabled">DÉSACTIVÉ</string>
     <string name="accessibility_summary_state_enabled">ACTIVÉ</string>
     <string name="accessibility_sync_disabled">Synchronisation désactivée</string>
@@ -883,19 +884,19 @@ Dernière exécution le %2$s"</string>
     <string name="bootloader_device_bind_fail">Impossible de vérifier. Attendez une minute ou deux, puis réessayez</string>
     <string name="bootloader_device_bind_msg">"Préparation de l'ajout du compte et de l'appareil…"</string>
     <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre compte Mi"</string>
-    <string name="bootloader_device_bind_no_data_network">Turn off Wi-Fi and add your account and device using mobile data.</string>
+    <string name="bootloader_device_bind_no_data_network">Désactivez la Wi-Fi et ajoutez votre compte et appareil utilisant les données mobiles.</string>
     <string name="bootloader_device_bind_no_network">Connectez-vous au réseau et réessayez</string>
     <string name="bootloader_device_bind_no_sim">Insérez une carte SIM et réessayez.</string>
     <string name="bootloader_device_bind_server_code">"Ajout impossible. Code d'erreur :"</string>
-    <string name="bootloader_device_bind_server_token_expired_1">"Couldn't verify. Try adding your account and device again."</string>
-    <string name="bootloader_device_bind_server_token_expired_2">"Couldn't verify. Sign in to your account again and start over."</string>
+    <string name="bootloader_device_bind_server_token_expired_1">"Impossible de vérifier. Essayez d'ajouter votre compte et appareil à nouveau."</string>
+    <string name="bootloader_device_bind_server_token_expired_2">Impossible de vérifier. Connectez-vous à votre compte à nouveau et réessayez.</string>
     <string name="bootloader_device_bind_sim_invalid">La carte SIM est invalide. Remplacez-là et réessayez.</string>
     <string name="bootloader_locked_answer_1">"Nous verrouillons les appareils pour vous garantir leur sécurité et pour vous assurer que vos informations personnelles ne soient pas communiquées à des tiers. Si vous avez besoin d'entrer en mode Fastboot pour flasher votre appareil, vous pouvez le déverrouiller."</string>
     <string name="bootloader_locked_answer_1_warning">"Souvenez-vous : vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
-    <string name="bootloader_locked_answer_2">"1. Make sure you've already inserted a SIM card into your device.
-2. Turn off Wi-Fi and turn on mobile data. Make sure your device can connect to the internet using mobile data.
-3. Tap \"Add account\" below to associate your Mi Account with this device.
-4. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
+    <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
+2. Désactivez la Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à Internet en utilisant les données mobiles.
+3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
+4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
     <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
 2. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
     <string name="bootloader_locked_check_status">Ajouter un compte et un appareil</string>
@@ -914,6 +915,7 @@ Dernière exécution le %2$s"</string>
     <string name="bootloader_status_unlocked">Déverrouillé</string>
     <string name="bootloader_status_unlocked_info">Cet appareil est déverrouillé</string>
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
@@ -1044,6 +1046,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
     <string name="checking_decryption">Vérification en cours…</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
+    <string name="child_mode_settings">Contrôles parental</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
@@ -1248,6 +1251,9 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
     <string name="daltonizer_type">Mode de correction</string>
     <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
+    <string name="dangerous_option">Options de développeur à haut risque</string>
+    <string name="dangerous_option_hint">%1$s est activé. Appuyez pour modifier les paramètres.</string>
+    <string name="dangerous_option_hint_title">Fonction à haut risque activée</string>
     <string name="dashboard_title">Paramètres</string>
     <string name="data_limit">Limite de données</string>
     <string name="data_saver_off">Désactivé</string>
@@ -1496,6 +1502,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
     <string name="dialog_title_login">Se connecter à votre compte Mi</string>
     <string name="dialog_yes">Oui</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
     <string name="disable_overlays">Désactiver les superpostions HW</string>
     <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -1556,6 +1563,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="dndm_auto_button_title">Programmer le mode Ne pas déranger</string>
     <string name="dndm_auto_setting_group">Programmation</string>
     <string name="dndm_auto_time_setting">"Régler l'heure"</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">À</string>
     <string name="dndm_auto_time_turn_off_title">Désactive automatiquement le mode Ne pas déranger</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -1650,6 +1658,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="emergency_address_title">"Mettre à jour l'adresse d'urgence"</string>
     <string name="emergency_info_summary">Informations et contacts pour %1$s</string>
     <string name="emergency_info_title">"Informations d'urgence"</string>
+    <string name="emergency_sos_title">SOS Urgence</string>
     <string name="emergency_tone_alert">Alerte</string>
     <string name="emergency_tone_silent">Mode silencieux</string>
     <string name="emergency_tone_summary">"Définir le comportement en cas d'appel d'urgence"</string>
@@ -1809,8 +1818,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="factory_reset_summary">"Effacez vos données personnelles de la carte SD pour remettre l'appareil en configuration usine."</string>
     <string name="failed_to_check_find_device_status_content">"Impossible de vérifier l'état de \"Localiser l'appareil\". Attendez une minute ou deux puis réessayez."</string>
     <string name="failed_to_check_find_device_status_title">"Impossible de vérifier l'état"</string>
-    <string name="failed_to_erase_text">Turn off your Lock screen password before entering the \"1217\" code.</string>
-    <string name="failed_to_erase_title">"Can't complete this action"</string>
+    <string name="failed_to_erase_text">"Désactivez le mot de passe de l'écran de verrouillage avant d'entrer le code \"1217\"."</string>
+    <string name="failed_to_erase_title">Impossible de compléter cette action</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
     <string name="failed_to_shut_down_find_device_content">"Impossible de désactiver Localiser l'appareil. Attendez une minute ou deux et réessayez."</string>
     <string name="failed_to_shut_down_find_device_title">Impossible de désactiver</string>
@@ -1870,6 +1879,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_manage_tittle">Empreinte digitale</string>
     <string name="fingerprint_not_identified_msg">"Impossible de lire l'empreinte. Saisissez votre mot de passe"</string>
     <string name="fingerprint_not_recognized">Non reconnu</string>
+    <string name="fingerprint_others_title">Autre</string>
     <string name="fingerprint_payment">Paiements avec empreintes digitales</string>
     <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte digitale, réessayez plus tard"</string>
     <string name="fingerprint_swipe_for_notifications_summary">"Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d'empreinte digitale à l'arrière du téléphone."</string>
@@ -2015,6 +2025,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gadget_picker_title">Choisir un gadget</string>
     <string name="gadget_state_off">désactivé</string>
     <string name="gadget_state_on">activé</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">désactivation</string>
     <string name="gadget_state_turning_on">activation</string>
     <string name="gadget_sync">Synchronisation</string>
@@ -2055,6 +2066,15 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_add_fingerprint_put_finger_message">"Appuyez sur l'écran et levez le doigt après avoir senti des vibrations. Répétez plusieurs fois."</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Appuyer et retirer après vibration</string>
     <string name="gxzw_add_fingerprint_title">Ajouter votre empreinte digitale</string>
+    <string name="gxzw_anim_light">Néon</string>
+    <string name="gxzw_anim_metal">Métal</string>
+    <string name="gxzw_anim_pulse">Pouls</string>
+    <string name="gxzw_anim_rhythm">Rythme</string>
+    <string name="gxzw_anim_title">"Animation d'empreinte"</string>
+    <string name="gxzw_dialog_message">"Pour pouvoir utiliser le capteur d'empreinte digitale intégré à l'écran, n'utilisez pas de protecteur d'écran. Si vous pensez qu'un protecteur d'écran est toujours nécessaire, choisissez parmi les options compatibles autorisées."</string>
+    <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
+    <string name="gxzw_dialog_ok">"C'est compris"</string>
+    <string name="gxzw_dialog_title">"À propos du capteur d'empreinte digitale intégré à l'écran"</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_size">"Taille de l'écran"</string>
@@ -2325,6 +2345,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lift_to_wake_title">Soulever pour activer</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2455,7 +2476,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockpassword_choose_your_pin_header">Définissez votre code PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code 
  le Second espace"</string>
-    <string name="lockpassword_choose_your_pin_title">Saisir 4-16 chiffres</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Entrez %d-%dchiffres</string>
     <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du Second espace</string>
     <string name="lockpassword_confirm_passwords_dont_match">Mots de passe différents</string>
     <string name="lockpassword_confirm_pins_dont_match">Les codes PIN ne correspondent pas.</string>
@@ -2678,6 +2699,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -2706,9 +2728,11 @@ D'autres personnes utilisent cet appareil.
     <string name="menu_use_uss">"Utiliser l'USS"</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_summary">Carte de bus/Mi Pay/Émulateur de carte</string>
+    <string name="mi_service">Service Mi</string>
     <string name="mi_service_app_detail">"Détails de l'utilisation des données"</string>
     <string name="mi_shopping_mall">Mi Store</string>
     <string name="mi_upi_settings">Compte Mi Pay</string>
+    <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fichiers divers</string>
     <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
@@ -2737,6 +2761,55 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_super_resolution_desc">Rendre les images plus nettes</string>
     <string name="miui_lab_super_resolution_title">Super résolution</string>
     <string name="miui_master_clear_summary">Efface toutes les données sur le téléphone</string>
+    <string name="miui_optimization_disabled">"Désactiver l'optimisation de MIUI"</string>
+    <string name="miui_sos_audio_summary">"Jouer le message SOS après que le contact d'urgence ait répondu"</string>
+    <string name="miui_sos_audio_title">Message vocal SOS</string>
+    <string name="miui_sos_call_log_duration">Durée</string>
+    <string name="miui_sos_call_log_min">min</string>
+    <string name="miui_sos_call_log_none">"Je n'ai pas d'historique d'appel de cette dernière heure."</string>
+    <string name="miui_sos_call_log_sec">s</string>
+    <string name="miui_sos_call_log_stranger">Inconnu</string>
+    <string name="miui_sos_call_log_summary">"Envoyer l'historique des appels de votre dernière heure à votre contact d'urgence"</string>
+    <string name="miui_sos_call_log_title">"Envoyer l'historique des appels"</string>
+    <string name="miui_sos_call_warning_sim_unable">"Pas de signal. Impossible d'envoyer des SMS."</string>
+    <string name="miui_sos_calling_summary">"Votre appareil effectuera des appels automatiques à vos contacts d'urgence en jouant le message vocal SOS que vous avez enregistré. L'appel sera terminé une fois que votre message aura fini de jouer. L'appel automatique s'arrête après la première tentative réussie."</string>
+    <string name="miui_sos_calling_title">Appel auto</string>
+    <string name="miui_sos_contacts_add">"Contacts d'urgence"</string>
+    <string name="miui_sos_contacts_category">"Contacts d'urgence"</string>
+    <string name="miui_sos_emergency_contacts">"Contacts d'urgence"</string>
+    <string name="miui_sos_emergency_contacts_quantity">%dajouté</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)a déjà accepté</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1s a déjà accepté</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">"%1s(%2s)échec de l'envoi du message SOS."</string>
+    <string name="miui_sos_emergency_failed_sms_noname">"%1séchec de l'envoi du message Sos."</string>
+    <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message texte SOS avec votre position à vos contacts d'urgence"</string>
+    <string name="miui_sos_enable_switch_title">SOS Urgence</string>
+    <string name="miui_sos_exit_dialog_cancel">Annuler</string>
+    <string name="miui_sos_exit_dialog_message">"Vous avez activé le mode SOS Urgence. Vos informations de localisation sont en cours d'envoi à vos contacts d'urgence. Désactiver de toute manière?"</string>
+    <string name="miui_sos_exit_dialog_ok">OK </string>
+    <string name="miui_sos_exit_dialog_title">Désactivation du mode SOS Urgence</string>
+    <string name="miui_sos_green_guard_summary">Partager les informations de localisation en temps réel</string>
+    <string name="miui_sos_green_guard_title">Contrôle parental</string>
+    <string name="miui_sos_launch_error">"Impossible d'activer le mode SOS Urgence"</string>
+    <string name="miui_sos_launch_error_confirm">"C'est compris"</string>
+    <string name="miui_sos_launch_error_message">"Impossible de se connecter au réseau mobile. Impossible d'utilise le mode SOS Urgence."</string>
+    <string name="miui_sos_launching_summary">"Activation du mode SOS d'urgence dans %ds"</string>
+    <string name="miui_sos_launching_title">SOS</string>
+    <string name="miui_sos_menu_add">Ajouter</string>
+    <string name="miui_sos_menu_edit">Éditer</string>
+    <string name="miui_sos_msg_call_log_prefix">"Voici mon historique d'appel de cette dernière heure:"</string>
+    <string name="miui_sos_play_voice">Jour le message SOS</string>
+    <string name="miui_sos_remind_add">Ajouter</string>
+    <string name="miui_sos_remind_infocontent">"Je vous ai ajouté comme contact d'urgence. Vous recevrez un message avec mes informations de localisation au cas où je serais en danger. [Mi SOS Urgence]"</string>
+    <string name="miui_sos_remind_open">"Le mode SOS urgence nécessite au moins 1 contact d'urgence pour marcher normalement."</string>
+    <string name="miui_sos_remind_sendinfo">"N'oubliez pas de dire à ces personnes qu'elles sont vos contacts d'urgence maintenant. Ainsi, ils pourront vous aider plus rapidement en cas d'urgence."</string>
+    <string name="miui_sos_remind_sendnow">Envoyer maintenant</string>
+    <string name="miui_sos_remind_title">Attention</string>
+    <string name="miui_sos_settings_alert_contacts_repeat">"Impossible d'ajouter les contacts dupliqués."</string>
+    <string name="miui_sos_settings_alert_contacts_too_many">"Vous pouvez ajouter jusqu'à 3 contacts d'urgence."</string>
+    <string name="miui_sos_settings_category">"Paramètres d'urgence"</string>
+    <string name="miui_sos_statusbar_summary">Appuyez pour désactiver</string>
+    <string name="miui_sos_statusbar_title">Mode SOS urgence est activé</string>
     <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
     <string name="miui_updater">Mise à jour système</string>
     <string name="miui_userguide">"Guide de l'utilisateur"</string>
@@ -2812,11 +2885,15 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="music_dirac_mode_general">Général</string>
     <string name="music_dirac_mode_general_earbuds">Générique</string>
     <string name="music_dirac_mode_general_inear">Intra générique</string>
+    <string name="music_dirac_mode_half_in_ear">Mi Half in Ear</string>
     <string name="music_dirac_mode_headset">Casque Mi</string>
     <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
     <string name="music_dirac_mode_in_ear">Intra Mi</string>
+    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
     <string name="music_dirac_mode_in_ear_2013">Écouteurs intra Mi (2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Intra Mi Pro</string>
+    <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
+    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
     <string name="music_dirac_mode_off">Dirac désactivé</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -2866,7 +2943,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="navigation_guide_app_summary">"Balayez vers la gauche ou la droite depuis le bord de l'écran dans la partie supérieure de l'écran"</string>
     <string name="navigation_guide_app_title">"Action du déclencheur d'applications"</string>
     <string name="navigation_guide_appswitch_anim_summary">"Faites glisser à travers l'écran à partir du bord pour retourner à l'application précédente"</string>
-    <string name="navigation_guide_appswitch_anim_title">Go back to previous app</string>
+    <string name="navigation_guide_appswitch_anim_title">"Retourner à l'application précédente"</string>
     <string name="navigation_guide_appswitch_click">"Activez d'abord \"Retour à l'appli précédente\""</string>
     <string name="navigation_guide_appswitch_summary">"Balayez vers la gauche ou la droite depuis le bord de l'écran et maintenez pour un moment"</string>
     <string name="navigation_guide_appswitch_title">"Passer à l'application précédente"</string>
@@ -2928,6 +3005,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -3139,6 +3217,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">"Exemple : l'Android de Jean"</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3451,6 +3530,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -4074,6 +4155,7 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_encryption_attention_3">"Vous devrez définir un nouveau mot de passe pour l'écran de verrouillage."</string>
     <string name="security_encryption_attention_4">"Assurez-vous que vous vous rappelez du mot de passe de votre écran de verrouillage, sinon vous serez obligé de faire une réinitialisation complète et effacer toutes les données sur l'appareil."</string>
     <string name="security_encryption_attention_info">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">"Choisir de ne pas chiffrer l'appareil en utilisant le mot de passe de l'écran de verrouillage pourrait rendre certains services de Google indisponibles."</string>
     <string name="security_encryption_close_dialog_title">Retourner au mot de passe de protection par défaut</string>
@@ -4083,8 +4165,8 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_encryption_progress_dialog_open">Chiffrement…</string>
     <string name="security_encryption_rejected_via_home_manager">"Cette fonctionnalité n'est pas prise en charge par la version démo."</string>
     <string name="security_encryption_title">"Chiffrer un appareil en utilisant le mot de passe de l'écran de verrouillage"</string>
-    <string name="security_input">Secure keyboard</string>
-    <string name="security_input_hint">Use secure keyboard when you enter passwords</string>
+    <string name="security_input">Clavier sécurisé</string>
+    <string name="security_input_hint">Utilisez le clavier sécurisé quand vous entrez vos mots de passe</string>
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
     <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
@@ -4326,6 +4408,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
+    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4339,11 +4422,13 @@ Le code PIN est peut-être incorrect."</string>
     <string name="size_kilo_byte">ko</string>
     <string name="size_mega_byte">Mo</string>
     <string name="size_peta_byte">Po</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">To</string>
     <string name="skip_anyway_button_label">Ignorer quand même</string>
     <string name="skip_label">Ignorer</string>
     <string name="skip_lock_screen_confirm_msg">"Les notifications, les commandes du lecteur de musique et les raccourcis ne seront pas affichés sur l'écran de verrouillage."</string>
     <string name="skip_step">Passer</string>
+    <string name="slight_pause">,</string>
     <string name="slot_number">(Emplacement %1$d)</string>
     <string name="slot_status_title">Info IMEI</string>
     <string name="smallwindow_smartcover_title">"Petite fenêtre de l'étui"</string>
@@ -4364,6 +4449,12 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sort_max_use">Trier par utilisation maximale</string>
     <string name="sort_order_alpha">Trier par nom</string>
     <string name="sort_order_size">Trier par taille</string>
+    <string name="sos_privacy_and_content_policy">"Accord d'utilisateur et politique de confidentialité"</string>
+    <string name="sos_privacy_dialog_button_cancel">Annuler</string>
+    <string name="sos_privacy_dialog_button_ok">Continuer</string>
+    <string name="sos_privacy_dialog_message">"Activer la fonction d'aide SOS Urgence, veuillez confirmer et lire le %s. r
+Pour assurer l'utilisation normale de la fonction d'aide SOS Urgence, il peut être nécessaire d'obtenir votre position, d'utiliser le réseau mobile et de lire votre carnet d'adresses, confirmez-vous?"</string>
+    <string name="sos_privacy_dialog_title">"Conditions Générales d'Utilisation"</string>
     <string name="sound_category_call_ringtone_vibrate_title">Sonnerie &amp; notifications</string>
     <string name="sound_category_sound_title">Paramètres généraux</string>
     <string name="sound_category_system_title">Système</string>
@@ -4416,9 +4507,10 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_app_notification_preferences">"Paramètres de l'application"</string>
     <string name="status_bar_settings_basic_settings">Paramètres de base</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">"Éditer le nom de l'opérateur"</string>
     <string name="status_bar_settings_custom_wifi_name">Editer le nom du Wi-Fi</string>
-    <string name="status_bar_settings_customer_feedback">Feedback</string>
+    <string name="status_bar_settings_customer_feedback">feedback</string>
     <string name="status_bar_settings_enable_notification">Afficher les notifications</string>
     <string name="status_bar_settings_function_description">À propos de cette fonctionnalité</string>
     <string name="status_bar_settings_long_click_sort">Appuyez &amp; maintenez pour prendre un raccourci</string>
@@ -4657,6 +4749,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="suggestions_title">Suggestions</string>
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="super_resolution_access_title">Applications accessibles</string>
     <string name="super_resolution_desc">Rendre les images plus nettes en utilisant un algorithme IA</string>
@@ -4696,6 +4789,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="suw_back_button_label">Retour</string>
     <string name="suw_more_button_label">Plus</string>
     <string name="suw_next_button_label">Suivant</string>
+    <string name="switch_access_service_on">"Changer d'accès"</string>
     <string name="switch_off_text">Désactivé</string>
     <string name="switch_on_text">Activé</string>
     <string name="switch_screen_button_order">Boutons miroir</string>
@@ -4745,6 +4839,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_update_settings_list_item_title">Mises à jour du système</string>
     <string name="talkback_summary">"Le lecteur d'écran est destiné principalement aux personnes atteintes de cécité ou de troubles de la vue."</string>
     <string name="talkback_title">TalkBack</string>
+    <string name="talkback_watermark_enable">TalkBack filigrane</string>
     <string name="tap_to_wake">Appuyer pour réactiver</string>
     <string name="tap_to_wake_summary">"Appuyez deux fois n'importe où sur l'écran pour réactiver l'appareil."</string>
     <string name="taplus_title">Taplus</string>
@@ -4981,7 +5076,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_unlock_password_title">Mot de passe</string>
     <string name="unlock_set_unlock_pattern_summary">"Dessinez un schéma simple avec votre doigt pour déverrouiller l'appareil"</string>
     <string name="unlock_set_unlock_pattern_title">Schéma</string>
-    <string name="unlock_set_unlock_pin_summary">"Saisissez 4-6 chiffres pour déverrouiller l'appareil"</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">"Entrez %d-%dchiffres pour déverrouiller l'appareil"</string>
     <string name="unlock_set_unlock_pin_title">Code PIN</string>
     <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
     <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte numérique dans Paramètres > Sécurité."</string>
@@ -5652,9 +5747,11 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

@@ -30,12 +30,12 @@
     <string name="cloud_back_up_share_activity_title">Améliorer votre compte</string>
     <string name="cloud_back_up_share_activity_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
     <string name="cloud_back_up_share_activity_confirm">Mettre à niveau</string>
-    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi : 
-*\u0009\u0009\u0009\u0009Applications, Écran d'accueil et fonds d'écran 
-*\u0009\u0009\u0009\u0009Alarmes et les paramètres d'Horloge 
-*\u0009\u0009\u0009\u0009Paramètres de notification 
-*\u0009\u0009\u0009\u0009MIUI et les paramètres système 
-Note : Les données des applications que vous avez installées ne seront pas sauvegardées dans Mi Cloud."</string>
+    <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to Wi-Fi: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+\"Note: Data for apps you've installed won't be backed up to Mi Cloud.\""</string>
     <string name="cloud_app_no_data">Aucune sauvegarde</string>
     <string name="cloud_app_restore_error">Restauration impossible</string>
     <string name="cloud_app_restore_success">Applications restaurées</string>
@@ -45,10 +45,13 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="button_delete">Supprimer</string>
     <string name="customization"><u>Personnaliser</u></string>
     <string name="home_hint_global_launcher">"Écran d'accueil Poco"</string>
-    <string name="self_phone">Ce téléphone</string>
-    <string name="self_phone_home">Ce téléphone : %s</string>
+    <string name="home_hint_other_launcher">"Autre écran d'accueil"</string>
+    <string name="self_device">"This phone's "</string>
+    <string name="main_space">Main space</string>
+    <string name="second_space">Second space</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
-    <string name="device_xiaomi">Téléphone Mi</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
     <string name="start_recover">Restaurer %s</string>
@@ -76,7 +79,6 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="open_wifi">Activer le Wi-Fi maintenant</string>
     <string name="open_wifi_description">Se connecter au Wi-Fi pour restaurer les applications</string>
     <string name="open_wifi_setting">Paramètres Wi-Fi</string>
-    <string name="name_model">%1$s de %2$s</string>
     <string name="download_settings">"Téléchargement des paramètres de l'écran d'accueil %s%%"</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">"Restaurer les paramètres de l'écran d'accueil"</string>
@@ -129,12 +131,18 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="restore_data_title">Restaurer les données</string>
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
+    <string name="loading_user_backup">Loading user backups…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
     <string name="no_backup">Aucune sauvegarde dans Mi Cloud.</string>
     <string name="download_meta_failed">Impossible de charger les données.</string>
     <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
     <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
+    <string name="unsupported_home">Veuillez mettre à jour vers la dernière version OS.</string>
+    <string name="error_retry_later">"Échec, réessayez plus tard s'il vous plaît."</string>
+    <string name="try_continue">Tap to continue</string>
     <string name="download_home_data">"Téléchargement de la disposition de l'écran d'accueil…"</string>
     <string name="restore_home_failed">"Impossible de restaurer l'écran d'accueil."</string>
     <string name="arrange_restore_order">Réorganiser les applications…</string>
@@ -145,6 +153,7 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="download_meta_again">Impossible de charger les informations, réessayez.</string>
     <string name="cancel_restore_home">Annulation…</string>
     <string name="cancel_backup">Annulation de la sauvegarde…</string>
+    <string name="load_backup_failed">Load backups failed</string>
     <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
     <string name="dialog_btn_next">Suivant</string>

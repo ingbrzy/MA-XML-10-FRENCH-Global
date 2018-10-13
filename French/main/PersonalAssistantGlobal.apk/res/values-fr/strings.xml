@@ -113,6 +113,10 @@
     <string name="cleanup_power">Nettoyage en profondeur</string>
     <string name="company">Lieu de travail</string>
     <string name="company_or_school">Bureau ou école</string>
+    <string name="cricket_content_provider">Fournisseur de contenu</string>
+    <string name="cricket_fixtures_label">Rencontres</string>
+    <string name="cricket_news_label">Actualités</string>
+    <string name="cricket_select_series">Sélectionner vos séries favorites</string>
     <string name="cta_desc">Collectez les infos et les raccourcis importants ici.</string>
     <string name="cta_dialog_negative">Quitter</string>
     <string name="cta_dialog_positive">Accepter</string>
@@ -234,6 +238,7 @@
     <string name="scan_code">Code QR</string>
     <string name="scan_doc">Document</string>
     <string name="scan_parent">Scanneur</string>
+    <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Recherche en cours…</string>
     <string name="security">Sécurité</string>
     <string name="service_unavailiable">Se connecter au réseau, puis réessayez.</string>

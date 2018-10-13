@@ -29,4 +29,9 @@
         <item>Grand-père maternel</item>
         <item>Grand-mère maternelle</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Déplacer</item>
+        <item>Copier</item>
+        <item>@string/cancel</item>
+    </string-array>
 </resources>

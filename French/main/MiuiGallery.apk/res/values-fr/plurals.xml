@@ -260,4 +260,8 @@
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">"Sélectionnez jusqu'à %d photos"</item>
+        <item quantity="one">"Sélectionnez jusqu'à %d photo"</item>
+    </plurals>
 </resources>

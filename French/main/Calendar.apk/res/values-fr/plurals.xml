@@ -76,6 +76,10 @@
         <item quantity="other">"Vous pouvez entrer jusqu'à %1$d jours"</item>
         <item quantity="one">"Vous pouvez entrer jusqu'à %1$d jour"</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Peut régler %d rappels</item>
+        <item quantity="one">Peut régler %d rappel</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>

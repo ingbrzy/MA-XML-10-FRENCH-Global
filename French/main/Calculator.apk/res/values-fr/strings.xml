@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">Assurance sociale</string>
     <string name="tax_thershold_foreign">%s (Ressortissants étrangers)</string>
     <string name="tax_thershold_native">%s (Chine Continentale)</string>
+    <string name="tax_thershold_native_new">%s (nouveau)</string>
+    <string name="tax_thershold_native_new_description">Les taxes seront calculées selon la nouvelle loi fiscale à partir de 1er octobre 2018</string>
     <string name="tax_threshold">"Taxe d'exonération d'impôt"</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />
