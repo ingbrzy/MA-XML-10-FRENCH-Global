@@ -36,7 +36,6 @@
     <string name="s5">"Créer un événement d'agenda"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="s7">Annonce test</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">"Retour à l'accueil"</string>
     <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
     <string name="abc_action_menu_overflow_description">Plus</string>
@@ -746,8 +745,6 @@ Quitter cette page maintenant?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Obtenir du contenu personnalisé</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Pour obtenir du contenu personnalisé suggéré par Google, connectez-vous à Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">"Définir l'heure"</string>
