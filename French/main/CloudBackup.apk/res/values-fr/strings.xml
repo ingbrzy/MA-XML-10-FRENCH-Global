@@ -30,12 +30,12 @@
     <string name="cloud_back_up_share_activity_title">Améliorer votre compte</string>
     <string name="cloud_back_up_share_activity_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
     <string name="cloud_back_up_share_activity_confirm">Mettre à niveau</string>
-    <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to Wi-Fi: 
-*  Apps, Home screen layout, and wallpapers 
-*  Alarm, clock, and time settings 
-*  Notification settings 
-*  MIUI and system settings 
-\"Note: Data for apps you've installed won't be backed up to Mi Cloud.\""</string>
+    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi : 
+*  Applications, Écran d'accueil et fonds d'écran 
+*  Alarmes et les paramètres d'Horloge 
+*  Paramètres de notification 
+*  MIUI et les paramètres système 
+\"Note : Les données des applications que vous avez installées ne seront pas sauvegardées dans Mi Cloud.\""</string>
     <string name="cloud_app_no_data">Aucune sauvegarde</string>
     <string name="cloud_app_restore_error">Restauration impossible</string>
     <string name="cloud_app_restore_success">Applications restaurées</string>
@@ -46,9 +46,11 @@
     <string name="customization"><u>Personnaliser</u></string>
     <string name="home_hint_global_launcher">"Écran d'accueil Poco"</string>
     <string name="home_hint_other_launcher">"Autre écran d'accueil"</string>
-    <string name="self_device">"This phone's "</string>
-    <string name="main_space">Main space</string>
-    <string name="second_space">Second space</string>
+    <string name="self_device">"  de ce téléphone"</string>
+    <string name="main_space">Espace principal</string>
+    <string name="second_space">Second espace</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
@@ -129,7 +131,9 @@
     <string name="restore_data_title">Restaurer les données</string>
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
-    <string name="loading_user_backup">Loading user backups…</string>
+    <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
     <string name="no_backup">Aucune sauvegarde dans Mi Cloud.</string>
@@ -138,7 +142,7 @@
     <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
     <string name="unsupported_home">Veuillez mettre à jour vers la dernière version OS.</string>
     <string name="error_retry_later">"Échec, réessayez plus tard s'il vous plaît."</string>
-    <string name="try_continue">Tap to continue</string>
+    <string name="try_continue">Appuyez pour continuer</string>
     <string name="download_home_data">"Téléchargement de la disposition de l'écran d'accueil…"</string>
     <string name="restore_home_failed">"Impossible de restaurer l'écran d'accueil."</string>
     <string name="arrange_restore_order">Réorganiser les applications…</string>
@@ -149,7 +153,7 @@
     <string name="download_meta_again">Impossible de charger les informations, réessayez.</string>
     <string name="cancel_restore_home">Annulation…</string>
     <string name="cancel_backup">Annulation de la sauvegarde…</string>
-    <string name="load_backup_failed">Load backups failed</string>
+    <string name="load_backup_failed">Échec de chargement des sauvegardes</string>
     <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
     <string name="dialog_btn_next">Suivant</string>

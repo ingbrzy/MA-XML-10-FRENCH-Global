@@ -25,6 +25,7 @@
     <string name="common_google_play_services_install_button">Installer</string>
     <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
     <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
     <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
     <string name="common_google_play_services_unknown_issue">"L'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
     <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
@@ -55,7 +56,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -72,7 +75,9 @@
     <string name="s4">Refuser</string>
     <string name="s5">"Créer un événement d'agenda"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
+    <string name="s7">Annonce test</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Pub</string>
     <string name="accessibiliy_description_content_add_resource">Ajouter des éléments</string>
@@ -120,6 +125,7 @@
     <string name="component_category_finest_title">GÉNÉRAL</string>
     <string name="component_category_more_title">AVANCÉ</string>
     <string name="component_title_ringtone">Sonneries</string>
+    <string name="component_title_settings_video_wallpaper">"Fonds d'écran avec effets spéciaux"</string>
     <string name="component_title_video_wallpaper">"Films pour fond d'écran"</string>
     <string name="component_title_wallpaper">"Fonds d'écran"</string>
     <string name="current_using_desktop_wallpaper_text">"Écran d'accueil"</string>
@@ -194,6 +200,7 @@
     <string name="incompatible_dialog_ok">"C'est compris"</string>
     <string name="incompatible_dialog_title">Problèmes de compatibilité</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>
     <string name="item_resource_audio_optional_notification_ring">Notifications</string>
@@ -415,6 +422,7 @@
     <string name="resource_pack_price_info">"Prix d'origine : %1$s"</string>
     <string name="resource_pack_warning">"Attention, vous avez déjà acheté %1$d éléments de ce thème, il sera moins cher d'acheter les éléments restants individuellement."</string>
     <string name="resource_present">Cadeau</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="resource_price_unit"> Crédits Mi</string>
     <string name="resource_purchase_common_error">Une erreur est survenue, réessayez</string>
@@ -426,6 +434,10 @@
     <string name="resource_ranking">Populaire</string>
     <string name="resource_ranking_free">Gratuit</string>
     <string name="resource_ranking_purchase">Payant</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Sonneries</string>
     <string name="resource_ringtone_playing_error">Erreur</string>
     <string name="resource_ringtone_volume_mute">La sonnerie est silencieuse</string>
@@ -543,6 +555,9 @@
     <string name="theme_current_using_has_update">Mise à jour du thème disponible</string>
     <string name="theme_description_title_customized">Personnaliser</string>
     <string name="theme_description_title_default">Par défaut</string>
+    <string name="theme_detail_tab_comment">Commentaires</string>
+    <string name="theme_detail_tab_recommend">Recommandé</string>
+    <string name="theme_detail_tab_theme">Thèmes</string>
     <string name="theme_empty_redirect">Retour aux Thèmes</string>
     <string name="theme_favorite_add_fail">"Impossible d'ajouter aux favoris"</string>
     <string name="theme_favorite_add_success">Ajouté aux favoris</string>
@@ -557,6 +572,7 @@
     <string name="theme_is_external_priority_storage">Enregistrer sur la carte SD</string>
     <string name="theme_is_external_priority_storage_summary">"L'application Thème va redémarrer immédiatement pour prendre effet."</string>
     <string name="theme_multiple_button_title_customize">Personnaliser</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Non</string>
     <string name="theme_purchased_list_empty">"Vous n'avez acheté aucun thème."</string>
     <string name="theme_purchased_non_local">En ligne</string>
@@ -579,7 +595,7 @@
     <string name="title_component">Personnaliser le thème</string>
     <string name="title_my_audio_resource">Mes sonneries</string>
     <string name="title_my_miwallpaper_resource">"Mes fonds d'écran animés"</string>
-    <string name="title_my_miwallpaper_video_file_resource">"Mes fonds d'écran animés"</string>
+    <string name="title_my_miwallpaper_video_file_resource">"Mes fonds d'écran vidéos"</string>
     <string name="title_my_wallpaper_resource">"Mes fonds d'écran"</string>
     <string name="title_system_audio_notification_resource">Notifications système</string>
     <string name="title_system_audio_resource">Sonneries du système</string>

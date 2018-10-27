@@ -8,6 +8,10 @@
         <item quantity="other">Mises à jour disponibles pour %1$d thèmes.</item>
         <item quantity="one">Mise à jour disponible pour %1$d thème.</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s marchent</item>
+        <item quantity="one">%1$s marche</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Mises à jour disponibles pour %1$d thèmes</item>
         <item quantity="one">Mise à jour disponible pour %1$d thème</item>

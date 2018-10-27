@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="exo_controls_fastforward_description">Avance rapide</string>
+    <string name="exo_controls_next_description">Piste suivante</string>
+    <string name="exo_controls_pause_description">Interrompre</string>
+    <string name="exo_controls_play_description">Lire</string>
+    <string name="exo_controls_previous_description">Piste précédente</string>
+    <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
+    <string name="exo_controls_repeat_off_description">Ne rien lire en boucle</string>
+    <string name="exo_controls_repeat_one_description">Lire en boucle un élément</string>
+    <string name="exo_controls_rewind_description">Retour arrière</string>
+    <string name="exo_controls_shuffle_description">Lire en mode aléatoire</string>
+    <string name="exo_controls_stop_description">Arrêter</string>
     <string name="s1">"Enregistrer l'image"</string>
     <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images ?"</string>
     <string name="s3">Accepter</string>
@@ -25,8 +36,9 @@
     <string name="s5">"Créer un événement d'agenda"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="s7">Annonce test</string>
-    <string name="abc_action_bar_home_description">"Aller à la page d'accueil"</string>
-    <string name="abc_action_bar_up_description">Aller vers le haut</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="abc_action_bar_home_description">"Retour à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
     <string name="abc_action_menu_overflow_description">Plus</string>
     <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_action_mode_select_all">Tout sélectionner</string>
@@ -147,6 +159,7 @@
     <string name="cannot_download">Peut seulement télécharger des URL \"http\" ou \"https\"</string>
     <string name="card_setting_close_recommend">Recevoir des recommandations</string>
     <string name="cast_video">Caster la vidéo</string>
+    <string name="change_news_language">Changer le langage des nouvelles?</string>
     <string name="channels_edit">Éditer</string>
     <string name="channels_finish">Terminer</string>
     <string name="choosertitle_sharevia">Partager via</string>
@@ -240,6 +253,7 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
     <string name="document_open_other">Autres applications</string>
     <string name="document_open_title">Ouvrir avec</string>
     <string name="dont_remind_again">Se souvenir de ce choix</string>
+    <string name="download_btn">Télécharger</string>
     <string name="download_btn_select_all">Tout sélectionner</string>
     <string name="download_btn_select_none">Tout déselectionner</string>
     <string name="download_complete">Téléchargé avec succès</string>
@@ -330,6 +344,7 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
     <string name="go_supermarket_title">"Plus d'applications, plus rapide et moins de données utilisées dans App Store"</string>
     <string name="gold_medals">Médailles en or</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">"Ajouté à l'écran d'accueil"</string>
     <string name="hint">Astuce</string>
     <string name="history">Historique</string>
@@ -731,6 +746,8 @@ Quitter cette page maintenant?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Obtenir du contenu personnalisé</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Pour obtenir du contenu personnalisé suggéré par Google, connectez-vous à Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">"Définir l'heure"</string>
@@ -964,6 +981,7 @@ Quitter cette page maintenant?"</string>
     <string name="remove_snapshot">Supprimer la page sauvegardée</string>
     <string name="removed_from_bookmarks">Retiré des favoris</string>
     <string name="replace">Remplacer</string>
+    <string name="replay">Relire</string>
     <string name="reply_comment_title">Re : %s</string>
     <string name="resume_download">Continuer</string>
     <string name="retry_after_network_available">Impossible de se connecter au réseau</string>
@@ -1027,6 +1045,7 @@ Quitter cette page maintenant?"</string>
     <string name="sendstartpage">"Page d'accueil"</string>
     <string name="share_image_text">"Regardez ce que j'ai partagé ! @MIUI"</string>
     <string name="share_page_text">"Regardez ce que j'ai partagé : %1$s @MIUI| %2$s"</string>
+    <string name="share_slide_video_text">"Regardez ce que j'ai partagé : %1$s"</string>
     <string name="share_video">Partager la vidéo</string>
     <string name="sign_in_to" formatted="false">Connectez-vous à %s1 %s2\"</string>
     <string name="site_sort_des">Réorganiser les éléments</string>
@@ -1163,6 +1182,9 @@ Quitter cette page maintenant?"</string>
     <string name="video_unknown_duration">Durée inconnue</string>
     <string name="view_certificate">Voir le certificat</string>
     <string name="view_document_downloaded_files">Voir les fichiers téléchargés dans Téléchargements</string>
+    <string name="view_source">Voir la source</string>
+    <string name="vmate_download_content">Profitez de toutes les blagues, comédies, musiques et vidéos de danse</string>
+    <string name="vmate_download_title">"L'application la plus divertissante d'Inde"</string>
     <string name="voice_check_network">Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="voice_connect_network">Impossible de se connecter au réseau.</string>
     <string name="voice_description">Recherche vocale</string>

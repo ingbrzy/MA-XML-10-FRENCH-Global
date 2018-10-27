@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -205,7 +207,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="report_only">Choisir un message à signaler</string>
     <string name="report_success">Message signalé</string>
     <string name="report_error">Impossible de signaler le message</string>
-    <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+    <string name="report_warning">Signaler %1$s SMS à Mi ? Ces messages et leurs numéros seront envoyés sur les serveurs de Mi pour examen. Les informations personnelles associées à ces messages resteront anonymes.</string>
     <string name="report_warning_title">Attention</string>
     <string name="st_sub_title_customize_mode_name">Nom</string>
     <string name="read_all_sms">Tout lire</string>
@@ -455,6 +457,7 @@ de l'opérateur"</string>
     <string name="managed_user_title">Toutes les applis fonctionnelles</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
     <string name="pref_traffic_manage_title">Utilisation de données</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Forfait de donnée</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_category_title_other">Paramètres supplémentaires</string>
@@ -660,7 +663,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="tc_sms_report_notify_correction_body">"Accédez à l'application d'utilisation des données dans le centre de sécurité et essayez à nouveau manuellement."</string>
     <string name="tc_sms_report_notify_get_failure_body">"Impossible de vous présenter le rapport d'utilisation de données. Veuillez vérifier que vous êtes connecté à un réseau mobile."</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS d'utilisation des données"</string>
-    <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
+    <string name="tc_sms_report_tips_dialog_message">"Un SMS est envoyé pour obtenir les dernières informations d'utilisation de données de votre opérateur. Si vous pensez que l'information n'est pas correcte, envoyez-nous vos commentaires."</string>
     <string name="tc_sms_report_get_sms_failure">"Impossible d'obtenir les informations d'utilisation de données"</string>
     <string name="tc_sms_report_get_sms_timeout">La requête a expiré</string>
     <string name="tc_sms_report_get_sms_successs">"Informations de l'utilisation des données ont été mises à jour avec succès"</string>
@@ -972,6 +975,7 @@ Cette activité réduit la durée de vie de la batterie."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Cette application peut ralentir
 votre appareil"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Désinstaller %s ?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">"Désinstaller cette application pour résoudre tous les problèmes liés à l'usage de la batterie."</string>
     <string name="om_ill_proc_type_wakelock_title">"L'application bloque le mode veille et décharge la batterie"</string>
@@ -1016,7 +1020,7 @@ votre appareil"</string>
     <string name="menu_item_force_stop">"Forcer l'arrêt"</string>
     <string name="menu_item_uninstall">Désinstaller</string>
     <string name="menu_item_app_details">Détails</string>
-    <string name="details_subtitle">Usage details</string>
+    <string name="details_subtitle">"Détails d'utilisation"</string>
     <string name="packages_subtitle">Paquets inclus</string>
     <string name="battery_desc_standby">Batterie utilisée quand le téléphone est en veille</string>
     <string name="battery_desc_radio">Batterie utilisée par la radio</string>
@@ -1030,6 +1034,7 @@ votre appareil"</string>
     <string name="usage_type_data_send">Données mobiles envoyées</string>
     <string name="usage_type_no_coverage">Temps sans signal</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur média</string>
     <string name="power_screen">Écran</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1124,7 +1129,6 @@ votre appareil"</string>
     <string name="deep_save_ontime_boot_shutdown_summary">"Définir l'heure pour allumer et éteindre l'appareil"</string>
     <string name="btn_text_quick_save_power">Refroidir</string>
     <string name="notification_battery_consume_abnormal_title">La batterie se décharge trop rapidement</string>
-    <string name="notification_battery_consume_abnormal_summary">La batterie a été déchargée de %2$s dans les %1$d dernières minutes</string>
     <string name="app_check_no_issue">"Il semble que la batterie n'a aucun problème. Tant mieux !"</string>
     <string name="power_save_mode_enable">Économiseur de batterie</string>
     <string name="power_save_mode_summary">Surveiller les processus et désactiver la synchronisation.</string>
@@ -1257,12 +1261,17 @@ votre appareil"</string>
     <string name="power_center_list_item_auto_brightness">"Ajuster automatiquement la luminosité de l'écran"</string>
     <string name="power_center_list_item_deep_save_title">Paramètres avancés</string>
     <string name="power_center_list_item_battery_status_time">h</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">"Arrêter l'analyse"</string>
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètres d'utilisation de batterie"</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="extreme_power_save_mode_card_summary">"Activez le mode extrême pour économiser de l'énergie lorsque la batterie est faible."</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
     <string name="apps_list_header_title_sms_access">"Restreindre l'accès aux codes de vérification"</string>
@@ -1416,11 +1425,13 @@ votre appareil"</string>
     <string name="menu_text_optimize_manage">Augmenter la vitesse</string>
     <string name="menu_text_networkassistants">Utilisation des données</string>
     <string name="menu_summary_networkassistants">Gérez votre forfait de données</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Vous avez dépassé la limite</string>
     <string name="menu_summary_networkassistants_3">Données restantes suffisantes</string>
     <string name="menu_summary_networkassistants_4">Être à court de données mobiles</string>
     <string name="menu_text_networkassistants_remain">%s restants</string>
     <string name="menu_text_networkassistants_danger">%s dépassé</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">Go</string>
     <string name="menu_text_networkassistants_unit_mb">Mo</string>
     <string name="menu_text_networkassistants_unit_kb">ko</string>
@@ -1433,12 +1444,14 @@ votre appareil"</string>
     <string name="menu_summary_garbage_cleanup">Aucune corbeille trouvée</string>
     <string name="menu_summary_garbage_cleanup_2">Taille de la corbeille</string>
     <string name="menu_summary_garbage_cleanup_3">Vider la corbeille maintenant</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Utilisation de la batterie</string>
     <string name="menu_summary_power_manager">"L'économiseur de batterie vous donne plus de temps de entre vos charges"</string>
     <string name="menu_summary_power_manager_1">La batterie est complètement chargée</string>
     <string name="menu_summary_power_manager_2">%s restants</string>
     <string name="menu_summary_power_manager_3">Brancher le chargeur</string>
     <string name="menu_summary_power_manager_4">%s avant charge complète</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
     <string name="examination_score_100">Tout va bien !</string>
     <string name="examination_score_80_100">Quelques petites choses à optimiser</string>
@@ -1653,6 +1666,8 @@ votre appareil"</string>
     <string name="summary_cloud_space_full">"Obtenir plus d'espace de stockage et accéder à plus de fonctionnalités"</string>
     <string name="title_auto_update">Mettre à jour automatiquement</string>
     <string name="summary_auto_update">MIUI sélectionnera le temps de veille pour télécharger et installer les mises à jour.</string>
+    <string name="title_rcs_switch">Activer la messagerie China Mobile</string>
+    <string name="summary_rcs_switch">Envoi de SMS aux utilisateurs de China Mobile sans frais</string>
     <string name="title_miui_update_latest">MIUI est à jour</string>
     <string name="title_miui_update">Mises à jour disponibles</string>
     <string name="summary_miui_update">Mise à jour disponible pour %s.</string>
@@ -1812,6 +1827,7 @@ votre appareil"</string>
     <string name="card_main_deepclean_wechat_action">Vider</string>
     <string name="card_main_sectool_title">Outils</string>
     <string name="card_main_monthreport_action">Afficher</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Tester le réseau</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="card_main_netcheck_action">Test</string>
@@ -1853,7 +1869,7 @@ votre appareil"</string>
     <string name="ac_notification_contentTitle">"Protéger les applications sélectionnées avec Verrouillage d'application"</string>
     <string name="ac_pre_notification_contentTitle">"Essayer Verrouillage d'application"</string>
     <string name="ac_post_notification_contentTitle">"Activer le verrouillage d'application"</string>
-    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
+    <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers?</string>
     <string name="notification_masked_item">Masquer les notifications</string>
     <string name="lock_mode_title">Paramètres de verrouillage</string>
     <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
@@ -1863,7 +1879,7 @@ votre appareil"</string>
     <string name="ac_notification_contentText">Appuyez pour activer</string>
     <string name="ac_pre_notification_contentText">Protégez vos infos personnelles</string>
     <string name="ac_post_notification_contentText">Obtenir une protection de niveau système</string>
-    <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
+    <string name="midrop_post_notification_contentText">"Transférer des fichiers à une vitesse jusqu'à 50 Mbps avec Mi Drop."</string>
     <string name="notification_masked_subtitle">"Masquer les notifications des applis protégées avec le Verrouillage d'application"</string>
     <string name="ac_enter_applock">Ouvrir Verr. App</string>
     <string name="ac_mask_all_apps">Masquer pour toutes les applications</string>
@@ -1983,6 +1999,7 @@ votre appareil"</string>
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
+    <string name="ad_split_screen_title">Please switch to full screen mode to unlock</string>
     <string name="wakepath_confirm_start_activity">Autoriser %1$s à ouvrir %2$s ?</string>
     <string name="unlike">Non merci</string>
     <string name="toast_network_eror">Impossible de se connecter</string>
@@ -2194,6 +2211,7 @@ votre appareil"</string>
     <string name="gs_call_handsfree_mute">Mode Silencieux</string>
     <string name="gs_gamebox">Raccourcis dans le jeu</string>
     <string name="gs_gamebox_detail">Afficher le panneau de raccourcis dans le jeu</string>
+    <string name="gs_gamebox_slip">Push the screen down to open</string>
     <string name="gs_forbid_autosync">Restreindre la synchronisation en arrière-plan</string>
     <string name="gs_app_back_self_start">Économiseur de batterie</string>
     <string name="gs_only_self_start_for_list">Restreindre les processus en arrière-plan pour économiser la batterie pour les jeux</string>
@@ -2345,6 +2363,7 @@ votre appareil"</string>
     <string name="screenrecord_not_find">"Installez la dernière version de l'enregistreur d'écran puis réessayez."</string>
     <string name="gamebox_qq_not_find">Installez QQ puis réessayez.</string>
     <string name="gamebox_wechat_not_find">Installez WeChat puis réessayez.</string>
+    <string name="gamebox_app_not_find">Install the app first.</string>
     <string name="gamebox_type_close">Ne pas afficher</string>
     <string name="gamebox_type_float">Raccourci fixe</string>
     <string name="gamebox_type_gesture">Balayer pour afficher</string>
@@ -2361,6 +2380,7 @@ votre appareil"</string>
     <string name="gb_create_icon_summary">"Créez un raccourci sur l'écran d'accueil"</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_like">"J'aime"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Données mobiles</string>
     <string name="game_wid_viewpoint_buttom">Prendre une petite pause.</string>
     <string name="video_repeat">Rejouer</string>
@@ -2409,9 +2429,6 @@ Cette fonctionnalité n'est pas prise en charge pour les applications système."
     <string name="first_aid_card_airplane_title">Impossible de passer des appels ou de se connecter au réseau</string>
     <string name="first_aid_card_airplane_summary">Désactivez le mode Avion pour pouvoir passer des appels et vous connecter au réseau</string>
     <string name="first_aid_card_airplane_button">Désactiver</string>
-    <string name="first_aid_card_apn_title">Connexion réseau impossible</string>
-    <string name="first_aid_card_apn_summary">Les APN ont été modifiés. Correction pour pouvoir se connecter au réseau.</string>
-    <string name="first_aid_card_apn_button">Réparer</string>
     <string name="first_aid_card_unable_install_title">Impossible de désinstaller des applications</string>
     <string name="first_aid_card_unable_install_summary">"Seulement %s de stockage est disponible. Libérez de l'espace afin d'installer des applications."</string>
     <string name="first_aid_card_unable_install_button">"Libérez de l'espace"</string>

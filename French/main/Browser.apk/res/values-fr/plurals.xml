@@ -84,6 +84,10 @@
         <item quantity="other">Découvrez %1$d les nouvelles vidéos</item>
         <item quantity="one">Découvrez %1$d la nouvelle vidéo</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d vues</item>
+        <item quantity="one">%1$d vue</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Dégagé</item>
         <item quantity="one">Dégagé</item>

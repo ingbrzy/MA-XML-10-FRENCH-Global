@@ -95,7 +95,9 @@
     <string name="opp_notification_group">Partage Bluetooth</string>
     <string name="outbound_history_title">Transferts sortants</string>
     <string name="outbound_noti_title">Partage Bluetooth : fichiers envoyés</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">"Délai d'attente dépassé pour l'acceptation de connexion à \"%1$s\""</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">"Délai d'attente dépassé pour la saisie de la clé de session avec \"%1$s\""</string>
     <string name="pbap_notification_group">Partage de contact Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>

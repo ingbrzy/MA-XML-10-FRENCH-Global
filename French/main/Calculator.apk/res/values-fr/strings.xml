@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">Fond de crédit</string>
     <string name="global_network_confirm_content">Convertisseur de devise doit se connecter à Internet pour fonctionner normalement.</string>
+    <string name="global_search_key_area_convertion">Superficie, convertisseur de superficie, conversion de superficie</string>
+    <string name="global_search_key_calculation">"Calculer;Calculatrice ;Conversion d'unités;Convertisseur;Convertisseur d'unité"</string>
+    <string name="global_search_key_date_convertion">Convertisseur de temps, unités de temps, conversion de temps, temps</string>
+    <string name="global_search_key_exchange_rate">Taux de change;Conversion de taux de change;Convertisseur de devises;Unité monétaire;Taux de change</string>
+    <string name="global_search_key_length_convertion">Longueur ; Convertisseur de longueur ; Conversion de longueur</string>
+    <string name="global_search_key_mortgage">"Calcul d'hypothèque;Calculateur d'hypothèque;Hypothèque"</string>
+    <string name="global_search_key_personal_tax">"Impôt sur le revenu individuel, Revenu après impôt, Calculateur d'impôt, Calcul du revenu personnel, Calcul du revenu, Calcul du revenu après impôt, Impôt sur le revenu des particuliers, Impôt, Impôts"</string>
+    <string name="global_search_key_scientific_convertion">Calculatrice scientifique;Calcul de la fonction;Mathématiques;Algèbre</string>
+    <string name="global_search_key_speed_convertion">"Conversion d'unité de vitesse, conversion de vélocité, conversion de vitesse, convertisseur de vitesse, Vitesse,Vélocité"</string>
+    <string name="global_search_key_temperature_convertion">"Conversion d'unité de température; Conversion de température; Convertisseur de température; Fahrenheit; Celsius; Centigrade"</string>
+    <string name="global_search_key_volume_convertion">"Conversion d'unité de volume; Conversion de volume; Convertisseur de volume"</string>
+    <string name="global_search_key_weight_convertion">"Conversion d'unité de poids; Conversion de poids; Convertisseur de poids; Kilos; Kg; Kilogrammes; Livre; Livres; Lbs"</string>
+    <string name="global_search_key_word_figure">Caractères financiers</string>
+    <string name="golbal_search_calculator_setting">Calculatrice;Paramètres de la calculatrice;Paramètres</string>
+    <string name="golbal_search_path_calculator_setting">Applications système/Calculatrice/Paramètres</string>
     <string name="home_title_calculator">Calculatrice</string>
     <string name="income_type" />
     <string name="install">Installer</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
     <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
     <string name="network_confirm_title">Autorisation requise</string>
+    <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
     <string name="percent" />
     <string name="percentDesc">pourcentage</string>
     <string name="piDesc">pi</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
+    <string name="xiaomi_connect_download_manager_fail">"Connexion au gestionnaire de téléchargements échouée. Veuillez vérifier l'état du gestionnaire de téléchargements dans le gestionnaire des applications."</string>
+    <string name="xiaomi_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
+    <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
+Taille %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
+Taille de la mise à jour Delta: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s mise à jour!</string>
     <string name="year" />
 </resources>

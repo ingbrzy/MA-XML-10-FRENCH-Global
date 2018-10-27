@@ -274,6 +274,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="collage_poster_global_summer_flower_text">ÉTÉ</string>
     <string name="collage_poster_global_tea_text">PAUSE THÉ</string>
     <string name="collage_rotate">Pivoter</string>
+    <string name="collage_select_image_range">Collages peuvent contenir 1-4 photos</string>
     <string name="collage_title_layout">Disposition</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collaps_people">Masquer</string>
@@ -466,6 +467,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="face_name_edit">Éditer</string>
     <string name="face_name_input">Saisissez un nom</string>
     <string name="face_recommend">Recommandations</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Impossible de terminer l'opération"</string>
     <string name="fail_to_pick_email">Adresse e-mail incorrecte</string>
     <string name="fail_to_sync_album">"Impossible de synchroniser l'album. Vérifier votre connexion réseau."</string>
@@ -476,6 +478,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Mémoire</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Rose</string>
@@ -537,6 +540,7 @@ sont disponibles"</string>
     <string name="finish_fill_baby">Créer</string>
     <string name="flash_off">Flash désactivé</string>
     <string name="flash_on">Flash activé</string>
+    <string name="frame_not_support_image_ratio">"Ce format n'est pas pris en charge"</string>
     <string name="free_view_desc">Vue en 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
@@ -544,6 +548,7 @@ sont disponibles"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
     <string name="grant_permission_go_and_set">Définir</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
@@ -709,6 +714,7 @@ pour personnaliser Galerie"</string>
     <string name="operation_in_process">Traitement en cours…</string>
     <string name="operation_move_to_other_albums">"Déplacer vers d'autres albums"</string>
     <string name="operation_not_show_in_photos_tab">Ne pas afficher dans Photos</string>
+    <string name="operation_produce">Créativité</string>
     <string name="operation_projection">Caster</string>
     <string name="operation_remove_face">Retirer</string>
     <string name="operation_remove_from_face_album">"Retirer de l'album"</string>
@@ -741,6 +747,7 @@ pour personnaliser Galerie"</string>
     <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
     <string name="people_page_label">Personnes</string>
     <string name="people_page_unname">Sans nom</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">"Photos d'animaux"</string>
     <string name="petabyteShort">Po</string>
     <string name="photo">Photos</string>
@@ -751,10 +758,12 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_crop_and_rotate">Rogner</string>
     <string name="photo_editor_crop_auto">Auto</string>
+    <string name="photo_editor_crop_auto_tips">Recadré automatiquement</string>
     <string name="photo_editor_crop_reset">Réinitialiser</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Dessiner</string>
     <string name="photo_editor_filter">Filtre</string>
+    <string name="photo_editor_frame">Cadre</string>
     <string name="photo_editor_label">Éditer</string>
     <string name="photo_editor_long_crop">Rogner</string>
     <string name="photo_editor_miui_beauty">Embellir</string>
@@ -809,6 +818,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_talkback_redo">Refaire</string>
     <string name="photo_editor_talkback_undo">Annuler</string>
     <string name="photo_editor_text">Texte</string>
+    <string name="photo_movie_select_image_range">Clips vidéos peuvent contenir 3-6 photos</string>
     <string name="photo_page_save_uri_image_fail">Impossible de sauvegarder dans Galerie</string>
     <string name="photo_page_save_uri_image_ok">Photo sauvegardée dans Galerie</string>
     <string name="photo_print_menu_loading">Chargement du plug-in…</string>
@@ -998,6 +1008,9 @@ pour personnaliser Galerie"</string>
     <string name="search_title_recommend">Recommandé</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objets</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Recherche de projecteur…</string>
     <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
     <string name="secret_album_card_title">Essayer de cacher un album</string>
@@ -1017,6 +1030,7 @@ pour personnaliser Galerie"</string>
     <string name="secret_reason_unknow_reasons">Erreur inconnue</string>
     <string name="secret_reason_video_not_support">"Impossible d'ajouter des vidéos à l'album masqué"</string>
     <string name="see_ignore_faces">Voyez les personnes que vous avez ignorées</string>
+    <string name="select_image_operation">Ajout des photos</string>
     <string name="select_item_face">"Est-ce '%s' ?"</string>
     <string name="select_origin_tip">Fichier original (%s)</string>
     <string name="send_file_beautify_failed">Impossible de partager</string>
@@ -1157,6 +1171,7 @@ pour personnaliser Galerie"</string>
     <string name="unpublish_failed">Échec du retrait.</string>
     <string name="unpublish_succeeded">Retiré de la publication.</string>
     <string name="unpublishing">Annulation…</string>
+    <string name="unsupport_video">%s ne fonctionne pas avec des vidéos</string>
     <string name="user_agree">Accepter</string>
     <string name="user_agreement2">"Conditions d'Utilisation"</string>
     <string name="user_agreement4">Politique de Confidentialité</string>
@@ -1274,6 +1289,7 @@ pour personnaliser Galerie"</string>
     <string name="view_face_album">"Afficher l'album"</string>
     <string name="view_more_face_desc">Afficher plus de personnes</string>
     <string name="voice_assistant">Assistant vocal</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Bienvenue sur Mi Cloud</string>
     <string name="where_is_barcode">Où est le code QR?</string>
     <string name="who_is_this">Qui est-ce ?</string>
@@ -1281,10 +1297,7 @@ pour personnaliser Galerie"</string>
     <string name="yes">Oui</string>
     <string name="yesterday">Hier</string>
     <string name="you_are">Vous êtes le</string>
-    <string name="collage_select_image_range">Collages peuvent contenir 1-4 photos</string>
-    <string name="operation_produce">Créativité</string>
-    <string name="photo_editor_crop_auto_tips">Recadré automatiquement</string>
-    <string name="photo_movie_select_image_range">Clips vidéos peuvent contenir 3-6 photos</string>
+    <string name="operation_set_slide_wallpaper">"Définir comme fond d'écran du diaporama"</string>
     <string name="refocus_discard_confirm_message">Enregistrer les modifications ?</string>
     <string name="refocus_discard_negative_btn">Abandonner</string>
     <string name="refocus_discard_positive_btn">Enregistrer</string>
@@ -1297,6 +1310,6 @@ pour personnaliser Galerie"</string>
     <string name="refocus_title">Flou</string>
     <string name="refocus_type_static">Niveau de flou</string>
     <string name="refocus_type_video">Bande de lumière</string>
-    <string name="select_image_operation">Ajout des photos</string>
-    <string name="unsupport_video">%s ne fonctionne pas avec des vidéos</string>
+    <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
+    <string name="set_as_slide_wallpaper_title">"Définir comme fond d'écran du diaporama"</string>
 </resources>

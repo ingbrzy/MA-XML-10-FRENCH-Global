@@ -45,4 +45,8 @@
         <item>Mémos vocaux</item>
         <item>"Créez des notes à l'aide de notre moteur de synthèse vocale incorporant les enregistrements originaux de votre voix aux notes."</item>
     </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Mémos vocaux</item>
+        <item>"Vous pouvez créer des mémos vocaux maintenant. Appuyez juste sur l'icône, enregistrer votre voix et sauvegarder votre fichier audio dans la note."</item>
+    </string-array>
 </resources>

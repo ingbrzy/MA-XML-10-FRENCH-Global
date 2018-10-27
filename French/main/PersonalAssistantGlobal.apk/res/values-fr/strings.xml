@@ -108,6 +108,8 @@
     <string name="card_title_utilities">Utilitaires</string>
     <string name="check_network">Vérifiez les paramètres réseau</string>
     <string name="check_network_retry">Vérifiez vos paramètres réseau, puis réessayez</string>
+    <string name="clean_grabage">Nettoyeur</string>
+    <string name="clean_now">Vérifier</string>
     <string name="cleanup_garbage">Nettoyeur</string>
     <string name="cleanup_memory">Vider le cache</string>
     <string name="cleanup_power">Nettoyage en profondeur</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">Fermer</string>
     <string name="cta_positive">Détails</string>
     <string name="cta_title">"Permettre à Coffre d'applications de vous aider"</string>
+    <string name="current_optimization_value">Les risques réduisent le score de sécurité de votre appareil</string>
     <string name="data_error">Une erreur est survenue. Patientez une minute ou deux et essayez à nouveau.</string>
     <string name="data_error_show">Cette commande est terminée, impossible de voir les détails.</string>
     <string name="donnot_ask">Ne plus demander</string>
@@ -225,7 +228,11 @@
     <string name="ola_trip">Appeler un taxi</string>
     <string name="ola_trip_content">Estimer le prix et appeler un Ola</string>
     <string name="ola_trip_content_detail">Estimer le prix approximatif et appeler un Ola.</string>
+    <string name="optimizate_now">Optimiser</string>
+    <string name="optimization">Score de sécurité</string>
     <string name="phone_check">Optimisation</string>
+    <string name="phone_has_garbage">Les fichiers de corbeille peuvent ralentir votre appareil</string>
+    <string name="phone_has_virus">Logiciels malveillants et virus posent des risques de sécurité</string>
     <string name="place_label">Lieux fréquents</string>
     <string name="record_name">Enregistrer</string>
     <string name="record_parent">Magnéto</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Recherche en cours…</string>
     <string name="security">Sécurité</string>
+    <string name="security_brief">Protégez votre appareil et nettoyez le stockage</string>
     <string name="service_unavailiable">Se connecter au réseau, puis réessayez.</string>
     <string name="set_home_failed">"Impossible d'ajouter une adresse, veuillez réessayer."</string>
     <string name="set_office_failed">"Impossible d'ajouter une adresse, veuillez réessayer."</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">Mettre à jour</string>
     <string name="user_id">ID utilisateur : %s</string>
     <string name="utilities_apps_bref">Découvrez ici les services de tiers</string>
+    <string name="virus_scan">Analyse de virus</string>
     <string name="walk">À pied</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Comment arrivez-vous normalement à votre destination ?</string>

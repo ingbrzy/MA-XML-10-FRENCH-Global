@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Connexion</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="exo_controls_fastforward_description">Avance rapide</string>
+    <string name="exo_controls_next_description">Chanson suivante</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Lecture</string>
+    <string name="exo_controls_previous_description">Chanson précédente</string>
+    <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
+    <string name="exo_controls_repeat_off_description">Aucune répétition</string>
+    <string name="exo_controls_repeat_one_description">Répéter un élément</string>
+    <string name="exo_controls_rewind_description">Reculer</string>
+    <string name="exo_controls_shuffle_description">Lecture aléatoire</string>
+    <string name="exo_controls_stop_description">Arrêter</string>
     <string name="s1">"Enregistrer l'image"</string>
     <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images?"</string>
     <string name="s3">Accepter</string>
@@ -25,4 +36,5 @@
     <string name="s5">"Créer un événement dans l'agenda"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement dans l'agenda?"</string>
     <string name="s7">Annonce test</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
 </resources>

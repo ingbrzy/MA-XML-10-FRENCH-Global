@@ -120,6 +120,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">%d problèmes de batterie détectés, réparer</item>
         <item quantity="one">%d problème de batterie détecté, réparer</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">éléments</item>
         <item quantity="one">élément</item>
@@ -241,12 +245,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d jour depuis la dernière vérification</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
+        <item quantity="other">%d risques,</item>
+        <item quantity="one">%d risque,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
+        <item quantity="other">%d chevaux de Troie</item>
+        <item quantity="one">%d cheval de Troie</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Applis dangereuses : %d</item>
@@ -367,5 +371,13 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>
         <item quantity="one">%1$d problème nécessite une optimisation</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
 </resources>
