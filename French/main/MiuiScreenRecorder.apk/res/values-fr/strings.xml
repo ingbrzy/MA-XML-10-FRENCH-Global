@@ -74,6 +74,7 @@
     <string name="show_screen_touch_summary">Visualiser les gestes utilisant un point blanc</string>
     <string name="sound_source">Source sonore</string>
     <string name="sound_source_summary">Sons système ou du microphone</string>
+    <string name="sound_source_summary_without_system_sounds">Utiliser un microphone ou désactiver le son</string>
     <string name="start">Démarrer</string>
     <string name="start_recording">"Démarrer l'enregistrement"</string>
     <string name="stop_by_second_space">"Basculer entre les espaces arrêtera l'enregistrement"</string>

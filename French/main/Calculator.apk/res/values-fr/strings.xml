@@ -552,8 +552,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
     <string name="xiaomi_connect_download_manager_fail">"Connexion au gestionnaire de téléchargements échouée. Veuillez vérifier l'état du gestionnaire de téléchargements dans le gestionnaire des applications."</string>
     <string name="xiaomi_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
     <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s

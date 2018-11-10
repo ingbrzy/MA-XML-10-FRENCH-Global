@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_residual_header_left">Résidus</string>
     <string name="hints_memory_header_left">Mémoire</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Gros fichiers : %d</string>
     <string name="hints_installed_apps_header_left">Applications installées : %d</string>
     <string name="toast_resolve_apk_error">"Résolution de l'erreur de l'apk"</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Téléchargement</string>
     <string name="installing">Installation</string>
     <string name="start_install">Installer maintenant</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Ouvrir dans le navigateur</string>
     <string name="title_share_link">"Partager l'URL"</string>
     <string name="connecting">Connexion…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">Fichier non trouvé</string>
     <string name="app_usage_never">Pas récemment utilisé</string>
     <string name="app_usage_recently">Récemment utilisé</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace.;"</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace.;"</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> du cache généré par QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data>" &lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace. ;"</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data>" &lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace. ;"</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> du cache généré par QQ ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">À propos du nettoyeur</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">Tous les 3 jours</string>
     <string name="auto_clean_time_seven_day">Tous les 7 jours</string>
     <string name="auto_clean_time_fifteen_day">Tous les 15 jours</string>
-    <string name="pref_category_title_auto_clean_config_settings">Nettoyages automatiques</string>
-    <string name="pref_title_auto_clean">Nettoyer automatiquement</string>
-    <string name="pref_title_auto_clean_operation">Méthode de nettoyage</string>
-    <string name="pref_title_auto_clean_trigger">Nettoyer le stockage</string>
-    <string name="auto_clean_operation_dialog_title">Méthode de nettoyage</string>
-    <string name="auto_clean_operation_clean_and_alert">Rappeler et nettoyer</string>
-    <string name="auto_clean_operation_just_clean">Nettoyage uniquement</string>
-    <string name="auto_clean_trigger_dialog_title">Nettoyer le stockage</string>
-    <string name="auto_clean_trigger_percent_ninety">Lorsque 90% est occupé</string>
-    <string name="auto_clean_trigger_percent_eighty">Lorsque 80% est occupé</string>
-    <string name="auto_clean_trigger_percent_sixty">Lorsque 60% est occupé</string>
-    <string name="auto_clean_notification_title">Rappel de nettoyage</string>
-    <string name="auto_clean_notification_content">%s effacé de la corbeille</string>
     <string name="guide_secure_dialog_title">Optimiser les performances</string>
     <string name="guide_secure_dialog_message">"Le score d'optimisation de votre appareil est inférieur à 80 points. Optimiser maintenant ?"</string>
     <string name="guide_secure_dialog_positive">Optimiser</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">GIFs</string>
     <string name="whatsapp_group_document">Documents</string>
     <string name="whatsapp_btn_quick_cleanup">Supprimer les éléments sélectionnés (%s)</string>
-    <string name="whatsapp_type_image_send">Images envoyées</string>
-    <string name="whatsapp_type_image_recv">Images reçues</string>
-    <string name="whatsapp_type_document_send">Fichiers envoyés</string>
-    <string name="whatsapp_type_document_recv">Fichiers reçus</string>
     <string name="whatsapp_file_show_order">"Aujourd'hui"</string>
     <string name="whatsapp_clean_exit_confirm_title">"Arrêter l'analyse ?"</string>
     <string name="whatsapp_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner WhatsApp. Arrêtez l'analyse maintenant?"</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">Tout semble bon</string>
     <string name="toast_updater_open_4g_text">Les applis seront mises à jour en utilisant les données mobiles (4G)</string>
     <string name="toast_updater_close_4g_text">Les applis ne seront pas mises à jour en utilisant les données mobiles (4G)</string>
+    <string name="facebook_cleaner">Nettoyeur Facebook</string>
+    <string name="facebook_group_image">Images</string>
+    <string name="facebook_group_video">Vidéos</string>
+    <string name="facebook_group_gif">GIFs</string>
+    <string name="facebook_group_cache">Fichiers de cache</string>
+    <string name="app_clean_group_image_send">Images envoyées</string>
+    <string name="app_clean_group_image_recv">Images reçues</string>
+    <string name="app_clean_group_document_send">Fichiers envoyés</string>
+    <string name="app_clean_group_document_recv">Fichiers reçus</string>
+    <string name="facebook_clean_exit_confirm_title">"Arrêter l'analyse ?"</string>
+    <string name="facebook_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner Facebook. Arrêtez l'analyse maintenant?"</string>
+    <string name="facebook_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
+    <string name="facebook_clean_exit_confirm_ok">Arrêter</string>
 </resources>

@@ -67,10 +67,11 @@
     <string name="xspace_label">Applications clônées</string>
     <string name="xspace_setting_label">Paramètres des applications clônées</string>
     <string name="xspace_account">Comptes des applications clônées</string>
+    <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
     <string name="declare_dialog_title">À propos des applications clônées</string>
     <string name="menu_item_about_privacy_title">Politique de Confidentialité</string>
     <string name="stop_xspace_alert_title">Suppression des comptes des applications clonées</string>
-    <string name="stop_xspace_alert_content">"Vous avez supprimé toutes les applications clonées. Supprimer les comptes des applications clonées et les données de l'application également ? Après cela, vous devrez créer à nouveau des applications clonées lorsque vous en aurez besoin."</string>
+    <string name="stop_xspace_alert_content">Toutes les applications clonées et leurs données seront définitivement supprimées. Vous devrez redémarrer votre appareil pour appliquer cette modification. Supprimer les comptes maintenant?</string>
     <string name="xspace_loading_msg">Chargement des applications…</string>
     <string name="xspace_header">Applications clônées</string>
     <string name="xspace_introduce">Recommandé</string>

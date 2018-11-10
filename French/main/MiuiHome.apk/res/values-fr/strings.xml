@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="add_screen">Ajouter un écran</string>
@@ -279,7 +280,6 @@
     <string name="recommend_apps_switch_title">Applications recommandées</string>
     <string name="recommend_apps_tips">Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement. Pour la désactiver, appuyez sur le nom de ce dossier.</string>
     <string name="recommend_loading">Chargement en cours</string>
-    <string name="refresh">Actualiser</string>
     <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
     <string name="reset_description_others">Vous pouvez restaurer la disposition de %1$s</string>
     <string name="reset_fail">Impossible de restaurer</string>
@@ -344,4 +344,10 @@
     <string name="widget_gadget_player">Musique</string>
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
+    <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
+    <string name="announce_for_create_folder_with_app">Créé un dossier avec %1$s</string>
+    <string name="announce_for_widget_span">Largeur %1$d, hauteur %2$d</string>
+    <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
+    <string name="recommend_refresh">Actualiser</string>
+    <string name="recommend_xout">Ne pas afficher</string>
 </resources>

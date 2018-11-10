@@ -28,6 +28,14 @@
         <item quantity="other">Code PUK incorrect, %d tentatives restantes</item>
         <item quantity="one">Code PUK incorrect, %d tentative restante</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">"Entrer le mot de passe est requis après %d heures d'inactivité"</item>
+        <item quantity="one">"Entrer le mot de passe est requis après %d heure d'inactivité"</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">"Dessiner le schéma est requis après %d heures d'inactivité"</item>
+        <item quantity="one">"Dessiner le schéma est requis après %d heure d'inactivité"</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Environ %d heures restantes</item>
         <item quantity="one">Environ %d heure restante</item>

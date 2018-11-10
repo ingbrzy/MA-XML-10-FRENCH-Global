@@ -76,9 +76,9 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"L'accès réseau est restreint pour &lt;font color='#ff0000'>%d&lt;/font> applications"</item>
         <item quantity="one">"L'accès réseau est restreint pour &lt;font color='#ff0000'>%d&lt;/font> application"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d applications ne fonctionnent pas normalement et déchargent la batterie</item>
-        <item quantity="one">%d application ne fonctionne pas normalement et décharge la batterie</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d locked apps</item>
+        <item quantity="one">%d locked app</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d Jours "</item>
@@ -121,8 +121,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d problème de batterie détecté, réparer</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+        <item quantity="other">La batterie a été déchargée de %2$d%% dans les %1$d dernières minutes</item>
+        <item quantity="one">La batterie a été déchargée de %2$d%% dans les %1$d dernière minute</item>
     </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">éléments</item>

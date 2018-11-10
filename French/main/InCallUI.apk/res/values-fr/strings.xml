@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">Téléphone</string>
     <string name="unknown">Inconnu</string>
     <string name="private_num">Numéro masqué</string>
     <string name="payphone">Cabine téléphonique</string>

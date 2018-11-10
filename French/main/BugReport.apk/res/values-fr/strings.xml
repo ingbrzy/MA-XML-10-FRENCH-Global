@@ -57,6 +57,7 @@
     <string name="save_pic_success">Image sauvegardée dans %s</string>
     <string name="save_pic_fail">"Impossible de sauvegarder l'image, vérifiez votre carte SD"</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Sélectionnez un produit</string>
     <string name="michat_skillset_business_type_title">Sélectionnez le service</string>
     <string name="michat_close_text">Conversation terminée</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Annuler</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
-    <string name="submit_dialog_content"><Data>Vos commentaires, ainsi que les pièces jointes et les journaux, seront envoyés aux serveurs de MIUI. Il peut contenir des informations personnelles et vos données de localisation. Choisir \"Agree\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">" "<Data> Vos commentaires, ainsi que les pièces jointes et les journaux, seront envoyés aux serveurs de MIUI. Il peut contenir des informations personnelles et vos données de localisation. Choisir \"Agree\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
+    <string name="submit_dialog_content_global">" "<Data> Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
     <string name="tab_title_preferences">Paramètres</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Journal de modem capturé</string>
     <string name="modem_tool_log_finish_desc">Journal enregistré sous %s</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content"><Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">" "<Data> Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
     <string name="bugreport_dump_start_notification_title">"Création du journal d'erreurs…"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
@@ -289,8 +290,8 @@
     <string name="warning_field_invalid">Sélectionner un %1$s valide</string>
     <string name="min_error">Votre %1$s doit être plus long.</string>
     <string name="max_error">Votre %1$s doit être plus court.</string>
-    <string name="reply_option_log_hint">Optional</string>
-    <string name="reply_select_log_hint">Select log</string>
+    <string name="reply_option_log_hint">Facultatif</string>
+    <string name="reply_select_log_hint">Sélectionnez le journal</string>
     <string name="title_mi_family">Mi Home à proximité</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
     <string name="goon_feedback_main">Continuer</string>
@@ -330,34 +331,34 @@
     <string name="customer_service_apply">Demander le Service clientèle</string>
     <string name="customer_service_complain">Signaler le Service clientèle</string>
     <string name="customer_service_station">Localisations des services</string>
-    <string name="title_catch_full_log">Logs</string>
-    <string name="toast_catch_full_log_catching">You can only generate one log at a time.</string>
-    <string name="catch_full_log_item_title_signal">Phone, signal, and mobile networks</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi and Mi Drop</string>
-    <string name="catch_full_log_item_title_gps">Location services</string>
-    <string name="catch_full_log_item_title_audio">Audio, sound recording, and call audio</string>
-    <string name="catch_full_log_item_title_sensor">Sensors</string>
+    <string name="title_catch_full_log">Journaux</string>
+    <string name="toast_catch_full_log_catching">Vous pouvez seulement générer un journal à la fois.</string>
+    <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux mobile</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi et Mi Drop</string>
+    <string name="catch_full_log_item_title_gps">Services de localisation</string>
+    <string name="catch_full_log_item_title_audio">Audio, enregistrement audio et appel audio</string>
+    <string name="catch_full_log_item_title_sensor">Capteurs</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
-    <string name="catch_full_log_item_title_dump_heap">Lagging</string>
-    <string name="catch_full_log_item_content_need_open">"Steps:
-1. Tap \"Generate log\".
-2. Go back to the feature you want to report and reproduce it.
-3. Come back to this page and tap \"Finish and upload\"."</string>
-    <string name="catch_full_log_item_content_catch_direct">"Steps:
-1. Go back to the feature you want to report and reproduce it.
-2. Come back to this page and tap \"Finish and upload\"."</string>
-    <string name="catch_full_log_action_start">Generate log</string>
-    <string name="catch_full_log_action_complete">Finish and upload</string>
-    <string name="catch_full_log_action_cancel">Cancel</string>
-    <string name="catch_full_log_dialog_content">"MIUI is generating a log. This might affect the overall productivity of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
-    <string name="catch_full_log_dialog_confirm_text">Go to Home screen</string>
-    <string name="catch_full_log_notification_title">Generating log…</string>
-    <string name="catch_full_log_notification_content">Tap to go back to logs</string>
-    <string name="catch_full_log_start_dump_hprof">Generate lagging log</string>
-    <string name="catch_full_log_dump_hprof_failed">"Couldn't generate lagging log"</string>
-    <string name="catch_full_log_add_original_photo">Add photo</string>
-    <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
-    <string name="catch_full_log_submit_directly">Submit</string>
-    <string name="catch_full_log_add_photo">Add photo</string>
+    <string name="catch_full_log_item_title_dump_heap">Décalage</string>
+    <string name="catch_full_log_item_content_need_open">"Étapes:
+1. Appuyez sur \"Générer le journal\".
+2. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
+3. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">"Étapes:
+1. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
+2. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
+    <string name="catch_full_log_action_start">Générer le journal</string>
+    <string name="catch_full_log_action_complete">Terminer et mettre en ligne</string>
+    <string name="catch_full_log_action_cancel">Annuler</string>
+    <string name="catch_full_log_dialog_content">MIUI génère un journal. Cela pourrait affecter la productivité globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
+    <string name="catch_full_log_dialog_confirm_text">"Aller à l'écran d'accueil"</string>
+    <string name="catch_full_log_notification_title">Génération du journal…</string>
+    <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
+    <string name="catch_full_log_start_dump_hprof">Générer un journal décalé</string>
+    <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
+    <string name="catch_full_log_add_original_photo">Ajouter une photo</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant?"</string>
+    <string name="catch_full_log_submit_directly">Envoyer</string>
+    <string name="catch_full_log_add_photo">Ajouter une photo</string>
     <string name="select_system_app_tag">Sélectionner un problème</string>
 </resources>

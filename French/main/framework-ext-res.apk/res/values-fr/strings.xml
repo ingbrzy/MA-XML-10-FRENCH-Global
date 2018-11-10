@@ -132,9 +132,10 @@
     <string name="security_permission_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
     <string name="security_permission_network_failed_text">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
-    <string name="security_permission_open_wifi_settings">Open Wi-Fi settings</string>
+    <string name="security_permission_open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Sélectionner une application</string>
     <string name="user_switching_dialog_text">Changement…</string>
+    <string name="xspace_head">Application clônée</string>
     <string name="activity_package_delete_confirm_title">Attention</string>
     <string name="button_text_cancel">Annuler</string>
     <string name="button_text_delete">Désinstaller</string>
