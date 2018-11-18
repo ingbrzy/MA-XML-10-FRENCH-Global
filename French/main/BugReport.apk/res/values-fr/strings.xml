@@ -57,6 +57,7 @@
     <string name="save_pic_success">Image sauvegardée dans %s</string>
     <string name="save_pic_fail">"Impossible de sauvegarder l'image, vérifiez votre carte SD"</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Sélectionnez un produit</string>
     <string name="michat_skillset_business_type_title">Sélectionnez le service</string>
     <string name="michat_close_text">Conversation terminée</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Annuler</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
-    <string name="submit_dialog_content">" "<Data> Vos commentaires, ainsi que les pièces jointes et les journaux, seront envoyés aux serveurs de MIUI. Il peut contenir des informations personnelles et vos données de localisation. Choisir \"Agree\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
+    <string name="submit_dialog_content"><Data>Vos commentaires, ainsi que les pièces jointes et les journaux, seront envoyés aux serveurs de MIUI. Il peut contenir des informations personnelles et vos données de localisation. Choisir \"Agree\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
     <string name="tab_title_preferences">Paramètres</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Journal de modem capturé</string>
     <string name="modem_tool_log_finish_desc">Journal enregistré sous %s</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>. </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">"Création du journal d'erreurs…"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">Terminé</string>
     <string name="feedback_title">Titre</string>
     <string name="feedback_description">Description</string>
-    <string name="feedback_select_images">Ajouter des images</string>
+    <string name="feedback_select_images">Ajouter une image ou une vidéo courte</string>
     <string name="feedback_delete_images">Supprimer des messages</string>
     <string name="feedback_select_upload_log">Ajouter des journaux</string>
     <string name="feedback_select_modem_log">Ajouter les journaux du modem</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">"Ce sujet n'existe pas, il a été supprimé ou modifié."</string>
     <string name="toast_log_not_exists">"Le journal requis a été supprimé ou n'existe pas"</string>
     <string name="toast_pic_not_exists">"L'image en cache a été supprimée"</string>
-    <string name="toast_screenshot_too_large">Impossible de charger des fichiers de plus de 10 Mo.</string>
-    <string name="toast_log_too_large">"Impossible d'ajouter. Le fichier est trop gros."</string>
+    <string name="toast_screenshot_too_large">"Impossible d'envoyer des images ou vidéos de plus de 10 Mo."</string>
+    <string name="toast_log_too_large">"Impossible d'envoyer. Le journal est trop gros."</string>
     <string name="title_customer_service">Service clientèle</string>
+    <string name="title_first_aid">Premiers secours</string>
     <string name="customer_service_apply">Demander le Service clientèle</string>
     <string name="customer_service_complain">Signaler le Service clientèle</string>
     <string name="customer_service_station">Localisations des services</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
     <string name="catch_full_log_start_dump_hprof">Générer un journal décalé</string>
     <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
-    <string name="catch_full_log_add_original_photo">Ajouter une photo</string>
+    <string name="catch_full_log_add_original_photo">Ajouter une image originale ou une vidéo courte</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant?"</string>
     <string name="catch_full_log_submit_directly">Envoyer</string>
     <string name="catch_full_log_add_photo">Ajouter une photo</string>

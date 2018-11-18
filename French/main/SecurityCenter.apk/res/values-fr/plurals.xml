@@ -77,8 +77,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">"L'accès réseau est restreint pour &lt;font color='#ff0000'>%d&lt;/font> application"</item>
     </plurals>
     <plurals name="om_locked_apps_title">
-        <item quantity="other">%d locked apps</item>
-        <item quantity="one">%d locked app</item>
+        <item quantity="other">%d applications bloquées</item>
+        <item quantity="one">%d application bloquée</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d Jours "</item>

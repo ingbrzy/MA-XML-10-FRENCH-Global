@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">Note</string>
     <string name="call_record_wait_label">En attente</string>
     <string name="contacts_icon_label">Contacts</string>
-    <string name="conference_call_number">%s personnes</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
     <string name="separate_from_conference">Séparer les appels</string>
     <string name="caller_manage_header">Conférence %s</string>
     <string name="incall_call_type_label_sip">Appel Internet</string>
     <string name="incoming_call_forwarded_title">Transférer les appels entrants</string>
-    <string name="call_title_redialing_with_times">Recomposer %d fois</string>
     <string name="card_title_dialing">Appel en cours</string>
     <string name="card_title_conf_call">Conférence téléphonique</string>
     <string name="card_title_video_conf_call">Appel Vidéoconférence</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">"Vous avez rejeté l'autorisation d'enregistrement, impossible d'enregistrer."</string>
     <string name="call_contacts_deny_permission_msg">"Vous avez rejeté la permission de la lecture des contacts, impossible d'afficher les informations de contacts."</string>
     <string name="conference_call_recorder_title">Conférence téléphonique</string>
-    <string name="antispam_marked_count">Rapporté par %1$d utilisateurs MIUI</string>
     <string name="antispam_local_marked">Marqué localement</string>
     <string name="antispam_provider">Identifié par %s</string>
     <string name="antispam_notification_title">Numéro inconnu</string>

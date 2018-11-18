@@ -56,7 +56,7 @@
     <string name="anniversary_event_title">Anniversaire : %1$s</string>
     <string name="anniversary_secondary_tag">Anniversaire</string>
     <string name="app_label">Agenda</string>
-    <string name="app_not_found">"Couldn't find selected app"</string>
+    <string name="app_not_found">"Impossible d'ouvrir l'appli sélectionnée"</string>
     <string name="birthday_born">date de naissance</string>
     <string name="birthday_calendar_display_name">"Rappels d'anniversaire"</string>
     <string name="birthday_event_description_a_week_ago">Il y a une semaine</string>
@@ -94,7 +94,7 @@
     <string name="card_manager_no_data">"Aucun abonnement pour l'instant"</string>
     <string name="card_title_change">Plus</string>
     <string name="change_response_title">Changer la réponse</string>
-    <string name="click_to_share">Tap to Share</string>
+    <string name="click_to_share">Appuyer pour partager</string>
     <string name="countdown_event_title">Minuteur : %1$s</string>
     <string name="countdown_notify_before_3_day_title">Minuteur : %1$s dans 3 jours</string>
     <string name="countdown_notify_title">Minuteur : %1$s</string>
@@ -195,13 +195,13 @@
     <string name="event_title">Titre</string>
     <string name="event_view">"Voir l'événement"</string>
     <string name="every_weekday">Lundi au vendredi</string>
-    <string name="fb_birthday_failure">"Couldn't import birthdays from Facebook. Try again."</string>
+    <string name="fb_birthday_failure">"Impossible d'importer les anniversaires depuis Facebook. Veuillez réessayez."</string>
     <string name="fb_birthday_success">Importation des anniversaire depuis Facebook réussie</string>
     <string name="fb_calendar_account_name">Agenda local Mi</string>
     <string name="fb_calendar_display_name">Anniversaires des amis Facebook</string>
     <string name="fb_calendar_owner_account">Agenda Mi</string>
     <string name="festival_detail_title">Festival</string>
-    <string name="file_exception">An error occurred</string>
+    <string name="file_exception">"Une erreur s'est produite"</string>
     <string name="force_touch_title_add_new_event">Ajouter un événement</string>
     <string name="from_google_group_calendar">Agenda de Google</string>
     <string name="gadget_no_events">"Aucun événement d'agenda à venir"</string>
@@ -224,11 +224,11 @@
     <string name="holiday_card_title">En ce jour</string>
     <string name="holiday_detail_read_more">Plus</string>
     <string name="horoscope_select_activity_label">Sélectionner un signe zodiaque</string>
-    <string name="image_processing">"Image isn't ready yet"</string>
+    <string name="image_processing">"L'image n'est pas encore prête"</string>
     <string name="import_action">Importer</string>
     <string name="import_birthday">Importer anniversaire</string>
     <string name="imported">Importé</string>
-    <string name="importing">Importing…</string>
+    <string name="importing">Importation…</string>
     <string name="insert_event_dialog_btn_negative">Non</string>
     <string name="insert_event_dialog_btn_positive">Oui</string>
     <string name="insert_event_dialog_message">Ajouter cet événement au calendrier ?</string>
@@ -279,7 +279,7 @@
     <string name="no_network">"Impossible de se connecter au réseau. 
 Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="no_network_btn">Veuillez réessayer</string>
-    <string name="no_storage">Not enough storage space</string>
+    <string name="no_storage">Espace de stockage insuffisant</string>
     <string name="no_title_label">(Aucun titre)</string>
     <string name="no_visiable_calendar_message">"Vous devez ajouter un compte d'agenda. Appuyez sur \"Ajouter un compte\" pour continuer."</string>
     <string name="no_visiable_calendar_select_account">Ajouter un compte</string>
@@ -380,12 +380,12 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="setting_others">Supplémentaire</string>
     <string name="setting_title_about">À propos</string>
     <string name="setting_title_holiday_display">Afficher les vacances</string>
-    <string name="share_image">Share</string>
-    <string name="share_image_label">Share via</string>
+    <string name="share_image">Partager</string>
+    <string name="share_image_label">Partager via</string>
     <string name="share_title">Partager</string>
     <string name="show_day_view">Afficher le jour</string>
     <string name="start_date_calculate">Calculer</string>
-    <string name="storage_permission_denied">Allow access to storage first</string>
+    <string name="storage_permission_denied">"Autoriser l'accès au stockage d'abord"</string>
     <string name="subscribe_card">Abonnez-vous maintenant</string>
     <string name="subscribe_card_success">"Abonné avec succès ! Vérifiez les détails sur la page d'accueil."</string>
     <string name="subscribe_card_success_for_homepage">Abonné à “%1$s” avec succès</string>

@@ -13,8 +13,8 @@
         <item quantity="one">il y a %d jour</item>
     </plurals>
     <plurals name="aqi_all_city_cur_num">
-        <item quantity="other">Average of %1$s stations</item>
-        <item quantity="one">Average of %1$s station</item>
+        <item quantity="other">Moyenne de %1$s stations</item>
+        <item quantity="one">Moyenne de %1$s station</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Prévisions sur %1$s-jours</item>
