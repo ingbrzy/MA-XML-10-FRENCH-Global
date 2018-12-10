@@ -133,7 +133,6 @@
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
     <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
