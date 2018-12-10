@@ -264,4 +264,12 @@
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
+        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
+        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+    </plurals>
 </resources>

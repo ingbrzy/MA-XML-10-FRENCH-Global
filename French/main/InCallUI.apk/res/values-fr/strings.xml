@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Impossible de faire des appels. Assurez-vous que votre appareil est connecté à un réseau 4G avec prise en charge VoLTE</string>
     <string name="volume_boost_text">Volume amplifié avec succès</string>
+    <string name="supp_service_notification_call_waiting">Le numéro que vous avez composé est occupé. Veuillez patienter…</string>
 </resources>

@@ -264,6 +264,18 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"Patientez %d secondes et réessayez. "</item>
         <item quantity="one">"Patientez %d seconde et réessayez. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connecter au moins %d points</item>
+        <item quantity="one">Connecter au moins %d point</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Saisir au moins %d chiffres</item>
+        <item quantity="one">Saisir au moins %d chiffre</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Saisir au moins %d caractères</item>
+        <item quantity="one">Saisir au moins %d caractère</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d applications</item>
         <item quantity="one">%d application</item>

@@ -9,7 +9,7 @@
         <item quantity="one">Supprimer cette alarme ?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Supprimer ces fuseaux horaires ?</item>
+        <item quantity="other">Supprimer les fuseaux horaires sélectionnés ?</item>
         <item quantity="one">Supprimer ce fuseau horaire ?</item>
     </plurals>
     <plurals name="second">

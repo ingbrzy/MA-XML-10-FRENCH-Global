@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">"Appuyez pour régler l'exposition manuellement"</string>
     <string name="accessibility_shutter_button">Bouton de déclenchement</string>
     <string name="accessibility_intent_done_apply">Terminé</string>
-    <string name="accessibility_intent_done_retry">Reprendre</string>
+    <string name="accessibility_intent_done_retry">Recommencer</string>
     <string name="accessibility_review_thumbnail">Photo la plus récente</string>
     <string name="accessibility_camera_picker">"Basculer entre l'objectif avant et arrière"</string>
     <string name="accessibility_stereo_button">Ajustement de la mise au point</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">Afficher la grille</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
+    <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">Exposition</string>
     <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
     <string name="error_fail_to_start_audio_capture">"Impossible de démarrer l'enregistrement audio"</string>
     <string name="toast_start_audio_capture">Émettre un son pour prendre une photo</string>
     <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
-    <string name="toast_burst_snap_finished_summary">Prise en rafale effectuée, %1$s photos prises</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible d'utiliser le mode rafale quand l'enregistrement audio est activé"</string>
     <string name="time_lapse_error">Taille de vidéo non valide pour le temps de prise.</string>
     <string name="pref_camera_movie_solid_title">"Stabilisation d'image"</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">Le mode portait est désactivé</string>
     <string name="pref_camera_portrait_mode_entry_on">Le mode portait est activé</string>
     <string name="portrait_mode_lowlight_hint">Il fait trop sombre actuellement</string>
-    <string name="portrait_mode_too_close_hint">"S'éloigner de l'objet"</string>
+    <string name="portrait_mode_too_close_hint">"Éloignez-vous de l'objet"</string>
     <string name="portrait_mode_too_far_hint">"Placez l'objet à 2 mètres au plus"</string>
     <string name="portrait_mode_depth_effect_success_hint">Effet de profondeur</string>
     <string name="portrait_mode_use_hint">"Le mode Portrait brouille l'arrière-plan
 et fait ressortir les personnes à l'avant."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Essayez le mode Portrait.
 Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_camera_square_mode_title">Carré</string>
@@ -451,6 +451,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
@@ -554,7 +555,7 @@ Nettoyez la lentille pour un meilleur effet."</string>
     <string name="lighting_hint_title">Éclairage studio</string>
     <string name="lighting_hint_usage">"Vous pouvez utiliser les effets de l'éclairage studio
 en mode Portrait"</string>
-    <string name="lighting_hint_needed">"Placer votre objet à l'honneur"</string>
+    <string name="lighting_hint_needed">"Placer votre sujet à l'honneur"</string>
     <string name="lighting_hint_too_far">Rapprochez votre appareil photo</string>
     <string name="lighting_hint_too_close">Éloignez votre appareil photo</string>
     <string name="lighting_pattern_nature">Naturel</string>
@@ -569,5 +570,5 @@ en mode Portrait"</string>
     <string name="portrait_bokeh_text">Mode portrait</string>
     <string name="portrait_bokeh_first_tips">"Utilisez le mode Portrait pour rendre flou
  l'arrière-plan de vos photos"</string>
-    <string name="portrait_bokeh_tips">"Placez l'objet à 1.5 mètres au plus"</string>
+    <string name="portrait_bokeh_tips">"Placez l'objet à 1,5 mètres au plus"</string>
 </resources>

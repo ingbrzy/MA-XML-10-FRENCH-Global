@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -407,7 +409,7 @@ de l'opérateur"</string>
     <string name="tc_parse_error">"Impossible d'analyser les SMS"</string>
     <string name="tc_get_cmd_error">"Impossible d'obtenir le modèle"</string>
     <string name="tc_web_correct_error">"Impossible d'étalonner"</string>
-    <string name="main_daily_card_guide_dialog_title">Set data plan type</string>
+    <string name="main_daily_card_guide_dialog_title">Défini le type de forfait de données</string>
     <string name="main_daily_card_guide_dialog_summary">Vous pouvez choisir entre des forfaits quotidiens, mensuels et illimités. Définir le type de forfait de données maintenant ?</string>
     <string name="main_daily_card_guide_dialog_ok">Définir</string>
     <string name="firewall_activity_lable">"Restreindre l'utilisation des données par application"</string>
@@ -460,6 +462,7 @@ de l'opérateur"</string>
     <string name="not_limited_brand">Illimité</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
     <string name="pref_traffic_manage_title">Utilisation de données</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Forfait de donnée</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_category_title_other">Paramètres supplémentaires</string>
@@ -478,11 +481,8 @@ de l'opérateur"</string>
     <string name="pref_automatic_adjust">"Synchroniser l'utilisation des données de l'opérateur"</string>
     <string name="pref_open_adjust_traffic">"Mettre à jour l'utilisation de données chaque jour en utilisant les statistiques de votre opérateur"</string>
     <string name="pref_auto_adjust_traffic">Synchronisation automatique des statistiques</string>
-    <string name="pref_auto_adjust_settings">"Ajuster automatiquement les paramètres des statisques de l'utilisation des données"</string>
     <string name="pref_adjust_data_usage">Modèle de message opérateur</string>
     <string name="pref_adjust_data_usage_summary">"Après avoir changé le modèle d'étalonnage, MIUI l'utilisera afin d'obtenir les statistiques d'utilisation de données de votre opérateur"</string>
-    <string name="pref_adjust_data_usage_value">Changé</string>
-    <string name="pref_confirm_operator_setting">Assurez-vous que les infos que vous avez saisies sont correctes</string>
     <string name="pref_correction_setting">"Paramètres du modèle d'étalonnage"</string>
     <string name="pref_correction_setting_switch">"Utiliser un modèle d'étalonnage personnalisé"</string>
     <string name="pref_correction_sms_number">"Envoyer un SMS d'étalonnage à"</string>
@@ -501,7 +501,7 @@ de l'opérateur"</string>
     <string name="pref_traffic_daily_package">Forfait de données quotidien</string>
     <string name="pref_traffic_monthly_package">Forfait de données mensuel</string>
     <string name="pref_traffic_unlimited_package">Forfait de données illimitées</string>
-    <string name="pref_traffic_daily_package_brand">Daily data plan provider</string>
+    <string name="pref_traffic_daily_package_brand">Fournisseur de forfait de données quotidien</string>
     <string name="pref_avaible_traffic">Forfait de donnée</string>
     <string name="pref_daily_traffic">"Limite d'utilisation de données en heures pleines"</string>
     <string name="pref_special_package_setting">Personnaliser le forfait de données</string>
@@ -520,8 +520,8 @@ de l'opérateur"</string>
     <string name="daily_pkg_traffic">"Limite d'utilisation de données en heures pleines"</string>
     <string name="input_aviable_traffic">"Définir la limite d'utilisation des données"</string>
     <string name="pkg_traffic">"Définir la limite d'utilisation de données"</string>
-    <string name="dialog_change_package_type_title">Changing data plan type</string>
-    <string name="dialog_change_package_type_summary">Changing data plan type will reset all data usage settings (e.g. data limits) to their default values. Change data plan type now?</string>
+    <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
+    <string name="dialog_change_package_type_summary">La modification du type de forfait de données réinitialisera tous les paramètres dutilisation des données (ex:les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant?</string>
     <string name="free_traffic_settings">"Paramètres de l'utilisation de données en heures creuses"</string>
     <string name="free_time_traffic">"Limite d'utilisation de données en heures creuses"</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
@@ -565,19 +565,19 @@ de l'opérateur"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Ne plus afficher</string>
     <string name="traffic_setting_fragment_packege_type">Paramètres du forfait de données</string>
     <string name="traffic_setting_fragment_month_title">Forfait de données mensuel</string>
-    <string name="traffic_setting_fragment_month_summary">Mobile data and call minutes are updated monthly</string>
+    <string name="traffic_setting_fragment_month_summary">Les données mobiles et les minutes dappel sont mises à jour mensuellement</string>
     <string name="traffic_setting_fragment_daily_title">Forfait de données quotidien</string>
-    <string name="traffic_setting_fragment_daily_summary">Mobile data is updated daily</string>
+    <string name="traffic_setting_fragment_daily_summary">Les données mobiles sont mises à jour quotidiennement</string>
     <string name="traffic_setting_fragment_not_limited_title">Forfait de données illimitées</string>
-    <string name="traffic_setting_fragment_not_limited_summary">Unlimited mobile data options</string>
+    <string name="traffic_setting_fragment_not_limited_summary">Options de données mobiles illimitées</string>
     <string name="traffic_setting_fragment_next">Suivant</string>
-    <string name="daily_card_setting_fragment_daily_card_setting">Daily data plan settings</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">Paramètres du forfait de données quotidien</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Opérateur</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">"Sélectionner l'opérateur"</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">"MIUI will set data limits and apps with unlimited data according to the carrier you select. If your carrier isn't listed, select \"Other\" and set up your daily data plan manually."</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">MIUI définira des limites de données et des applications avec des données illimitées en fonction de lopérateur que vous sélectionnez. Si votre opérateur ne figure pas dans la liste, sélectionnez \"Autre\" et configurez manuellement votre forfait de données quotidien.</string>
     <string name="daily_card_setting_fragment_daily_package">Limite de données quotidiennes</string>
-    <string name="daily_card_setting_fragment_month_package">Monthly data package</string>
-    <string name="daily_card_setting_fragment_package_summary">If your daily data plan contains a monthly data package, it will be used before the daily package.</string>
+    <string name="daily_card_setting_fragment_month_package">Forfait de données mensuel</string>
+    <string name="daily_card_setting_fragment_package_summary">Si votre forfait de données quotidien contient un forfait de données mensuel, celui-ci sera utilisé avant le forfait quotidien.</string>
     <string name="data_usage_warning_body">"Appuyez pour voir les détails d'utilisation de données."</string>
     <string name="data_usage_mobile_limit_title">Limite de données mobiles atteinte</string>
     <string name="data_usage_limit_body">Appuyez pour activer les données mobiles.</string>
@@ -961,11 +961,12 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="om_settings_memory_occupy_notify_never">Jamais</string>
     <string name="om_lock_app_locked_app">Verrouillé</string>
     <string name="om_lock_app_unlocked_app">Déverrouillé</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Un boost de vitesse est nécessaire</string>
     <string name="om_running_locked_apps">"Applications en cours d'exécution verrouillées"</string>
     <string name="om_running_system_apps">Applications système en fonctionnement</string>
     <string name="om_running_third_apps">Applications tierces en fonctionnement</string>
-    <string name="om_locked_apps_summary">Locked apps will be ignored by the speed boost.</string>
+    <string name="om_locked_apps_summary">Les applications verrouillées seront ignorées par le boost de vitesse.</string>
     <string name="om_promotion">Pub</string>
     <string name="power_center_title">Utilisation de la batterie</string>
     <string name="power_center_back">Retour</string>
@@ -1010,6 +1011,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="usage_type_data_send">Données mobiles envoyées</string>
     <string name="usage_type_no_coverage">Temps sans signal</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur média</string>
     <string name="power_screen">Écran</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1105,6 +1107,12 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="btn_text_quick_save_power">Refroidir</string>
     <string name="notification_battery_consume_abnormal_title">La batterie se décharge trop rapidement</string>
     <string name="app_check_no_issue">"Il semble que la batterie n'a aucun problème. Tant mieux !"</string>
+    <string name="deep_power_save_item_title_auto_brightness">Activer luminosité auto</string>
+    <string name="deep_power_save_item_summary_auto_brightness">"Ajuster automatiquement la luminosité de l'écran pour économiser de la batterie"</string>
+    <string name="deep_power_save_item_title_bluetooth">Désactiver le Bluetooth</string>
+    <string name="deep_power_save_item_summary_bluetooth">Désactivez Bluetooth pour économiser la batterie</string>
+    <string name="deep_power_save_item_title_lock_screen_time">Mettre lécran en veille</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">"Mettre l'écran en veille après 30 secondes d'inactivité pour économiser de la batterie"</string>
     <string name="power_save_mode_enable">Économiseur de batterie</string>
     <string name="power_save_mode_summary">Surveiller les processus et désactiver la synchronisation.</string>
     <string name="power_optimize_save_mode_not_opened">"L'économiseur de batterie est désactivé"</string>
@@ -1226,12 +1234,17 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_list_item_auto_brightness">"Ajuster automatiquement la luminosité de l'écran"</string>
     <string name="power_center_list_item_deep_save_title">Paramètres avancés</string>
     <string name="power_center_list_item_battery_status_time">h</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">"Arrêter l'analyse"</string>
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètres d'utilisation de batterie"</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="extreme_power_save_mode_card_summary">"Activez le mode extrême pour économiser de l'énergie lorsque la batterie est faible."</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
     <string name="apps_list_header_title_sms_access">"Restreindre l'accès aux codes de vérification"</string>
@@ -1385,11 +1398,13 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_text_optimize_manage">Augmenter la vitesse</string>
     <string name="menu_text_networkassistants">Utilisation des données</string>
     <string name="menu_summary_networkassistants">Gérez votre forfait de données</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Vous avez dépassé la limite</string>
     <string name="menu_summary_networkassistants_3">Données restantes suffisantes</string>
     <string name="menu_summary_networkassistants_4">Être à court de données mobiles</string>
     <string name="menu_text_networkassistants_remain">%s restants</string>
     <string name="menu_text_networkassistants_danger">%s dépassé</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">Go</string>
     <string name="menu_text_networkassistants_unit_mb">Mo</string>
     <string name="menu_text_networkassistants_unit_kb">ko</string>
@@ -1402,12 +1417,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_summary_garbage_cleanup">Aucune corbeille trouvée</string>
     <string name="menu_summary_garbage_cleanup_2">Taille de la corbeille</string>
     <string name="menu_summary_garbage_cleanup_3">Vider la corbeille maintenant</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Utilisation de la batterie</string>
     <string name="menu_summary_power_manager">"L'économiseur de batterie vous donne plus de temps de entre vos charges"</string>
     <string name="menu_summary_power_manager_1">La batterie est complètement chargée</string>
     <string name="menu_summary_power_manager_2">%s restants</string>
     <string name="menu_summary_power_manager_3">Brancher le chargeur</string>
     <string name="menu_summary_power_manager_4">%s avant charge complète</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
     <string name="examination_score_100">Tout va bien !</string>
     <string name="examination_score_80_100">Quelques petites choses à optimiser</string>
@@ -1783,6 +1800,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="card_main_deepclean_wechat_action">Vider</string>
     <string name="card_main_sectool_title">Outils</string>
     <string name="card_main_monthreport_action">Afficher</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Tester le réseau</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="card_main_netcheck_action">Test</string>
@@ -1850,8 +1868,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="mixed_retry_button_text">Annuler</string>
     <string name="lockpattern_continue_button_text">Suivant</string>
     <string name="lockpattern_confirm_button_text">OK</string>
-    <string name="modifypassword">Changer de mot de passe</string>
-    <string name="back_modifypassword">Retourner au changement de mot de passe</string>
+    <string name="modifypassword">Modifier le type de mot de passe</string>
+    <string name="back_modifypassword">Retourner au changement du type de mot de passe</string>
     <string name="showpattern">Afficher le schéma</string>
     <string name="notification_mask_title">Masquer le contenu</string>
     <string name="notification_mask_summary">"Masquer le contenu des notifications sur l'écran de verrouillage et dans le panneau de notifications"</string>
@@ -1878,9 +1896,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="lockpattern_settings_help_how_to_record">Dessiner un schéma</string>
     <string name="numeric_settings_help_how_to_record">Comment définir un code PIN ?</string>
     <string name="mixed_settings_help_how_to_record">Comment définir un mot de passe ?</string>
-    <string name="lockpattern_recording_incorrect_too_short">Connecter au moins %d points</string>
-    <string name="numeric_recording_incorrect_too_short">Saisir au moins %d chiffres.</string>
-    <string name="mixed_recording_incorrect_too_short">Saisir au moins %d caractères.</string>
     <string name="lockpattern_recording_intro_header">Connecter au moins 4 points pour créer un schéma</string>
     <string name="numeric_recording_intro_header">Saisir le mot de passe</string>
     <string name="mixed_recording_intro_header">Saisir au moins 4 caractères</string>
@@ -1954,7 +1969,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
-    <string name="ad_split_screen_title">Veuillez basculer vers le mode plein écran pour déverrouiller</string>
+    <string name="ad_split_screen_title">Quitter lécran partagé pour déverrouiller</string>
     <string name="wakepath_confirm_start_activity">Autoriser %1$s à ouvrir %2$s ?</string>
     <string name="unlike">Non merci</string>
     <string name="toast_network_eror">Impossible de se connecter</string>
@@ -2099,14 +2114,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="app_manager_clear_cache">Vider le cache</string>
     <string name="app_manager_reset_app_preferences">"Réinitialiser les préférences de l'application"</string>
     <string name="app_manager_reset_app_preferences_title">"Réinitialiser les préférences de l'application ?"</string>
-    <string name="app_manager_reset_app_preferences_desc">"This will reset all preferences for:
+    <string name="app_manager_reset_app_preferences_desc">"Cette action réinitialisera toutes les préférences pour :
 
-"<li>Disabled apps</li>"
-"<li>Disabled app notifications</li>"
-"<li>Default apps</li>"
-"<li>Background data restrictions for apps</li>"
+ "<li>Applications désactivées</li>"
+ "<li>Notifications des applications désactivées</li>"
+ "<li>Applications par défaut pour les actions</li>"
+ "<li>"Restriction des données d'arrière-plan pour les applications"</li>"
 
-You will not lose any app data."</string>
+ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_manager_reset_app_preferences_button">Réinitialiser les applications</string>
     <string name="app_manager_disable_text">Désactiver</string>
     <string name="app_manager_enable_text">Activer</string>
@@ -2336,6 +2351,7 @@ You will not lose any app data."</string>
     <string name="gb_create_icon_summary">"Créez un raccourci sur l'écran d'accueil"</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_like">"J'aime"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Données mobiles</string>
     <string name="game_wid_viewpoint_buttom">Prendre une petite pause.</string>
     <string name="video_repeat">Rejouer</string>

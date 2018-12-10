@@ -46,9 +46,12 @@
     <string name="customization"><u>Personnaliser</u></string>
     <string name="home_hint_global_launcher">"Lanceur d'application POCO"</string>
     <string name="home_hint_other_launcher">"Autre lanceur d'application"</string>
-    <string name="self_device">"  de ce téléphone"</string>
-    <string name="main_space">Premier espace</string>
-    <string name="second_space">Second espace</string>
+    <string name="self_device_main_space">Premier espace de ce téléphone</string>
+    <string name="self_device_second_space">Second espace de ce téléphone</string>
+    <string name="other_device_main_space">Premier espace</string>
+    <string name="other_device_second_space">Second espace</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
@@ -130,14 +133,16 @@
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
     <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
     <string name="no_backup">Aucune sauvegarde dans Mi Cloud.</string>
     <string name="download_meta_failed">Impossible de charger les données.</string>
     <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
     <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
-    <string name="unsupported_home">Update MIUI to the latest version.</string>
-    <string name="error_retry_later">"Impossible de terminer l'action. Attendez une minute ou deux et essayez à nouveau ..."</string>
+    <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
+    <string name="error_retry_later">"Impossible de terminer l'action. Attendez une minute ou deux et essayez à nouveau…"</string>
     <string name="try_continue">Appuyez pour continuer</string>
     <string name="download_home_data">"Téléchargement de la disposition de l'écran d'accueil…"</string>
     <string name="restore_home_failed">"Impossible de restaurer l'écran d'accueil."</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
     <string name="dialog_btn_next">Suivant</string>
     <string name="dialog_btn_restore_skip">Restaurer plus tard</string>
+    <string name="dialog_btn_cancel_backup">Annuler</string>
+    <string name="dialog_btn_overwrite_backup">Écraser</string>
+    <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Mi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
     <string name="cloud_backup">Sauvegardes Mi Cloud</string>
     <string name="open_backup_switch">Basculer le bouton de sauvegarde</string>
     <string name="restore_cloud_backup_to_phone">Restaurer les éléments depuis Mi Cloud</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Mi Cloud. Réessayez.</string>
     <string name="btn_restore_retry">Veuillez réessayer</string>
     <string name="btn_restore_abort">Annuler</string>
+    <string name="backup_stopped_title">La sauvegarde était en pause</string>
+    <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
 </resources>

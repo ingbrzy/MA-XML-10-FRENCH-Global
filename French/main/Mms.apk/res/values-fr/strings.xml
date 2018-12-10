@@ -82,6 +82,16 @@
     <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisation avec Mi Cloud…</string>
     <string name="cmcc_privacy">"Accord de confidentialité de l'opérateur China Mobile"</string>
+    <string name="complain_input_number">Entrez votre numéro de téléphone</string>
+    <string name="complain_jump">Passer</string>
+    <string name="complain_message_title">Déposer une plainte</string>
+    <string name="complain_ok">OK </string>
+    <string name="complain_phone_number">numéro de téléphone</string>
+    <string name="complain_reason">Pourquoi signalez-vous ce message ?</string>
+    <string name="complain_success">Merci pour votre commentaire. Cela nous aide à améliorer la messagerie !</string>
+    <string name="complain_tips">"Le contenu du dernier message que vous signalez sera envoyé sur nos serveurs avec le numéro de téléphone que vous avez fourni. Nos fournisseurs de services examineront le message rapporté.
+"</string>
+    <string name="complain_upload">La plainte a été déposée</string>
     <string name="compressing">"L'image est trop grande. Compression..."</string>
     <string name="confirm">Ok</string>
     <string name="confirm_add_blacklist_dialog_dspt">Ajouter ce numéro à votre liste bloquée ?</string>
@@ -144,7 +154,6 @@
     <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
-    <string name="dialog_message_sms_report">"Les informations des messages indésirables et de l'expéditeur seront envoyées à MIUI lorsque vous les rapportez. Elles seront utilisées afin d'améliorer les filtres de messages indésirables MIUI."</string>
     <string name="dialog_title_fake_cell_detect_error">Correction</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>
@@ -179,7 +188,6 @@
     <string name="error_timed_msg">Heure non valide</string>
     <string name="ex_type_mx">Messages Mi</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">Taille maximale atteinte pour ce message.</string>
     <string name="exceed_message_size_limitation_add_slide">La taille du message est insuffisante pour ajouter une diapositive</string>
     <string name="exceed_message_text_limitation">Limite de longueur de texte du message atteint.</string>
@@ -202,6 +210,7 @@
     <string name="file_size">Taille :</string>
     <string name="file_title">Nom :</string>
     <string name="file_width_height">Taille :</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">Transférer de:</string>
     <string name="forward_message_select_title">Transférer le message</string>
@@ -214,15 +223,15 @@
     <string name="found_wild_messages_title">Synchroniser les messages depuis Mi Cloud</string>
     <string name="from_label">"De : "</string>
     <string name="from_pkg_name">"De l'application :"</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">Impossible denvoyer des messages. Vous nêtes pas membre de ce groupe de discussion.</string>
     <string name="group_message">Message groupé</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">Groupe de discussions</string>
+    <string name="group_not_exist_hint">Impossible denvoyer des messages. Ce groupe de discussion a été supprimé.</string>
+    <string name="group_notify_message_title">Notifications du groupe de discussion</string>
+    <string name="group_rejoin_failed">Impossible de joindre le groupe de discussion</string>
     <string name="group_resend_message">Renvoyer (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">Impossible dafficher les éléments. Ce groupe de discussion a été supprimé.</string>
+    <string name="group_view_settings_not_memeber">Impossible dafficher les éléments. Vous nêtes pas membre de ce groupe de discussion.</string>
     <string name="guild_add_attachments">"Appuyer pour ajouter des émoticônes et d'autres éléments"</string>
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
     <string name="guild_msim_switcher">Appuyer pour changer de carte SIM</string>
@@ -300,7 +309,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">Déplacer vers le bas</string>
     <string name="move_up">Déplacer vers le haut</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">Sélectionner au moins un contact</string>
     <string name="msg_type_hint_mms">Message multimédia (MMS)</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Messages Mi</string>
@@ -434,7 +443,6 @@
     <string name="pref_sms_storage_title">Stockage</string>
     <string name="pref_sms_theme_title">Affichage</string>
     <string name="pref_summary_allow_si_sl_push">Autoriser les messager à charger du contenu depuis des sites Web</string>
-    <string name="pref_summary_allow_upload_message_info">"Les informations de messages indésirables et de l'expéditeur seront envoyées à MIUI lorsque vous les rapportez."</string>
     <string name="pref_summary_auto_delete">Supprimez les anciens message lorsque la limite est atteinte</string>
     <string name="pref_summary_delete_limit">%1$s messages par fil</string>
     <string name="pref_summary_delivery_reports">"Afficher l'état de réception pour les messages envoyés"</string>
@@ -451,7 +459,6 @@
     <string name="pref_switch_sdk_setting">Changer prestataire de services SMS intelligents</string>
     <string name="pref_system_title">Système</string>
     <string name="pref_title_allow_si_sl_push">Autoriser WAP push (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">Charger les messages indésirables</string>
     <string name="pref_title_auto_delete">Supprimer les anciens messages</string>
     <string name="pref_title_card_format">Format de partage de la carte</string>
     <string name="pref_title_delivery_reports">Accusé de réception</string>
@@ -505,19 +512,19 @@
     <string name="rcs_auto_resend_sms">Convertir en SMS</string>
     <string name="rcs_auto_resume">Reprendre automatiquement les téléchargements interrompus</string>
     <string name="rcs_auto_resume_only_by_wifi">Reprendre les téléchargements uniquement lorsque connecté au Wi-Fi</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">Créer un groupe de discussion</string>
     <string name="rcs_dspt">Envoyer et recevoir des messages via Wifi ou le réseau China Mobile</string>
     <string name="rcs_dspt_unavailable">"Impossible d'utiliser cette fonctionnalité maintenant. La carte SIM de China Mobile n'est pas votre carte de données par défaut."</string>
     <string name="rcs_forward_faild">Impossible de transférer</string>
     <string name="rcs_forward_successful">Transféré avec succès</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">Invitation au groupe de discussion</string>
     <string name="rcs_message">Messagerie China Mobile</string>
     <string name="rcs_message_disable">Impossible de voir ce message dans le second espace</string>
     <string name="rcs_msg">Messagerie China Mobile</string>
     <string name="rcs_not_online">"Impossible d'utiliser la meswagerie China Mobile. Vérifiez les paramètres réseau puis réessayez."</string>
     <string name="rcs_offline_hint">La messagerie China Mobile est hors-ligne. Impossible de transférer ce message.</string>
     <string name="rcs_recipient_type_contact">Transférer au contact</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">Transférer au groupe de discussion</string>
     <string name="rcs_recipient_type_pc">"Transférer vers l'ordinateur"</string>
     <string name="rcs_resend_not_online">"Impossible d'utiliser la messagerie de China Mobile"</string>
     <string name="rcs_resend_sim_card_not_insert">"Il semble que votre carte SIM n'est pas installée"</string>
@@ -634,6 +641,7 @@
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
     <string name="send_to">Envoyer à :</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Envoyé à : %1s</string>
     <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
@@ -665,7 +673,6 @@
     <string name="sms_full_title">Mémoire pleine</string>
     <string name="sms_rejected_body">Un SMS entrant a été rejeté.</string>
     <string name="sms_rejected_title">SMS rejeté</string>
-    <string name="sms_report">Rapporter les messages indésirables</string>
     <string name="sms_report_dialog_content">"Impossible d'envoyer le rapport, réessayer."</string>
     <string name="sms_report_dialog_retry">Réessayer</string>
     <string name="sms_report_dialog_title">Réessayer</string>

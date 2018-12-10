@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Signal Wi-Fi excellent</string>
     <string name="accessibility_wifi_security_type_none">Réseau ouvert</string>
     <string name="accessibility_wifi_security_type_secured">Réseau sécurisé</string>
+    <string name="process_kernel_label">Plate-forme Android</string>
     <string name="data_usage_uninstalled_apps">Applications supprimées</string>
     <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
     <string name="tether_settings_title_usb">Partage connexion Bluetooth par USB</string>
@@ -433,7 +434,7 @@ Qualité de lecture"</string>
     <string name="answer_incoming_call">Répondre</string>
     <string name="decline_incoming_call">Refuser</string>
     <string name="cant_call_due_to_ongoing_call">"Impossible d'appeler à cause d'un appel en cours dans %1$s."</string>
-    <string name="cant_call_due_to_ongoing_calls">"Impossible d'appeler à cause d'autres appels en cours dans %1$s."</string>
+    <string name="cant_call_due_to_ongoing_calls">Impossible de passer un appel. Terminez dabord votre %1$s appel .</string>
     <string name="cant_call_due_to_ongoing_unknown_call">"Impossible d'appeler à cause d'un appel en cours dans une autre appli."</string>
     <string name="notification_channel_incoming_call">Appels entrants</string>
     <string name="notification_channel_missed_call">Appels manqués</string>
