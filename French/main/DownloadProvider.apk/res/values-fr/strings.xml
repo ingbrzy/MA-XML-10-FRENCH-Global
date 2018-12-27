@@ -25,7 +25,7 @@
     <string name="notification_download_failed">Échec de téléchargement de éléments.</string>
     <string name="notification_need_wifi_for_size">La taille du téléchargement nécessite un réseau Wi-Fi.</string>
     <string name="notification_paused_in_background">Mis en pause en arrière-plan.</string>
-    <string name="wifi_required_title">Le ficheir est trop large pour le télécharger avec les données mobiles</string>
+    <string name="wifi_required_title">Le fichier est trop large pour le télécharger avec les données mobiles</string>
     <string name="wifi_required_body" formatted="false">"Vous devez utiliser une connexion Wi-Fi pour terminer ce téléchargement de %s.
 
 Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous vous connectez à un réseau Wi-Fi."</string>
