@@ -13,8 +13,8 @@
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Quotidiennement</item>
-        <item>Jours ouvrés</item>
-        <item>Jours fériés</item>
+        <item>Jours ouvrables</item>
+        <item>Jours de congé</item>
         <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
     </string-array>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>"Réduisez les activités à l'extérieur."</item>
-        <item>"Les chaussées sont glissantes aujourd'hui."</item>
-        <item>Le temps est orageux, soyez prudent.</item>
-        <item>"C'est brumeux aujourd'hui. Conduisez de manière responsable."</item>
-        <item>"L'air est pollué, veuillez porter un masque."</item>
-        <item>Prenez un parapluie si vous sortez.</item>
-        <item>Faites attention sur la route.</item>
-        <item>"Il grêle aujourd'hui, soyez prudent."</item>
-        <item>"Une tempête de sable s'annonce, veuillez porter un masque."</item>
-        <item>Bonne journée !</item>
     </string-array>
 </resources>

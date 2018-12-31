@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">"Chaque fois que MIUI détecte que vous dormez, il fermera les applications en arrière-plan, restreindra l'utilisation du Bluetooth, GPS, des données mobiles et du réseau Wi-Fi puis n'allumera pas l'écran à la réception des notifications."</string>
     <string name="nonui_mode_config_title">Mode non interactif</string>
     <string name="nonui_mode_config_description">"Ne pas allumer l'écran pour les notifications, désactiver le voyant lumineux, le capteur d'empreintes digitales ainsi que les touches de contrôle afin d'économiser la batterie lorsque MIU détecte que vous n'utilisez pas votre appareil."</string>
-    <string name="power_center">Énergie</string>
+    <string name="power_center">Utilisation de la batterie</string>
     <string name="power_usage">"Consommation d'énergie"</string>
     <string name="power_mode">"Paramètres de gestion d'énergie"</string>
     <string name="performance_category">Performance</string>
@@ -97,4 +97,13 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="atrace_start">Enregistrement du journal atrace…</string>
     <string name="atrace_saving">Sauvegarde en cours du journal atrace…</string>
     <string name="atrace_saved">Enregistré avec succès</string>
+    <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
+    <string name="extreme_power_settings_title">settings</string>
+    <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
+    <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
+    <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
+    <string name="extreme_add_white_list_title">Background exceptions</string>
+    <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
+    <string name="adaptive_battery_title">Use Adaptive Battery</string>
+    <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
 </resources>

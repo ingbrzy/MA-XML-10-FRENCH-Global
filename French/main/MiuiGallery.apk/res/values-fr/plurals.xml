@@ -56,6 +56,10 @@
         <item quantity="other">Reprendre la sauvegarde dans %d heures</item>
         <item quantity="one">Reprendre la sauvegarde dans %d heure</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
+        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d photo ou vidéo | En pause</item>
         <item quantity="one">%d photo ou vidéo | En pause</item>
@@ -260,16 +264,12 @@
         <item quantity="other">"N'a pas sauvegardé %d photos ou vidéos"</item>
         <item quantity="one">"N'a pas sauvegardé %d photo ou vidéo"</item>
     </plurals>
-    <plurals name="sync_total_count">
-        <item quantity="other">%d éléments</item>
-        <item quantity="one">%d élément</item>
-    </plurals>
-    <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
-        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
-    </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
         <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
     </plurals>
 </resources>

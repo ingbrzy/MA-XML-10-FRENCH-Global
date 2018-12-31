@@ -2,7 +2,7 @@
 <resources>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_firewall_setting">Liste noire</string>
-    <string name="activity_not_found">"Aucune application n'a été trouvée pour gérer cette action"</string>
+    <string name="activity_not_found">Aucune application trouvée pour effectuer cette action</string>
     <string name="activity_not_found_uri">"Aucune application n'a été trouvée pour gérer cette action"</string>
     <string name="addBlackList">Bloquer</string>
     <string name="add_attachment">Ajouter une pièce jointe</string>
@@ -25,6 +25,8 @@
     <string name="adding_recipients">Ajout de destinataires…</string>
     <string name="alert_dlg_cancel_button">Annuler</string>
     <string name="alert_dlg_ok_button">OK</string>
+    <string name="allow_network_hint">Activer \"Mettre à jour les infos automatiquement\" ou vérifier votre connexion réseau</string>
+    <string name="already_updated">À jour</string>
     <string name="app_label">Messages</string>
     <string name="app_name">Appareils</string>
     <string name="attach_image">Images</string>
@@ -54,6 +56,7 @@
     <string name="bookmark_confirm_delete_message">Supprimer les messages sélectionnés des favoris ?</string>
     <string name="bookmark_empty">Pas de messages dans les favoris</string>
     <string name="bookmark_list_title">Favoris</string>
+    <string name="button_close">Fermer</string>
     <string name="button_emoji_creature">"Émoticônes d'animaux"</string>
     <string name="button_emoji_lifestyle">Émoticônes de loisirs</string>
     <string name="button_emoji_smiley">Émoticônes de visage</string>
@@ -77,16 +80,22 @@
     <string name="change_duration_activity">Changer la durée</string>
     <string name="check_all">Tout sélectionner</string>
     <string name="class_0_message_activity">Message catégorie 0</string>
+    <string name="click_to_update">Appuyez pour vérifier les mises à jour</string>
     <string name="close">Fermer</string>
     <string name="cloud_state_disabled">Activez la synchronisation avec Mi Cloud pour synchroniser les messages</string>
     <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisation avec Mi Cloud…</string>
+    <string name="cm_privacy_dialog_allow">Accepter</string>
+    <string name="cm_privacy_dialog_cancel">Annuler</string>
+    <string name="cm_privacy_dialog_spannable_tips">Politique de Confidentialité</string>
+    <string name="cm_privacy_dialog_tips">Les services de messagerie intelligente sont fournis par votre opérateur. La messagerie doit se connecter à Internet et accéder à votre localisation pour pouvoir fournir ces services. Vous devez accepter les %1s de votre opérateur avant de commencer à utiliser ces services. Acceptez-vous?</string>
+    <string name="cm_privacy_dialog_title">Attention</string>
     <string name="cmcc_privacy">"Accord de confidentialité de l'opérateur China Mobile"</string>
     <string name="complain_input_number">Entrez votre numéro de téléphone</string>
     <string name="complain_jump">Passer</string>
-    <string name="complain_message_title">Déposer une plainte</string>
+    <string name="complain_message_title">Rapporter</string>
     <string name="complain_ok">OK </string>
-    <string name="complain_phone_number">numéro de téléphone</string>
+    <string name="complain_phone_number">Numéro de téléphone (optionnel)</string>
     <string name="complain_reason">Pourquoi signalez-vous ce message ?</string>
     <string name="complain_success">Merci pour votre commentaire. Cela nous aide à améliorer la messagerie !</string>
     <string name="complain_tips">"Le contenu du dernier message que vous signalez sera envoyé sur nos serveurs avec le numéro de téléphone que vous avez fourni. Nos fournisseurs de services examineront le message rapporté.
@@ -102,7 +111,7 @@
     <string name="confirm_delete_group_message">Supprimer ce groupe de messages ?</string>
     <string name="confirm_delete_locked_message">Supprimer ce message verrouillé ?</string>
     <string name="confirm_delete_message">Supprimer ce message ?</string>
-    <string name="confirm_dialog_locked_title">Supprimer le message verrouillé?</string>
+    <string name="confirm_dialog_locked_title">Supprimer les messages verrouillés ?</string>
     <string name="confirm_dialog_title">Supprimer ?</string>
     <string name="confirm_dlg__msg">Note de CMCC : les services et assistance de CMCC ne seront pas fournis si vous annulez. Annuler quand même ?</string>
     <string name="confirm_dlg_title">"Gestion de l'appareil"</string>
@@ -136,10 +145,11 @@
     <string name="converting_to_text_message">Conversion en SMS…</string>
     <string name="converting_vcard_failed">Impossible de convertir le contact</string>
     <string name="copy_message_text">Copier</string>
-    <string name="copy_message_text_success">Texte copié</string>
+    <string name="copy_message_text_success">Copie réussie</string>
     <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>
     <string name="copy_to_sdcard_fail">"Impossible d'enregistrer la pièce jointe"</string>
     <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
+    <string name="current_data_version">Version de Message Mi</string>
     <string name="delete">Supprimer</string>
     <string name="delete_bookmark">Retirer des favoris</string>
     <string name="delete_message">Supprimer</string>
@@ -210,6 +220,7 @@
     <string name="file_size">Taille :</string>
     <string name="file_title">Nom :</string>
     <string name="file_width_height">Taille :</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">Transférer de:</string>
     <string name="forward_message_select_title">Transférer le message</string>
@@ -237,7 +248,7 @@
     <string name="has_invalid_recipient">Destinataires non valides : &lt;%1$s></string>
     <string name="hidden_sender_address">"Adresse d'expéditeur masquée"</string>
     <string name="hold_to_talk">Maintenir pour parler</string>
-    <string name="hybrid_check_network">Paramètres réseau</string>
+    <string name="hybrid_check_network">Paramètres du réseau</string>
     <string name="hybrid_data_error">Une erreur est survenue</string>
     <string name="hybrid_locating_fail">Impossible de trouver votre position</string>
     <string name="hybrid_network_access_denied">Accès réseau refusé</string>
@@ -248,6 +259,7 @@
     <string name="hybrid_service_unavailiable">Service indisponible</string>
     <string name="hybrid_try_again">Veuillez réessayer</string>
     <string name="i_know">"C'est compris"</string>
+    <string name="imageview_ad">Pub</string>
     <string name="importing_progress_private_message">Importation…</string>
     <string name="in_sms">Message</string>
     <string name="insufficient_drm_rights">Privilèges GDN insuffisants détectés.</string>
@@ -304,8 +316,10 @@
     <string name="message_too_big_for_video">Impossible de joindre une vidéo. Le message est trop volumineux.</string>
     <string name="message_type_label">"Type : "</string>
     <string name="messagelist_sender_self">Moi</string>
+    <string name="messaging">Messages</string>
     <string name="millionbyte">Mo</string>
     <string name="mms">MMS</string>
+    <string name="more">Plus</string>
     <string name="move_down">Déplacer vers le bas</string>
     <string name="move_up">Déplacer vers le haut</string>
     <string name="msg_no_member_selected">Sélectionner au moins un contact</string>
@@ -363,6 +377,7 @@
     <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir les SMS réguliers venant de numéros inconnus. Vous pouvez activer ou désactiver cette fonctionnalité à n'importe quel moment dans Messages > Paramètres."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquez les Mi Messages venant de numéros inconnus</string>
     <string name="mx_filter_message_from_stranger_summary">Vous pourrez toujours recevoir des SMS réguliers venant de numéros inconnus</string>
+    <string name="mx_message">Message Mi</string>
     <string name="mx_msg">Messages Mi</string>
     <string name="mx_msg_pageview_setting_title">Paramètres Message Mi</string>
     <string name="mx_offline">Hors ligne</string>
@@ -374,6 +389,7 @@
     <string name="mx_stranger_recommend_msg">Appuyez pour bloquer les Messages Mi de numéros inconnus</string>
     <string name="mx_type_guide">Envoyer des messages aux autres utilisateurs MIUI sans encourir de frais</string>
     <string name="need_download">Synchro...</string>
+    <string name="net_sms_unsubscribe">Abonnement annulé</string>
     <string name="network_error_description">Une erreur réseau est survenue. Patientez une minute ou deux et essayez à nouveau.</string>
     <string name="networking_allow_continue">Autoriser</string>
     <string name="networking_allow_desc">"Mi Message doit se connecter à Internet pour fonctionner normalement. Dans le but de fournir des services vocaux et de textes gratuits, reconnaître des numéros inconnus, filtrer les courriers indésirables et activer d'autres fonctionnalités, Mi Message doit utiliser les Pages jaunes. Autoriser les Pages jaunes à se connecter à Internet, obtenir vos informations de localisation et lire vos contacts ?"</string>
@@ -412,6 +428,7 @@
     <string name="open_url_with_web">"Permettre d'ouvrir l'URL avec Internet ?"</string>
     <string name="over_max_mms_size">Le MMS est trop gros.</string>
     <string name="overwrite_edited_content">Le contenu que vous avez modifié sera remplacé.</string>
+    <string name="packages_select_sim_cards_title">Sélectionner une carte SIM</string>
     <string name="phrase_confirm_delete_message">Cette réponse sera supprimée</string>
     <string name="phrase_empty">Aucune réponse</string>
     <string name="phrase_from">Depuis %1s</string>
@@ -561,6 +578,9 @@
     <string name="remove_slide">Supprimer la diapositive</string>
     <string name="remove_text">Supprimer le texte</string>
     <string name="remove_video">Supprimer la vidéo</string>
+    <string name="repayment_network_error">Une erreur de réseau est intervenue</string>
+    <string name="repayment_title">Remboursement</string>
+    <string name="repayment_way">Méthode de remboursement</string>
     <string name="replace">Remplacer</string>
     <string name="replace_image">"Remplacer l'image"</string>
     <string name="reply_button_msg">Répondre</string>
@@ -617,8 +637,10 @@
     <string name="security_alert_dialog_title">Rapport</string>
     <string name="select_audio">Sélectionnez un fichier audio</string>
     <string name="select_bottom_text">Texte en bas</string>
-    <string name="select_copy_text">Sélectionner et copier le texte du message</string>
-    <string name="select_different_media">Sélectionnez un autre %1$s.</string>
+    <string name="select_different_attachment">Sélectionnez une autre pièce jointe.</string>
+    <string name="select_different_audio">Sélectionnez un autre audio.</string>
+    <string name="select_different_picture">Sélectionnez une autre image.</string>
+    <string name="select_different_video">Sélectionnez une autre vidéo.</string>
     <string name="select_link_title">Sélectionner un élément</string>
     <string name="select_local_audio">Choisir un fichier audio...</string>
     <string name="select_local_video">Choisir un fichier vidéo...</string>
@@ -640,6 +662,7 @@
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
     <string name="send_to">Envoyer à :</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Envoyé à : %1s</string>
     <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
@@ -664,6 +687,8 @@
     <string name="slide_show_part">Partie %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Faites glisser vers le haut pour annuler</string>
     <string name="slideshow_activity">Diaporama</string>
+    <string name="smart_messages_network_allow_message">Mi Message a besoin de se connecter à Internet pour que ses services fonctionnent normalement. Autoriser maintenant ?</string>
+    <string name="smart_messages_network_allow_title">Une connexion Internet est nécessaire</string>
     <string name="sms_card_partner_label">"Carte SMS du partenaire : "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Contenu:</string>
@@ -709,15 +734,18 @@
     <string name="storage_unavailable">"Pas assez d' espace libre"</string>
     <string name="subject_hint">Objet</string>
     <string name="subject_label">"Objet : "</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="summary_pref_cm_smart_sms">Modèles de cartes, numéros de service SMS, et plus.</string>
     <string name="switch_to_editor">Mode éditeur</string>
     <string name="switch_to_menu">Mode menu</string>
     <string name="text_in_popup_saved_to_clipboard">Copié dans le presse-papiers</string>
-    <string name="text_message">Message texte</string>
+    <string name="text_message">SMS</string>
     <string name="timed_message_expired_title_2">Les envoyer maintenant ?</string>
     <string name="timed_message_to">à</string>
     <string name="title_allow_network_access">Mettre à jour automatiquement les informations</string>
     <string name="title_collapse_sp_messages">Notifications</string>
     <string name="title_hide_verification_code">"Masquer automatiquement OTP sur l'écran de verrouillage"</string>
+    <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
     <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
     <string name="title_show_list_avatar">Afficher les photos de profil</string>
     <string name="title_show_photo_word">Attribuer des photos aux contacts</string>
@@ -752,6 +780,7 @@ Dernière tentative : %s."</string>
     <string name="unsticked_conversation">La conversation est déjà désépinglé</string>
     <string name="unsubscribe">Se désabonner</string>
     <string name="unsupported_media_format">Format %1$s non pris en charge.</string>
+    <string name="updating">Mise à jour en cours…</string>
     <string name="url_fraud_dangerous_alert">"Le site Web que vous essayer de visiter pourrait être dangereux. Il pourrait endommager votre appareil et vos données. Le visiter quand même ?
 %s"</string>
     <string name="url_fraud_risky_alert">"Le site Web %s que vous essayez de visiter pourrait être dangereux. Le visiter quand même ?
@@ -765,7 +794,7 @@ Dernière tentative : %s."</string>
     <string name="verification_code_list_title">Codes de vérification</string>
     <string name="view">Afficher</string>
     <string name="view_bookmark">Voir le favori</string>
-    <string name="view_message_details">Afficher les détails du message</string>
+    <string name="view_message_details">Afficher les détails</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Envoyer à %ds</string>
     <string name="wild_msg_processing">En cours…</string>

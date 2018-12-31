@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="allow">Accepter</string>
     <string name="app_name">Calculatrice</string>
     <string name="app_name_danfa">Mi Calculatrice</string>
     <string name="base_rate">"Taux d'intérêt de base"</string>
@@ -41,6 +42,11 @@
     <string name="description_content">"Outre ses caractéristiques de base, la calculatrice fonctionne également comme un convertisseur multifonctionnel, calculateur d'impôts et de prêts hypothécaires. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
     <string name="description_title">À propos</string>
     <string name="devided_by_zero_reminder_message">Impossible de diviser par zero</string>
+    <string name="dialog_privacy_title">"Conditions Générales d'Utilisation"</string>
+    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+    <string name="dialog_rating_title">Rate our app</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -58,6 +64,7 @@
     <string name="equalDesc">égale</string>
     <string name="error">Erreur</string>
     <string name="error_fomrat">Erreur de format</string>
+    <string name="exit">Quitter</string>
     <string name="factorialDesc">factoriel</string>
     <string name="fund" />
     <string name="fund_loan">Fond de crédit</string>
@@ -103,6 +110,11 @@
     <string name="lgDesc">logarithme</string>
     <string name="ln">ln</string>
     <string name="lnDesc">logarithme naturel</string>
+    <string name="loading_fail_message_no_network">Impossible de se connecter au réseau. Appuyez ici pour réessayez.</string>
+    <string name="loading_fail_refresh">Actualiser</string>
+    <string name="loading_message">"Chargement de l'application…"</string>
+    <string name="loading_slogan">Utilisez des applications sans les installer</string>
+    <string name="loading_tips">"Paramètres téléchargé avec succès. Relancez la calculatrice pour l'appliquer."</string>
     <string name="loan_edittext_hint_commercial">Saisir le montant</string>
     <string name="loan_edittext_hint_commercial_combined">Commercial (×10K)</string>
     <string name="loan_edittext_hint_fund">Saisir le montant</string>
@@ -157,6 +169,7 @@
     <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
     <string name="network_confirm_title">Autorisation requise</string>
     <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
+    <string name="ok">OK</string>
     <string name="percent" />
     <string name="percentDesc">pourcentage</string>
     <string name="piDesc">pi</string>
@@ -175,11 +188,14 @@
     <string name="preference_follow_web_title">Site Web officiel</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Help &amp; feedback</string>
     <string name="preference_other">Autre</string>
     <string name="preference_privacy_title">Politique de Confidentialité</string>
+    <string name="preference_rating_title">Rate our app</string>
     <string name="preference_settings">Paramètres</string>
     <string name="preference_use_degress_summary">Substituer les radians par les angles dans les fonctions trigonométriques</string>
     <string name="preference_use_degress_title">Utiliser les angles</string>
+    <string name="privacy_policy">Politique de Confidentialité</string>
     <string name="radDesc">Radian</string>
     <string name="rate_data_provider">"Les taux d'intérêt sont fournis par hexun.com"</string>
     <string name="reciprocalDesc">Réciproque</string>
@@ -237,6 +253,7 @@
     <string name="tax_location">Localisation</string>
     <string name="tax_medical">Médical</string>
     <string name="tax_param_error">"Saisir les taux exacts d'assurance"</string>
+    <string name="tax_rate_provider">Données fournies par hexun.com et East Money</string>
     <string name="tax_result_real_get">Après taxe</string>
     <string name="tax_social_insurance">Assurance sociale</string>
     <string name="tax_thershold_foreign">%s (Ressortissants étrangers)</string>
@@ -250,6 +267,7 @@
     <string name="tax_unemployment">Chômage</string>
     <string name="tax_update_time_format">Données fournies par HeXun (%s)</string>
     <string name="times" />
+    <string name="unKnow_error">Erreur inconnue</string>
     <string name="unit_data_display_area_acre">Acre</string>
     <string name="unit_data_display_area_are">Aire</string>
     <string name="unit_data_display_area_ha">Hectare</string>
@@ -529,6 +547,7 @@
     <string name="unit_year">A</string>
     <string name="unit_year_format">Année %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="user_agreement">Accord de lutilisateur</string>
     <string name="voiceDesc">Contrôles vocaux</string>
     <string name="wf_word_figure">Caractères financiers</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -552,8 +571,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_connect_download_manager_fail">"Connexion au gestionnaire de téléchargements échouée. Veuillez vérifier l'état du gestionnaire de téléchargements dans le gestionnaire des applications."</string>
-    <string name="xiaomi_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
+    <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les autorisations requises dans Paramètres > Applications installées.</string>
+    <string name="xiaomi_external_storage_unavailable">Le stockage nest pas disponible. Vérifiez votre carte SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
     <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s

@@ -22,9 +22,10 @@
     <string name="calibrate_title">Étalonner la boussole</string>
     <string name="cancel">Annuler</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_body_no_network">Impossible de se connecter au réseau</string>
+    <string name="compass_settings">Paramètres</string>
+    <string name="dialog_body_no_network">Se connecter au Wi-Fi ou activer les données mobiles.</string>
     <string name="dialog_calibrat_altitude">Étalonnage…</string>
-    <string name="dialog_title_no_network">Activer le réseau</string>
+    <string name="dialog_title_no_network">Impossible de se connecter au réseau</string>
     <string name="direction_east">E</string>
     <string name="direction_north">N</string>
     <string name="direction_north_east">NE</string>
@@ -38,7 +39,7 @@
     <string name="error_camera_unavailable_title">Caméra indisponible</string>
     <string name="first_using_dialog_message">"La boussole a besoin d'utiliser la connexion réseau, l'appareil photo et les services de localisation pour fonctionner normalement."</string>
     <string name="first_using_dialog_title">"Autorisation d'accès"</string>
-    <string name="guide_toast">Pour étalonner, remuez votre téléphone selon le schéma ci-dessous.</string>
+    <string name="guide_toast">Pour étalonner, remuez votre appareil comme montré ci-dessous.</string>
     <string name="latitude">LAT</string>
     <string name="location_east">E</string>
     <string name="location_enable">Autoriser</string>

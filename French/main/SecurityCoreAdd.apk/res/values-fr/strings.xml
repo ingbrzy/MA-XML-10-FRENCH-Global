@@ -341,7 +341,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="gpg_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec Google Play Games. Créez une application clônée pour Google Play Games ?</string>
     <string name="gpg_title">Application clônée pour Google Play Games</string>
     <string name="gms_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec les servicesGoogle. Créez une application clônée pour les services Google ?</string>
-    <string name="gms_title">Activer les services Google</string>
+    <string name="gms_title">Application clônée pour Google services</string>
     <string name="gms_open_button">Activer</string>
     <string name="create_second_space">Créé avec succès</string>
     <string name="set_space_password">Définir le mot de passe</string>
@@ -455,4 +455,8 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="dialog_undo_negative">Ne pas révoquer</string>
     <string name="dialog_title_service_error">Erreur du serveur</string>
     <string name="dialog_message_service_error">Impossible de révoquer lautorisation et deffectuer une réinitialisation des données dusine. Réessayez</string>
+    <string name="dialog_verify">Vérifiez votre empreinte digitale</string>
+    <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>
+    <string name="button_touch">Placez votre doigt sur le capteur</string>
+    <string name="button_input_password">Saisir le mot de passe</string>
 </resources>

@@ -23,6 +23,7 @@
     <string name="copy_number">Copier le numéro de téléphone</string>
     <string name="done">Entrée</string>
     <string name="more_string">+ %1$s</string>
+    <string name="search_menu_title">Rechercher</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_add_attendee">Ajouter un participant</string>
     <string name="accessibility_all_day">"Événement d'une journée"</string>
@@ -84,6 +85,7 @@
     <string name="can_not_modify_allday_event">"Impossible de modifier l'événement du jour"</string>
     <string name="can_not_modify_event">"Impossible de modifier l'événement"</string>
     <string name="can_not_modify_repeating_acrossing_days_event">"Impossible de modifier l'événement de plusieurs jours"</string>
+    <string name="cancel_reminder">Cancel Reminder</string>
     <string name="card_detail_dialog_message">%1$s sera mis à jour. Abonnez-vous pour recevoir quotidiennement des mises à jour.</string>
     <string name="card_detail_dialog_negative">"S'abonner plus tard"</string>
     <string name="card_detail_dialog_positive">Abonnez-vous maintenant</string>
@@ -135,6 +137,7 @@
     <string name="description_calendar">Applications système/Agenda</string>
     <string name="description_calendar_edit_event">Applications système/Agenda/Paramètres</string>
     <string name="directory_searching_fmt">Recherche de %s…</string>
+    <string name="discard_label">Annuler</string>
     <string name="does_not_repeat">Événement unique</string>
     <string name="edit_date_calculate_days_backward_error_hint">Impossible de calculer une date ultérieure</string>
     <string name="edit_date_calculate_days_empty_hint">Saisissez le nombre de jours</string>
@@ -202,6 +205,7 @@
     <string name="fb_calendar_owner_account">Agenda Mi</string>
     <string name="festival_detail_title">Festival</string>
     <string name="file_exception">"Une erreur s'est produite"</string>
+    <string name="fixtures">Fixtures</string>
     <string name="force_touch_title_add_new_event">Ajouter un événement</string>
     <string name="from_google_group_calendar">Agenda de Google</string>
     <string name="gadget_no_events">"Aucun événement d'agenda à venir"</string>
@@ -211,6 +215,7 @@
     <string name="global_football_final">FINALE</string>
     <string name="global_football_no_match">"Aucun match de football programmé pour aujourd'hui."</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_close">Fermer</string>
     <string name="guide_card_import">Importer</string>
     <string name="guide_card_primary_fb_text">Anniversaires des amis Facebook</string>
     <string name="guide_card_primary_text">Importer les anniversaires de vos amis</string>
@@ -273,6 +278,7 @@
     <string name="new_event_description">Nouveau</string>
     <string name="new_event_dialog_label">Nouvel événement</string>
     <string name="new_event_dialog_option">Nouvel événement</string>
+    <string name="news">News</string>
     <string name="no_contact_birthday_hint">Aucun anniversaire à importer</string>
     <string name="no_events_hint">Aucun événement</string>
     <string name="no_internet">Impossible de se connecter à Internet</string>
@@ -368,6 +374,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="search_calendar_settings">Calendrier;Agenda;Rappel</string>
     <string name="select_date">Aller à la date</string>
     <string name="select_synced_calendars_title">Agendas à synchroniser</string>
+    <string name="set_reminder">Set Reminder</string>
     <string name="setting_about_calendar_version">"Version de l'agenda :"</string>
     <string name="setting_about_imei">IMEI :</string>
     <string name="setting_about_miui_version">Version MIUI :</string>
@@ -398,15 +405,16 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="subscribe_channel_hint">"Abonnez-vous aux services que vous aimez et recevez quotidiennement les mises à jour sur la page d'accueil. 
 Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</string>
     <string name="subscribe_channel_subscribe">"S'abonner"</string>
-    <string name="subscribe_channel_subscribing">Abonnement en cours</string>
+    <string name="subscribe_channel_subscribing">Abonné</string>
     <string name="subscribe_channel_title">Chaîne</string>
-    <string name="subscribing_card">Abonnement en cours</string>
+    <string name="subscribing_card">Abonné</string>
     <string name="synced">synchronisé</string>
     <string name="tab_title_agenda">Évènements</string>
     <string name="tab_title_day">Jour</string>
     <string name="tab_title_month">Mois</string>
     <string name="tab_title_week">Semaine</string>
-    <string name="talk_back_read_date">Date actuelle : %1$s (%2$s selon le calendrier lunaire).</string>
+    <string name="talk_back_read_date">%1$s (%2$s selon le calendrier lunaire).</string>
+    <string name="talk_back_setting">Paramètres</string>
     <string name="template_announce_item_index">Événement %1$s sur %2$s.</string>
     <string name="template_week_num">Semaine %1$s</string>
     <string name="time_zone">Fuseau horaire</string>
@@ -443,11 +451,12 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="travel_train_station">Station de train</string>
     <string name="unsubscribe_card">Se désabonner</string>
     <string name="unsubscribe_card_success">Désabonné de “%1$s” avec succès</string>
-    <string name="unsubscribing_card">Désabonnement en cours</string>
+    <string name="unsubscribing_card">Désabonné</string>
     <string name="user_notice_button_exit">Annuler</string>
     <string name="user_notice_button_ok">OK </string>
     <string name="user_notice_message">En utilisant ce produit, vous acceptez les %1$s et %2$s de Xiaomi. Certaines fonctionnalités nécessitent une connexion Internet, la localisation, un accès aux contacts et SMS pour fonctionner normalement.</string>
     <string name="user_notice_title">Attention</string>
+    <string name="view_details">View Details</string>
     <string name="view_event_calendar_label">Agenda :</string>
     <string name="view_event_organizer_label">Organisateur :</string>
     <string name="view_event_response_label">Participer ?</string>

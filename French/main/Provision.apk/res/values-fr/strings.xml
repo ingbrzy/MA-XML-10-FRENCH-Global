@@ -30,9 +30,6 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="other_settings_auto_update_summary">MIUI sélectionnera le meilleur moment pour installer les mises à jour</string>
     <string name="other_settings_ad_enable">Recommandation de publicités personnalisées</string>
     <string name="other_settings_ad_enable_summary">Recevoir des publicités personnalisées en fonction des données de vos habitudes</string>
-    <string name="other_settings_enhanced_lockscreen">"Fond d'écran Carrousel"</string>
-    <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Conditions générales d'utilisation s'appliquent."</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
     <string name="back">Retour</string>
     <string name="next">Suivant</string>
     <string name="skip_underline">Ignorer cette étape</string>
@@ -116,5 +113,5 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="ai_button_single_press_desc">Déclencher Mi IA</string>
     <string name="ai_button_double_press">Double appui</string>
     <string name="ai_button_double_press_desc">Configurer les fonctionnalités de Mi IA</string>
-    <string name="zone_picker_title">Choisir un fuseau horaire</string>
+    <string name="zone_picker_title">Choose time zone</string>
 </resources>

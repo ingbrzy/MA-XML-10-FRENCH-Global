@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="add_screen">Ajouter un écran</string>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">Horloge 2x4</string>
     <string name="gadget_clock_34_label">Horloge 3x4</string>
     <string name="gadget_clock_label">Horloge</string>
+    <string name="gadget_dual_clock_label">Double horloge</string>
     <string name="gadget_error_text">Impossible de charger le widget</string>
     <string name="gadget_google_search_label">Recherche Google</string>
     <string name="gadget_load_error">Chargement…</string>
@@ -277,11 +279,14 @@
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
     <string name="recommend_apps_default_title">Vide</string>
     <string name="recommend_apps_no_data">Aucune donnée</string>
+    <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
     <string name="recommend_apps_notice">Applications recommandées</string>
     <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>
     <string name="recommend_apps_switch_title">Applications recommandées</string>
     <string name="recommend_apps_tips">Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement. Pour la désactiver, appuyez sur le nom de ce dossier.</string>
     <string name="recommend_loading">Chargement en cours</string>
+    <string name="recommend_refresh">Actualiser</string>
+    <string name="recommend_xout">Ne pas afficher</string>
     <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
     <string name="reset_description_others">Vous pouvez restaurer la disposition de %1$s</string>
     <string name="reset_fail">Impossible de restaurer</string>
@@ -347,7 +352,4 @@
     <string name="widget_gadget_player">Musique</string>
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
-    <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
-    <string name="recommend_refresh">Actualiser</string>
-    <string name="recommend_xout">Ne pas afficher</string>
 </resources>

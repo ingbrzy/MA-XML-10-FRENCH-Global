@@ -69,7 +69,7 @@
     <string name="got_it">"C'est compris"</string>
     <string name="gps">Navigation</string>
     <string name="import_contact">Importer le contact</string>
-    <string name="impunity_declaration_content">Scanneur nécessite des autorisations pour accéder à votre appareil photo et faire des photos. Le scanneur doit également se connecter à Internet pour fonctionner normalement. Nous considérons que vous avez lu et accepté notre %1$spolitique de confidentialité%2$s lorsque vous appuyez sur \"Accepter\" ci-dessous.</string>
+    <string name="impunity_declaration_content">Le scanneur nécessite des autorisations pour accéder à votre appareil photo et faire des photos. Le scanneur doit également se connecter à Internet pour fonctionner normalement. Nous considérons que vous avez lu et accepté notre %1$spolitique de confidentialité%2$s lorsque vous appuyez sur \"Accepter\" ci-dessous.</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="impunity_declaration_title">Politique de Confidentialité</string>
     <string name="label_choose_picture">Choisir une image</string>
@@ -92,6 +92,7 @@
     <string name="module_title_business_card">Carte de visite</string>
     <string name="module_title_code">Code QR</string>
     <string name="module_title_document">Document</string>
+    <string name="module_title_plant">Plante</string>
     <string name="module_title_shopping">Achat</string>
     <string name="module_title_translation">Traduire</string>
     <string name="name">Nom :</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">Ouvrir avec %s</string>
     <string name="phone">Téléphone :</string>
     <string name="place_barcode_into_rectangle">Placez le code dans le cadre</string>
+    <string name="plant_fail">Reconnaissance impossible</string>
+    <string name="plant_loading">Identification en cours…</string>
+    <string name="plant_reg_fail_2">Impossible de reconnaître cet objet. Le scanneur ne peut identifier que des plantes.</string>
+    <string name="plant_support">" (Support technique)"</string>
+    <string name="plant_title">Scannez la plante que vous voulez identifier</string>
     <string name="preparing_sd">Préparation du stockage interne…</string>
     <string name="previous">Retour</string>
     <string name="qr_code_details">Détails du code QR :</string>
