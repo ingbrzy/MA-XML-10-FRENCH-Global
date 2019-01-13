@@ -172,6 +172,10 @@
         <item quantity="other">%s minutes</item>
         <item quantity="one">%s minute</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d ajoutés</item>
+        <item quantity="one">%d ajouté</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrictions</item>
         <item quantity="one">%1$d restriction</item>

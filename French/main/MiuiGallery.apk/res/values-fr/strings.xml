@@ -205,6 +205,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="change_to_face_mode">Afficher les visages uniquement</string>
     <string name="change_to_photo_mode">Afficher les aperçus complets</string>
     <string name="change_to_visible">Restaurer cette personne ?</string>
+    <string name="channel_default_name">Nouvelles fonctionnalités</string>
+    <string name="channel_low_name">Nouveaux messages</string>
+    <string name="channel_min_name">Notifications de lapplication</string>
     <string name="checked">Sélectionné</string>
     <string name="checked_something">%s sélectionné</string>
     <string name="choose_baby_sexy">Sexe</string>
@@ -484,6 +487,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="face_name_edit">Éditer</string>
     <string name="face_name_input">Saisissez un nom</string>
     <string name="face_recommend">Recommandations</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Impossible de terminer l'opération"</string>
     <string name="fail_to_pick_email">Adresse e-mail incorrecte</string>
     <string name="fail_to_sync_album">"Impossible de synchroniser l'album. Vérifier votre connexion réseau."</string>
@@ -494,17 +498,19 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="filter_bi_bw">N&amp;B</string>
+    <string name="filter_bi_dusk">Crépuscule</string>
+    <string name="filter_bi_lilt">Lilt</string>
     <string name="filter_bi_memory">Mémoire</string>
-    <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Rose</string>
-    <string name="filter_bi_portrait">Portrait</string>
     <string name="filter_bi_retro">Rétro</string>
     <string name="filter_bi_romantic">Romantique</string>
+    <string name="filter_bi_sepia">Sépia</string>
     <string name="filter_bi_strong">Fort</string>
     <string name="filter_bi_sunny">Ensoleillé</string>
-    <string name="filter_bi_sweet">Doux</string>
+    <string name="filter_bi_tea">Thé</string>
     <string name="filter_bi_warm">Chaud</string>
-    <string name="filter_bi_young">Jeune</string>
     <string name="filter_category_film">Film</string>
     <string name="filter_category_food">Nourriture</string>
     <string name="filter_category_master">Original</string>
@@ -564,6 +570,7 @@ sont disponibles"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
     <string name="grant_permission_go_and_set">Définir</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
@@ -676,6 +683,7 @@ pour personnaliser Galerie"</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Plus de personnes qui se ressemblent</string>
     <string name="more_face_album_name">Plus de personnes</string>
+    <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">Déplacer cet album vers les Autres albums ?</string>
     <string name="movie_add_disable">Vous pouvez sélectionner jusquà 20 photos</string>
     <string name="movie_audio_custom">Local</string>
@@ -688,6 +696,10 @@ pour personnaliser Galerie"</string>
     <string name="movie_audio_sport">Techno</string>
     <string name="movie_cancel_download">Annuler</string>
     <string name="movie_change_to_long_video">Vous pouvez sélectionner plus de 5 photos. Basculé vers vidéo plus longue.</string>
+    <string name="movie_content_describe_add">Ajouter des photos</string>
+    <string name="movie_content_describe_delete">Supprimer des photos</string>
+    <string name="movie_content_describe_pause">En pause</string>
+    <string name="movie_content_describe_play">Lire</string>
     <string name="movie_delete_disable">Vous avez besoin dau moins 3 photos pour créer un clip.</string>
     <string name="movie_download">Télécharger</string>
     <string name="movie_download_failed">Impossible de télécharger</string>
@@ -806,6 +818,7 @@ pour personnaliser Galerie"</string>
     <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
     <string name="people_page_label">Personnes</string>
     <string name="people_page_unname">Sans nom</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">"Photos d'animaux"</string>
     <string name="petabyteShort">Po</string>
     <string name="photo">Photos</string>
@@ -877,6 +890,8 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_talkback_redo">Refaire</string>
     <string name="photo_editor_talkback_undo">Annuler</string>
     <string name="photo_editor_text">Texte</string>
+    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
+    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">Clips vidéos chargé avec succès</string>
     <string name="photo_movie_module_loading">Chargement des clips vidéos…</string>
     <string name="photo_movie_select_image_range">Clips vidéos peuvent contenir 3-20 photos</string>
@@ -1036,6 +1051,9 @@ pour personnaliser Galerie"</string>
     <string name="search_title_recommend">Recommandé</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objets</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Recherche de projecteur…</string>
     <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
     <string name="secret_album_card_title">Essayer de cacher un album</string>
@@ -1322,6 +1340,7 @@ pour personnaliser Galerie"</string>
     <string name="view_face_album">"Afficher l'album"</string>
     <string name="view_more_face_desc">Afficher plus de personnes</string>
     <string name="voice_assistant">Assistant vocal</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Bienvenue sur Mi Cloud</string>
     <string name="where_is_barcode">Où est le code QR?</string>
     <string name="who_is_this">Qui est-ce ?</string>
@@ -1329,9 +1348,9 @@ pour personnaliser Galerie"</string>
     <string name="yes">Oui</string>
     <string name="yesterday">Hier</string>
     <string name="you_are">Vous êtes le</string>
-    <string name="channel_default_name">Nouvelles fonctionnalités</string>
-    <string name="channel_low_name">Nouveaux messages</string>
-    <string name="channel_min_name">Notifications de lapplication</string>
+    <string name="month_view_tip_button_text">"C'est compris"</string>
+    <string name="month_view_tip_sub_title">Pincez lécran pour passer en vue mensuelle</string>
+    <string name="month_view_tip_title">Vue du mois</string>
     <string name="photomovie_audio_custom">Local</string>
     <string name="photomovie_audio_default">Mémoire</string>
     <string name="photomovie_audio_kawaii">Romantique</string>
@@ -1378,4 +1397,6 @@ pour personnaliser Galerie"</string>
     <string name="refocus_title">Flou</string>
     <string name="refocus_type_static">Niveau de flou</string>
     <string name="refocus_type_video">Bande de lumière</string>
+    <string name="text_tab_bubble">Bubbles</string>
+    <string name="text_tab_watermark">Watermarks</string>
 </resources>

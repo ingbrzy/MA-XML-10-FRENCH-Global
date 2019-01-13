@@ -90,10 +90,12 @@
     <string name="daily_forecast_add_city_message">Suivez la météo à %1$s pour une prévision plus détaillée.</string>
     <string name="daily_forecast_add_city_title">Suivez la météo à %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Impossible d'obtenir les données météo
 Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"</string>
     <string name="data_provided_by">Données fournies en partie par</string>
-    <string name="edit_city">Manage cities</string>
+    <string name="edit_city">Gérer les villes</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Mise à jour en cours…</string>
     <string name="empty_view_net_unavailable">Impossible de se connecter au réseau</string>
     <string name="empty_view_refresh">Veuillez réessayer</string>
@@ -112,6 +114,8 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
     <string name="first_start_network_title">Connexion Internet et localisation</string>
     <string name="global_aqi">IQA : %1$s %2$s</string>
     <string name="hourly_forcast_now">Maintenant</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">Prévisions sur 24 heures</string>
     <string name="hourly_forecast_title_hourly_desc">Prévision par heure</string>
@@ -127,9 +131,11 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
     <string name="indices_title_feel">Ressentie</string>
     <string name="indices_title_pressure">Pression</string>
     <string name="install">Installer</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">PRESSION</string>
     <string name="international_details_title">Détails</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VENT</string>
     <string name="it_is_going_to_rain">Il va pleuvoir</string>
     <string name="locate_fail_detail_err">"Impossible de localiser l'appareil
@@ -204,6 +210,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="share_menu_title">Partager</string>
     <string name="share_subject">Partager</string>
     <string name="share_weather_desc">"\#Météo MIUI#Aujourd'hui %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Impossible de prendre une capture d'écran"</string>
     <string name="some_where_on_earth">Quelque part sur terre</string>
@@ -222,6 +229,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="traffic_control_today_numbers">"Aujourd'hui : %1$s"</string>
     <string name="traffic_control_tomorrow_numbers">Demain : %1$s</string>
     <string name="traffic_controls">Circulation alternée</string>
+    <string name="translate_notification_info">Traduire en arrière-plan…</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
@@ -236,6 +244,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="unit_wind">Unités de la vitesse du vent</string>
     <string name="update_night_setting_summary_text">Mettre à jour les infos de la météo entre 23:00 et 07:00</string>
     <string name="update_night_setting_title_text">Mettre à jour automatiquement pendant la nuit</string>
+    <string name="update_notification_info">Mise à jour des données en arrière-plan…</string>
     <string name="update_setting_title_text">Mise à jour des infos de météo</string>
     <string name="updated_a_moment_ago">Mis à jour il y a un moment</string>
     <string name="updating">Mise à jour…</string>
@@ -247,6 +256,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="view_forecast_item_yesterday">Hier</string>
     <string name="view_indexes_item_today">"Aujourd'hui"</string>
     <string name="view_indexes_item_tommorrow">Demain</string>
+    <string name="weather_alert_channel_name">Alertes</string>
+    <string name="weather_service_channel_name">Services darrière-plan</string>
     <string name="wind_direction_no_data">Vent</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">"L'application Météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
