@@ -27,6 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
     <string name="cloud_back_up_frequence_long">Tous les 7 jours</string>
     <string name="cloud_back_up_frequence_short">Tous les jours</string>
+    <string name="cloud_back_up_subscribe_vip_title">Améliorer votre compte</string>
+    <string name="cloud_back_up_subscribe_vip_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Mettre à niveau</string>
     <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi : 
 *  Applications, Écran d'accueil et fonds d'écran 
 *  Alarmes et les paramètres d'Horloge 
@@ -47,6 +50,8 @@
     <string name="self_device_second_space">Second espace de ce téléphone</string>
     <string name="other_device_main_space">Premier espace</string>
     <string name="other_device_second_space">Second espace</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
     <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
@@ -184,7 +190,4 @@
     <string name="btn_restore_abort">Annuler</string>
     <string name="backup_stopped_title">La sauvegarde était en pause</string>
     <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
-    <string name="cloud_back_up_share_activity_title">Améliorer votre compte</string>
-    <string name="cloud_back_up_share_activity_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
-    <string name="cloud_back_up_share_activity_confirm">Mettre à niveau</string>
 </resources>

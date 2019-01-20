@@ -436,6 +436,7 @@ Pour activer votre compte, suivez le
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est invalide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">"Votre commentaire, ainsi que les journaux d'erreurs seront envoyés aux serveurs de Xiaomi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Se souvenir</string>
     <string name="post_miui_bbs_failed">Impossible de poster sur le forum MIUI</string>

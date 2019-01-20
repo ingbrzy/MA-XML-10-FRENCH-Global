@@ -35,6 +35,7 @@
     <string name="cast_forward">Avancer</string>
     <string name="cast_forward_10">Avancer de 10 secondes</string>
     <string name="cast_forward_30">Avancer de 30 secondes</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Couper le son</string>
     <string name="cast_notification_connected_message">Connecté à %1$s</string>
     <string name="cast_notification_connecting_message">Connexion à %1$s…</string>
@@ -112,6 +113,7 @@
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="s7">Annonce test</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="agree">Accepter</string>
     <string name="ai_animation_music_text">Bande son IA</string>
     <string name="ai_music_save_cancel">Annuler</string>

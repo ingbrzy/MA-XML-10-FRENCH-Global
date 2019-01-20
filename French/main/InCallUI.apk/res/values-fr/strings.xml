@@ -51,6 +51,7 @@
     <string name="onscreen_note_calls_text">Note</string>
     <string name="call_record_wait_label">En attente</string>
     <string name="contacts_icon_label">Contacts</string>
+    <string name="call_not_support_high_frequency_click">Nappuyez pas sur ce bouton si fréquemment</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
     <string name="separate_from_conference">Séparer les appels</string>

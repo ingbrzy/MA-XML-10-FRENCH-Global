@@ -97,6 +97,7 @@
     <string name="card_title_change">Plus</string>
     <string name="change_response_title">Changer la réponse</string>
     <string name="click_to_share">Appuyer pour partager</string>
+    <string name="close_alarm">Désactiver</string>
     <string name="countdown_event_title">Minuteur : %1$s</string>
     <string name="countdown_notify_before_3_day_title">Minuteur : %1$s dans 3 jours</string>
     <string name="countdown_notify_title">Minuteur : %1$s</string>
@@ -291,6 +292,8 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="no_visiable_calendar_select_account">Ajouter un compte</string>
     <string name="no_visiable_calendar_title">Ajouter un compte</string>
     <string name="not_synced">non synchronisé</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">Rappels du calendrier</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">"Mois d'Amanta :"</string>
     <string name="panchang_ayana">Ayana</string>

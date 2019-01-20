@@ -160,7 +160,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="add_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est sur le bouton Accueil de votre appareil."</string>
     <string name="add_fingerprint_instruction_title">Ajouter votre empreinte digitale</string>
     <string name="add_fingerprint_move_fast">"Gardez votre doigt sur l'écran un peu plus longtemps"</string>
-    <string name="add_fingerprint_name_suggest_text">Nom de l’empreinte digitale</string>
+    <string name="add_fingerprint_name_suggest_text">"Nom de l'empreinte digitale"</string>
     <string name="add_fingerprint_put_finger_edge_msg">"Déplacez votre doigt légèrement et posez le sur le capteur à nouveau afin d'ajouter toutes les parties de votre empreinte digitale."</string>
     <string name="add_fingerprint_put_finger_msg">Placez votre doigt sur le capteur et retirez le lorsque vous sentez une vibration.</string>
     <string name="add_fingerprint_put_finger_title">Ajouter une empreinte digitale</string>
@@ -918,6 +918,7 @@ Dernière exécution le %2$s"</string>
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
     <string name="bootloader_tips">"Une fois que vous avez ajouté votre compte Mi, ne vous déconnectez pas, ne réinitialisez pas aux paramètres d'usine et n'effacez pas les données des applications système. Si vous effectuez l'une des opérations ci-dessus, ajoutez à nouveau votre compte sinon vous ne pourrez pas déverrouiller votre appareil."</string>
     <string name="bootloader_tips_ok">"C'est compris"</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
@@ -1148,7 +1149,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
     <string name="confirm_erase">Supprimer</string>
     <string name="confirm_fingerprint_icon_content_description">Utilisez votre empreinte digitale pour continuer.</string>
     <string name="confirm_fingerprint_msg">Placez votre doigt sur le capteur</string>
-    <string name="confirm_frp_credential_message">Votre appareil a été réinitialisé aux paramètres d’usine, vous pouvez le déverrouiller avec votre ancien mot de passe.</string>
+    <string name="confirm_frp_credential_message">"Votre appareil a été réinitialisé aux paramètres d'usine, vous pouvez le déverrouiller avec votre ancien mot de passe."</string>
     <string name="confirm_frp_credential_skip_txt">Utiliser plutôt un compte Google</string>
     <string name="confirm_frp_credential_title">"Déverrouiller après réinitialisation aux paramètres d'usine"</string>
     <string name="confirm_new_backup_pw_prompt">Confirmez ici votre nouveau mot de passe de sauvegarde complète.</string>
@@ -1517,6 +1518,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
     <string name="dialog_title_login">Se connecter à votre compte Mi</string>
     <string name="dialog_yes">Oui</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Remarque : vous ne pourrez utiliser ce clavier qu’après un redémarrage uniquement si vous déverrouillez votre appareil</string>
     <string name="disable_overlays">Désactiver les superpostions HW</string>
     <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -1577,6 +1579,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="dndm_auto_button_title">Programmer le mode Ne pas déranger</string>
     <string name="dndm_auto_setting_group">Programmation</string>
     <string name="dndm_auto_time_setting">"Régler l'heure"</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">À</string>
     <string name="dndm_auto_time_turn_off_title">Désactive automatiquement le mode Ne pas déranger</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -1796,7 +1799,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="eq_preset_hint">"Nom de l'effet"</string>
     <string name="eq_preset_rename">Renommer</string>
     <string name="eq_preset_select">Choisir une présélection</string>
-    <string name="eq_return">Return</string>
+    <string name="eq_return">Retour</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Égaliseur</string>
     <string name="erase_application">Supprimer les applications</string>
@@ -1884,7 +1887,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_for_keyguard_disabled">"Le lecteur d'empreintes digitales a été désactivé par les paramètres de sécurité."</string>
     <string name="fingerprint_identify_input_password_msg">Saisir le mot de passe</string>
     <string name="fingerprint_identify_msg">"Lecture de l'empreinte digitale…"</string>
-    <string name="fingerprint_identify_try_again_msg">Impossible de lire l’empreinte digitale, réessayez</string>
+    <string name="fingerprint_identify_try_again_msg">"Impossible de lire l'empreinte digitale, réessayez"</string>
     <string name="fingerprint_intro_error_max">"Vous avez ajouté le nombre maximal autorisé d'empreintes digitales"</string>
     <string name="fingerprint_intro_error_unknown">"Impossible d'ajouter d'autres empreintes digitales"</string>
     <string name="fingerprint_last_delete_confirm">Oui, supprimer</string>
@@ -1994,8 +1997,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="forget_password_dialog_button_text">Retour</string>
     <string name="forget_password_dialog_content_four"><Data>2. Sélectionnez &lt;font color=#e6e6e6>[Wipe data]&lt;/font> et attendez que votre appareil redémarre.</Data></string>
     <string name="forget_password_dialog_content_one"><Data>Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une que vous &lt;font color =#ec2700> effacez toutes les données de votre appareil &lt;/font> (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant cette action</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Éteignez votre appareil. Appuyez simultanément sur le bouton &lt;font color=#e6e6e6> [Alimentation] &lt;/font> et sur le bouton &lt;font color = #e6e6e6> [Volume +]&lt;/font> jusqu'à ce que l'&lt;img src =''>icône."</Data></string>
-    <string name="forget_password_dialog_content_two">Suivez ces étapes pour effacer les données :</string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Éteignez votre appareil. Appuyez simultanément sur le bouton &lt;font color=#e6e6e6> [Power] &lt;/font> et sur le bouton &lt;font color = #e6e6e6> [Volume +]&lt;/font> jusqu'à ce que l'&lt;img src =''>icône."</Data></string>
+    <string name="forget_password_dialog_content_two">Suivez ces étapes pour effacer les données:</string>
     <string name="forget_password_dialog_title">Réinitialisez votre mot de passe</string>
     <string name="forget_pattern"><u>Schéma oublié ?</u></string>
     <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
@@ -2045,6 +2048,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gadget_picker_title">Choisir un gadget</string>
     <string name="gadget_state_off">désactivé</string>
     <string name="gadget_state_on">activé</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">désactivation</string>
     <string name="gadget_state_turning_on">activation</string>
     <string name="gadget_sync">Synchronisation</string>
@@ -2075,10 +2079,10 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
     <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajustez votre prise</string>
-    <string name="gxzw_add_fingerprint_finish">Terminé !</string>
+    <string name="gxzw_add_fingerprint_finish">Terminé!</string>
     <string name="gxzw_add_fingerprint_indicate">Appuyez légèrement sur cette zone</string>
     <string name="gxzw_add_fingerprint_know">"C'est compris"</string>
-    <string name="gxzw_add_fingerprint_message">Veuillez à ce que votre doigt et l’écran soient propres</string>
+    <string name="gxzw_add_fingerprint_message">Veuillez à ce que votre doigt et écran soient propres</string>
     <string name="gxzw_add_fingerprint_move_indicate">Déplacez légèrement votre doigt</string>
     <string name="gxzw_add_fingerprint_move_message">Déplacez vos doigts pour que le capteur enregistre toutes les parts de vos empreintes digitales</string>
     <string name="gxzw_add_fingerprint_move_title">Déplacez légèrement votre doigt</string>
@@ -2095,6 +2099,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
     <string name="gxzw_dialog_ok">"C'est compris"</string>
     <string name="gxzw_dialog_title">"À propos du capteur d'empreinte digitale intégré à l'écran"</string>
+    <string name="gxzw_quick_open_title" />
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_size">"Taille de l'écran"</string>
@@ -2368,6 +2373,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lift_to_wake_title">Soulever pour activer</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2553,7 +2559,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockpattern_pattern_same_with_owner">Il doit être différent de celui du premier espace</string>
     <string name="lockpattern_pattern_same_with_security_space">Il doit être différent de celui du second espace</string>
     <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points, puis réessayez.</string>
-    <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé</string>
+    <string name="lockpattern_recording_inprogress">Relâchez le doigt lorsque vous avez terminé</string>
     <string name="lockpattern_recording_intro_footer">Appuyez sur Menu pour de l’aide.</string>
     <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
     <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace :</string>
@@ -2582,7 +2588,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockscreen_glogin_password_hint">Mot de passe</string>
     <string name="lockscreen_glogin_submit_button">"S'identifier"</string>
     <string name="lockscreen_magazine">"Fond d'écran Carrousel"</string>
-    <string name="lockscreen_magazine_summary">"Fond d'écran Carrousel de haute qualité"</string>
+    <string name="lockscreen_magazine_summary">"Carrousel de fond d'écran de haute qualité"</string>
     <string name="lockscreen_magazine_title">"Fond d'écran Carrousel"</string>
     <string name="lockscreen_remote_input">"Si l'appareil est verrouillé, empêcher la saisie des réponses ou de texte dans les notifications"</string>
     <string name="lockscreen_settings_title">"Préférences relatives à l'écran de verrouillage"</string>
@@ -2610,7 +2616,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="manage_device_admin">"Applications d'administration d'appareils"</string>
     <string name="manage_facerecoginition_text">Gérer les données de visage</string>
     <string name="manage_fakecell_settings">Protection contre les fausses stations de base</string>
-    <string name="manage_fingerprint_text">Gestion des empreintes digitales</string>
+    <string name="manage_fingerprint_text">Gérer les empreintes digitales</string>
     <string name="manage_mobile_plan_title">Forfait mobile</string>
     <string name="manage_notification_access_summary_zero">Les applications ne peuvent pas lire les notifications.</string>
     <string name="manage_notification_access_title">Accès aux notifications</string>
@@ -2722,6 +2728,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -3029,6 +3036,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -3241,6 +3249,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">"Exemple : l'Android de Jean"</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3277,11 +3286,11 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Thèmes</string>
     <string name="page_layout_confirm_message">Votre appareil doit redémarrer pour prendre en charge ces modifications. Cela peut prendre environ 1 minute.</string>
-    <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
-    <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
+    <string name="page_layout_confirm_message_enlarge">Le texte, les images et les icônes seront agrandis. Certaines icônes peuvent changer de place.</string>
+    <string name="page_layout_confirm_message_narrow">Le texte, les images et les icônes seront réduits. Certaines icônes peuvent changer de place.</string>
     <string name="page_layout_confirm_title">Valider les changements</string>
-    <string name="page_layout_confirm_title_enlarge">Bigger items</string>
-    <string name="page_layout_confirm_title_narrow">Smaller items</string>
+    <string name="page_layout_confirm_title_enlarge">Éléments plus gros</string>
+    <string name="page_layout_confirm_title_narrow">Éléments plus petits</string>
     <string name="page_layout_godzilla_title">XXL</string>
     <string name="page_layout_huge_title">XL</string>
     <string name="page_layout_large_title">L</string>
@@ -3317,7 +3326,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="passpoint_content">Identifiants de \"%1$s\"</string>
     <string name="passpoint_label">Enregistré via</string>
     <string name="passwordIncorrect">Mot de passe incorrect</string>
-    <string name="password_entrance_title">Écran de verrouillage</string>
+    <string name="password_entrance_title">"Verrouillage de l'écran"</string>
     <string name="password_guard">Mot de passe</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
@@ -3568,6 +3577,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -4196,6 +4207,7 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_encryption_attention_3">"Vous devrez définir un nouveau mot de passe pour l'écran de verrouillage."</string>
     <string name="security_encryption_attention_4">"Assurez-vous que vous vous rappelez du mot de passe de votre écran de verrouillage, sinon vous serez obligé de faire une réinitialisation complète et effacer toutes les données sur l'appareil."</string>
     <string name="security_encryption_attention_info">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">"Choisir de ne pas chiffrer l'appareil en utilisant le mot de passe de l'écran de verrouillage pourrait rendre certains services de Google indisponibles."</string>
     <string name="security_encryption_close_dialog_title">Retourner au mot de passe de protection par défaut</string>
@@ -4208,7 +4220,7 @@ Pour épingler l'écran, procédez comme suit :
     <string name="security_input">Clavier sécurisé</string>
     <string name="security_input_hint">Utilisez le clavier sécurisé quand vous entrez vos mots de passe</string>
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
-    <string name="security_password_category_name">Écran de verrouillage</string>
+    <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
     <string name="security_patch">Mise à jour du correctif de sécurité Android</string>
     <string name="security_privacy_settings_title">Confidentialité</string>
@@ -4450,6 +4462,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
+    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4463,6 +4476,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="size_kilo_byte">ko</string>
     <string name="size_mega_byte">Mo</string>
     <string name="size_peta_byte">Po</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">To</string>
     <string name="skip_anyway_button_label">Ignorer quand même</string>
     <string name="skip_label">Ignorer</string>
@@ -4547,6 +4561,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_app_notification_preferences">"Paramètres de l'application"</string>
     <string name="status_bar_settings_basic_settings">Paramètres de base</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">"Éditer le nom de l'opérateur"</string>
     <string name="status_bar_settings_custom_wifi_name">Editer le nom du Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">Commentaire</string>
@@ -4792,6 +4807,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_font_size_v2">Ajuste la taille du texte, des images et des icônes</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="super_resolution_access_title">Applications accessibles</string>
     <string name="super_resolution_desc">Rendre les images plus nettes en utilisant un algorithme IA</string>
@@ -5100,7 +5116,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_enter_system">"Désactiver l'écran de verrouillage"</string>
     <string name="unlock_set_enter_system_summary">"En allumant l'écran vous atteindrez directement le bureau."</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Fonctionnalité expérimentale avec niveau de sécurité faible</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Reconnaissance faciale</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Déverrouillage facial</string>
     <string name="unlock_set_unlock_disabled_summary">"Désactivé par l'admin, règles chiffrement, stockage ID"</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Changer ou désactiver un schéma, code PIN, ou mot de passe</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Modifier écran verr.</string>
@@ -5794,9 +5810,11 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
