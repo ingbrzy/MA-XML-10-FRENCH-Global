@@ -296,7 +296,6 @@
     <string name="sms_happened">Terminé</string>
     <string name="stock_card_add">Ajouter des entreprises</string>
     <string name="stock_card_title">Stocks</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Schéma de couleur</string>
     <string name="stock_list_empty_text">Vous ne suivez aucune compagnie actuellement.</string>
     <string name="stock_provider">Les cotations sont fournies par Webull</string>
