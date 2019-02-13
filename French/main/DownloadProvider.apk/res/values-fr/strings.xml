@@ -42,5 +42,4 @@ Appuyer %s pour lancer ce téléchargement lors de votre prochaine connexion à 
     <string name="download_queued">En attente</string>
     <string name="download_running">Téléchargement</string>
     <string name="download_error">Téléchargement impossible</string>
-    <string name="download_running_percent">Téléchargement en cours, %s</string>
 </resources>
