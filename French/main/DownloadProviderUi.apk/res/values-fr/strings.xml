@@ -151,6 +151,14 @@
     <string name="install">Installer</string>
     <string name="installing">Installation en cours…</string>
     <string name="insufficient_space">Stockage insuffisant</string>
+    <string name="korean_all_choose_item_title">Jaccepte toutes les conditions ci-dessous.</string>
+    <string name="korean_permission_group_phone_describe">Accéder au statut IMEI et au réseau de lappareil, collecter les informations sur les téléchargements ayant échoué pour améliorer les services</string>
+    <string name="korean_permission_group_phone_title">Téléphone</string>
+    <string name="korean_privacy_btn_accept">Accepter</string>
+    <string name="korean_privacy_btn_exit">Quitter</string>
+    <string name="korean_privacy_item_title">Privacy Policy (mandatory)</string>
+    <string name="korean_privacy_tv_summary">Lisez attentivement tous les éléments suivants et indiquez si vous les acceptez.</string>
+    <string name="korean_user_agreement_item_title">User Agreement (mandatory)</string>
     <string name="load_finish_hint">"C'est tout pour l'instant."</string>
     <string name="loading">Un instant…</string>
     <string name="media_filter">Média</string>
@@ -162,6 +170,7 @@
     <string name="menu_title_resume_all">Tout démarrer</string>
     <string name="menu_title_settings">Paramètres</string>
     <string name="net_error">Connectez-vous à Internet et réessayez</string>
+    <string name="new_file_notification_title_image">Image</string>
     <string name="no_file_hint">La tâche de téléchargement pour ce fichier existe déjà</string>
     <string name="no_result_for_keyword">Impossible de trouver \"%1$s\"</string>
     <string name="no_share_file">Impossible de partager ce fichier</string>

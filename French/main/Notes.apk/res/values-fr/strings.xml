@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">Sélectionner le dossier</string>
     <string name="menu_unhide">Démasquer</string>
     <string name="menu_unstick">Détacher</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Pas maintenant</string>
     <string name="note_description_content">"L'application Notes est un bon outil pour enregistrer vos idées. Elle a intégré les rappels et synchronise vos éléments dans Mi Cloud afin de vous permettre de les accéder en tout lieu, à n'importe quel moment. Assurez-vous de pouvoir vous passer de ces fonctionnalités avant de supprimer l'application."</string>
     <string name="note_description_title">À propos de Notes</string>
@@ -129,8 +130,13 @@
     <string name="note_sort_way">Sélectionner le mode de tri de vos notes</string>
     <string name="notealert_enter">Ouvrir une note</string>
     <string name="notealert_ok">Ignorer</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Rappel de note</string>
     <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
+    <string name="permission_intro_contact">Pour marquer les notes prises pendant les appels</string>
+    <string name="permission_intro_microphone">Pour enregistrer des notes vocales</string>
+    <string name="permission_intro_phone">Pour marquer les notes prises pendant les appels</string>
+    <string name="permission_intro_storage">Pour enregistrer des notes et pièces jointes</string>
     <string name="permlab_accessNote">Accès aux notes</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pas demander de confirmation lors de la suppression gestuelle d'une note"</string>
     <string name="pref_title_cloud_trash_bin">Notes supprimées dans Mi Cloud</string>
@@ -213,6 +219,14 @@
     <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>
     <string name="toast_refuse_to_record_when_in_call">"Impossible d'utiliser cette fonction pendant les appels"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">"Impossible d'utiliser cette fonctionnalité avec Écran divisé"</string>
+    <string name="toast_refuse_to_use_contact">"Les autorisations des contacts sont limitées. 
+Autorisez Notes à lire vos contacts et à rechercher des comptes sur lappareil."</string>
+    <string name="toast_refuse_to_use_external_storage">"Les autorisations de stockage sont limitées.
+ Autorisez Notes à lire le contenu de votre carte SD."</string>
+    <string name="toast_refuse_to_use_phone_state">"Les autorisations du téléphone sont limitées. 
+Autorisez Notes à lire le statut et lidentité du téléphone."</string>
+    <string name="toast_refuse_to_use_record_audio">"Les autorisations du microphone sont limitées.
+ Autorisez Notes à enregistrer de laudio."</string>
     <string name="toolbar_check_description">Ajouter une case à cocher</string>
     <string name="toolbar_delete_description">Supprimer cette note</string>
     <string name="toolbar_gallery_description">Ajouter une image</string>

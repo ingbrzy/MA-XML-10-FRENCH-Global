@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Journée spéciale</item>
+        <item>Journée mémorable</item>
+        <item>Moments dynamiques</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Garçon</item>
         <item>Fille</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Mes weekends</item>
+        <item>Morceaux de vie</item>
+        <item>Souvenirs de weekend</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Déplacer</item>
+        <item>Copier</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Janvier</item>
@@ -26,6 +41,11 @@
         <item>Grand-père maternel</item>
         <item>Grand-mère maternelle</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>Ensemble</item>
+        <item>Bons moments</item>
+        <item>À lunisson</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Moi</item>
         <item>Enfant</item>
@@ -48,5 +68,9 @@
         <item>Grand-mère paternelle</item>
         <item>Grand-père maternel</item>
         <item>Grand-mère maternelle</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Aller de lavant</item>
+        <item>Plein dénergie</item>
     </string-array>
 </resources>

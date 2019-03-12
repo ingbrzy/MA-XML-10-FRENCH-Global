@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">"Ce réseau Wi-Fi n'a pas accès à Internet"</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Cliquer pour voir les détails</string>
     <string name="resolver_app_recommend_flag">Recommander</string>
+    <string name="resolver_checkbox_once">Une fois</string>
+    <string name="resolver_checkbox_always">Toujours</string>
+    <string name="resolver_mi_browser">Navigateur Mi</string>
+    <string name="resolver_recommend_options_tag">Options recommandées</string>
+    <string name="resolver_offical_recommend">Officiel</string>
+    <string name="resolver_other_method">Autres options</string>
     <string name="voice_button_action_up">Appuyer pour parler</string>
     <string name="voice_button_action_down">Relâcher pour rechercher</string>
     <string name="voice_begin">Que recherchez-vous ?</string>

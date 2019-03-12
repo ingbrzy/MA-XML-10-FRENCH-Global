@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="confirm_recommandation_face_is">"&lt;Data> Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\". &lt;/Data>"</string>
+    <string name="confirm_recommandation_face_not">"&lt;Data> Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? &lt;/Data>"</string>
+    <string name="confirm_recommandation_multiple_faces_are">"&lt;Data> Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\". &lt;/Data>"</string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? &lt;/Data></string>
     <string name="accept">Accepter</string>
     <string name="accept_or_deny">"%1$s a partagé l'album %2$s avec vous."</string>
     <string name="actionbar_overflow_item_desc">"Plus d'options"</string>
@@ -32,6 +37,11 @@
     <string name="adjust_saturation">Saturation</string>
     <string name="adjust_sharpen">Netteté</string>
     <string name="adjust_vignette">Vignette</string>
+    <string name="agreement_agree">Accepter</string>
+    <string name="agreement_optional_tip">(Facultatif)</string>
+    <string name="agreement_quit">Quitter</string>
+    <string name="agreement_required_tip">(Obligatoire)</string>
+    <string name="agreement_summary">Documents légaux</string>
     <string name="ai_album_open_switch_button_title">"Démarrer l'analyse des photos"</string>
     <string name="ai_album_requesting_title">"L'algorithme AI traite toujours vos photos. Revenez dans un moment."</string>
     <string name="ai_album_setting_sub_title">"Autorisez l'algorithme AI à identifier les personnes, les lieux et les objets sur vos photos afin de les retrouver plus rapidement."</string>
@@ -88,8 +98,8 @@
     <string name="alert_secret_album_message">"Balayez vers le bas une fois dans l'onglet Albums pour afficher un album caché."</string>
     <string name="alert_secret_album_message_lower_case">faites glisser vers le bas dans Albums pour voir</string>
     <string name="alert_secret_album_title">Comment voir un album caché</string>
-    <string name="alert_selection_description">LIA marque la meilleure photo parmi des images similaires avec une étoile.</string>
-    <string name="alert_selection_title">Séléctionné par IA</string>
+    <string name="alert_selection_description">MIUI analysera des photos similaires et marquera les meilleurs clichés pour vous.</string>
+    <string name="alert_selection_title">Sélectionnez le meilleur cliché</string>
     <string name="all_faces">Photos avec cette personne</string>
     <string name="all_items_synced">Tous les albums ont été sauvegardés dans Mi Cloud</string>
     <string name="all_video_album_display_name">Toutes les vidéos</string>
@@ -293,13 +303,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">"Quand les recommandations sont arrêtées, vous pouvez toujours utiliser l'option \"Plus de personnes qui se ressemblent\""</string>
     <string name="confirm_hidden_recommend_group_title">Ne pas afficher les recommandations</string>
-    <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec %s ? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Fusionner ces albums avec %s ? </Data>" "</string>
+    <string name="confirm_merge_face_albums">&lt;Data> Fusionner cet album avec %s ? &lt;/Data></string>
+    <string name="confirm_merge_many_face_albums">&lt;Data> Fusionner ces albums avec %s ? &lt;/Data></string>
     <string name="confirm_not_face">Ne correspond pas</string>
-    <string name="confirm_recommandation_face_is">" "<Data>" Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\". "</Data>" "</string>
-    <string name="confirm_recommandation_face_not"><Data>" Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? "</Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data>" Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\". "</Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not"><Data> Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? </Data>" "</string>
     <string name="contact_tip">Contact</string>
     <string name="context_menu_add_contact">Ajouter aux contacts</string>
     <string name="context_menu_copy">Copier</string>
@@ -369,8 +375,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="download_type_thumbnail">Haute qualité</string>
     <string name="download_type_thumbnail_desc">Haute qualité</string>
     <string name="download_type_title">Qualité de téléchargement</string>
-    <string name="download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
-    <string name="download_without_wifi_title">"Avertissement de l'utilisation de données"</string>
+    <string name="download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires dopératuer. Télécharger quand même?</string>
+    <string name="download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Vous pouvez sélectionner la qualité des images téléchargées ou désactivez les téléchargements automatiques dans les paramètres.</string>
     <string name="downloading_title">Téléchargement des photos de Mi Cloud</string>
@@ -487,6 +493,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="face_name_edit">Éditer</string>
     <string name="face_name_input">Saisissez un nom</string>
     <string name="face_recommend">Recommandations</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Impossible de terminer l'opération"</string>
     <string name="fail_to_pick_email">Adresse e-mail incorrecte</string>
     <string name="fail_to_sync_album">"Impossible de synchroniser l'album. Vérifier votre connexion réseau."</string>
@@ -497,6 +504,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">N&amp;B</string>
     <string name="filter_bi_dusk">Crépuscule</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -564,10 +572,13 @@ sont disponibles"</string>
     <string name="free_view_desc">Vue en 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
+    <string name="generate_story_summary">MIUI analysera vos photos et créera des albums d’histoires. Désactivez cette fonctionnalité pour arrêter de créer des albums d’histoires.</string>
+    <string name="generate_story_title">"Albums d'histoire"</string>
     <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
     <string name="grant_permission_go_and_set">Définir</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
@@ -602,6 +613,8 @@ sont disponibles"</string>
     <string name="image_invalid_path">Chemin non valide</string>
     <string name="image_not_found">"Impossible de trouver l'image"</string>
     <string name="image_quota_fulfiled">Maximum pour cet album atteint.</string>
+    <string name="image_selection_summary">MIUI analysera des photos similaires et marquera les meilleurs clichés pour vous. Désactivez cette fonctionnalité pour supprimer les marques sur les photos.</string>
+    <string name="image_selection_title">Sélectionnez les meilleures photos</string>
     <string name="image_with_time">Photo prise le %s</string>
     <string name="image_with_time_and_location">Photo prise le %1$s. Emplacement : %2$s.</string>
     <string name="impunity_declaration_settings">Notification de connexion Internet</string>
@@ -676,6 +689,9 @@ pour personnaliser Galerie"</string>
     <string name="merge_album_title">Fusionner avec une personne</string>
     <string name="messagelist_sender_self">Moi</string>
     <string name="micloud_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
+    <string name="month_view_tip_button_text">"C'est compris"</string>
+    <string name="month_view_tip_sub_title">Pincez lécran pour passer en vue mensuelle</string>
+    <string name="month_view_tip_title">Vue du mois</string>
     <string name="more">Plus</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Plus de personnes qui se ressemblent</string>
@@ -703,8 +719,8 @@ pour personnaliser Galerie"</string>
     <string name="movie_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
     <string name="movie_download_sdk_without_wifi_msg">On dirait que votre appareil nest pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données mobiles?</string>
     <string name="movie_download_sdk_without_wifi_title">Télécharger via les données mobiles</string>
-    <string name="movie_download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
-    <string name="movie_download_without_wifi_title">"Alerte d'utilisation des données"</string>
+    <string name="movie_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires dopératuer. Télécharger quand même?</string>
+    <string name="movie_download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="movie_edit">Modifier</string>
     <string name="movie_item_name">Clip</string>
     <string name="movie_preview_btn">Aperçu</string>
@@ -792,6 +808,7 @@ pour personnaliser Galerie"</string>
     <string name="operation_send">Envoyer</string>
     <string name="operation_set_contact_photo">Définir comme photo de contact</string>
     <string name="operation_set_slide_wallpaper">"Définir comme fond d'écran du diaporama"</string>
+    <string name="operation_set_video_wallpaper">Définir un fond décran vidéo</string>
     <string name="operation_set_wallpaper">"Définir comme fond d'écran"</string>
     <string name="operation_share">Partager</string>
     <string name="operation_show_in_photos_tab">Afficher dans Photos</string>
@@ -815,6 +832,16 @@ pour personnaliser Galerie"</string>
     <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
     <string name="people_page_label">Personnes</string>
     <string name="people_page_unname">Sans nom</string>
+    <string name="percent_sign">%</string>
+    <string name="permissin_contract_desc">Pour nommer des personnes sur des photos</string>
+    <string name="permission_contract_name">Contacts</string>
+    <string name="permission_optional_category">Autorisations optionnelles</string>
+    <string name="permission_phone_desc">"Pour les requêtes réseau basées sur l'ID de l'appareil"</string>
+    <string name="permission_phone_name">Téléphone</string>
+    <string name="permission_require_category">Autorisations obligatoires</string>
+    <string name="permission_storage_desc">Pour afficher, éditer et enregistrer des photos</string>
+    <string name="permission_storage_name">Stockage</string>
+    <string name="permission_use_desc">Autorisations</string>
     <string name="pet_album_display_name">"Photos d'animaux"</string>
     <string name="petabyteShort">Po</string>
     <string name="photo">Photos</string>
@@ -830,6 +857,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Dessiner</string>
     <string name="photo_editor_filter">Filtre</string>
+    <string name="photo_editor_font_default">>Mi Lanting (Normal)</string>
     <string name="photo_editor_frame">Cadre</string>
     <string name="photo_editor_label">Éditer</string>
     <string name="photo_editor_long_crop">Rogner</string>
@@ -886,6 +914,11 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_talkback_redo">Refaire</string>
     <string name="photo_editor_talkback_undo">Annuler</string>
     <string name="photo_editor_text">Texte</string>
+    <string name="photo_font_cancel_download">Annuler</string>
+    <string name="photo_font_download">Télécharger</string>
+    <string name="photo_font_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau et réessayez.</string>
+    <string name="photo_font_download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
+    <string name="photo_font_download_without_wifi_title">"Alerte d'utilisation des données"</string>
     <string name="photo_movie_module_finish">Clips vidéos chargé avec succès</string>
     <string name="photo_movie_module_loading">Chargement des clips vidéos…</string>
     <string name="photo_movie_select_image_range">Clips vidéos peuvent contenir 3-20 photos</string>
@@ -943,6 +976,7 @@ pour personnaliser Galerie"</string>
     <string name="recent_album_empty_title">Aucune nouvelle photo ajoutée récemment</string>
     <string name="recommanded_face_abandon_tip">Retiré des suggestions</string>
     <string name="recommanded_face_added_tip">Ajouté à \"%s\"</string>
+    <string name="recommend_category_title">Choix de la galerie</string>
     <string name="recovery_merge">Fusionner</string>
     <string name="recovery_merge_or_rename">Fusionner les albums</string>
     <string name="recovery_merge_or_rename_message">Il y a un album existant avec ce nom. Fusionner maintenant ?</string>
@@ -1045,6 +1079,9 @@ pour personnaliser Galerie"</string>
     <string name="search_title_recommend">Recommandé</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objets</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Recherche de projecteur…</string>
     <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
     <string name="secret_album_card_title">Essayer de cacher un album</string>
@@ -1064,6 +1101,7 @@ pour personnaliser Galerie"</string>
     <string name="secret_reason_unknow_reasons">Erreur inconnue</string>
     <string name="secret_reason_video_not_support">"Impossible d'ajouter des vidéos à l'album masqué"</string>
     <string name="see_ignore_faces">Voyez les personnes que vous avez ignorées</string>
+    <string name="select_all">Tout sélectionner</string>
     <string name="select_image_operation">Ajout des photos</string>
     <string name="select_item_face">"Est-ce '%s' ?"</string>
     <string name="select_origin_tip">Fichier original (%s)</string>
@@ -1075,6 +1113,8 @@ pour personnaliser Galerie"</string>
     <string name="send_too_many_files_error">"Vous pouvez envoyer jusqu'à %d éléments en même temps"</string>
     <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_slide_wallpaper_title">"Définir comme fond d'écran du diaporama"</string>
+    <string name="set_as_video_wallpaper_description">Télécharger cet élément et lutiliser comme fond décran vidéo?</string>
+    <string name="set_as_video_wallpaper_title">Définir un fond décran vidéo</string>
     <string name="set_as_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_wallpaper_title">"Définir comme fond d'écran"</string>
     <string name="set_face_group_toast_msg_new_user">Maintenir une personne pour fusionner ou ignorer.</string>
@@ -1083,6 +1123,7 @@ pour personnaliser Galerie"</string>
     <string name="set_face_group_toast_title_old_user">Les personnes peuvent être organisées par groupe</string>
     <string name="set_face_image">Définir une nouvelle photo de profil</string>
     <string name="set_group">Définir un groupe</string>
+    <string name="set_video_wallpaper_failed">Impossible dutiliser cet élément en tant que fond décran vidéo</string>
     <string name="set_wallpaper_get_image_failed">"Impossible de télécharger l'image, réessayez plus tard"</string>
     <string name="setup_network_connection">Paramètres du réseau</string>
     <string name="share">Partager</string>
@@ -1133,17 +1174,11 @@ pour personnaliser Galerie"</string>
     <string name="sticker_spring">Printemps</string>
     <string name="sticker_summer">Été</string>
     <string name="sticker_words">Mots</string>
-    <string name="storage_description_primary">Stockage interne</string>
-    <string name="storage_description_sdcard">Carte SD</string>
-    <string name="storage_description_usb">Stockage USB</string>
-    <string name="storage_description_xspace">Données des applications clonées</string>
     <string name="storage_no_space">Espace libre insuffisant</string>
     <string name="story_back_stop_download">Touchez à nouveau pour arrêter le téléchargement</string>
     <string name="story_cancel_download">Annuler</string>
     <string name="story_download">Télécharger</string>
     <string name="story_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-    <string name="story_download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
-    <string name="story_download_without_wifi_title">"Alerte d'utilisation des données"</string>
     <string name="story_photo_downloading">Téléchargement en cours…</string>
     <string name="sub_discard_confirm_message">Enregistrer les modifications ?</string>
     <string name="sub_discard_negative_btn">Annuler</string>
@@ -1182,6 +1217,8 @@ pour personnaliser Galerie"</string>
     <string name="text_edit_dialog_style_shadow">Ombre</string>
     <string name="text_edit_dialog_style_transparent">Opacité</string>
     <string name="text_edit_sub_menu_text">Bulle</string>
+    <string name="text_tab_bubble">Bulles</string>
+    <string name="text_tab_watermark">Filigranes</string>
     <string name="things_album_empty_title">Les photos peuvent être triées par les objets en elles</string>
     <string name="thumbnail_name">miniature</string>
     <string name="tip_capture_location">Emplacement :</string>
@@ -1199,7 +1236,6 @@ pour personnaliser Galerie"</string>
     <string name="to_enable_sync_dialog_message">"Activer d'abord la synchronisation"</string>
     <string name="to_enable_sync_dialog_positive_button_text">Accéder aux paramètres</string>
     <string name="to_enable_sync_dialog_title">Synchronisation</string>
-    <string name="today">"Aujourd'hui"</string>
     <string name="too_many_recipients">Vous ne pouvez pas ajouter plus de %2$s destinataires (Vous avez déjà ajouté %1$s destinataires).</string>
     <string name="trash_bin">Corbeille</string>
     <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
@@ -1244,8 +1280,8 @@ pour personnaliser Galerie"</string>
     <string name="video_editor_down_load_now">Téléchargements</string>
     <string name="video_editor_download">Télécharger</string>
     <string name="video_editor_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-    <string name="video_editor_download_without_wifi_msg">Utiliser votre connexion de données mobiles pour télécharger des fichiers augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie pourrait vous facturer des frais supplémentaires.</string>
-    <string name="video_editor_download_without_wifi_title">"Alerte d'utilisation des données"</string>
+    <string name="video_editor_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires dopératuer. Télécharger quand même?</string>
+    <string name="video_editor_download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="video_editor_encode_video">Encodage de la vidéo…</string>
     <string name="video_editor_encode_video_error">"Impossible d'encoder la vidéo"</string>
     <string name="video_editor_fatal_error">Erreur inconnue</string>
@@ -1336,11 +1372,14 @@ pour personnaliser Galerie"</string>
     <string name="who_is_this">Qui est-ce ?</string>
     <string name="xiaomi_account_not_exists_toast">"Ce compte Mi n'existe pas"</string>
     <string name="yes">Oui</string>
-    <string name="yesterday">Hier</string>
     <string name="you_are">Vous êtes le</string>
-    <string name="month_view_tip_button_text">"C'est compris"</string>
-    <string name="month_view_tip_sub_title">Pincez lécran pour passer en vue mensuelle</string>
-    <string name="month_view_tip_title">Vue du mois</string>
+    <string name="cleaner_similar_action">Supprimer maintenant</string>
+    <string name="cleaner_similar_description">Supprimer les photos en doubles</string>
+    <string name="cleaner_similar_title">Photos en double</string>
+    <string name="cleaner_video_action">Supprimer maintenant</string>
+    <string name="cleaner_video_description">"Supprimer des vidéos qui occupent de l'espace de stockage"</string>
+    <string name="cleaner_video_pick_delete_selected">Supprimer les vidéos sélectionnées</string>
+    <string name="cleaner_video_title">Supprimer les vidéos</string>
     <string name="photomovie_audio_custom">Local</string>
     <string name="photomovie_audio_default">Mémoire</string>
     <string name="photomovie_audio_kawaii">Romantique</string>
@@ -1387,6 +1426,15 @@ pour personnaliser Galerie"</string>
     <string name="refocus_title">Flou</string>
     <string name="refocus_type_static">Niveau de flou</string>
     <string name="refocus_type_video">Bande de lumière</string>
-    <string name="text_tab_bubble">Bubbles</string>
-    <string name="text_tab_watermark">Watermarks</string>
+    <string name="screen_doodle_talkback_size">Largeur de ligne de Doodle</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">Terminer</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">Annuler</string>
+    <string name="screen_save_dialog_btn_delete">"Suppression la captures d'écran"</string>
+    <string name="screen_save_dialog_btn_save">Enregistrer dans Galerie</string>
+    <string name="similar_keep_clear">Garder les meilleurs clichés</string>
 </resources>

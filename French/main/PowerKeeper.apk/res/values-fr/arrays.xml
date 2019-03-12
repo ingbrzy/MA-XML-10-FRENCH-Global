@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Personnaliser</item>
-        <item>Économiseur de batterie</item>
+        <item>Économiseur de batterie MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Applications actives</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>Mettre la priorité sur le contrôle de la température</item>
         <item>Mettre en priorité la performance</item>
-        <item>Ne fonctionne pas en mode Extrême</item>
+        <item>Non pris en charge par économiseur de batterie extrême</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Performance</item>

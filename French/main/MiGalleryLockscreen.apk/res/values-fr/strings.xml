@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="add_to_trust_device">Ceci est un appareil de confiance</string>
     <string name="and"> et </string>
     <string name="bind_sign_in_title">Ajouter un compte</string>

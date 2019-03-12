@@ -459,4 +459,5 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>
     <string name="button_touch">Placez votre doigt sur le capteur</string>
     <string name="button_input_password">Saisir le mot de passe</string>
+    <string name="master_clear_not_available">"La réinitialisation d'usine est limitée par votre société."</string>
 </resources>

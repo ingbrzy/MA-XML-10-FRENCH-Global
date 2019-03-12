@@ -20,6 +20,10 @@
         <item quantity="other">Délai très court (%1$d ms)</item>
         <item quantity="one">Délai très court (%1$d ms)</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sheures %2$s"</item>
+        <item quantity="one">" %1$sheure %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Désactivé pour %d applications</item>
         <item quantity="one">Désactivé pour %d application</item>

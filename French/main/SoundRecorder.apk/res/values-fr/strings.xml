@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">Enregistrer appels;Enregistrer appel;Appel enregistré;Appels enregistrés</string>
     <string name="keywords_search_record">"Nouvel enregistrement;Ajouter enregistrement;Enregistrement;Enregistrements;Transcription;Transcrire;Enregistreur;Enregistreur vocal;Enregistreur de son;Application Enregistrement;Application Enregistreur;Comment enregistrer;Comment enregistrer un son;Où est l'enregistreur;Enregistreur MIUI"</string>
     <string name="keywords_search_record_list">Enregistreur;Transcription;Transcriptions;Enregistrement;Enregistrement partagé;Enregistrer;Enregistrements</string>
+    <string name="korea_permission_phone">Téléphone</string>
+    <string name="korea_permission_phone_resc">Pour accéder à létat de lappareil et gérer les enregistrements pendant les appels</string>
+    <string name="korea_permission_record">Microphone</string>
+    <string name="korea_permission_record_resc">Pour enregistrer de laudio</string>
+    <string name="korea_permission_storage">Stockage</string>
+    <string name="korea_permission_storage_desc">Pour sauvegarder les enregistrements</string>
     <string name="loading_order_list">Juste un instant…</string>
     <string name="loading_order_list_empty">Aucune commande ici.</string>
     <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne soit pas perdu."</string>

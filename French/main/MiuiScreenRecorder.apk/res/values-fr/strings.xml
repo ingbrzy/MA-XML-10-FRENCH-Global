@@ -56,6 +56,8 @@
     <string name="no_sound">Désactiver le son</string>
     <string name="operation_delete">Supprimer</string>
     <string name="operation_send">Envoyer</string>
+    <string name="permission_intro_microphone">Pour enregistrer le son lorsque la source sonore est réglée sur le microphone</string>
+    <string name="permission_intro_storage">Pour sauvegarder des enregistrements décran</string>
     <string name="quit_recording">"Quitter l'enregistreur d'écran"</string>
     <string name="recording_failure">"Impossible d'enregistrer, recommencez"</string>
     <string name="recording_max_size">"L'enregistrement a été suspendu et enregistré car le fichier vidéo a atteint sa limite de taille. Commencez l'enregistrement où il a été interrompu si vous ne l'avez pas encore terminé."</string>
@@ -72,6 +74,10 @@
     <string name="show_hard_key_summary">Afficher les invites lorsque les boutons Accueil, Menu et Retour sont appuyés</string>
     <string name="show_screen_touch">Afficher les gestes tactiles</string>
     <string name="show_screen_touch_summary">Visualiser les gestes utilisant un point blanc</string>
+    <string name="size_byte">O</string>
+    <string name="size_gigabyte">Go</string>
+    <string name="size_kilobyte">Ko</string>
+    <string name="size_megabyte">Mo</string>
     <string name="sound_source">Source sonore</string>
     <string name="sound_source_summary">Sons système ou du microphone</string>
     <string name="sound_source_summary_without_system_sounds">Utiliser un microphone ou désactiver le son</string>

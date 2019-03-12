@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Effet de profondeur</string>
     <string name="portrait_mode_use_hint">"Le mode Portrait brouille l'arrière-plan
 et fait ressortir les personnes à l'avant."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Essayez le mode Portrait.
 Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_camera_square_mode_title">Carré</string>
@@ -473,6 +474,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
@@ -588,6 +590,7 @@ en mode Portrait"</string>
     <string name="lighting_pattern_leaf">Feuilles</string>
     <string name="lighting_pattern_dot">Points</string>
     <string name="lighting_pattern_shutter">Stores</string>
+    <string name="lighting_pattern_holi">Holi</string>
     <string name="view_privacy_policy">Voir la Politique de Confidentialité</string>
     <string name="fps960_toast">La capture au ralenti commence au dernier quart de lenregistrement</string>
     <string name="portrait_bokeh_text">Mode portrait</string>
@@ -608,27 +611,27 @@ en mode Portrait"</string>
     <string name="live_speed_extreme_fast">Très rapide</string>
     <string name="live_sticker_updating">Mise à jour en cours…</string>
     <string name="live_sticker_network_error_hint">Erreur réseau</string>
-    <string name="ultra_wide_mode">Grand angle</string>
+    <string name="ultra_wide_mode">Ultra grand angle</string>
     <string name="beauty_body">Silhouette</string>
     <string name="beauty_body_head">Tête</string>
     <string name="beauty_body_body">Élancé</string>
     <string name="beauty_body_shoulder">Épaules</string>
     <string name="beauty_body_legged">Jambes</string>
     <string name="beauty_body_reset_tip">Effet de figure réinitialisé avec succès</string>
-    <string name="ultra_wide_open_tip">Mode Grand angle</string>
-    <string name="ultra_wide_close_tip">Mode Grand angle est désactivé</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">Grand angle</string>
-    <string name="ultra_wide_recommend_tip_hint">Essayez le mode grand angle</string>
+    <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
+    <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
+    <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
     <string name="camera_liveshot_on_tip">Clichés dynamiques</string>
     <string name="camera_liveshot_off_tip">Clichés dynamiques désactivés</string>
     <string name="accessibility_camera_liveshot_on">Clichés dynamiques activés</string>
     <string name="accessibility_camera_liveshot_off">Clichés dynamiques désactivés</string>
     <string name="beauty_tab_name_live_filter">Filtres</string>
     <string name="beauty_tab_name_live_beauty">Embellir</string>
-    <string name="accessibility_ultra_wide_on">Mode grand angle activé</string>
-    <string name="accessibility_ultra_wide_off">Mode grand angle désactivé</string>
+    <string name="accessibility_ultra_wide_on">Mode ultra grand angle activé</string>
+    <string name="accessibility_ultra_wide_off">Mode ultra grand angle désactivé</string>
     <string name="ai_scene_top_tip">Mode Lune</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion dans les plans larges</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion dans les plans ultra larges</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
     <string name="pref_camera_normal_wide_ldc_title">Corrigez les déformations de visage sur les photos de groupe</string>
     <string name="pref_camera_normal_wide_ldc_description">Corrigez les visages déformés des personnes proches du bord du cadre</string>
@@ -646,9 +649,9 @@ en mode Portrait"</string>
     <string name="live_edit_exit_confirm">Arrêter</string>
     <string name="live_edit_share_title">Partager</string>
     <string name="beauty_reset_toast">Effets dembellissement supprimés avec succès</string>
-    <string name="pref_camera_ultra_wide_mode_title">Mode Grand angle</string>
+    <string name="pref_camera_ultra_wide_mode_title">Mode ultra grand angle</string>
     <string name="ultra_wide_mode_use_hint_text">"Utilisez ce mode pour inclure davantage de scènes dans votre photo.
-Le mode Grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de la scène."</string>
+Le mode ultra grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de la scène."</string>
     <string name="live_reverse_message">Supprimer lélément précédemment capturé?</string>
     <string name="live_reverse_confirm">Supprimer</string>
     <string name="live_error_title">Lheure du système nest pas correcte</string>
@@ -673,4 +676,10 @@ Le mode Grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de l
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP est activé</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP est désactivé</string>
     <string name="zoom_no_support_tip_48M">Le zoom ne fonctionne pas en mode 48MP</string>
+    <string name="hand_gesture_open_tip">Montrez votre paume de main à la caméra pour commencer le minuteur</string>
+    <string name="hand_gesture_tip">Minuteur avec la paulme de main</string>
+    <string name="autozoom_landscape_hint">Prenez une photo en mode paysage pour obtenir le meilleur effet</string>
+    <string name="super_night_toast">Gardez votre téléphone stable pendant que vous prenez une photo</string>
+    <string name="capture_back_pressed_hint">Appuyer à nouveau pour quitter</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

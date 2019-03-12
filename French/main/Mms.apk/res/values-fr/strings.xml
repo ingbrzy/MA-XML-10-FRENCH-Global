@@ -45,6 +45,10 @@
     <string name="audio_message_mx_offline">Impossible de télécharger le fichier audio. Mi Message est hors-ligne ou indisponible.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Aucune connexion réseau ou une autre carte SIM a été insérée. Veuillez insérer la carte SIM depuis laquelle le message a été envoyée et connectez-vous au réseau.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Activer la messagerie intelligente</string>
+    <string name="auto_identify_btn_text_when_all_disabled">Identifier lID de lexpéditeur automatiquement</string>
+    <string name="auto_identify_btn_title">Ce message est envoyé à partir dun numéro inconnu.</string>
+    <string name="auto_identify_confirmation">"L'activation de cette fonctionnalité peut prendre plusieurs minutes."</string>
     <string name="back_to_message_list">Retour à la liste des messages</string>
     <string name="batch_adding_progress_message">Ajout…</string>
     <string name="batch_deleting_message_progress_message">Suppression…</string>
@@ -153,7 +157,7 @@
     <string name="delete">Supprimer</string>
     <string name="delete_bookmark">Retirer des favoris</string>
     <string name="delete_message">Supprimer</string>
-    <string name="delete_phrase">Supprimer la réponse</string>
+    <string name="delete_phrase">Supprimer une réponse</string>
     <string name="delete_unlocked">Supprimer les messages verrouillés</string>
     <string name="delete_wild_sims">Supprimer des numéros</string>
     <string name="delete_wild_sims_confirm">Tous les messages appartenant aux numéros sélectionnés seront effacés de ce téléphone. Vous pouvez les restaurer sur i.mi.com.</string>
@@ -186,7 +190,7 @@
     <string name="duration_zero">La durée doit être supérieure à 0 seconde</string>
     <string name="earlier">Plus tôt</string>
     <string name="edit">Modifier</string>
-    <string name="edit_phrase">Modifier les réponses rapides</string>
+    <string name="edit_phrase">Éditer les réponses rapides</string>
     <string name="edit_slide_activity">Modifier la diapositive</string>
     <string name="edit_slideshow_activity">Modifier le diaporama</string>
     <string name="enabled">Activé</string>
@@ -220,6 +224,7 @@
     <string name="file_size">Taille :</string>
     <string name="file_title">Nom :</string>
     <string name="file_width_height">Taille :</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">Transférer de:</string>
     <string name="forward_message_select_title">Transférer le message</string>
@@ -290,6 +295,7 @@
     <string name="menu_pick_from_contact">Sélectionnez depuis les contacts</string>
     <string name="menu_preferences">Paramètres</string>
     <string name="menu_send_as_common">Envoyer par SMS</string>
+    <string name="menu_traffic_destination">Destination</string>
     <string name="menu_unlock">Retirer des favoris</string>
     <string name="menu_view_contact">Afficher le contact</string>
     <string name="message_class_label">Catégorie:</string>
@@ -388,6 +394,7 @@
     <string name="mx_stranger_recommend_msg">Appuyez pour bloquer les Messages Mi de numéros inconnus</string>
     <string name="mx_type_guide">Envoyer des messages aux autres utilisateurs MIUI sans encourir de frais</string>
     <string name="need_download">Synchro...</string>
+    <string name="net_sms_subscribed">Abonné avec succès</string>
     <string name="net_sms_unsubscribe">Abonnement annulé</string>
     <string name="network_error_description">Une erreur réseau est survenue. Patientez une minute ou deux et essayez à nouveau.</string>
     <string name="networking_allow_continue">Autoriser</string>
@@ -422,13 +429,14 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Nouveaux messages</string>
     <string name="number_add_hint">Entrez un numéro de téléphone</string>
+    <string name="number_recognition_partner">Fournisseurs de services de reconnaissance didentifiant dexpéditeur</string>
     <string name="open_audio_record_panel">"Ouvrir le panneau pour enregistrer de l'audio"</string>
     <string name="open_edit_sms_panel">Ouvrir le panneau pour éditer des messages</string>
     <string name="open_url_with_web">"Permettre d'ouvrir l'URL avec Internet ?"</string>
     <string name="over_max_mms_size">Le MMS est trop gros.</string>
     <string name="overwrite_edited_content">Le contenu que vous avez modifié sera remplacé.</string>
     <string name="packages_select_sim_cards_title">Sélectionner une carte SIM</string>
-    <string name="phrase_confirm_delete_message">Cette réponse sera supprimée</string>
+    <string name="phrase_confirm_delete_message">Cette réponse sera effacée.</string>
     <string name="phrase_empty">Aucune réponse</string>
     <string name="phrase_from">Depuis %1s</string>
     <string name="phrase_list_title">Réponses rapides</string>
@@ -661,6 +669,7 @@
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
     <string name="send_to">Envoyer à :</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Envoyé à : %1s</string>
     <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
@@ -732,7 +741,7 @@
     <string name="storage_unavailable">"Pas assez d' espace libre"</string>
     <string name="subject_hint">Objet</string>
     <string name="subject_label">"Objet : "</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">Sabonner</string>
     <string name="summary_pref_cm_smart_sms">Modèles de cartes, numéros de service SMS, et plus.</string>
     <string name="switch_to_editor">Mode éditeur</string>
     <string name="switch_to_menu">Mode menu</string>
@@ -759,6 +768,7 @@
     <string name="too_many_attachments">Ne peut pas dépasser %1$s pièces jointes. Seulement les %2$s premières seront ajoutées.</string>
     <string name="too_many_recipients">Ce message comporte trop de destinataires (%1$s). Vous ne pouvez avoir plus de %2$s destinataires.</string>
     <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Il existe un trop grand nombre de messages multimédias non envoyés."</string>
+    <string name="train_edit_destination">Ajouter</string>
     <string name="try_to_send">"Essayer d'envoyer"</string>
     <string name="type_attachment">pièce jointe</string>
     <string name="type_audio">audio</string>

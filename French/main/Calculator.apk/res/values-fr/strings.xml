@@ -132,7 +132,7 @@
     <string name="loan_edittext_title_commercial_combined">Commercial (×10K)</string>
     <string name="loan_edittext_title_fund_combined">Prêt de fonds (×10K)</string>
     <string name="loan_first_pay_date">Premier paiement</string>
-    <string name="loan_interest_rate">Interêt</string>
+    <string name="loan_interest_rate">Intérêt</string>
     <string name="loan_pay_years">Période de prêt</string>
     <string name="loan_payback_way">Remboursement</string>
     <string name="loan_repayment_detail">Modalités de remboursement</string>
@@ -150,11 +150,11 @@
     <string name="mortgage_descript_accumulation">"Taux d'intérêt : %s (fond)"</string>
     <string name="mortgage_descript_commercial">"Taux d'intérêt : %s (commercial)"</string>
     <string name="mortgage_detail_month">Mois</string>
-    <string name="mortgage_detail_monthly_interest">Interêt</string>
+    <string name="mortgage_detail_monthly_interest">Intérêt</string>
     <string name="mortgage_detail_monthly_principal">Capital</string>
     <string name="mortgage_detail_monthly_remain">Restant</string>
     <string name="mortgage_detail_monthly_repayment">Remboursement</string>
-    <string name="mortgage_detail_yearly_interest">Interêt</string>
+    <string name="mortgage_detail_yearly_interest">Intérêt</string>
     <string name="mortgage_detail_yearly_repayment">Remboursement</string>
     <string name="mortgage_details">Détails du prêt</string>
     <string name="mortgage_hint_accumulation_fund">Saisir un montant</string>
@@ -248,6 +248,11 @@
     <string name="tax_credit_mortgage">Prêt immobilier</string>
     <string name="tax_credit_personal_income_tax">Taxe sur le revenu personnel</string>
     <string name="tax_credit_pretax_income">Revenu avant impôt (CNY)</string>
+    <string name="tax_detail">Détails de la taxe</string>
+    <string name="tax_detail_amount">Montant de la taxe</string>
+    <string name="tax_detail_rate">Taux dimposition</string>
+    <string name="tax_detail_take_off">Déduction</string>
+    <string name="tax_detail_tax_payed">Montant payé</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">Fond de retraite</string>
     <string name="tax_fixed_salary_hint">Entrez votre revenu avant taxe</string>
@@ -262,11 +267,13 @@
     <string name="tax_individual_income_tax_result">Résultats</string>
     <string name="tax_injury">Accident</string>
     <string name="tax_insurance_and_fund">Assurance</string>
+    <string name="tax_insurance_and_fund_detail">Détails de lassurance</string>
     <string name="tax_last_salary_hint">Saisir votre revenu</string>
     <string name="tax_last_salary_number">Revenu</string>
     <string name="tax_location">Localisation</string>
     <string name="tax_medical">Médical</string>
     <string name="tax_param_error">"Saisir les taux exacts d'assurance"</string>
+    <string name="tax_payment_period">Nombre de paiements</string>
     <string name="tax_rate_provider">Calculé selon la nouvelle réglementation fiscale. Les données sont fournies par hexun.com et East Money.</string>
     <string name="tax_result_real_get">Après taxe</string>
     <string name="tax_social_insurance">Assurance sociale</string>
@@ -586,8 +593,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
     <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les autorisations requises dans Paramètres > Applications installées.</string>
     <string name="xiaomi_external_storage_unavailable">Le stockage nest pas disponible. Vérifiez votre carte SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
     <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s

@@ -244,6 +244,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">%d jours depuis la dernière vérification</item>
         <item quantity="one">%d jour depuis la dernière vérification</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d risques trouvés, corriger maintenant</item>
+        <item quantity="one">%d risque trouvé, corriger maintenant</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risques,</item>
         <item quantity="one">%d risque,</item>
@@ -375,10 +379,6 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d applications sont cachées</item>
         <item quantity="one">%d application est cachée</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d applications peuvent être affiché de manière incorrecte. Restreindre les notifications flottantes.</item>
-        <item quantity="one">%d application peut être affiché de manière incorrecte. Restreindre les notifications flottantes.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

@@ -5,11 +5,11 @@
     <string name="announcement">Attention</string>
     <string name="app_empty">Impossible de trouver des applications.</string>
     <string name="app_label">Commentaire</string>
-    <string name="app_name">Feedback</string>
+    <string name="app_name">Commentaires</string>
     <string name="app_search">Rechercher des applications</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content"><Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Appuyez pour afficher.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
@@ -44,7 +44,7 @@
     <string name="catch_full_log_submit_directly">Envoyer</string>
     <string name="close_feedback_main">Masquer</string>
     <string name="cta_cancel">Annuler</string>
-    <string name="cta_confirm">OK</string>
+    <string name="cta_confirm">OK </string>
     <string name="cta_dialog_content">Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement.</string>
     <string name="cta_dialog_title">Connexion Internet</string>
     <string name="cta_not_show_again">Ne plus demander</string>
@@ -107,6 +107,10 @@
     <string name="feedback_remind_login_btn">"S'identifier"</string>
     <string name="feedback_report_remind_login_desc">Connectez-vous avec votre Compte Mi pour afin que nos ingénieurs puissent vous contacter.</string>
     <string name="feedback_report_remind_login_desc2">Vous pouvez aussi afficher la progression de vos commentaires dans \"Mes commentaires\".</string>
+    <string name="feedback_reproductivity_everytime">À chaque fois</string>
+    <string name="feedback_reproductivity_occasionally">Occasionnellement</string>
+    <string name="feedback_reproductivity_often">Souvent</string>
+    <string name="feedback_reproductivity_once">Une fois</string>
     <string name="feedback_retest_label">Étapes à recommencer</string>
     <string name="feedback_select_images">Ajouter une image ou une vidéo courte</string>
     <string name="feedback_select_modem_log">Ajouter les journaux du modem</string>
@@ -167,9 +171,23 @@
     <string name="goon_feedback_main">Continuer</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
     <string name="issue_search">Rechercher</string>
+    <string name="kr_authorization_agree">Accepter</string>
+    <string name="kr_authorization_contact">Comptes</string>
+    <string name="kr_authorization_contact_desc">For getting Mi Account info and verifying your account</string>
+    <string name="kr_authorization_exit">Quitter</string>
+    <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
+    <string name="kr_authorization_log_protocol_desc">"In order to improve the services provided to you, we'll upload usage stats and system logs to our servers. These items may include your personal information, as well as the information about your device and networks. We'll use uploaded items to locate and analyze the problems in the system."</string>
+    <string name="kr_authorization_phone">Téléphone</string>
+    <string name="kr_authorization_phone_desc">For identifying device using IMEI and model number, as well as locating and analyzing issues</string>
+    <string name="kr_authorization_privacy_policy">Politique de confidentialité (obligatoire)</string>
+    <string name="kr_authorization_select_all">Tout sélectionner</string>
+    <string name="kr_authorization_storage">Stockage</string>
+    <string name="kr_authorization_storage_desc">For accessing storage and saving items including logs, images, and videos</string>
+    <string name="kr_authorization_summary">Documents légaux</string>
+    <string name="kr_authorization_user_protocol">Accord de lutilisateur (obligatoire)</string>
     <string name="loading_apps">Chargement de la liste…</string>
     <string name="login_system_failed">Impossible de se connecter, réessayez plus tard</string>
-    <string name="logo_title">Feedback</string>
+    <string name="logo_title">Commentaires</string>
     <string name="max_error">Votre %1$s doit être plus court.</string>
     <string name="menu_copy">Copier</string>
     <string name="message_label">Message</string>
@@ -177,7 +195,7 @@
     <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">"Si vous ne pouvez pas appeler l'assistance technique au 400, veuillez composer le %1$s en utlisant un autre téléphone"</string>
     <string name="michat_artificial_customer_text">Assistant personnel</string>
-    <string name="michat_attach_image">Image</string>
+    <string name="michat_attach_image">Photo</string>
     <string name="michat_attach_smiley">Émoticône</string>
     <string name="michat_attach_take_photo">App. photo</string>
     <string name="michat_back_to_detail">Retourner au chat</string>
@@ -231,7 +249,7 @@
     <string name="michat_transfer_message">"À la recherche de quelqu'un pour vous aider…"</string>
     <string name="michat_try_again">Veuillez réessayer</string>
     <string name="michat_type_list_null">"Impossible d'obtenir les informations, réessayez plus tard"</string>
-    <string name="michat_type_picture">Image</string>
+    <string name="michat_type_picture">Photo</string>
     <string name="michat_user_quit">Vous avez quitté la conversation</string>
     <string name="michat_wait_for_a_moment">Veuillez patienter un instant !</string>
     <string name="michat_webview_title">Afficher les détails</string>
@@ -276,7 +294,7 @@
     <string name="network_errortip_server">Une erreur serveur est survenue, réessayez plus tard</string>
     <string name="network_errortip_timeout">La connexion a expiré, réessayez plus tard</string>
     <string name="network_errortip_unknow">Nous nous en occupons…</string>
-    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="network_unavailable_dialog_button_ok">OK </string>
     <string name="network_unavailable_dialog_content">Votre rapport sera envoyé quand vous aurez une connexion.</string>
     <string name="network_unavailable_dialog_title">Impossible de se connecter au réseau</string>
     <string name="non_system_app_select">Applications téléchargées</string>
@@ -436,6 +454,7 @@ Pour activer votre compte, suivez le
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est invalide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">"Votre commentaire, ainsi que les journaux d'erreurs seront envoyés aux serveurs de Xiaomi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Se souvenir</string>
     <string name="post_miui_bbs_failed">Impossible de poster sur le forum MIUI</string>
@@ -464,8 +483,8 @@ Pour activer votre compte, suivez le
     <string name="select_system_app_tag">Sélectionner un problème</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
-    <string name="submit_dialog_content"><Data>Vous devez accepter notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord de lutilisateur&lt;/a> pour pouvoir utiliser Commentaires. Les problèmes que vous signalez avec les éléments que vous joignez (pouvant contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">&lt;Data>Vous devez accepter notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord de lutilisateur&lt;/a> pour pouvoir utiliser Commentaires. Les problèmes que vous signalez avec les éléments que vous joignez (pouvant contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI et à une section restreinte du forum MIUI pour les développeurs. Les informations sur vos discussions et les activités du forum seront également collectées pour analyse et communication ultérieure. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord Utilisateur&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
     <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>
     <string name="suggestion_description">Ajoutez la description ici</string>

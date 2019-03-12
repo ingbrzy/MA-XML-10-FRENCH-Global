@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="about_title">À propos</string>
     <string name="access_sd_fail">Accès impossible à la carte SD</string>
     <string name="accessibility_shutter_button">Déclencheur</string>
@@ -69,7 +90,7 @@
     <string name="error_get_image">"Impossible d'obtenir l'image"</string>
     <string name="error_media_storage_failure">"Impossible d'enregistrer la photo"</string>
     <string name="error_permissions">"Le Scanneur n'a pas les autorisations requises pour fonctionner normalement. Allez à Paramètres et vérifiez les autorisations pour continuer."</string>
-    <string name="error_server_error">Erreur du serveur</string>
+    <string name="error_server_error">"Une erreur de serveur s'est produite."</string>
     <string name="fax">Fax</string>
     <string name="feed_search_fail">Aucun résultat, veuillez réessayer</string>
     <string name="feedback_description_camera_access">"Impossible de se connecter à l'appareil photo"</string>
@@ -77,7 +98,7 @@
     <string name="got_it">"C'est compris"</string>
     <string name="gps">Navigation</string>
     <string name="import_contact">Importer le contact</string>
-    <string name="impunity_declaration_content">Le scanneur nécessite des autorisations pour accéder à votre appareil photo et faire des photos. Le scanneur doit également se connecter à Internet pour fonctionner normalement. Nous considérons que vous avez lu et accepté notre %1$spolitique de confidentialité%2$s lorsque vous appuyez sur \"Accepter\" ci-dessous.</string>
+    <string name="impunity_declaration_content">Le scanneur doit utiliser votre appareil photo et traiter les images que vous prenez en utilisant lapplication. Nutilisez pas Scanneur pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Politique de confidentialité&lt;/a>&lt;/font> et autorise Scanneur à se connecter à Internet.</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="impunity_declaration_title">Politique de Confidentialité</string>
     <string name="label_choose_picture">Choisir une image</string>
@@ -102,7 +123,7 @@
     <string name="module_title_document">Document</string>
     <string name="module_title_plant">Plante</string>
     <string name="module_title_shopping">Achat</string>
-    <string name="module_title_study">Étudier</string>
+    <string name="module_title_study">Devoirs</string>
     <string name="module_title_translation">Traduire</string>
     <string name="name">Nom :</string>
     <string name="new_schedule">Créer un évènement</string>
@@ -114,6 +135,8 @@
     <string name="not_recommend_access_web_url">Aller quand même</string>
     <string name="note">Remarque :</string>
     <string name="open_url">"Ouvrir l'URL"</string>
+    <string name="pay_no_tip">Ne plus afficher</string>
+    <string name="pay_save_this_choose">Se souvenir de mon choix</string>
     <string name="payment_text">Ouvrir avec %s</string>
     <string name="phone">Téléphone :</string>
     <string name="place_barcode_into_rectangle">Placez le code dans le cadre</string>
@@ -145,11 +168,11 @@
     <string name="shopping_title">Prendre une photo du produit</string>
     <string name="shopping_vendor_info">Propulsé par Taobao</string>
     <string name="spaceIsLow_content">"Espace insuffisant sur le stockage interne. Libérez de l'espace."</string>
-    <string name="study_rotate_picture">Traitement de la photo</string>
+    <string name="study_rotate_picture">Traitement de limage en cours…</string>
     <string name="study_scan_result">Résultat</string>
-    <string name="study_searching">Recherche de résultat</string>
-    <string name="study_title">Prendre une photo du problème</string>
-    <string name="study_vendor_info">Powered by 作业帮</string>
+    <string name="study_searching">Recherche de résultats en cours…</string>
+    <string name="study_title">Scannez le problème que vous souhaitez résoudre</string>
+    <string name="study_vendor_info">Propulsé par Zuoyebang</string>
     <string name="switch_open">Activer</string>
     <string name="tel">Téléphone</string>
     <string name="title">Titre :</string>
@@ -160,6 +183,7 @@
     <string name="translate_dest_lang">Langue cible</string>
     <string name="translate_fail">Impossible de traduire</string>
     <string name="translate_loading">Traduction…</string>
+    <string name="translate_parallel_2_lines">Assurez-vous que le texte est parallèle aux lignes sur lécran</string>
     <string name="translate_save_fail">"Impossible d'enregistrer la note"</string>
     <string name="translate_src_lang">Langue originelle</string>
     <string name="translate_text_compare">Comparaison</string>

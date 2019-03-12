@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Pour identifier les éléments synchronisés</item>
+        <item>Pour synchroniser les messages</item>
+        <item>Pour synchroniser les contacts</item>
+        <item>Pour synchroniser des événements du calendrier</item>
+        <item>Pour synchroniser des éléments avec des services utilisant le stockage</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Téléphone</item>
+        <item>SMS</item>
+        <item>Contacts</item>
+        <item>Calendrier</item>
+        <item>Stockage</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>"Synchroniser les données de l'application"</item>
         <item>"Sauvergarder la disposition de l'écran d'accueil"</item>

@@ -144,10 +144,6 @@
         <item quantity="other">"%1$d photos qui n'ont pas pu être rendues ont été ignorées."</item>
         <item quantity="one">"Une photo qui n'a pas pu être rendue a été ignorée."</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">Total %1$d éléments</item>
-        <item quantity="one">Total %1$d élément</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d éléments en attente de sauvegarde</item>
         <item quantity="one">1 élément en attente de sauvegarde</item>
@@ -271,5 +267,13 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d éléments au total</item>
+        <item quantity="one">%1$d élément au total</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fichiers</item>
+        <item quantity="one">%1$d fichier</item>
     </plurals>
 </resources>

@@ -56,12 +56,16 @@
         <item quantity="other">%d photos masquées synchronisées. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>
         <item quantity="one">%d photo masquée synchronisée. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Reprendre la synchronisation dans %d heures</item>
-        <item quantity="one">Reprendre la synchronisation dans %d heure</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">La synchronisation est en pause. Reprise dans %d minutes…</item>
+        <item quantity="one">La synchronisation est en pause. Reprise dans %d minute…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Reprendre la synchronisation dans %d minutes</item>
-        <item quantity="one">Reprendre la synchronisation dans %d minute</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">il y a %s min</item>
+        <item quantity="one">Il y a %s min</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">Il y a %s h</item>
+        <item quantity="one">Il y a %s h</item>
     </plurals>
 </resources>

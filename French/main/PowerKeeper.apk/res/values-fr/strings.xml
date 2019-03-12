@@ -4,16 +4,16 @@
     <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
     <string name="power_config_select_apps_title">Applications</string>
     <string name="power_config_event_delete">Supprimer</string>
-    <string name="hide_mode_desc"><font color="#000000">"Lorsqu'une application s'exécute en arrière-plan, ses activités seront surveillées pour réduire l'utilisation de la batterie. Cette fonction permet d'obtenir et d'utiliser les données utilisateur %s"</font></string>
+    <string name="hide_mode_desc">"Lorsqu'une application s'exécute en arrière-plan, ses activités seront surveillées pour réduire l'utilisation de la batterie. Cette fonction permet d'obtenir et d'utiliser les données utilisateur %s"</string>
     <string name="privacy">Politique de Confidentialité</string>
     <string name="power_hide_mode_title">Batterie &amp; performance</string>
-    <string name="power_config_apps">Économiseur de batterie</string>
+    <string name="power_config_apps">"Économiseur de batterie d'application"</string>
     <string name="app_list_title">"Choisir l'application"</string>
     <string name="power_hide_mode_app_list_summary">"Économise l'énergie en arrière-plan"</string>
-    <string name="about_hide_mode">"À propos de l'économiseur de batterie"</string>
+    <string name="about_hide_mode">"À propos de l'économiseur de batterie d'application"</string>
     <string name="show_system_app">Afficher les applications système</string>
     <string name="hide_system_app">Masquer les applications système</string>
-    <string name="about_extreme_mode">Mode Extrême</string>
+    <string name="about_extreme_mode">Économiseur de batterie extrême</string>
     <string name="scenario_policies_title">Scènes intelligentes</string>
     <string name="config_scenario_policies_title">Scènes</string>
     <string name="scenario_policies_summary">"Appliquer différentes stratégies d'économie d'énergie pour des scènes différentes."</string>
@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">"Chaque fois que MIUI détecte que vous dormez, il fermera les applications en arrière-plan, restreindra l'utilisation du Bluetooth, GPS, des données mobiles et du réseau Wi-Fi puis n'allumera pas l'écran à la réception des notifications."</string>
     <string name="nonui_mode_config_title">Mode non interactif</string>
     <string name="nonui_mode_config_description">"Ne pas allumer l'écran pour les notifications, désactiver le voyant lumineux, le capteur d'empreintes digitales ainsi que les touches de contrôle afin d'économiser la batterie lorsque MIU détecte que vous n'utilisez pas votre appareil."</string>
-    <string name="power_center">Économiseur de batterie</string>
+    <string name="power_center">Optimisation de la batterie</string>
     <string name="power_usage">"Consommation d'énergie"</string>
     <string name="power_mode">"Paramètres de gestion d'énergie"</string>
     <string name="performance_category">Performance</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">Votre appareil chauffera plus lorsque plusieurs traitements seront en cours.</string>
     <string name="vip_feedback">Commentaire VIP</string>
     <string name="vip_feedback_enable">Activer les commentaires VIP</string>
-    <string name="extreme_power_config_mode_category">Mode extrême</string>
-    <string name="extreme_power_config_mode_title">Mode extrême</string>
+    <string name="extreme_power_config_mode_category">Économiseur de batterie extrême</string>
+    <string name="extreme_power_config_mode_title">Économiseur de batterie extrême</string>
     <string name="extreme_power_config_mode_desc"><li>"L'économiseur de batterie extrême arrête toute activité en arrière-plan d'une application une fois que vous l'avez quitté et retourne à lécran d'accueil. Cette application ne vous enverra pas de notifications ni ne recevra de mises à jour. "</li>"
 "<li>" Si vous souhaitez qu'une application s'exécute en arrière-plan, verrouillez-la dans Récents ou ajoutez-la aux exceptions d'arrière-plan ci-dessous. Jusqu'à 4 applications peuvent être exécutées en arrière-plan lorsque le mode Économie de batterie extrême est activé. "</li>"
 "<li>" L'économiseur de batterie extrême désactive la technologie NFC par défaut. Vous pouvez changer cela dans les paramètres."</li>"
@@ -93,7 +93,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="appconfig_active_app_dialog_title">Gérer les applications actives</string>
     <string name="config_classify">"Trier par paramètres d'application"</string>
     <string name="active_classify">"Trier par statut d'activité"</string>
-    <string name="extreme_mode_max_item_alert">Vous pouvez sélectionner jusqu 4 applications à exécuter en arrière-plan en mode Extrême</string>
+    <string name="extreme_mode_max_item_alert">"Vous pouvez sélectionner jusqu'à 4 applications à exécuter en arrière-plan lorsque l'extrême économiseur de batterie est activé"</string>
     <string name="message_i_know">"C'est compris"</string>
     <string name="high_temp_state">Surchauffe</string>
     <string name="high_temp_state_message">"Votre appareil surchauffe. Les données mobiles, les points d'accès Wi-Fi, le GPS et l'appareil photo seront restreints."</string>
@@ -109,8 +109,4 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="extreme_add_white_list_summary">"Ajoutez jusqu'à 4 applications"</string>
     <string name="adaptive_battery_title">Utiliser une batterie adaptative</string>
     <string name="adaptive_battery_summary">Limiter la batterie aux applications que vous nutilisez pas souvent</string>
-    <string name="dark_mode">Mode nuit</string>
-    <string name="dark_mode_summary">Basculer vers la palette de couleurs sombres pour économiser la batterie</string>
-    <string name="open_dark_mode">Passer en mode Nuit</string>
-    <string name="open_dark_mode_tip">La qualité daffichage de certaines fonctionnalités peut diminuer en mode Nuit. Cela reviendra à la normale lorsque vous quitterez le mode Nuit. Basculer en mode Nuit maintenant ?</string>
 </resources>

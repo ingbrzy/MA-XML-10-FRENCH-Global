@@ -42,6 +42,7 @@
     <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
     <string name="add_to_playlist_successful">Ajouté avec succès</string>
     <string name="added_next_play">Ajouté pour être joué ensuite</string>
+    <string name="agreement_desc">Accord de l’utilisateur (obligatoire)</string>
     <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
@@ -53,6 +54,16 @@
     <string name="already_favorited">Déjà en favoris</string>
     <string name="always_use_metered">Toujours utiliser les données mobiles</string>
     <string name="app_label">Téléchargements</string>
+    <string name="app_permission_confirm">"C'est compris"</string>
+    <string name="app_permission_optional">Autorisations optionnelles</string>
+    <string name="app_permission_require">Autorisations obligatoires</string>
+    <string name="app_permission_use_desc">Autorisations</string>
+    <string name="app_permission_use_group_account">Comptes</string>
+    <string name="app_permission_use_group_account_desc">Pour obtenir des informations sur le compte Mi</string>
+    <string name="app_permission_use_group_phone">Téléphone</string>
+    <string name="app_permission_use_group_phone_desc">Pour les services Google Push</string>
+    <string name="app_permission_use_group_storage">Stockage</string>
+    <string name="app_permission_use_group_storage_desc">Pour rechercher et lire des chansons enregistrées sur l’appareil</string>
     <string name="artist">Artistes</string>
     <string name="artist_area_all">Tous</string>
     <string name="artist_area_china">Chine</string>
@@ -119,6 +130,7 @@
     <string name="current_version">Version actuelle</string>
     <string name="data_usage_warning">Utilisation des données</string>
     <string name="data_usage_warning_summary">"L'utilisation de votre connexion de données mobile pour écouter de la musique de haute qualité peut augmenter vos frais d'utilisation des données."</string>
+    <string name="data_use_desc">Documents légaux</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">Supprimer</string>
     <string name="delete_download">Supprimer</string>
@@ -205,6 +217,7 @@
     <string name="download_method">Télécharger</string>
     <string name="download_no_application_title">"Impossible d'ouvrir le fichier"</string>
     <string name="download_paused_in_power_save_mode">"Les téléchargements sont en pause lorsque l'économiseur de batterie est activé"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Téléchargement…</string>
     <string name="download_quality">Qualité de téléchargement</string>
     <string name="download_quality_summary">Paramètres supplémentaires pour les chansons que vous téléchargez</string>
@@ -284,7 +297,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -306,6 +321,7 @@
     <string name="favorite_succeed">Ajouté aux favoris</string>
     <string name="favorite_tracks">Favoris</string>
     <string name="favorites">Favoris</string>
+    <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="feed_back">Commentaires</string>
     <string name="file_not_found">"Le fichier n'existe pas"</string>
     <string name="filter_by_duration">Par longueur</string>
@@ -326,6 +342,7 @@
     <string name="format_not_support">"Ce format n'est pas pris en charge."</string>
     <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
     <string name="fragment_title_artist_album">Albums</string>
+    <string name="gcm_fallback_notification_channel_label">Divers</string>
     <string name="handle_later">Pas maintenant</string>
     <string name="hd_quality_audio">Audio de qualité HD</string>
     <string name="headset_and_audio_effect_category">Casque &amp; effets audio</string>
@@ -539,7 +556,9 @@
     <string name="preset_music_playlist">Playlist Mi Musique</string>
     <string name="priority_storage">Utilisez une carte SD externe</string>
     <string name="priority_storage_summary">Télécharger automatiquement sur la carte SD externe si disponible</string>
+    <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
     <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fr_FR</string>
     <string name="pro_member">Membre PRO</string>
     <string name="project_device">Téléphone Mi</string>
     <string name="prompt_grant_write_settings_permission">Autoriser la modification des paramètres systèmes</string>
@@ -547,6 +566,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Téléchargée avec succès</string>
     <string name="pulluprefreshrecyclerview_loading_running">Chargement…</string>
     <string name="queue_is_empty">La liste de lecture est vide.</string>
+    <string name="ready_to_play">Passer au suivant</string>
     <string name="recently_played">Joué récemment</string>
     <string name="recently_played_songs">Récent</string>
     <string name="recommended_file_size_download_in_mobile">Utiliser %s de données mobiles pour télécharger ce fichier ?</string>
@@ -637,6 +657,7 @@
     <string name="start_to_check_new_version">Vérification des updates…</string>
     <string name="start_to_download">Téléchargement…</string>
     <string name="start_to_play">Lecture</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage_internal">Stockage Interne</string>
     <string name="storage_sd_card">Carte SD</string>
     <string name="storage_usb">Stockage USB</string>
@@ -697,6 +718,7 @@
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
     <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
     <string name="user_agreement">Accord Utilisateur</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fr_FR</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
     <string name="video_replay_btn">Relire</string>

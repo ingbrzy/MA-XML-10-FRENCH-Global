@@ -12,7 +12,7 @@
     <string name="user_manual">"Mode d'emploi"</string>
     <string name="no_sim">Aucune carte SIM détectée</string>
     <string name="sim_locked">La carte SIM est verrouillée.</string>
-    <string name="sim_in_airplane_mode">Désactiver le Mode Avion.</string>
+    <string name="sim_in_airplane_mode">Désactiver le mode Avion.</string>
     <string name="sim_not_ready">La carte SIM est utilisée. Réessayez plus tard.</string>
     <string name="sim_unavailable">Carte SIM indisponible.</string>
     <string name="activating">Activation…</string>
@@ -46,6 +46,7 @@
     <string name="size_giga_byte">Go</string>
     <string name="size_tera_byte">To</string>
     <string name="size_peta_byte">Po</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="date_time_done">Ok</string>
     <string name="date_picker_dialog_title">Définir la date</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">La synchronisation a été désactivée à cause de problèmes avec votre compte Mi.</string>
     <string name="error_not_acceptable">Synchronisation arrêtée.</string>
     <string name="more">Plus</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Frais</string>
     <string name="solar_term_great_cold">Grand froid</string>
     <string name="solar_term_spring_begins">Le printemps commence</string>

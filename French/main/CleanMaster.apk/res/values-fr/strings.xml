@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_residual_header_left">Résidus</string>
     <string name="hints_memory_header_left">Mémoire</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Gros fichiers : %d</string>
     <string name="hints_installed_apps_header_left">Applications installées : %d</string>
     <string name="toast_resolve_apk_error">"Résolution de l'erreur de l'apk"</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Téléchargement</string>
     <string name="installing">Installation</string>
     <string name="start_install">Installer maintenant</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Ouvrir dans le navigateur</string>
     <string name="title_share_link">"Partager l'URL"</string>
     <string name="connecting">Connexion…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">Fichier non trouvé</string>
     <string name="app_usage_never">Pas récemment utilisé</string>
     <string name="app_usage_recently">Récemment utilisé</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace.;"</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace.;"</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary"><Data>Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> du cache généré par QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">"&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace.;&lt;/Data>"</string>
+    <string name="resutl_function_wechat_clean_summary">"&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace.;&lt;/Data>"</string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> du cache généré par QQ;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">À propos du nettoyeur</string>
@@ -545,7 +547,6 @@
     <string name="onekeyclean_boost_available">%s disponible</string>
     <string name="onekeyclean_card_summery">"Vider la corbeille pour libérer de l'espace"</string>
     <string name="onekeyclean_card_btn">Nettoyer maintenant</string>
-    <string name="memory_clean_icon_text">Vider la mémoire</string>
     <string name="pref_title_create_onekeyclean_shortcut">"Afficher un raccourci sur l'écran d'accueil"</string>
     <string name="memory_clean_no_trash_tip">Tout semble bon</string>
     <string name="toast_updater_open_4g_text">Les applis seront mises à jour en utilisant les données mobiles (4G)</string>
@@ -563,6 +564,6 @@
     <string name="facebook_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner Facebook. Arrêtez l'analyse maintenant?"</string>
     <string name="facebook_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
     <string name="facebook_clean_exit_confirm_ok">Arrêter</string>
-    <string name="one_tap_clean_M">%dMo</string>
-    <string name="one_tap_clean_GB">%sGo</string>
+    <string name="one_tap_clean_M">%d Mo</string>
+    <string name="one_tap_clean_GB">%s Go</string>
 </resources>
