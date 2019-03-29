@@ -144,4 +144,8 @@
         <item quantity="other">Dégagé</item>
         <item quantity="one">Dégagé</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d appareils connectés</item>
+        <item quantity="one">%1$d appareil connecté</item>
+    </plurals>
 </resources>

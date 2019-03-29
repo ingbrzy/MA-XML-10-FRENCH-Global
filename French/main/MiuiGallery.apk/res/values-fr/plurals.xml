@@ -176,6 +176,10 @@
         <item quantity="other">%1$d vidéos de sauvegarde</item>
         <item quantity="one">1 vidéo en attente de sauvegarde</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d éléments au total</item>
+        <item quantity="one">%1$d élément au total</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Les photos sélectionnées ne se trouvent pas sur l'appareil. Voulez-vous les télécharger en utilisant vos données mobiles ?"</item>
         <item quantity="one">"La photo sélectionnée ne se trouve pas sur l'appareil. Voulez-vous la télécharger en utilisant vos données mobiles ?"</item>
@@ -267,10 +271,6 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">%1$d éléments au total</item>
-        <item quantity="one">%1$d élément au total</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fichiers</item>

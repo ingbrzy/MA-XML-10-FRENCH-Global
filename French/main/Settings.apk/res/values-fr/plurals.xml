@@ -20,10 +20,6 @@
         <item quantity="other">Délai très court (%1$d ms)</item>
         <item quantity="one">Délai très court (%1$d ms)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sheures %2$s"</item>
-        <item quantity="one">" %1$sheure %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Désactivé pour %d applications</item>
         <item quantity="one">Désactivé pour %d application</item>
@@ -40,6 +36,30 @@
         <item quantity="other">%d applications sont autorisées à démarrer automatiquement</item>
         <item quantity="one">%d application est autorisée à démarrer automatiquement</item>
     </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d applications limitées</item>
+        <item quantity="one">%1$d application limitée</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Limiter %1$d applications ?</item>
+        <item quantity="one">Limiter %1$d application ?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">"Ces applications ne peuvent pas s'exécuter en arrière-plan"</item>
+        <item quantity="one">"Cette application ne peut pas s'exécuter en arrière-plan"</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d applications récemment limitées</item>
+        <item quantity="one">%2$d application récemment limitée</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d applications sollicitent beaucoup la batterie en arrière-plan</item>
+        <item quantity="one">%2$d application sollicite beaucoup la batterie en arrière-plan</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Limiter %1$d applications</item>
+        <item quantity="one">Limiter %1$d application</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d applications peuvent se connecter au réseau</item>
         <item quantity="one">%d application peut se connecter au réseau</item>
@@ -47,6 +67,10 @@
     <plurals name="bg_network_restrict_count">
         <item quantity="other">%d applications ne peuvent pas se connecter au réseau</item>
         <item quantity="one">%d application ne peut pas se connecter au réseau</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">%d jours restants</item>
+        <item quantity="one">%d jour restant</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d appareils</item>
@@ -164,10 +188,6 @@
         <item quantity="other">%d agents de confiance actifs</item>
         <item quantity="one">%d agent de confiance actif</item>
     </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d comptes seront réinitialisés</item>
-        <item quantity="one">%1$d compte sera réinitialisé</item>
-    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d applications ont utilisé de la mémoire au cours de la période suivante : %2$s.</item>
         <item quantity="one">%1$d application a utilisé de la mémoire au cours de la période suivante : %2$s.</item>
@@ -184,9 +204,17 @@
         <item quantity="other">%1$d restrictions</item>
         <item quantity="one">%1$d restriction</item>
     </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d catégories</item>
+        <item quantity="one">%d catégorie</item>
+    </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Désactivé pour %d applications</item>
         <item quantity="one">Désactivé pour %d application</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">%d catégories désactivées</item>
+        <item quantity="one">%d catégorie désactivée</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d applications actives</item>
@@ -196,6 +224,14 @@
         <item quantity="other">%d autorisations accordées</item>
         <item quantity="one">%d autorisation accordée</item>
     </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d applications ont un comportement anormal</item>
+        <item quantity="one">%2$d application a un comportement anormal</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Des applications déchargent la batterie</item>
+        <item quantity="one">Une application décharge la batterie</item>
+    </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">"%1$d tâches d'impression"</item>
         <item quantity="one">"%1$d tâche d'impression"</item>
@@ -203,6 +239,10 @@
     <plurals name="print_settings_summary">
         <item quantity="other">"%1$d services d'impression activés"</item>
         <item quantity="one">"%1$d service d'impression activé"</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">"Limitation de l'utilisation de la batterie pour %1$d applications"</item>
+        <item quantity="one">"Limitation de l'utilisation de la batterie pour %1$d application"</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d autorisations supplémentaires</item>
@@ -224,14 +264,6 @@
         <item quantity="other">Afficher %d éléments masqués</item>
         <item quantity="one">Afficher %d élément masqué</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d interrupteurs apparaîtront sur le panneau de notification</item>
-        <item quantity="one">%1$d interrupteur apparaîtra sur le panneau de notification</item>
-    </plurals>
-    <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">Il reste %1$d étapes restantes avant de pouvoir obtenir le journal audio</item>
-        <item quantity="one">Il reste %1$d étape restante avant de pouvoir obtenir le journal audio</item>
-    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
         <item quantity="one">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
@@ -240,13 +272,9 @@
         <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
         <item quantity="one">Plus que %1$d étape pour devenir développeur</item>
     </plurals>
-    <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">"%1$d étapes restantes avant d'obtenir le journal du GPS"</item>
-        <item quantity="one">"%1$d étape restante avant d'obtenir le journal du GPS"</item>
-    </plurals>
-    <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">Il reste %1$d étapes restantes avant de pouvoir obtenir le journal du modem</item>
-        <item quantity="one">Il reste %1$d étape restante avant de pouvoir obtenir le journal du modem</item>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d appareils auditifs enregistrés</item>
+        <item quantity="one">%1$d appareil auditif enregistré</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Encore %1$d pas pour accéder aux infos de l'appareil."</item>
@@ -255,10 +283,6 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Encore %1$d pas pour accéder au rapport de bug.</item>
         <item quantity="one">Encore %1$d pas pour accéder au rapport de bug.</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">"Terminer %1$d pas pour effectuer une réinitialisation aux paramètres d'usine"</item>
-        <item quantity="one">"Terminer %1$d pas pour effectuer une réinitialisation aux paramètres d'usine"</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d applications peuvent utiliser les données sans restrictions</item>
@@ -296,6 +320,14 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
         <item quantity="other">%d applications peuvent afficher les notifications</item>
         <item quantity="one">%d application peut afficher les notifications</item>
     </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d suggestions</item>
+        <item quantity="one">+%1$d suggestion</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d suggestions</item>
+        <item quantity="one">%1$d suggestion</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
@@ -312,13 +344,29 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
         <item quantity="other">%d réseaux partagés</item>
         <item quantity="one">%d réseau partagé</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d appareils connectés</item>
+        <item quantity="one">%1$d appareil connecté</item>
+    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Code PIN de la carte SIM erroné. Il vous reste %d tentatives.</item>
         <item quantity="one">Code PIN de la carte SIM erroné. Il vous reste %d tentative.</item>
     </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">"%d heures (sauf en cas d'activation automatique)"</item>
+        <item quantity="one">"%d heure (sauf en cas d'activation automatique)"</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d règles automatiques activées</item>
-        <item quantity="one">%d règle automatique activée</item>
+        <item quantity="other">%d règles</item>
+        <item quantity="one">%d règle</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d règles peuvent être activées automatiquement</item>
+        <item quantity="one">%d règle peut être activée automatiquement</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d autres</item>
+        <item quantity="one">%d autre</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">"Ne recevoir que les alarmes pendant %1$d heures jusqu'à %2$s"</item>

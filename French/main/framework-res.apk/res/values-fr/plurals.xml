@@ -72,6 +72,10 @@
         <item quantity="other">dans %d a</item>
         <item quantity="one">dans %d a</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Réessayez dans %d secondes.</item>
+        <item quantity="one">Réessayez dans %d seconde.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Les %d derniers jours</item>
         <item quantity="one">Le dernier jour (%d)</item>

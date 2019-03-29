@@ -13,7 +13,7 @@
         <item quantity="one">%d message a été synchronisé</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Supprimer les &lt;g example="15" id="number">%1$s&lt;/g> conversations sélectionnées ?</item>
+        <item quantity="other">Supprimer les %1$s conversations sélectionnées ?</item>
         <item quantity="one">Supprimer cette conversation ?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
@@ -39,6 +39,10 @@
     <plurals name="message_count">
         <item quantity="other">%1$s messages</item>
         <item quantity="one">%1$s message</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Vous avez reçu %d invitations de groupe de discussion</item>
+        <item quantity="one">Vous avez reçu %d invitation de groupe de discussion</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personnes</item>

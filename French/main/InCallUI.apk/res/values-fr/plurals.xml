@@ -18,14 +18,14 @@
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d secondes</item>
-        <item quantity="one">1 seconde</item>
+        <item quantity="one">%d seconde</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="one">%d minute</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d heures</item>
-        <item quantity="one">1 heure</item>
+        <item quantity="one">%d heure</item>
     </plurals>
 </resources>

@@ -103,7 +103,7 @@
     <string name="item_title_currency">Devise</string>
     <string name="item_title_dress_size">Taille de vêtement</string>
     <string name="item_title_length_conversion">Longueur</string>
-    <string name="item_title_mortgage">Prêt</string>
+    <string name="item_title_mortgage">Home loan</string>
     <string name="item_title_scientific_calculator">Scientifique</string>
     <string name="item_title_tax">Taxes</string>
     <string name="item_title_temprature_conversion">Température</string>
@@ -135,9 +135,7 @@
     <string name="loan_interest_rate">Intérêt</string>
     <string name="loan_pay_years">Période de prêt</string>
     <string name="loan_payback_way">Remboursement</string>
-    <string name="loan_repayment_detail">Modalités de remboursement</string>
     <string name="loan_repayment_detail_loading">Chargement de la modalité de remboursement…</string>
-    <string name="loan_repayment_detail_unit">Modalités de remboursement (CNY)</string>
     <string name="loan_unit">(×à 10K)</string>
     <string name="medical_treatment">Traitement médical</string>
     <string name="menuDesc">menu</string>
@@ -165,7 +163,7 @@
     <string name="mortgage_interest_rate">Intérêt commercial</string>
     <string name="mortgage_item_repayment">Méthode de remboursement</string>
     <string name="mortgage_item_start_time">Date de début</string>
-    <string name="mortgage_item_years">Durée du prêt</string>
+    <string name="mortgage_item_years">Loan tenure</string>
     <string name="mortgage_loans_amount">Montant du prêt</string>
     <string name="mortgage_provident_found_interest_rate">"Taux d'intérêt du fonds"</string>
     <string name="mortgage_repayment_amount">Montant du remboursement</string>
@@ -593,8 +591,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
     <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les autorisations requises dans Paramètres > Applications installées.</string>
     <string name="xiaomi_external_storage_unavailable">Le stockage nest pas disponible. Vérifiez votre carte SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
     <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s

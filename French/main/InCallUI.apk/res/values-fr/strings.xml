@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">SMS personnalisé</string>
     <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
     <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>
+    <string name="volte_call">Appel VoLTE</string>
     <string name="notification_dialing">Composition</string>
     <string name="notification_ongoing_call">Appel en cours</string>
     <string name="notification_on_hold">En attente</string>

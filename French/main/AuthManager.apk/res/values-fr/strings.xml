@@ -79,6 +79,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">obtenir les infos relatives aux applications installées sur cet appareil</string>
     <string name="HIPS_Perm_service_foreground">Services du premier plan</string>
     <string name="HIPS_Perm_service_foreground_Desc">services du premier plan</string>
+    <string name="HIPS_Perm_UDevice_ID">Partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
     <string name="permission_group_title_charges_related">Frais</string>
     <string name="permission_group_title_privacy_related">Confidentialité</string>
     <string name="permission_group_title_media_related">Multimédia</string>

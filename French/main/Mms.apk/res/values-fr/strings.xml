@@ -29,6 +29,8 @@
     <string name="already_updated">À jour</string>
     <string name="app_label">Messages</string>
     <string name="app_name">Appareils</string>
+    <string name="application_list_title">Application Mini</string>
+    <string name="attach_group_chat">Groupe de discussion</string>
     <string name="attach_image">Images</string>
     <string name="attach_rcs_file">Fichier</string>
     <string name="attach_rcs_location">Localisation</string>
@@ -40,6 +42,7 @@
     <string name="attach_take_photo">Prendre une photo</string>
     <string name="attach_transaction">"Transférer de l'argent"</string>
     <string name="attach_video">Vidéo</string>
+    <string name="attach_video_call">Appel vidéo</string>
     <string name="audio_download_failed">"impossible de télécharger l'audio"</string>
     <string name="audio_message_expired">Ce message vocal a expiré.</string>
     <string name="audio_message_mx_offline">Impossible de télécharger le fichier audio. Mi Message est hors-ligne ou indisponible.</string>
@@ -73,6 +76,7 @@
     <string name="button_unfold">Dérouler</string>
     <string name="call_sender">Appeler lexpéditeur</string>
     <string name="can_not_send_by_rcs">"Impossible d'utiliser la messagerie de China Mobile"</string>
+    <string name="can_not_view_group_chat_stranger">"Impossible d'afficher les détails des étrangers."</string>
     <string name="cannot_add_picture_and_video">"Impossible d'ajouter une vidéo et une image sur une diapositive."</string>
     <string name="cannot_add_slide_anymore">"Impossible d'ajouter d'autres diapositives."</string>
     <string name="cannot_forward_drm_obj">"Impossible de transférer l'objet GDN inclus dans le message."</string>
@@ -130,6 +134,7 @@
     <string name="confirm_restore_positive">Restaurer</string>
     <string name="confirm_restore_title">Restaurer les messages</string>
     <string name="confirm_send_mms">Un de vos destinataires comprend une adresse e-mail. Ce message sera envoyé en tant que MMS, ce qui peut entraîner des frais supplémentaires de votre opérateur.</string>
+    <string name="contact_not_exists">"Cette personne n'est pas dans vos contacts."</string>
     <string name="context_menu_add_calendar">"Ajouter à l'agenda"</string>
     <string name="context_menu_add_contact">Ajouter aux contacts</string>
     <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
@@ -224,6 +229,7 @@
     <string name="file_size">Taille :</string>
     <string name="file_title">Nom :</string>
     <string name="file_width_height">Taille :</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">Transférer de:</string>
     <string name="forward_message_select_title">Transférer le message</string>
@@ -245,6 +251,7 @@
     <string name="group_resend_message">Renvoyer (%d)</string>
     <string name="group_view_settings_disolved">Impossible dafficher les éléments. Ce groupe de discussion a été supprimé.</string>
     <string name="group_view_settings_not_memeber">Impossible dafficher les éléments. Vous nêtes pas membre de ce groupe de discussion.</string>
+    <string name="groupchat_list_title">Groupe de discussions</string>
     <string name="guild_add_attachments">"Appuyer pour ajouter des émoticônes et d'autres éléments"</string>
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
     <string name="guild_msim_switcher">Appuyer pour changer de carte SIM</string>
@@ -287,6 +294,7 @@
     <string name="menu_edit">Modifier</string>
     <string name="menu_forward">Transférer</string>
     <string name="menu_lock">Ajouter aux favoris</string>
+    <string name="menu_make_call">Appeler</string>
     <string name="menu_mark">Marquer</string>
     <string name="menu_more">Plus</string>
     <string name="menu_new_contact">Nouveau contact</string>
@@ -297,6 +305,7 @@
     <string name="menu_traffic_destination">Destination</string>
     <string name="menu_unlock">Retirer des favoris</string>
     <string name="menu_view_contact">Afficher le contact</string>
+    <string name="menu_view_group_info">Informations du groupe</string>
     <string name="message_class_label">Catégorie:</string>
     <string name="message_contact">Contact :</string>
     <string name="message_details_title">Détails du message</string>
@@ -408,6 +417,7 @@
     <string name="no_block_button_msg">Débloquer ce numéro</string>
     <string name="no_conversations">Aucune conversation</string>
     <string name="no_delivery_report">Aucun accusé de réception</string>
+    <string name="no_network_description">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="no_subject">"(Pas d'objet)"</string>
     <string name="no_subject_view">(Aucun objet)</string>
     <string name="non_english_subject_limit">13 caractères</string>
@@ -530,6 +540,9 @@
     <string name="prvate_contact">Contacts privés</string>
     <string name="quick_reply">Répondre</string>
     <string name="rate_limit_surpassed">OK</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Changer</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">"Lorsque le signal réseau est faible, la partie texte d'un message (jusqu'à 900 octets) peut être convertie et envoyée sous forme de SMS. Vous pouvez changer cela dans les paramètres."</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">Convertir en SMS</string>
     <string name="rcs_auto_resend_mms">Convertir en MMS</string>
     <string name="rcs_auto_resend_sms">Convertir en SMS</string>
     <string name="rcs_auto_resume">Reprendre automatiquement les téléchargements interrompus</string>
@@ -540,10 +553,12 @@
     <string name="rcs_forward_faild">Impossible de transférer</string>
     <string name="rcs_forward_successful">Transféré avec succès</string>
     <string name="rcs_group_notification_invitation">Invitation au groupe de discussion</string>
+    <string name="rcs_hello_from_pc">Connectez-vous à Fetion sur votre ordinateur pour transférer des fichiers.</string>
     <string name="rcs_message">Messagerie China Mobile</string>
     <string name="rcs_message_disable">Impossible de voir ce message dans le second espace</string>
     <string name="rcs_msg">Messagerie China Mobile</string>
     <string name="rcs_not_online">"Impossible d'utiliser la meswagerie China Mobile. Vérifiez les paramètres réseau puis réessayez."</string>
+    <string name="rcs_offline">Pas connecté à UC. Attendez une minute ou deux et réessayez.</string>
     <string name="rcs_offline_hint">La messagerie China Mobile est hors-ligne. Impossible de transférer ce message.</string>
     <string name="rcs_recipient_type_contact">Transférer au contact</string>
     <string name="rcs_recipient_type_group">Transférer au groupe de discussion</string>
@@ -668,6 +683,7 @@
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
     <string name="send_to">Envoyer à :</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Envoyé à : %1s</string>
     <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
