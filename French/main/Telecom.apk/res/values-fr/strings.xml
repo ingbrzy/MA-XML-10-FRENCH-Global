@@ -370,7 +370,6 @@ Bluetooth"</string>
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur DNS privé"</string>
     <string name="private_dns_mode_provider_failure">Impossible de se connecter</string>
     <string name="private_dns_mode_provider_hostname_hint">"Saisissez le nom d'hôte du fournisseur DNS"</string>
-    <string name="process_kernel_label">Plate-forme Android</string>
     <string name="remaining_length_format">Il reste %1$s</string>
     <string name="respond_via_sms_canned_response_1">Impossible de parler maintenant. Quoi de neuf ?</string>
     <string name="respond_via_sms_canned_response_2">Je vous rappelle tout de suite.</string>

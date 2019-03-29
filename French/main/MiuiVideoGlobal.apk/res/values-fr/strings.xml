@@ -58,7 +58,6 @@
     <string name="cast_forward">Avancer</string>
     <string name="cast_forward_10">Avancer de 10 secondes</string>
     <string name="cast_forward_30">Avancer de 30 secondes</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Couper le son</string>
     <string name="cast_notification_connected_message">Connecté à %1$s</string>
     <string name="cast_notification_connecting_message">Connexion à %1$s…</string>
@@ -488,7 +487,6 @@ Vérifiez d'autres vidéos !"</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>
     <string name="slide_save_message">Générer une vidéo en cours…</string>
     <string name="sns_sign_in">Autre méthode de connexion</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="sure_to_logout">Se déconnecter maintenant ?</string>
     <string name="switch_ratio_pause">La vitesse de lecture est instable. Revenir à la vitesse par défaut…</string>
     <string name="symbol_rmb">¥</string>

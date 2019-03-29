@@ -1085,7 +1085,6 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
     <string name="bootloader_tips">"Une fois que vous avez ajouté votre compte Mi, ne vous déconnectez pas, ne réinitialisez pas aux paramètres d'usine et n'effacez pas les données des applications système. Si vous effectuez l'une des opérations ci-dessus, ajoutez à nouveau votre compte sinon vous ne pourrez pas déverrouiller votre appareil."</string>
     <string name="bootloader_tips_ok">"C'est compris"</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
@@ -1779,10 +1778,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
     <string name="dialog_title_login">Se connecter à votre compte Mi</string>
     <string name="dialog_yes">Oui</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Remarque : vous ne pourrez utiliser ce clavier qu’après un redémarrage uniquement si vous déverrouillez votre appareil</string>
     <string name="directory_access">"Accès à l'annuaire"</string>
-    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">Désactiver les superpostions HW</string>
     <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
     <string name="disable_power_key_long_press_under_keyguard">"Désactiver le menu du bouton d'alimentation"</string>
@@ -1849,7 +1846,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dndm_auto_button_title">Programmer le mode Ne pas déranger</string>
     <string name="dndm_auto_setting_group">Programmé</string>
     <string name="dndm_auto_time_setting">"Régler l'heure"</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">À</string>
     <string name="dndm_auto_time_turn_off_title">Désactive automatiquement le mode Ne pas déranger</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -2232,7 +2228,6 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firewall_temp_rule_reason">%2$s a restreint la connexion Internet pour %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à Internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
-    <string name="firmware_title">Android</string>
     <string name="firmware_version">Version Android</string>
     <string name="flash_drive_backup_restore">Sauvegarder et restaurer via USB</string>
     <string name="flash_drive_backup_restore_summary">Branchez un lecteur USB</string>
@@ -2344,7 +2339,6 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gadget_picker_title">Choisir un gadget</string>
     <string name="gadget_state_off">désactivé</string>
     <string name="gadget_state_on">activé</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">désactivation</string>
     <string name="gadget_state_turning_on">activation</string>
     <string name="gadget_sync">Synchronisation</string>
@@ -2711,7 +2705,6 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lights_title">Blink light</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
-    <string name="link_speed">%1$d Mbit/s</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading">Juste un instant…</string>
@@ -3106,7 +3099,6 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
@@ -3418,7 +3410,6 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_more_title">Plus...</string>
-    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -3682,7 +3673,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">Exemple : Android de Jean</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
@@ -3842,7 +3832,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_remaining_less_than_duration_only">Moins de %1$s restant</string>
     <string name="power_remaining_more_than_subtext">Plus de %1$s restant (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Plus de %1$s restant</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Écran</string>
     <string name="power_settings_title">Performances du système</string>
     <string name="power_unaccounted">Autres utilisations</string>
@@ -4025,8 +4014,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
     <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
@@ -4670,7 +4657,6 @@ Pour épingler l'écran :
     <string name="security_encryption_attention_3">"Vous devrez définir un nouveau mot de passe pour l'écran de verrouillage."</string>
     <string name="security_encryption_attention_4">"Assurez-vous que vous vous rappelez du mot de passe de votre écran de verrouillage, sinon vous serez obligé de faire une réinitialisation complète et effacer toutes les données sur l'appareil."</string>
     <string name="security_encryption_attention_info">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">"Choisir de ne pas chiffrer l'appareil en utilisant le mot de passe de l'écran de verrouillage pourrait rendre certains services de Google indisponibles."</string>
     <string name="security_encryption_close_dialog_title">Retourner au mot de passe de protection par défaut</string>
@@ -4936,7 +4922,6 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_select_card">Sélectionnez une carte SIM</string>
     <string name="sim_selection_channel_title">Sélection de la carte SIM</string>
     <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
-    <string name="sim_settings_summary">%1$s : %2$s</string>
     <string name="sim_settings_title">Cartes SIM</string>
     <string name="sim_setup_wizard_title">Cartes SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4952,7 +4937,6 @@ Le code PIN est peut-être incorrect."</string>
     <string name="size_kilo_byte">ko</string>
     <string name="size_mega_byte">Mo</string>
     <string name="size_peta_byte">Po</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">To</string>
     <string name="skip_anyway_button_label">Ignorer quand même</string>
     <string name="skip_label">Ignorer</string>
@@ -5073,10 +5057,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s:  "</string>
     <string name="status_bar_settings_manage_notification">App notifications</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
     <string name="status_bar_settings_status_bar">Barre de statut</string>
@@ -5323,7 +5305,6 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="supl_not_set">&lt;Non défini></string>
     <string name="support_country_format">%1$s – %2$s</string>
@@ -6373,14 +6354,12 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -6825,10 +6804,8 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zone_auto_summaryOff">Utiliser le fuseau horaire fourni par le réseau</string>
     <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
     <string name="zone_change_to_from_dst">%1$s : à partir du %2$s.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Fuseau horaire utilisé : %1$s. %2$s commence le %3$s.</string>
     <string name="zone_info_footer_no_dst">"Fuseau horaire utilisé : %1$s. Aucune heure d'été."</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Trier par ordre alphabétique</string>
     <string name="zone_list_menu_sort_by_timezone">Trier par fuseau horaire</string>
     <string name="zone_menu_by_offset">Sélectionner par décalage UTC</string>
