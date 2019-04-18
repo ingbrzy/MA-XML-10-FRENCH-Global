@@ -452,14 +452,14 @@ L'ID de votre compte : %s"</string>
 ID:%s
 Envoyez ce code au superviseur."</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
-    <string name="temporary_not_available">Cette fonctionnalité nest pas encore disponible.</string>
+    <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible."</string>
     <string name="ok">OK </string>
     <string name="select_all">Tout sélectionner</string>
     <string name="i_agree">OK </string>
     <string name="i_agree_continue">Accepter</string>
     <string name="exit">Quitter</string>
     <string name="passport_privacy_policy_required">Politique de confidentialité (Obligatoire)</string>
-    <string name="passport_user_agreement_required">Accord de lutilisateur (Obligatoire)</string>
+    <string name="passport_user_agreement_required">"Accord de l'utilisateur (Obligatoire)"</string>
     <string name="kr_license_desc">"Vous devez accepter notre accord d'utilisateur et notre politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
     <string name="kr_permission_desc">Autorisations requises</string>
     <string name="optional_permissions">Autorisations optionnelles</string>

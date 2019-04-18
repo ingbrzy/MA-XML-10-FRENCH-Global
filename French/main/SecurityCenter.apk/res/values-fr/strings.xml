@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -461,6 +463,7 @@ de l'opérateur"</string>
     <string name="not_limited_brand">Illimité</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
     <string name="pref_traffic_manage_title">Utilisation de données</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Forfait de donnée</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_category_title_other">Paramètres supplémentaires</string>
@@ -519,7 +522,7 @@ de l'opérateur"</string>
     <string name="input_aviable_traffic">"Définir la limite d'utilisation des données"</string>
     <string name="pkg_traffic">"Définir la limite d'utilisation de données"</string>
     <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
-    <string name="dialog_change_package_type_summary">La modification du type de forfait de données réinitialisera tous les paramètres dutilisation des données (ex:les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant?</string>
+    <string name="dialog_change_package_type_summary">"La modification du type de forfait de données réinitialisera tous les paramètres d'utilisation des données (ex:les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant?"</string>
     <string name="traffic_usage_warning_limit">"Avertissement de la limite d'utilisation de données"</string>
     <string name="traffic_usage_warning_title">"Alerte d'utilisation des données"</string>
     <string name="traffic_usage_warning_body">Vous avez déjà utilisé %s Go de données mobiles ce mois-ci.</string>
@@ -567,7 +570,7 @@ de l'opérateur"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Ne plus afficher</string>
     <string name="traffic_setting_fragment_packege_type">Paramètres du forfait de données</string>
     <string name="traffic_setting_fragment_month_title">Forfait de données mensuel</string>
-    <string name="traffic_setting_fragment_month_summary">Les données mobiles et les minutes dappel sont mises à jour mensuellement</string>
+    <string name="traffic_setting_fragment_month_summary">"Les données mobiles et les minutes d'appel sont mises à jour mensuellement"</string>
     <string name="traffic_setting_fragment_daily_title">Forfait de données quotidien</string>
     <string name="traffic_setting_fragment_daily_summary">Les données mobiles sont mises à jour quotidiennement</string>
     <string name="traffic_setting_fragment_not_limited_title">Forfait de données illimitées</string>
@@ -576,7 +579,7 @@ de l'opérateur"</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Paramètres du forfait de données quotidien</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Opérateur</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">"Sélectionner l'opérateur"</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">MIUI définira des limites de données et des applications avec des données illimitées en fonction de lopérateur que vous sélectionnez. Si votre opérateur ne figure pas dans la liste, sélectionnez \"Autre\" et configurez manuellement votre forfait de données quotidien.</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">"MIUI définira des limites de données et des applications avec des données illimitées en fonction de l'opérateur que vous sélectionnez. Si votre opérateur ne figure pas dans la liste, sélectionnez \"Autre\" et configurez manuellement votre forfait de données quotidien."</string>
     <string name="daily_card_setting_fragment_daily_package">Limite de données quotidiennes</string>
     <string name="daily_card_setting_fragment_month_package">Forfait de données mensuel</string>
     <string name="daily_card_setting_fragment_package_summary">Si votre forfait de données quotidien contient un forfait de données mensuel, celui-ci sera utilisé avant le forfait quotidien.</string>
@@ -949,7 +952,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Tout semble bon !</string>
     <string name="optimize_result_available_memory_info">Mémoire disponible</string>
-    <string name="optimize_result_title_uninstall_apps">Applis</string>
+    <string name="optimize_result_title_uninstall_apps">Désinstaller des applications</string>
     <string name="om_settings_title">Paramètres</string>
     <string name="om_settings_lock_app_manage">Verrouiller les applications</string>
     <string name="om_settings_lock_app">Verrouiller les applications</string>
@@ -1012,6 +1015,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="usage_type_data_send">Données mobiles envoyées</string>
     <string name="usage_type_no_coverage">Temps sans signal</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Serveur média</string>
     <string name="power_screen">Écran</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1111,7 +1115,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="deep_power_save_item_summary_auto_brightness">"Ajuster automatiquement la luminosité de l'écran pour économiser de la batterie"</string>
     <string name="deep_power_save_item_title_bluetooth">Désactiver le Bluetooth</string>
     <string name="deep_power_save_item_summary_bluetooth">Désactivez Bluetooth pour économiser la batterie</string>
-    <string name="deep_power_save_item_title_lock_screen_time">Mettre lécran en veille</string>
+    <string name="deep_power_save_item_title_lock_screen_time">"Mettre l'écran en veille"</string>
     <string name="deep_power_save_item_summary_lock_screen_time">"Mettre l'écran en veille après 30 secondes d'inactivité pour économiser de la batterie"</string>
     <string name="power_save_mode_enable">Économiseur de batterie</string>
     <string name="power_save_mode_summary">Surveiller les processus et désactiver la synchronisation.</string>
@@ -1234,12 +1238,17 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_list_item_auto_brightness">"Ajuster automatiquement la luminosité de l'écran"</string>
     <string name="power_center_list_item_deep_save_title">Paramètres avancés</string>
     <string name="power_center_list_item_battery_status_time">h</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">"Arrêter l'analyse"</string>
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètre de l'optimisation de la batterie"</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="extreme_power_save_mode_card_summary">"Activez l'économiseur de batterie extrême pour économiser de l'énergie lorsque la batterie est faible."</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
     <string name="apps_list_header_title_sms_access">"Restreindre l'accès aux codes de vérification"</string>
@@ -1348,11 +1357,13 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_text_optimize_manage">Augmenter la vitesse</string>
     <string name="menu_text_networkassistants">Utilisation des données</string>
     <string name="menu_summary_networkassistants">Gérez votre forfait de données</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Vous avez dépassé la limite</string>
     <string name="menu_summary_networkassistants_3">Données restantes suffisantes</string>
     <string name="menu_summary_networkassistants_4">Être à court de données mobiles</string>
     <string name="menu_text_networkassistants_remain">%s restants</string>
     <string name="menu_text_networkassistants_danger">%s dépassé</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">Go</string>
     <string name="menu_text_networkassistants_unit_mb">Mo</string>
     <string name="menu_text_networkassistants_unit_kb">ko</string>
@@ -1365,12 +1376,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_summary_garbage_cleanup">Aucune corbeille trouvée</string>
     <string name="menu_summary_garbage_cleanup_2">Taille de la corbeille</string>
     <string name="menu_summary_garbage_cleanup_3">Vider la corbeille maintenant</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Optimisation de la batterie</string>
     <string name="menu_summary_power_manager">"L'économiseur de batterie vous donne plus de temps de entre vos charges"</string>
     <string name="menu_summary_power_manager_1">La batterie est complètement chargée</string>
     <string name="menu_summary_power_manager_2">%s restants</string>
     <string name="menu_summary_power_manager_3">Brancher le chargeur</string>
     <string name="menu_summary_power_manager_4">%s avant charge complète</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
     <string name="examination_score_100">Tout va bien !</string>
     <string name="examination_score_80_100">Quelques petites choses à optimiser</string>
@@ -1748,6 +1761,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="card_main_deepclean_wechat_action">Vider</string>
     <string name="card_main_sectool_title">Outils</string>
     <string name="card_main_monthreport_action">Afficher</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Tester le réseau</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="card_main_netcheck_action">Test</string>
@@ -1916,7 +1930,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
-    <string name="ad_split_screen_title">Quitter lécran partagé pour déverrouiller</string>
+    <string name="ad_split_screen_title">"Quitter l'écran partagé pour déverrouiller"</string>
     <string name="applock_toast_tip">"Verrouillage d'application vérifié avec succès"</string>
     <string name="face_unlock_be_on_the_screen">"Tenez l'appareil en face de votre visage"</string>
     <string name="face_unlock_check_failed">Impossible de vous reconnaître</string>
@@ -1926,7 +1940,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="face_unlock_not_found">Impossible de vous reconnaître</string>
     <string name="unlock_failed">Erreur interne</string>
     <string name="face_unlock_face_start_title">Vérification des données du visage…</string>
-    <string name="face_unlock_face_auth_failed_title">Impossible de vérifier des données du visage. Passer à dautres méthodes de déverrouillage…</string>
+    <string name="face_unlock_face_auth_failed_title">"Impossible de vérifier des données du visage. Passer à d'autres méthodes de déverrouillage…"</string>
     <string name="face_unlock_finger_or_password_switch">Utilisez votre empreinte digitale ou entrez votre mot de passe pour le déverrouiller</string>
     <string name="applock_function_base_settings">"Verrouillage d'application"</string>
     <string name="applock_function_pwd_settings">Mot de passe</string>
@@ -1938,14 +1952,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="face_unlock_verity_dialog_summary">Vérifier des données du visage</string>
     <string name="face_unlock_verity_dialog_title_failed">Impossible de vous reconnaître</string>
     <string name="face_unlock_verity_dialog_title_succeed">Vérifié avec succès</string>
-    <string name="face_unlock_toast_verity_failed">Impossible de vérifier les données du visage. Allez aux paramètres de verrouillage de lapplication et essayez de vérifier vos données du visage à nouveau.</string>
+    <string name="face_unlock_toast_verity_failed">"Impossible de vérifier les données du visage. Allez aux paramètres de verrouillage de l'application et essayez de vérifier vos données du visage à nouveau."</string>
     <string name="wakepath_confirm_start_activity">Autoriser %1$s à ouvrir %2$s ?</string>
     <string name="unlike">Non merci</string>
     <string name="toast_network_eror">Impossible de se connecter</string>
     <string name="download">Télécharger</string>
     <string name="install_sucess">%s installé avec succès</string>
     <string name="downloading">Téléchargement</string>
-    <string name="installing">Installation</string>
+    <string name="installing">Installation en cours</string>
     <string name="connecting">Connexion…</string>
     <string name="promotion">Pub</string>
     <string name="section_title_system">Sécurité système</string>
@@ -2010,6 +2024,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du Second espace</string>
     <string name="sponsored_sec_fb">Sponsorisé</string>
     <string name="add_game_notification_summary">Appuyez pour lancer &amp; augmenter la vitesse</string>
+    <string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="app_manager_title">Gérer les applications</string>
     <string name="app_manager_uninstall">Désinstaller</string>
     <string name="app_manager_bipartition">Applications clônées</string>
@@ -2125,6 +2140,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="manage_hybrid_permissions">Gérer les autorisations des applications</string>
     <string name="app_manager_full_screen_title">Mode Plein écran</string>
     <string name="app_manager_full_screen_summary">Autorisez les applications sélectionnées à fonctionner en mode Plein écran</string>
+    <string name="app_manager_find_apps">Trouver des applications</string>
     <string name="ad_btn_default_text">En savoir plus</string>
     <string name="open_activity_err">"L'application n'a pas été trouvée"</string>
     <string name="low_memory_warning_dialog_title">Espace de stockage insuffisant</string>
@@ -2354,6 +2370,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_advance_settings_reset_dialog_content">Restaurer les paramètres par défaut maintenant ?</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_like">"J'aime"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Données mobiles</string>
     <string name="game_wid_viewpoint_buttom">Prendre une petite pause.</string>
     <string name="video_repeat">Rejouer</string>
@@ -2393,6 +2410,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gamebox_recent_task_expand_fail">Les applications fonctionnant avec des raccourcis ne sont pas installées</string>
     <string name="gamecenter_install_sucessfull">Installé avec succès</string>
     <string name="gamecenter_install_fail">"Impossible d'installer"</string>
+    <string name="securityadd_update_tips_title">Mettre à jour</string>
+    <string name="securityadd_update_tips_message">Mettez à jour le plug-in de service de sécurité pour accéder aux dernières fonctionnalités de jeu. %1$d Mo seront téléchargés.</string>
+    <string name="securityadd_update_tips_cancle">Pas maintenant</string>
+    <string name="securityadd_update_tips_now">Mettre à jour</string>
+    <string name="securityadd_install_fail">Impossible de mettre à jour le plug-in. Réessayer.</string>
     <string name="notify_channel_name_security">Sécurité système</string>
     <string name="privacy_apps_category_title">Applications cachées</string>
     <string name="privacy_apps">Applications cachées</string>
@@ -2440,7 +2462,7 @@ Cette fonctionnalité n'est pas prise en charge pour les applications système."
     <string name="first_aid_result_summary_normal">Tout semble bon !</string>
     <string name="first_aid_result_summary_not_finished">"Le scan n'a pas été terminé. Certains risques peuvent ne pas être détectés."</string>
     <string name="first_aid_result_feedback_title">Commentaires</string>
-    <string name="first_aid_result_feedback_summary">Impossible de trouver des problèmes. Cependant, jen ai repéré.</string>
+    <string name="first_aid_result_feedback_summary">"Impossible de trouver des problèmes. Cependant, j'en ai repéré."</string>
     <string name="first_aid_result_feedback_button">Envoyer</string>
     <string name="first_aid_card_kadun_title">"L'appareil ralentit"</string>
     <string name="first_aid_card_kadun_summary1">"Libérez de l'espace de stockage sur votre appareil afin qu'il fonctionne normalement."</string>
@@ -2524,7 +2546,6 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="resource_gamebooster">Accélérateur de la vitesse de jeu</string>
     <string name="keywords_gamebooster">Jeu;Augmentation de vitesse;Roi de Gloire;Mode Performance;NPD;Jeux;jeu;Vitesse de jeu;augmenter</string>
     <string name="path_gamebooster">Applications système/Sécurité/Accélérateur de la vitesse de jeu</string>
-    <string name="gb_shortcut_pref_title">Home screen shortcut</string>
     <string name="power_center_consume_rank">Utilisation de la batterie</string>
     <string name="power_center_custom_title">"Profils de gestion d'énergie"</string>
     <string name="power_center_auto_shutdown_summary_default">Allumer ou éteindre votre appareil à une heure programmée</string>

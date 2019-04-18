@@ -48,7 +48,7 @@
     <string name="dialog_share_as_text">Partager une note comme texte</string>
     <string name="dlg_btn_set_password">Définir le mot de passe</string>
     <string name="dlg_check_reminder">Ne plus afficher</string>
-    <string name="dlg_delete_message">Suppression…</string>
+    <string name="dlg_delete_message">Suppression en cours…</string>
     <string name="dlg_hide_message">Masquage…</string>
     <string name="dlg_info_creating_message">"Création de l'image…"</string>
     <string name="dlg_info_save_to_gallery_message">"Enregistrement de l''image dans Galerie…"</string>
@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Ajouter une note</string>
     <string name="format_move_note_out_folder">Cette note a été déplacée</string>
     <string name="format_move_note_to_folder">Déplacé vers %1$s</string>
-    <string name="format_move_notes_out_folder">%1$s déplacé</string>
-    <string name="format_move_notes_to_folder">Déplacé de %1$s à %2$s</string>
     <string name="hidden_notes_fragment_title">Notes masquées</string>
     <string name="hide_arrow_description">Masquer</string>
     <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes masquées</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">Sélectionner le mode de tri de vos notes</string>
     <string name="notealert_enter">Ouvrir une note</string>
     <string name="notealert_ok">Ignorer</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Rappel de note</string>
     <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
     <string name="permission_intro_contact">Pour marquer les notes prises pendant les appels</string>
@@ -207,24 +206,22 @@
     <string name="toast_cancel_to_insert_image">"Impossible d'ajouter une image."</string>
     <string name="toast_message_add_image_fail">"Impossible d'ajouter une image"</string>
     <string name="toast_notes_delete_success">Supprimé avec succès</string>
-    <string name="toast_notes_hidden_count">%1$s a été masqué avec succès</string>
     <string name="toast_notes_hidden_edit">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_hidden_home">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_unhidden">Affiché avec succès</string>
-    <string name="toast_notes_unhidden_count">%1$s a été affiché avec succès</string>
     <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour être joint au message.</string>
     <string name="toast_reach_text_limit_checkbox">"Impossible d'ajouter une case à cocher car la note est trop longue"</string>
     <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>
     <string name="toast_refuse_to_record_when_in_call">"Impossible d'utiliser cette fonction pendant les appels"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">"Impossible d'utiliser cette fonctionnalité avec Écran divisé"</string>
     <string name="toast_refuse_to_use_contact">"Les autorisations des contacts sont limitées. 
-Autorisez Notes à lire vos contacts et à rechercher des comptes sur lappareil."</string>
+Autorisez Notes à lire vos contacts et à rechercher des comptes sur l'appareil."</string>
     <string name="toast_refuse_to_use_external_storage">"Les autorisations de stockage sont limitées.
  Autorisez Notes à lire le contenu de votre carte SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Les autorisations du téléphone sont limitées. 
-Autorisez Notes à lire le statut et lidentité du téléphone."</string>
+Autorisez Notes à lire le statut et l'identité du téléphone."</string>
     <string name="toast_refuse_to_use_record_audio">"Les autorisations du microphone sont limitées.
- Autorisez Notes à enregistrer de laudio."</string>
+ Autorisez Notes à enregistrer de l'audio."</string>
     <string name="toolbar_check_description">Ajouter une case à cocher</string>
     <string name="toolbar_delete_description">Supprimer cette note</string>
     <string name="toolbar_gallery_description">Ajouter une image</string>

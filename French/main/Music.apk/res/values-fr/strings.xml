@@ -47,8 +47,13 @@
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
     <string name="all_album_count">Tous les albums (%d)</string>
+    <string name="all_albums">Tous les albums</string>
+    <string name="all_artists">Tous les artistes</string>
     <string name="all_playlist_count">Toutes les playlists (%d)</string>
+    <string name="all_playlists">Toutes les playlists</string>
+    <string name="all_songs">Toutes les chansons</string>
     <string name="all_tracks">Toutes les chansons</string>
+    <string name="all_videos">Toutes les vidéos</string>
     <string name="already_download">Téléchargement…</string>
     <string name="already_download_btn">Téléchargement…</string>
     <string name="already_favorited">Déjà en favoris</string>
@@ -217,6 +222,7 @@
     <string name="download_method">Télécharger</string>
     <string name="download_no_application_title">"Impossible d'ouvrir le fichier"</string>
     <string name="download_paused_in_power_save_mode">"Les téléchargements sont en pause lorsque l'économiseur de batterie est activé"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Téléchargement…</string>
     <string name="download_quality">Qualité de téléchargement</string>
     <string name="download_quality_summary">Paramètres supplémentaires pour les chansons que vous téléchargez</string>
@@ -296,7 +302,9 @@
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -555,6 +563,7 @@
     <string name="priority_storage_summary">Télécharger automatiquement sur la carte SD externe si disponible</string>
     <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
     <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fr_FR</string>
     <string name="pro_member">Membre PRO</string>
     <string name="project_device">Téléphone Mi</string>
     <string name="prompt_grant_write_settings_permission">Autoriser la modification des paramètres systèmes</string>
@@ -592,6 +601,8 @@
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artiste</string>
     <string name="search_hint">Rechercher des artistes, des chansons, des albums et des recommandations</string>
+    <string name="search_hint_local">"Rechercher des chansons sur l'appareil"</string>
+    <string name="search_hint_online">Recherchez des artistes, des albums, des chansons, des listes de lecture et des vidéos en ligne</string>
     <string name="search_history_clear_all">Vider</string>
     <string name="search_instant_online_music">En ligne</string>
     <string name="search_menu_title">Rechercher</string>
@@ -653,6 +664,7 @@
     <string name="start_to_check_new_version">Vérification des updates…</string>
     <string name="start_to_download">Téléchargement…</string>
     <string name="start_to_play">Lecture</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage_internal">Stockage Interne</string>
     <string name="storage_sd_card">Carte SD</string>
     <string name="storage_usb">Stockage USB</string>
@@ -662,8 +674,10 @@
     <string name="tab_artist">Artistes</string>
     <string name="tab_artist_list">Artistes</string>
     <string name="tab_folder">Dossiers</string>
+    <string name="tab_playlist">Listes de lecture</string>
     <string name="tab_track">Chansons</string>
     <string name="tab_track_list">Chansons</string>
+    <string name="tab_video">Vidéos</string>
     <string name="take_effect_afater_restart">"Vous devez redémarrer l'application Musique pour que ce paramètre prenne effet."</string>
     <string name="talkback_back">Retour</string>
     <string name="talkback_batch_process">Plusieurs éléments</string>
@@ -713,6 +727,7 @@
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
     <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
     <string name="user_agreement">Accord Utilisateur</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fr_FR</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
     <string name="video_replay_btn">Relire</string>
@@ -720,6 +735,7 @@
     <string name="view_album">"Afficher l'album"</string>
     <string name="vip_required">Obtenez un pack de chansons Premium pour jouer cette chanson. Ignorez-la pour le moment.</string>
     <string name="vip_required_with_song">%s est disponible pour les membres PRO uniquement. Ignorez cette chanson pour le moment.</string>
+    <string name="voice_search_first_hint">Essayez la recherche vocale !</string>
     <string name="wifi_required_body" formatted="false">"\"Connectez-vous en mode Wi-Fi pour compléter ce téléchargement de
  %s
  . 

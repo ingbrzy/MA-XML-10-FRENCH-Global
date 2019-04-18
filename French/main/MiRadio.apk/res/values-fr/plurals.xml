@@ -5,7 +5,7 @@
         <item quantity="one">%d enregistrement FM</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">%1$d stations trouvées</item>
-        <item quantity="one">1 station trouvée</item>
+        <item quantity="other">%1$d stations scannées</item>
+        <item quantity="one">%1$d station scannée</item>
     </plurals>
 </resources>

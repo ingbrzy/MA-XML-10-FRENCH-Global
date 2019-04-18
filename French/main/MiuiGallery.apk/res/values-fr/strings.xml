@@ -212,7 +212,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="change_to_visible">Restaurer cette personne ?</string>
     <string name="channel_default_name">Nouvelles fonctionnalités</string>
     <string name="channel_low_name">Nouveaux messages</string>
-    <string name="channel_min_name">Notifications de l’application</string>
+    <string name="channel_min_name">"Notifications de l'application"</string>
     <string name="checked">Sélectionné</string>
     <string name="checked_something">%s sélectionné</string>
     <string name="choose_baby_sexy">Sexe</string>
@@ -350,7 +350,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="delete_from_web">Albums Web</string>
     <string name="delete_in_album">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans :</string>
     <string name="delete_in_home_page">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans :</string>
-    <string name="delete_in_process">Effacement…</string>
+    <string name="delete_in_process">Suppression en cours…</string>
     <string name="delete_origin">"Supprimer les images de l'album d'origine"</string>
     <string name="delete_other_shared_images">"Désolé, vous ne pouvez pas supprimer les photos partagées par d'autres"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d supprimé(s), %2$d sauvegardé(s)</string>
@@ -381,7 +381,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="download_type_thumbnail">Haute qualité</string>
     <string name="download_type_thumbnail_desc">Haute qualité</string>
     <string name="download_type_title">Qualité de téléchargement</string>
-    <string name="download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même?</string>
+    <string name="download_with_metered_network_msg">"Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d'opératuer. Télécharger quand même?"</string>
     <string name="download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Vous pouvez sélectionner la qualité des images téléchargées ou désactivez les téléchargements automatiques dans les paramètres.</string>
@@ -482,7 +482,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="ext_sdcard_permission_request_title">Autoriser la Galerie à accéder à la carte SD</string>
     <string name="ext_sdcard_request_failed_button_text">OK </string>
     <string name="ext_sdcard_request_succeed_toast_text">Vous êtes prêt à faire sensation !</string>
-    <string name="face_album_empty">"Pas assez de photos pour reconnaître les personnes.r
+    <string name="face_album_empty">"Pas assez de photos pour reconnaître les personnes.
 Prenez plus de photos à vos amis !"</string>
     <string name="face_album_empty_syncing">Synchronisation des données en cours, revenez plus tard</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Se connecter au réseau pour synchroniser les informations</string>
@@ -499,6 +499,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="face_name_edit">Éditer</string>
     <string name="face_name_input">Saisissez un nom</string>
     <string name="face_recommend">Recommandations</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Impossible de terminer l'opération"</string>
     <string name="fail_to_pick_email">Adresse e-mail incorrecte</string>
     <string name="fail_to_sync_album">"Impossible de synchroniser l'album. Vérifier votre connexion réseau."</string>
@@ -509,6 +510,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">N&amp;B</string>
     <string name="filter_bi_dusk">Crépuscule</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -576,12 +578,13 @@ sont disponibles"</string>
     <string name="free_view_desc">Vue en 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
-    <string name="generate_story_summary">MIUI analysera vos photos et créera des albums d’histoires. Désactivez cette fonctionnalité pour arrêter de créer des albums d’histoires.</string>
+    <string name="generate_story_summary">"MIUI analysera vos photos et créera des albums d'histoires. Désactivez cette fonctionnalité pour arrêter de créer des albums d'histoires."</string>
     <string name="generate_story_title">"Albums d'histoire"</string>
     <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
     <string name="grant_permission_go_and_set">Définir</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
@@ -693,7 +696,7 @@ pour personnaliser Galerie"</string>
     <string name="messagelist_sender_self">Moi</string>
     <string name="micloud_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
     <string name="month_view_tip_button_text">"C'est compris"</string>
-    <string name="month_view_tip_sub_title">Pincez l’écran pour passer en vue mensuelle</string>
+    <string name="month_view_tip_sub_title">"Pincez l'écran pour passer en vue mensuelle"</string>
     <string name="month_view_tip_title">Vue du mois</string>
     <string name="more">Plus</string>
     <string name="more_album_hint">, etc.</string>
@@ -701,7 +704,7 @@ pour personnaliser Galerie"</string>
     <string name="more_face_album_name">Plus de personnes</string>
     <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">Déplacer cet album vers les Autres albums ?</string>
-    <string name="movie_add_disable">Vous pouvez sélectionner jusqu’à 20 photos</string>
+    <string name="movie_add_disable">"Vous pouvez sélectionner jusqu'à 20 photos"</string>
     <string name="movie_audio_custom">Local</string>
     <string name="movie_audio_default">Mémoire</string>
     <string name="movie_audio_kawaii">Romantique</string>
@@ -716,13 +719,13 @@ pour personnaliser Galerie"</string>
     <string name="movie_content_describe_delete">Supprimer des photos</string>
     <string name="movie_content_describe_pause">En pause</string>
     <string name="movie_content_describe_play">Lire</string>
-    <string name="movie_delete_disable">Vous avez besoin d’au moins 3 photos pour créer un clip.</string>
+    <string name="movie_delete_disable">"Vous avez besoin d'au moins 3 photos pour créer un clip."</string>
     <string name="movie_download">Télécharger</string>
     <string name="movie_download_failed">Impossible de télécharger</string>
     <string name="movie_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-    <string name="movie_download_sdk_without_wifi_msg">On dirait que votre appareil n’est pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données mobiles?</string>
+    <string name="movie_download_sdk_without_wifi_msg">"On dirait que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données mobiles?"</string>
     <string name="movie_download_sdk_without_wifi_title">Télécharger via les données mobiles</string>
-    <string name="movie_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même?</string>
+    <string name="movie_download_with_metered_network_msg">"Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d'opératuer. Télécharger quand même?"</string>
     <string name="movie_download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="movie_edit">Modifier</string>
     <string name="movie_item_name">Clip</string>
@@ -731,7 +734,7 @@ pour personnaliser Galerie"</string>
     <string name="movie_return">Retour</string>
     <string name="movie_save">Enregistrer</string>
     <string name="movie_save_failed">Impossible de sauvegarder</string>
-    <string name="movie_save_stop_tips">Appuyez à nouveau pour annuler l’enregistrement de la vidéo</string>
+    <string name="movie_save_stop_tips">"Appuyez à nouveau pour annuler l'enregistrement de la vidéo"</string>
     <string name="movie_save_successfully">Enregistré dans Créativité</string>
     <string name="movie_saving">Création du clip…</string>
     <string name="movie_tab_edit">Modifier</string>
@@ -811,7 +814,7 @@ pour personnaliser Galerie"</string>
     <string name="operation_send">Envoyer</string>
     <string name="operation_set_contact_photo">Définir comme photo de contact</string>
     <string name="operation_set_slide_wallpaper">"Définir comme fond d'écran du diaporama"</string>
-    <string name="operation_set_video_wallpaper">Définir un fond d’écran vidéo</string>
+    <string name="operation_set_video_wallpaper">"Définir un fond d'écran vidéo"</string>
     <string name="operation_set_wallpaper">"Définir comme fond d'écran"</string>
     <string name="operation_share">Partager</string>
     <string name="operation_show_in_photos_tab">Afficher dans Photos</string>
@@ -835,6 +838,7 @@ pour personnaliser Galerie"</string>
     <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
     <string name="people_page_label">Personnes</string>
     <string name="people_page_unname">Sans nom</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Pour nommer des personnes sur des photos</string>
     <string name="permission_contract_name">Contacts</string>
     <string name="permission_optional_category">Autorisations optionnelles</string>
@@ -852,6 +856,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_beautify">Embellir</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
+    <string name="photo_editor_compare_tip">"Appuyez et maintenez pour voir l'image originale"</string>
     <string name="photo_editor_crop_and_rotate">Rogner</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Recadré automatiquement</string>
@@ -889,6 +894,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">En attente du Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Téléchargement de %s en cours…</string>
     <string name="photo_editor_navigator_need_download">Se connecter à Internet pour télécharger %s.</string>
+    <string name="photo_editor_remove_watermark">Supprimer le filigrane</string>
     <string name="photo_editor_remover">Supprimer</string>
     <string name="photo_editor_rotate">Pivoter</string>
     <string name="photo_editor_saving">Enregistrement…</string>
@@ -1024,11 +1030,16 @@ pour personnaliser Galerie"</string>
     <string name="retry_to_request_qr_code">Veuillez réessayer</string>
     <string name="runtime_permission_ungranted">Galerie fermée, aucune autorisation requise</string>
     <string name="same_name_album_exist_and_toast">"Un album avec un même nom existe déjà. L'album '%s' a été créé."</string>
-    <string name="scan_barcode_guide">Pour obtenir un code QR, appuyez sur l’icône Partage.</string>
+    <string name="scan_barcode_guide">"Pour obtenir un code QR, appuyez sur l'icône Partage."</string>
     <string name="scan_barcode_to_join">Scannez le code QR pour ajouter un album</string>
     <string name="scan_qr_code_buttom_text">Scanner le code QR pour voir cet album</string>
     <string name="screen_doodle_talkback_size">Largeur de ligne de Doodle</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Terminer</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Annuler</string>
     <string name="screen_save_dialog_btn_delete">"Suppression la captures d'écran"</string>
     <string name="screen_save_dialog_btn_save">Enregistrer dans Galerie</string>
@@ -1086,6 +1097,9 @@ pour personnaliser Galerie"</string>
     <string name="search_title_recommend">Recommandé</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objets</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Recherche de projecteur…</string>
     <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
     <string name="secret_album_card_title">Essayer de cacher un album</string>
@@ -1117,8 +1131,8 @@ pour personnaliser Galerie"</string>
     <string name="send_too_many_files_error">"Vous pouvez envoyer jusqu'à %d éléments en même temps"</string>
     <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_slide_wallpaper_title">"Définir comme fond d'écran du diaporama"</string>
-    <string name="set_as_video_wallpaper_description">Télécharger cet élément et l’utiliser comme fond d’écran vidéo?</string>
-    <string name="set_as_video_wallpaper_title">Définir un fond d’écran vidéo</string>
+    <string name="set_as_video_wallpaper_description">"Télécharger cet élément et l'utiliser comme fond d'écran vidéo?"</string>
+    <string name="set_as_video_wallpaper_title">"Définir un fond d'écran vidéo"</string>
     <string name="set_as_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_wallpaper_title">"Définir comme fond d'écran"</string>
     <string name="set_face_group_toast_msg_new_user">Maintenir une personne pour fusionner ou ignorer.</string>
@@ -1127,7 +1141,7 @@ pour personnaliser Galerie"</string>
     <string name="set_face_group_toast_title_old_user">Les personnes peuvent être organisées par groupe</string>
     <string name="set_face_image">Définir une nouvelle photo de profil</string>
     <string name="set_group">Définir un groupe</string>
-    <string name="set_video_wallpaper_failed">Impossible d’utiliser cet élément en tant que fond d’écran vidéo</string>
+    <string name="set_video_wallpaper_failed">"Impossible d'utiliser cet élément en tant que fond d'écran vidéo"</string>
     <string name="set_wallpaper_get_image_failed">"Impossible de télécharger l'image, réessayez plus tard"</string>
     <string name="setup_network_connection">Paramètres du réseau</string>
     <string name="share">Partager</string>
@@ -1291,7 +1305,7 @@ pour personnaliser Galerie"</string>
     <string name="video_editor_down_load_now">Téléchargements</string>
     <string name="video_editor_download">Télécharger</string>
     <string name="video_editor_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-    <string name="video_editor_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même?</string>
+    <string name="video_editor_download_with_metered_network_msg">"Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d'opératuer. Télécharger quand même?"</string>
     <string name="video_editor_download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
     <string name="video_editor_encode_video">Encodage de la vidéo…</string>
     <string name="video_editor_encode_video_error">"Impossible d'encoder la vidéo"</string>

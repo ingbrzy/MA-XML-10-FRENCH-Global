@@ -180,7 +180,7 @@ Bluetooth"</string>
     <string name="can_not_dial_while_vt_prompt">"Impossible composer un numéro lors d'un appel vidéo"</string>
     <string name="cancel">Annuler</string>
     <string name="cant_call_due_to_ongoing_call">"Impossible d'appeler à cause d'un appel en cours dans %1$s."</string>
-    <string name="cant_call_due_to_ongoing_calls">Impossible de passer un appel. Terminez d’abord votre %1$s appel .</string>
+    <string name="cant_call_due_to_ongoing_calls">"Impossible de passer un appel. Terminez d'abord votre %1$s appel ."</string>
     <string name="cant_call_due_to_ongoing_unknown_call">"Impossible d'appeler à cause d'un appel en cours dans une autre appli."</string>
     <string name="category_personal">Personnel</string>
     <string name="category_work">Professionnel</string>
@@ -370,6 +370,7 @@ Bluetooth"</string>
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur DNS privé"</string>
     <string name="private_dns_mode_provider_failure">Impossible de se connecter</string>
     <string name="private_dns_mode_provider_hostname_hint">"Saisissez le nom d'hôte du fournisseur DNS"</string>
+    <string name="process_kernel_label">Plate-forme Android</string>
     <string name="remaining_length_format">Il reste %1$s</string>
     <string name="respond_via_sms_canned_response_1">Impossible de parler maintenant. Quoi de neuf ?</string>
     <string name="respond_via_sms_canned_response_2">Je vous rappelle tout de suite.</string>

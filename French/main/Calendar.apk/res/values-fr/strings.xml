@@ -86,6 +86,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Anniversaire sauvegardé</string>
     <string name="birthday_term">anniversaire</string>
+    <string name="calendar_permission_desc">Gérer les événements</string>
     <string name="can_not_create_long_event">"Le nom de l'événement est trop long"</string>
     <string name="can_not_modify_allday_event">"Impossible de modifier l'événement du jour"</string>
     <string name="can_not_modify_event">"Impossible de modifier l'événement"</string>
@@ -103,6 +104,7 @@
     <string name="change_response_title">Changer la réponse</string>
     <string name="click_to_share">Appuyer pour partager</string>
     <string name="close_alarm">Désactiver</string>
+    <string name="contacts_permission_desc">Accéder aux informations de contact</string>
     <string name="countdown_event_title">Minuteur : %1$s</string>
     <string name="countdown_notify_before_3_day_title">Minuteur : %1$s dans 3 jours</string>
     <string name="countdown_notify_title">Minuteur : %1$s</string>
@@ -132,6 +134,7 @@
     <string name="date_interval_text_to">À %1$s</string>
     <string name="date_jump_hint">Aller directement à un jour quelconque</string>
     <string name="date_jump_title">Aller à la date</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">"  (aujourd'hui)"</string>
     <string name="day_view_new_event_hint">Nouvel événement</string>
     <string name="default_reminder_mode">Rappels</string>
@@ -214,8 +217,11 @@
     <string name="global_cricket_no_match">"Aucun match de cricket n'est programmé pour ce jour. Vérifiez les autres jours."</string>
     <string name="global_football_final">FINALE</string>
     <string name="global_football_no_match">Aucun match de football programmé pour ce jour.</string>
+    <string name="global_joke_collapse_text">Masquer</string>
+    <string name="global_joke_copy_toast_message">Texte copié avec succès</string>
+    <string name="global_joke_expand_text">Afficher plus</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
-    <string name="greetingcard_end_of_page">"C'est tout pour aujourdhui. Revenez demain!"</string>
+    <string name="greetingcard_end_of_page">"C'est tout pour aujourd'hui. Revenez demain!"</string>
     <string name="greetingcard_notification_desc">Découvrez les derniers statuts</string>
     <string name="greetingcard_notification_title">Votre flux quotidien est prêt</string>
     <string name="greetingcard_reminder_disabled_status">Vous ne recevrez pas des rappels quotidiens sur les statuts WhatsApp.</string>
@@ -475,7 +481,4 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="xiaomi_calendar_display_name">Agenda</string>
     <string name="yearly">Annuel (le %s)</string>
     <string name="yearly_plain">Tous les ans</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

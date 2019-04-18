@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">Carte SD manquante.</string>
     <string name="only_primary_user_allowed">Seul le propriétaire de cet appareil peut installer des certificats.</string>
     <string name="credential_usage_label">Utilisation du certificat :</string>
+    <string name="certificate_capabilities_warning">"Remarque : Il est possible que l'émetteur de ce certificat inspecte tout le trafic entrant et sortant de l'appareil."</string>
     <string name="wifi_title">Profil du Wi-Fi</string>
     <string name="wifi_detail_title">Détails relatifs à %s</string>
     <string name="wifi_detail_label">Détails</string>

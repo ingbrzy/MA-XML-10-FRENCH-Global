@@ -14,6 +14,11 @@
         <item>Morceaux de vie</item>
         <item>Souvenirs de weekend</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Déplacer</item>
+        <item>Copier</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>Janvier</item>
         <item>Février</item>
@@ -39,7 +44,7 @@
     <string-array name="parties_title">
         <item>Ensemble</item>
         <item>Bons moments</item>
-        <item>À l’unisson</item>
+        <item>"À l'unisson"</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Moi</item>
@@ -65,7 +70,7 @@
         <item>Grand-mère maternelle</item>
     </string-array>
     <string-array name="sports_title">
-        <item>Aller de l’avant</item>
-        <item>Plein d’énergie</item>
+        <item>"Aller de l'avant"</item>
+        <item>"Plein d'énergie"</item>
     </string-array>
 </resources>

@@ -58,6 +58,7 @@
     <string name="cast_forward">Avancer</string>
     <string name="cast_forward_10">Avancer de 10 secondes</string>
     <string name="cast_forward_30">Avancer de 30 secondes</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Couper le son</string>
     <string name="cast_notification_connected_message">Connecté à %1$s</string>
     <string name="cast_notification_connecting_message">Connexion à %1$s…</string>
@@ -473,7 +474,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="s7">Annonce test</string>
     <string name="save">Enregistrer</string>
-    <string name="save_cancel_toast">Appuyez à nouveau pour annuler l’enregistrement</string>
+    <string name="save_cancel_toast">"Appuyez à nouveau pour annuler l'enregistrement"</string>
     <string name="screenrecord_cancel">Problèmes de compatibilité</string>
     <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
     <string name="search">Rechercher</string>
@@ -487,6 +488,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>
     <string name="slide_save_message">Générer une vidéo en cours…</string>
     <string name="sns_sign_in">Autre méthode de connexion</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="sure_to_logout">Se déconnecter maintenant ?</string>
     <string name="switch_ratio_pause">La vitesse de lecture est instable. Revenir à la vitesse par défaut…</string>
     <string name="symbol_rmb">¥</string>
@@ -518,4 +520,26 @@ Vérifiez d'autres vidéos !"</string>
     <string name="v_ok">OK </string>
     <string name="v_pw_need_update_app">Mettre Mi Video à jour pour utiliser toutes ses fonctionnnalités</string>
     <string name="v_save">Enregistrer</string>
+    <string name="Subscribe">"S'abonner"</string>
+    <string name="diy_channels_tips">Vous pouvez personnaliser la liste de vos chaînes maintenant.</string>
+    <string name="empty_channels">Gérer les chaînes</string>
+    <string name="empty_subscribe">Vous ne vous êtes pas encore abonné à quoi que ce soit.</string>
+    <string name="hidden_channels">"Les chaînes suivantes ne seront pas affichées sur la page d'accueil."</string>
+    <string name="init_channels">Rétablir les paramètres par défaut</string>
+    <string name="isSubscribed">Abonné</string>
+    <string name="my_favorite_channels">Mes chaînes</string>
+    <string name="ovp_navigation_subscribe">"S'abonner"</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Fermer</string>
+    <string name="ovp_player_plugin_dlg_no_content">Aucun plugin de lecteur vidéo installé.</string>
+    <string name="ovp_player_plugin_dlg_title">Plugins du lecteur vidéo</string>
+    <string name="permission_phone">Téléphone</string>
+    <string name="permission_phone_desc">"Pour accéder à l'état de l'appareil et suspendre la lecture pendant les appels"</string>
+    <string name="permission_storage">Stockage</string>
+    <string name="permission_storage_desc">Pour accéder aux éléments, enregistrer des fichiers, afficher et lire des vidéos locales</string>
+    <string name="pw_channels">Chaînes</string>
+    <string name="recommend_channels">Chaînes recommandées</string>
+    <string name="restore_channel_list">Rétablir les paramètres par défaut maintenant ?</string>
+    <string name="title_publisher">Créateurs</string>
+    <string name="title_subscribe">Abonnements</string>
+    <string name="ugc_confirm_unsubscribe">Se désabonner maintenant ?</string>
 </resources>

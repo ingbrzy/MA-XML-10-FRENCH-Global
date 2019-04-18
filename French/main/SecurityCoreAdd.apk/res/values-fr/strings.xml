@@ -80,9 +80,9 @@
 Certaines applications clônées nécessitent la prise en charge des Framework des services Google. Dans de tels cas, un Framework clôné des services Google est créé."</string>
     <string name="xspace_chocie">"Support d'application clônée"</string>
     <string name="xspace_creating">"Création de l'application clônée…"</string>
-    <string name="xspace_installing">Installation…</string>
+    <string name="xspace_installing">Installation en cours…</string>
     <string name="xspace_install_failed">Impossible de créer</string>
-    <string name="xspace_uninstalling">Désinstallation…</string>
+    <string name="xspace_uninstalling">Désinstallation en cours…</string>
     <string name="xspace_install_completed">"Icône ajoutée à l'Écran d'accueil"</string>
     <string name="xspace_install_completed_global">Icône ajouté dans au tiroir</string>
     <string name="xspace_uninstall_completed">"L'application clônée a été désintallée avec succès"</string>
@@ -142,7 +142,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="transferApp">Les applications installées dans le Second espace seront déplacées dans le Premier espace. Cependant, toutes les données des applications seront perdues.</string>
     <string name="transferFile">Sélectionner les autres fichiers manuellement</string>
     <string name="continueButton">Continuer</string>
-    <string name="removingSpace">Suppression…</string>
+    <string name="removingSpace">Suppression en cours…</string>
     <string name="removeSuccess">Supprimé avec succès</string>
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du Second espace</string>
     <string name="secondSpace">Second espace</string>
@@ -435,26 +435,26 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="install_error">"Impossible d'installer, réessayez."</string>
     <string name="ent_install_dialog_content">Installer les applications et redémarrez votre appareil maintenant ?</string>
     <string name="ent_disallow_running">"L'application est interdite d'exécution"</string>
-    <string name="greenguard_child_des_title">Jai besoin de laide de mes amis et ma famille</string>
+    <string name="greenguard_child_des_title">"J'ai besoin de l'aide de mes amis et ma famille"</string>
     <string name="greenguard_child_des">Utilisez notre application pour rester connecté</string>
-    <string name="greenguard_parent_des_title">Jai besoin daider mes amis et ma famille</string>
-    <string name="greenguard_parent_des">Téléchargez notre application et ajoutez les appareils dautres personnes</string>
+    <string name="greenguard_parent_des_title">"J'ai besoin d'aider mes amis et ma famille"</string>
+    <string name="greenguard_parent_des">"Téléchargez notre application et ajoutez les appareils d'autres personnes"</string>
     <string name="cta_declaration_title">"Conditions générales d'utilisation"</string>
-    <string name="cta_declaration_message_format" formatted="false">Vous devez lire et accepter notre &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> avant dutiliser le mode Entreprise. Votre appareil doit se connecter à Internet pour activer le mode Entreprise. Acceptez-vous ?</string>
+    <string name="cta_declaration_message_format" formatted="false">"Vous devez lire et accepter notre &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> avant d'utiliser le mode Entreprise. Votre appareil doit se connecter à Internet pour activer le mode Entreprise. Acceptez-vous ?"</string>
     <string name="cta_declaration_agree_and_continue">Accepter</string>
-    <string name="undo_activated_dialog_message">Révoquer lautorisation désactivera le mode Entreprise et procédera à une réinitialisation des données dusine sur votre appareil. Toutes les fonctionnalités associées ne seront plus disponibles. De plus, Xiaomi cessera de collecter les informations requises pour le mode Entreprise (IMEI, ID de périphérique, version du système, région, etc.). Nous vous rappelons que Xiaomi ne gère pas les données collectées pour le mode Entreprise. Nous ferons de notre mieux pour informer toutes les parties liées, mais nous vous recommandons de contacter les superviseurs de votre société pour approuver cette révocation. Révoquer lautorisation et effectuer une réinitialisation des données dusine?</string>
+    <string name="undo_activated_dialog_message">"Révoquer l'autorisation désactivera le mode Entreprise et procédera à une réinitialisation des données d'usine sur votre appareil. Toutes les fonctionnalités associées ne seront plus disponibles. De plus, Xiaomi cessera de collecter les informations requises pour le mode Entreprise (IMEI, ID de périphérique, version du système, région, etc.). Nous vous rappelons que Xiaomi ne gère pas les données collectées pour le mode Entreprise. Nous ferons de notre mieux pour informer toutes les parties liées, mais nous vous recommandons de contacter les superviseurs de votre société pour approuver cette révocation. Révoquer l'autorisation et effectuer une réinitialisation des données d'usine?"</string>
     <string name="undo_activated_dialog_ok">Révoquer</string>
-    <string name="undo_grant_dialog_message">Xiaomi cessera de collecter les informations requises pour cette fonctionnalité (IMEI, ID de périphérique, version du système, région, etc.) après la révocation de lautorisation. Révoquer maintenant?</string>
-    <string name="undo_privacy_menu">Révoquer lautorisation</string>
+    <string name="undo_grant_dialog_message">"Xiaomi cessera de collecter les informations requises pour cette fonctionnalité (IMEI, ID de périphérique, version du système, région, etc.) après la révocation de l'autorisation. Révoquer maintenant?"</string>
+    <string name="undo_privacy_menu">"Révoquer l'autorisation"</string>
     <string name="more_settings">Plus</string>
     <string name="undo_success">Révoqué avec succès</string>
     <string name="master_clear_apply_title">Attention</string>
     <string name="button_text_next_step">Suivant</string>
     <string name="button_text_next_step_timer">Étape suivante (%d)</string>
-    <string name="dialog_tip_need_network">Votre appareil doit se connecter à Internet pour révoquer lautorisation.</string>
+    <string name="dialog_tip_need_network">"Votre appareil doit se connecter à Internet pour révoquer l'autorisation."</string>
     <string name="dialog_undo_negative">Ne pas révoquer</string>
     <string name="dialog_title_service_error">Erreur du serveur</string>
-    <string name="dialog_message_service_error">Impossible de révoquer lautorisation et deffectuer une réinitialisation des données dusine. Réessayez</string>
+    <string name="dialog_message_service_error">"Impossible de révoquer l'autorisation et d'effectuer une réinitialisation des données d'usine. Réessayez"</string>
     <string name="dialog_verify">Vérifiez votre empreinte digitale</string>
     <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>
     <string name="button_touch">Placez votre doigt sur le capteur</string>

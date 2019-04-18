@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">App. photo</string>
     <string name="accessibility_carrier_network_change_mode">"Changement d'opérateur réseau."</string>
     <string name="accessibility_cast_name">Connecté à %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">"La diffusion de l'écran s'est arrêtée."</string>
     <string name="accessibility_cell_data">Données Mobiles</string>
     <string name="accessibility_cell_data_off">Données Mobiles désactivées</string>
@@ -583,7 +584,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dock_forced_resizable">"L'application peut ne pas fonctionner avec le diviseur d'écran."</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"Écran divisé n'est pas pris en charge à l'écran de verrouillage."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"L'application ne prend pas en charge le diviseur de l'écran."</string>
-    <string name="download_lock_wallpaper">Appuyez deux fois pour télécharger le fond d’écran Carousel</string>
+    <string name="download_lock_wallpaper">"Appuyez deux fois pour télécharger le fond d'écran Carousel"</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">Appuyez et maintenez pour ajouter ou réarranger les éléments</string>
     <string name="drag_to_remove_tiles">Faire glisser ici pour supprimer</string>
@@ -751,6 +752,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="guest_wipe_session_message">Voulez-vous continuer votre session ?</string>
     <string name="guest_wipe_session_title">Bienvenue, invité !</string>
     <string name="guest_wipe_session_wipe">Recommencer</string>
+    <string name="gxzw_area">"Scanneur d'empreintes digitales"</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Appuyer un peu plus fort</string>
     <string name="gxzw_try_again">Veuillez réessayer</string>
@@ -871,6 +873,10 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_charging_back_to_lockscreen">"Retour à L'écran de verrouillage"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Sur batterie</string>
     <string name="keyguard_charging_info_click_to_detail">Afficher les détails</string>
+    <string name="keyguard_charging_info_data_c">%s °C</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s V</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Épuisée</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
@@ -895,6 +901,7 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_missing_sim_instructions_long">La carte SIM est absente ou illisible. Veuillez insérer une carte SIM.</string>
     <string name="keyguard_missing_sim_message">Aucune carte SIM dans le téléphone.</string>
     <string name="keyguard_missing_sim_message_short">Aucune carte SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Le réseau est verrouillé</string>
     <string name="keyguard_password_enter_password_code">Saisissez le mot de passe pour déverrouiller</string>
     <string name="keyguard_password_enter_pin_code">Saisir le code PIN</string>
@@ -978,6 +985,7 @@ Réessayez dans %2$d secondes."</string>
     <string name="left_keycode">Code gauche</string>
     <string name="left_nav_bar_button_type">Appuyer une fois de plus sur le bouton gauche</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
     <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont’ pas actuellement protégées"</string>
     <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
@@ -987,6 +995,10 @@ Réessayez dans %2$d secondes."</string>
     <string name="lock_screen_carrier_airplane_mode_on">Mode Avion</string>
     <string name="lock_screen_date">EEEE d MMMM</string>
     <string name="lock_screen_date_12">EEEE d MMMM</string>
+    <string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
     <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
     <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
     <string name="lock_screen_magazine_global_button_text">Plus</string>
@@ -1018,7 +1030,7 @@ Réessayez dans %2$d secondes."</string>
     <string name="long_screenshot_stop">Terminé</string>
     <string name="long_screenshot_top_msg">"Création de la capture d'écran…"</string>
     <string name="long_screenshot_top_msg_manual">"Rogner la capture d'écran et appuyer sur le bouton pour terminer"</string>
-    <string name="low_temperature_button_ok">"L'obtenir"</string>
+    <string name="low_temperature_button_ok">"C'est compris"</string>
     <string name="low_temperature_warning_message">"La température est trop basse. Votre téléphone peut s'éteindre à tout moment. Assurez-vous que vous enregistrez toutes les modifications importantes."</string>
     <string name="low_temperature_warning_title">Alerte de basse température</string>
     <string name="managed_profile_foreground_toast">Vous utilisez votre profil de travail</string>
@@ -1043,6 +1055,7 @@ Réessayez dans %2$d secondes."</string>
     <string name="miui_guide_dialog_message">Les sons des médias (musique, vidéos, etc.) seront toujours lus en mode silencieux. Vous pouvez changer cela dans les paramètres.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par un périphérique Bluetooth</string>
     <string name="miui_ringer_count_down">Compte à rebours</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Silencieux</string>
     <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
     <string name="miui_ringer_total">NPD</string>
@@ -1070,12 +1083,14 @@ Vous êtes aussi connecté à %3$s, qui peut contrôler l'activité de votre ré
 
 Pour plus d'informations, contactez votre administrateur."</string>
     <string name="monitoring_description_ca_cert_settings">"Ouvrir les informations d'identification approuvées"</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">"Un certificat d'autorité est installé sur cet appareil. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
     <string name="monitoring_description_do_body">"Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil."</string>
     <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
     <string name="monitoring_description_do_header_generic">Votre appareil est géré par %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s utilise %2$s pour gérer votre appareil.</string>
     <string name="monitoring_description_do_learn_more">En savoir plus</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">"Votre organisation a installé un certificat d'autorité dans votre profil de travail. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
     <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
     <string name="monitoring_description_management">"Votre appareil est géré par votre organisation.
@@ -1107,6 +1122,7 @@ Pour plus d'informations, contactez votre administrateur.
 
 Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité de votre réseau."</string>
     <string name="monitoring_description_vpn_settings">Ouvrir les paramètres VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Certificats CA</string>
     <string name="monitoring_subtitle_network_logging">Journalisation du réseau</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1121,6 +1137,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="nav_guide_message">"Utilisez les gestes pour masquer/afficher les boutons à l'écran."</string>
     <string name="nav_guide_ok">Configurer</string>
     <string name="nav_guide_title">"Masquer les boutons à l'écran"</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Aucune</string>
     <string name="no_multi_window_app">Aucune application ne prend en charge le mode Écran divisé</string>
     <string name="no_notification_tips">Aucune notification</string>
@@ -1193,7 +1210,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="oldman_incall_text">"Retourner à l'appel"</string>
     <string name="open_camera_hint_text">"Balayez vers la gauche pour ouvrir l'appareil photo"</string>
     <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie extrême"</string>
-    <string name="open_lock_screen_magazine_hint_text">Glissez à droite pour plus d’options</string>
+    <string name="open_lock_screen_magazine_hint_text">"Glissez à droite pour plus d'options"</string>
     <string name="open_remote_center_hint_text">Balayez vers la droite pour ouvrir le centre de contrôle</string>
     <string name="other">Autre</string>
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
@@ -1279,6 +1296,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
     <string name="private_dns_mode_provider_failure">Connexion impossible</string>
     <string name="private_dns_mode_provider_hostname_hint">Saisissez le nom du fournisseur du DNS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="profile_owned_footer">Le profil peut être surveillé</string>
     <string name="prompt_danger">Danger</string>
     <string name="prompt_detecting">Détection</string>
@@ -1394,6 +1412,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_wifi_off_label">Le Wi-Fi est désactivé</string>
     <string name="quick_settings_wifi_on_label">Le Wi-Fi est activé</string>
     <string name="quick_settings_work_mode_label">Mode Travail</string>
+    <string name="rapid_charge_mode_tip">Charge rapide</string>
     <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le second espace"</string>
     <string name="recent_dock_tip">Appuyez pour sélectionner les applications</string>
     <string name="recent_menu_item_info">Infos</string>
@@ -1833,7 +1852,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wapi_all_sel_mode">Sélectionner</string>
     <string name="wapi_auto_sel_cert">Sélectionner automatiquement</string>
     <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner les certificats automatiquement. Sélectionnez un certificat dans la liste, puis essayez de vous connecter.</string>
-    <string name="wapi_cert_is_not_exist">Aucun certificat disponible. Ajoutez d’abord un.</string>
+    <string name="wapi_cert_is_not_exist">"Aucun certificat disponible. Ajoutez d'abord un."</string>
     <string name="wapi_cert_is_not_selected">"Sélectionnez d'abord le certificat"</string>
     <string name="wapi_cert_manage_error">Impossible de définir le certificat WAPI.</string>
     <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
@@ -1849,13 +1868,14 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wapi_password_is_empty">Le mot de passe ne peut être vide</string>
     <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
     <string name="wapi_password_length_invalid">Le mot de passe doit contenir entre 8 et 64 caractères</string>
-    <string name="wapi_password_length_is_max">Le mot de passe peut contenir jusqu’à 64 caractères</string>
+    <string name="wapi_password_length_is_max">"Le mot de passe peut contenir jusqu'à 64 caractères"</string>
     <string name="wapi_password_length_is_min">Le mot de passe doit contenir au moins 8 caractères</string>
     <string name="wapi_password_length_is_min_to_max">Le mot de passe doit contenir entre 8 et 64 caractères</string>
     <string name="wapi_psk_type">Type de mot de passe</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadécimal</string>
     <string name="wapi_yes">Oui</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Mis à jour à %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement saturé"</string>
     <string name="wifi_auto_sel_wapi_cert">Sélectionner automatiquement</string>
@@ -1865,8 +1885,8 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
     <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
     <string name="wifi_connected_no_internet">"Connecté, pas d'Internet"</string>
-    <string name="wifi_coverage_extend">Activer l’extension de couverture Wi‑Fi</string>
-    <string name="wifi_coverage_extend_summary">Étendre la couverture Wi‑Fi en utilisant un point d’accès</string>
+    <string name="wifi_coverage_extend">"Activer l'extension de couverture Wi‑Fi"</string>
+    <string name="wifi_coverage_extend_summary">"Étendre la couverture Wi‑Fi en utilisant un point d'accès"</string>
     <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
     <string name="wifi_disabled_generic">Désactivé</string>
     <string name="wifi_disabled_network_failure">Configuration IP impossible</string>
@@ -1889,12 +1909,14 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -1909,7 +1931,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_ssid_is_empty">SSID ne peut pas être laissé vide</string>
-    <string name="wifi_ssid_length_is_max">SSID peut contenir jusqu’à 32 caractères</string>
+    <string name="wifi_ssid_length_is_max">"SSID peut contenir jusqu'à 32 caractères"</string>
     <string name="wifi_status_mac_randomized">Adresse MAC randomisée</string>
     <string name="wifi_status_no_internet">"Pas d'internet"</string>
     <string name="wifi_status_sign_in_required">Connexion requise</string>
@@ -1919,10 +1941,10 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Sélectionner manuellement</string>
     <string name="wifi_wapi_certification_dont_exist">Le mot de passe du réseau que vous avez entré est incorrect.</string>
-    <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l’authentification WAPI. 
+    <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l'authentification WAPI. 
 Assurez-vous que vos certificats sont valides."</string>
-    <string name="wifi_wapi_fail_to_init">"Impossible d’ouvrir le certificat WAPI. 
-On dirait que le stockage des certificats n’est pas activé."</string>
+    <string name="wifi_wapi_fail_to_init">"Impossible d'ouvrir le certificat WAPI. 
+On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
     <string name="window_animation_scale_title">"Échelle d'animation de fenêtre"</string>
