@@ -39,6 +39,7 @@
     <string name="business_card">Carte de visite</string>
     <string name="business_card_result_title">Carte de visite</string>
     <string name="business_card_title">Placez la carte de visite dans le cadre</string>
+    <string name="business_card_with_qr_code">Placez la carte de visite ou le code QR dans le cadre</string>
     <string name="business_copy">Copier</string>
     <string name="business_new_contacts">Créer un contact</string>
     <string name="business_no_result">Impossible de reconnaître la carte de visite, essayez à nouveau.</string>
@@ -98,7 +99,7 @@
     <string name="got_it">"C'est compris"</string>
     <string name="gps">Navigation</string>
     <string name="import_contact">Importer le contact</string>
-    <string name="impunity_declaration_content">Le scanneur doit utiliser votre appareil photo et traiter les images que vous prenez en utilisant lapplication. Nutilisez pas Scanneur pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Politique de confidentialité&lt;/a>&lt;/font> et autorise Scanneur à se connecter à Internet.</string>
+    <string name="impunity_declaration_content">"Le scanneur doit utiliser votre appareil photo et traiter les images que vous prenez en utilisant l'application. N'utilisez pas Scanneur pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Politique de confidentialité&lt;/a>&lt;/font> et autorise Scanneur à se connecter à Internet."</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="impunity_declaration_title">Politique de Confidentialité</string>
     <string name="label_choose_picture">Choisir une image</string>
@@ -130,7 +131,7 @@
     <string name="nickname">Pseudo :</string>
     <string name="no_network">Pas de réseau disponible</string>
     <string name="no_storage">Pas de stockage interne</string>
-    <string name="no_support_to_translate_type">Cette langue nest pas prise en charge</string>
+    <string name="no_support_to_translate_type">"Cette langue n'est pas prise en charge"</string>
     <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
     <string name="not_recommend_access_web_url">Aller quand même</string>
     <string name="note">Remarque :</string>
@@ -168,7 +169,7 @@
     <string name="shopping_title">Prendre une photo du produit</string>
     <string name="shopping_vendor_info">Propulsé par Taobao</string>
     <string name="spaceIsLow_content">"Espace insuffisant sur le stockage interne. Libérez de l'espace."</string>
-    <string name="study_rotate_picture">Traitement de limage en cours…</string>
+    <string name="study_rotate_picture">"Traitement de l'image en cours…"</string>
     <string name="study_scan_result">Résultat</string>
     <string name="study_searching">Recherche de résultats en cours…</string>
     <string name="study_title">Scannez le problème que vous souhaitez résoudre</string>
@@ -183,7 +184,7 @@
     <string name="translate_dest_lang">Langue cible</string>
     <string name="translate_fail">Impossible de traduire</string>
     <string name="translate_loading">Traduction…</string>
-    <string name="translate_parallel_2_lines">Assurez-vous que le texte est parallèle aux lignes sur lécran</string>
+    <string name="translate_parallel_2_lines">"Assurez-vous que le texte est parallèle aux lignes sur l'écran"</string>
     <string name="translate_save_fail">"Impossible d'enregistrer la note"</string>
     <string name="translate_src_lang">Langue originelle</string>
     <string name="translate_text_compare">Comparaison</string>

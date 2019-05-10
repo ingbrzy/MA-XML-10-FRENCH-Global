@@ -21,7 +21,7 @@
     <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
     <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
     <string name="cloud_backup_derail_size_summary">Taille : %s</string>
-    <string name="cloud_back_up_opening">Un instant…</string>
+    <string name="cloud_back_up_opening">Juste un instant…</string>
     <string name="cloud_back_up_no_network_warn">Impossible de se connecter au Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
@@ -103,7 +103,7 @@
     <string name="remove_task_in_process">Suppression…</string>
     <string name="remove_task_unfinished">Suppression pas terminée</string>
     <string name="back_up_task_unfinished">Sauvegarde pas terminée</string>
-    <string name="about_to_recover">Un instant…</string>
+    <string name="about_to_recover">Juste un instant…</string>
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
     <string name="as_new_device_summary">Effacer les sauvegardes précédentes</string>
@@ -199,6 +199,7 @@
     <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
     <string name="restore_network_unconnect">%s (En attente de connexion)</string>
     <string name="restore_network_pause">%s (Appuyez pour reprendre)</string>
+    <string name="hint_restore_cross_space">Home screen layout might be displayed incorrectly if you transfer items between spaces.</string>
     <string name="restore_detail_title">Sélectionner les éléments à restaurer</string>
     <string name="restore_detail_category_settings">Paramètres</string>
     <string name="restore_detail_category_apps">"Disposition de l'écran d'accueil &amp; applications"</string>
@@ -215,4 +216,6 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="restore_app_order_finish">Terminer</string>
     <string name="provision_restore_data">"Restauration d'éléments"</string>
     <string name="provision_background_restore_more_data">"Restaurer plus d'éléments en arrière-plan"</string>
+    <string name="selected">Sélectionné</string>
+    <string name="unselected">Non sélectionné</string>
 </resources>

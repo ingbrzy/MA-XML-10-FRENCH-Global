@@ -81,6 +81,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">services du premier plan</string>
     <string name="HIPS_Perm_UDevice_ID">Partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
+    <string name="HIPS_Perm_deamon_notification">Permanent notification</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">show permanent notifications</string>
     <string name="permission_group_title_charges_related">Frais</string>
     <string name="permission_group_title_privacy_related">Confidentialité</string>
     <string name="permission_group_title_media_related">Multimédia</string>

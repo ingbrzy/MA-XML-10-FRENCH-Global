@@ -298,7 +298,7 @@
     <string name="install_sucess">%s installé avec succès</string>
     <string name="open_app">Ouvrir</string>
     <string name="downloading">Téléchargement</string>
-    <string name="installing">Installation</string>
+    <string name="installing">Installation en cours</string>
     <string name="start_install">Installer maintenant</string>
     <string name="empty">" "</string>
     <string name="open_browser">Ouvrir dans le navigateur</string>

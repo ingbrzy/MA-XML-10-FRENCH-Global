@@ -624,7 +624,7 @@ Pour décrocher , appuyer et maintenir Accueil et le bouton d'alimentation simul
     <string name="lock_to_app_description_accessible">"L'épinglage de l'écran verrouille l'affichage sur une seule vue.
 
 Pour décrocher , appuyer et maintenir Accueil et le bouton d'alimentation simultanément."</string>
-    <string name="lock_to_app_toast">"Pour décrocher cet écran, appuyer et maintenir Accueil et le bouton d'alimentation simultanément."</string>
+    <string name="lock_to_app_toast">"Pour décocher cet écran, appuyer et maintenir Accueil et le bouton d'alimentation simultanément."</string>
     <string name="lock_to_app_toast_accessible">"Pour décocher cet écran, appuyer et maintenir Accueil et le bouton d'alimentation simultanément."</string>
     <string name="lock_to_app_unlock_password">"Demander le mot de passe avant d'annuler l'épinglage"</string>
     <string name="lock_to_app_unlock_pattern">"Demander le schéma de déverrouillage avant d'annuler l'épinglage"</string>
@@ -658,7 +658,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_missing_sim_instructions">Insérez une carte SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">La carte SIM est absente ou illisible. Veuillez insérer une carte SIM.</string>
     <string name="lockscreen_missing_sim_message">Aucune carte SIM dans le téléphone.</string>
-    <string name="lockscreen_missing_sim_message_short">Aucune carte SIM</string>
+    <string name="lockscreen_missing_sim_message_short">Pas de carte SIM</string>
     <string name="lockscreen_network_locked_message">Réseau verrouillé</string>
     <string name="lockscreen_password_wrong">Veuillez réessayer.</string>
     <string name="lockscreen_pattern_correct">Combinaison correcte !</string>
@@ -1504,7 +1504,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="volume_dialog_ringer_guidance_silent">Sonnerie désactivée pour les appels et les notifications</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Vibreur pour les appels et les notifications</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
-    <string name="volume_icon_description_incall">Appel</string>
+    <string name="volume_icon_description_incall">Appeler</string>
     <string name="volume_icon_description_media">Média</string>
     <string name="volume_icon_description_notification">Notification</string>
     <string name="volume_icon_description_ringer">Sonnerie</string>

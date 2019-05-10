@@ -185,7 +185,7 @@
     <string name="cloud_antispam_title">ID Appelant</string>
     <string name="cloud_recommend_msg">Appuyez pour synchroniser les contacts avec Mi Cloud.</string>
     <string name="cloud_state_disabled">Synchroniser les contacts avec Mi Cloud</string>
-    <string name="cloud_state_loading">Un instant…</string>
+    <string name="cloud_state_loading">Juste un instant…</string>
     <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -279,7 +279,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="convenient_service">services</string>
     <string name="copy_number">Copier</string>
     <string name="copy_text">Copier dans le presse-papiers</string>
-    <string name="createContactShortcutSuccessful">Widget contact ajouté au bureau</string>
+    <string name="createContactShortcutSuccessful">"Widget contact ajouté à l'écran d'accueil"</string>
     <string name="create_group_dialog_title">Créer un nouveau groupe</string>
     <string name="create_group_item_label">Créer un nouveau groupe</string>
     <string name="create_qrcode_fail_message">Impossible de créer le code QR</string>
@@ -396,7 +396,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialer_addAnotherCall">Ajouter un appel</string>
     <string name="dialer_copy_view_delete_description">Effacer le numéro de téléphone copié</string>
     <string name="dialer_digits_copy_number_label">Numéro copié</string>
-    <string name="dialer_empty_text_loading">Un instant…</string>
+    <string name="dialer_empty_text_loading">Juste un instant…</string>
     <string name="dialer_empty_text_no_call_log">Aucun contact récent</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="dialer_firewall_entry_name">"Journaux d'appel bloqués"</string>
@@ -589,10 +589,10 @@ Raison: \"%s\""</string>
     <string name="list_filter_customize">Personnaliser</string>
     <string name="list_filter_phones">Tous les contacts avec numéro de téléphone</string>
     <string name="list_filter_single">Contact</string>
-    <string name="loading_accounts">Un instant…</string>
-    <string name="loading_group_members">Un instant…</string>
-    <string name="loading_groups">Un instant…</string>
-    <string name="loading_recent">Un instant…</string>
+    <string name="loading_accounts">Juste un instant…</string>
+    <string name="loading_group_members">Juste un instant…</string>
+    <string name="loading_groups">Juste un instant…</string>
+    <string name="loading_recent">Juste un instant…</string>
     <string name="local_invisible_directory">Autre</string>
     <string name="local_profile_title">Mon profil</string>
     <string name="local_search_label">Tous les contacts</string>
@@ -623,7 +623,7 @@ Raison: \"%s\""</string>
     <string name="menu_contacts_filter">Contacts à afficher</string>
     <string name="menu_copy">Copier</string>
     <string name="menu_copyContact">Copier dans mes contacts</string>
-    <string name="menu_create_contact_shortcut">Placer sur le bureau</string>
+    <string name="menu_create_contact_shortcut">"Placer sur l'écran d'accueil"</string>
     <string name="menu_deleteContact">Supprimer le contact</string>
     <string name="menu_deleteGroup">Supprimer</string>
     <string name="menu_dial_ip_number">Composer un appel IP</string>
@@ -785,7 +785,7 @@ Raison: \"%s\""</string>
     <string name="option_not_in_group">Retirer</string>
     <string name="option_not_star">Retirer des favoris</string>
     <string name="option_rename_group">Renommer</string>
-    <string name="option_send_to_desktop">Envoyer sur le bureau</string>
+    <string name="option_send_to_desktop">"Placer sur l'écran d'accueil"</string>
     <string name="option_send_to_others">Transférer</string>
     <string name="option_view_contact">Voir</string>
     <string name="option_view_group">Voir</string>
@@ -925,7 +925,7 @@ Raison: \"%s\""</string>
     <string name="profile_name">Mon profil</string>
     <string name="profile_name_photo">Photo</string>
     <string name="pull_to_refresh_pull_label">Faire glisser pour actualiser</string>
-    <string name="pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="pull_to_refresh_refreshing_label">Juste un instant…</string>
     <string name="pull_to_refresh_release_label">Relâcher pour actualiser</string>
     <string name="qr_card_card">Code QR</string>
     <string name="qrcode_card_title">Code QR</string>
@@ -1022,7 +1022,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="select_none">Aucun élément sélectionné</string>
     <string name="select_show_contacts">Liste des contacts</string>
     <string name="select_vcard_title">Choisir un fichier vCard</string>
-    <string name="send_contact_shortcut_todesktop_success">Ajouté sur le bureau</string>
+    <string name="send_contact_shortcut_todesktop_success">"Ajouté sur l'écran d'accueil"</string>
     <string name="send_to_voicemail_checkbox">Renvoyer les appels directement vers la messagerie</string>
     <string name="separatorJoinAggregateAll">Tous les contacts</string>
     <string name="separatorJoinAggregateSuggestions">Contacts suggérés</string>
@@ -1079,7 +1079,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
     <string name="smart_group_frequency_label">Récents</string>
     <string name="smart_group_label">Regroupements intelligents</string>
-    <string name="smart_group_loading">Un instant…</string>
+    <string name="smart_group_loading">Juste un instant…</string>
     <string name="smart_group_location_label">Localisations</string>
     <string name="smart_group_location_unavailable">Aucune information de localisation</string>
     <string name="sms">SMS/MMS</string>
@@ -1228,7 +1228,7 @@ Choisissez une des options suivantes:"</string>
     <string name="yellowpage_navigation_search_select_city">Choisissez une ville</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Connexion réseau impossible</string>
-    <string name="yellowpage_navigation_send_to_desktop_succeeded">Ajouté au bureau</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">"Ajouté à l'écran d'accueil"</string>
     <string name="yellowpage_search_the_yellowpage">Chercher sur les Pages Jaunes</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="zero_items_selected">Sélectionnez les éléments</string>

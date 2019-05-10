@@ -325,9 +325,14 @@
     <string name="battery_info_status_full">Pleine</string>
     <string name="battery_info_status_not_charging">Pas en charge</string>
     <string name="battery_info_status_unknown">Inconnu</string>
+    <string name="battery_low_button_not_open_power_save">Pas maintenant</string>
+    <string name="battery_low_button_open_power_save">Activer</string>
     <string name="battery_low_percent_format">%d%% restant</string>
+    <string name="battery_low_percent_format_save_mode_closed">Moins de %d%% de la batterie restante. Chargez votre appareil.</string>
+    <string name="battery_low_percent_format_save_mode_open">"Moins de %d%% de la batterie restante. Activer l'économiseur de batterie pour économiser de l'énergie."</string>
     <string name="battery_low_percent_format_saver_started">%s restant. Économiseur de batterie activé.</string>
     <string name="battery_low_title">Batterie faible</string>
+    <string name="battery_low_title_power_save">Économiseur de batterie</string>
     <string name="battery_low_why">Paramètres</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilisation de la batterie</string>
@@ -468,6 +473,9 @@
     <string name="category_work">Travail</string>
     <string name="charge_length_format">%1$sauparavant</string>
     <string name="chooseUsbActivity">Choisissez une application à associer au périphérique USB</string>
+    <string name="choose_clock_title_left_top">Left-aligned</string>
+    <string name="choose_clock_title_middle">Centered</string>
+    <string name="choose_clock_title_vertical">Vertical</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="clear_adb_keys">Révoquer les autorisations du débogage USB</string>
     <string name="clear_all_notifications_text">Tout effacer</string>
@@ -577,6 +585,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dlg_summary_nfc">Désactiver NFC</string>
     <string name="dlg_summary_title">"L'économiseur de batterie extrême arrête toute activité en arrière-plan après avoir quitté une application et retourne à l'écran d'accueil. Si vous souhaitez qu'une application s'exécute en arrière-plan, ajoutez-la à des exceptions d'arrière-plan."</string>
     <string name="dnd_is_off">NPD désactivé</string>
+    <string name="dnd_notification_warnings_title">DND is on. Calls and notifications will be silenced.</string>
     <string name="do_disclosure_generic">Cet appareil est géré par votre organisation</string>
     <string name="do_disclosure_with_name">Cet appareil est géré par %s</string>
     <string name="do_not_silence">Ne pas mettre sur silence</string>
@@ -655,6 +664,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_data_manage_delete_msg">Supprimer les données de visage</string>
     <string name="face_data_manage_delete_sure">Vous ne serez plus en mesure de déverrouiller votre appareil en utilisant vos données de visage une fois que vous les supprimez.</string>
     <string name="face_data_manage_delete_title">Données de visage</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">"Lorsque l'écran s'allume, faites glisser votre doigt pour déverrouiller l'appareil à l'aide des données faciales."</string>
     <string name="face_data_manage_unlock_msg">"Déverrouiller l'appareil avec vos données de visage"</string>
     <string name="face_data_manage_unlock_slide_msg">Remplacer les raccourcis du curseur par le déverrouillage par reconnaissance faciale</string>
     <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
@@ -670,7 +680,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_close_screen">"Rapprochez-vous de l'écran"</string>
     <string name="face_unlock_down">Levez votre tête</string>
     <string name="face_unlock_fail">Impossible de vérifier le visage</string>
-    <string name="face_unlock_fail_retry">"Impossible de vérifier votre visage. Appuyez sur l'icône pour réessayer."</string>
+    <string name="face_unlock_fail_retry">Impossible de vérifier votre visage. Appuyez au dessus pour réessayer.</string>
+    <string name="face_unlock_fail_retry_global">Appuyez au dessus pour utiliser la reconnaissance faciale</string>
     <string name="face_unlock_identify_error">"Une erreur de reconnaissance s'est produite"</string>
     <string name="face_unlock_not_found">Impossible de vous reconnaître</string>
     <string name="face_unlock_not_roi">Gardez votre visage dans le cadre</string>
@@ -692,6 +703,13 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_sc_status">"Faites glisser vers le bas pour ouvrir l'appareil photo"</string>
     <string name="face_unlock_stay_away_screen">"Restez à une distance de 25 à 40 cm de l'écran"</string>
     <string name="face_unlock_success">Données de visage vérifiées avec succès</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Allow Lock screen notifications to be able to view them on your Lock screen.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Non merci</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Autoriser</string>
+    <string name="face_unlock_success_show_message_dialog_title">"Notifications d'écran de verrouillage"</string>
+    <string name="face_unlock_success_show_message_msg">Show only notification source when device is locked and add notification details after face data is verified</string>
+    <string name="face_unlock_success_show_message_title">Show notification details after verifying face data</string>
+    <string name="face_unlock_success_show_message_toast">Notifications will be shown on Lock screen</string>
     <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
     <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
@@ -758,6 +776,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="gxzw_try_again">Veuillez réessayer</string>
     <string name="gxzw_try_more_again">Veuillez réessayer</string>
     <string name="gxzw_use_password">Utiliser votre mot de passe pour débloquer</string>
+    <string name="gxzw_use_password_to_unlock">Saisir le mot de passe</string>
     <string name="hdcp_checking_dialog_title">Définir le comportement de vérification HDCP</string>
     <string name="hdcp_checking_title">Vérification HDCP</string>
     <string name="headset">Casque</string>
@@ -1151,6 +1170,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_channel_controls_closed_accessibility">Contrôle des notifications pour %1$s fermé</string>
     <string name="notification_channel_controls_opened_accessibility">Contrôle des notifications pour %1$s ouvert</string>
     <string name="notification_channel_disabled">Vous ne recevrez plus ces notifications.</string>
+    <string name="notification_channel_dnd">NPD</string>
     <string name="notification_channel_general">Messages généraux</string>
     <string name="notification_channel_location">Localisation</string>
     <string name="notification_channel_screenbutton">Boutons</string>
@@ -1173,7 +1193,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_low_battery_action_btn">Activer</string>
     <string name="notification_low_battery_need_charge">La batterie est faible. Chargez votre appareil.</string>
     <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
-    <string name="notification_low_battery_title">Batterie faible : %d%%</string>
+    <string name="notification_low_battery_title">Less than %d%% of battery remaining</string>
     <string name="notification_manager">Gérer les notifications</string>
     <string name="notification_manager_des">Filtrer et gérer les notifications</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -1290,6 +1310,10 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="power_remaining_more_than_subtext">Plus de %1$s restant (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Plus de %1$s restant</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
+    <string name="power_save_ps_clean">"Vider le cache dès l'appareil est verrouillé"</string>
+    <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (synchronisation, GPS) pour économiser la batterie"</string>
+    <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
+    <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_mode_off">Désactivé</string>
     <string name="private_dns_mode_opportunistic">Automatique</string>

@@ -75,7 +75,7 @@
     <string name="change_alert">Vérifiez votre connexion réseau et réessayez</string>
     <string name="china_version_first_start_network_msg">Vous devez accepter %1$s et %2$s de Xiaomi pour pouvoir utiliser la météo. La météo doit accéder à votre localisation et se connecter à Internet pour fonctionner normalement. Accepter?</string>
     <string name="city_exceeded_warning">"Vous pouvez ajouter jusqu'à 10 villes"</string>
-    <string name="common_loading_text">Un instant…</string>
+    <string name="common_loading_text">Juste un instant…</string>
     <string name="connect_fail">Impossible de se connecter au réseau, réessayez</string>
     <string name="content_desc_activity_main_add_city">Ajouter une ville</string>
     <string name="content_desc_activity_main_add_city_manage">Gérer les villes</string>
@@ -86,6 +86,9 @@
     <string name="content_desc_close_button">Fermer</string>
     <string name="daily_forcast_no_stable_direction">Brise</string>
     <string name="daily_forcast_no_wind">0</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
+    <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s plus tard.</string>
     <string name="daily_forcast_whirl_wind">Tourbillon</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
@@ -274,7 +277,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="weather_service_channel_name">"Services d'arrière-plan"</string>
     <string name="wind_direction_no_data">Vent</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="xiaomi_weather_description_content">"L'application Météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
+    <string name="xiaomi_weather_description_content">"L'application Météo vous fournit des infos météorologiques avec précision. Sans cette application, la barre d'état et le widget de météo de l'écran d'accueil ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
     <string name="xiaomi_weather_description_title">À propos de Météo</string>
     <string name="yes_vote_ratio">Pour %1$s%%</string>
     <string name="your_location">Votre localisation</string>

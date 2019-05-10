@@ -42,7 +42,7 @@
     <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
     <string name="add_to_playlist_successful">Ajouté avec succès</string>
     <string name="added_next_play">Ajouté pour être joué ensuite</string>
-    <string name="agreement_desc">Accord de l’utilisateur (obligatoire)</string>
+    <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
     <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
@@ -68,7 +68,7 @@
     <string name="app_permission_use_group_phone">Téléphone</string>
     <string name="app_permission_use_group_phone_desc">Pour les services Google Push</string>
     <string name="app_permission_use_group_storage">Stockage</string>
-    <string name="app_permission_use_group_storage_desc">Pour rechercher et lire des chansons enregistrées sur l’appareil</string>
+    <string name="app_permission_use_group_storage_desc">"Pour rechercher et lire des chansons enregistrées sur l'appareil"</string>
     <string name="artist">Artistes</string>
     <string name="artist_area_all">Tous</string>
     <string name="artist_area_china">Chine</string>
@@ -93,7 +93,7 @@
     <string name="buffering">Chargement…</string>
     <string name="button_cancel_download">Annuler</string>
     <string name="button_download_now">Télécharger maintenant</string>
-    <string name="button_queue_for_wifi">File d’attente</string>
+    <string name="button_queue_for_wifi">"File d'attente"</string>
     <string name="button_sort_by_date">Trier par date</string>
     <string name="button_sort_by_size">Trier par taille</string>
     <string name="button_wait_for_wifi">En attente</string>
@@ -146,12 +146,12 @@
     <string name="desktop_lyric_button_close">Fermer</string>
     <string name="desktop_lyric_button_lock">Verrouiller</string>
     <string name="desktop_lyric_color">Couleur</string>
-    <string name="desktop_lyric_dialog_msg">"Activer ou désactiver les paroles de l'Écran d'accueil dans Musique > Paramètres > Paramètres avancés"</string>
+    <string name="desktop_lyric_dialog_msg">"Activer ou désactiver les paroles de l'écran d'accueil dans Musique > Paramètres > Paramètres avancés"</string>
     <string name="desktop_lyric_dialog_positive_button">Essayer maintenant</string>
     <string name="desktop_lyric_dialog_title">Essayer maintenant</string>
     <string name="desktop_lyric_lock_toast">Verrouillé. Vous pouvez déverrouiller Musique dans le panneau de notifications.</string>
-    <string name="desktop_lyric_setting_summary">"Afficher les paroles sur l'Écran d'accueil"</string>
-    <string name="desktop_lyric_setting_title">"Paroles sur l'Écran d'accueil"</string>
+    <string name="desktop_lyric_setting_summary">"Afficher les paroles sur l'écran d'accueil"</string>
+    <string name="desktop_lyric_setting_title">"Paroles sur l'écran d'accueil"</string>
     <string name="desktop_lyric_textsize">Texte</string>
     <string name="device_connected">Connecté</string>
     <string name="device_not_connected">Déconnecté</string>
@@ -189,7 +189,7 @@
     <string name="do_not_remind_this_version">Ne pas me rappeler cette version</string>
     <string name="download">Télécharger</string>
     <string name="download_added_to_list">"Ajouté à la file d'attente des téléchargements"</string>
-    <string name="download_apk_desktop_installing">Installation</string>
+    <string name="download_apk_desktop_installing">Installation en cours</string>
     <string name="download_apk_desktop_pause">En pause</string>
     <string name="download_apk_desktop_pending">En attente</string>
     <string name="download_apk_desktop_running">Téléchargement en cours</string>
@@ -202,7 +202,7 @@
     <string name="download_auto_when_free_network_summary">Paramètres supplémentaires de vos favoris</string>
     <string name="download_complete">Téléchargement terminé !</string>
     <string name="download_complete_btn">Installé</string>
-    <string name="download_complete_start_install">Installation…</string>
+    <string name="download_complete_start_install">Installation en cours…</string>
     <string name="download_completed">Téléchargé</string>
     <string name="download_confirm_button_text">Installer</string>
     <string name="download_confirm_text">Mi Musique téléchargera et installera %s</string>
@@ -231,7 +231,7 @@
     <string name="download_running_percent">Progression %d%%</string>
     <string name="download_share_dialog">Partager via</string>
     <string name="download_start">Lancement du téléchargement…</string>
-    <string name="download_start_apk">Démarrage du téléchargement… Afficher la progression dans la barre de notification.</string>
+    <string name="download_start_apk">Démarrage du téléchargement… Afficher la progression dans le panneau de notification.</string>
     <string name="download_start_btn">Télécharger</string>
     <string name="download_success">Terminé</string>
     <string name="download_title_sorted_by_date">Téléchargements - Triés par date</string>
@@ -255,9 +255,9 @@
     <string name="download_while_playing_summary">Télécharger automatiquement les chansons que vous avez écoutées en ligne</string>
     <string name="download_while_playing_title">Télécharger pendant la diffusion</string>
     <string name="downloaded_empty">Vide</string>
-    <string name="downloading_apk">"Téléchargement…, l'état d'avancement dans la barre de notification."</string>
+    <string name="downloading_apk">"Téléchargement…, l'état d'avancement dans le panneau de notification."</string>
     <string name="downloading_empty">Vide</string>
-    <string name="downloading_pause_apk">En pause. Reprendre le téléchargement dans la barre de notification.</string>
+    <string name="downloading_pause_apk">En pause. Reprendre le téléchargement dans le panneau de notification.</string>
     <string name="due_date">"Date d'échéance : %s"</string>
     <string name="edit_playlist_info">Modifier les informations de la Playlist</string>
     <string name="empty_page_no_album">Aucun album.</string>
@@ -381,7 +381,7 @@
     <string name="individuation_recommend_switch_message">Activer cette fonctionnalité affectera les services Mi Musique personnalisés. Désactiver quand même ?</string>
     <string name="individuation_recommend_title">Recommandations</string>
     <string name="input_hint_prefix">Entrer %1$s</string>
-    <string name="installing_apk">Installation…</string>
+    <string name="installing_apk">Installation en cours…</string>
     <string name="insufficient_space">"Plus assez d'espace sur le stockage interne de votre appareil"</string>
     <string name="is_latest_version">Musique est à jour.</string>
     <string name="is_scanning">Vérification du stockage…</string>
@@ -397,8 +397,8 @@
     <string name="like">"J'aime"</string>
     <string name="list_item_play_all_tracks">Tout lire</string>
     <string name="load_shuffle">Chargement…</string>
-    <string name="loadercontainer_loading">Un instant…</string>
-    <string name="loading_hint">Un instant…</string>
+    <string name="loadercontainer_loading">Juste un instant…</string>
+    <string name="loading_hint">Juste un instant…</string>
     <string name="local_header_title">Musique locale</string>
     <string name="local_music">Chansons locales</string>
     <string name="local_music_is_not_available">"Vous n'avez pas chansons sur votre appareil."</string>

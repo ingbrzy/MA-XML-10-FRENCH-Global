@@ -440,7 +440,7 @@ de l'opérateur"</string>
     <string name="dialog_restrict_positive">Annuler</string>
     <string name="dialog_restrict_negative">Restreindre</string>
     <string name="usage_sorted_activity_lable">Utilisation de données</string>
-    <string name="usage_sorted_loading_text">Un instant…</string>
+    <string name="usage_sorted_loading_text">Juste un instant…</string>
     <string name="usage_sorted_empty_text">Vide</string>
     <string name="person_hotpot">Partage de connexion</string>
     <string name="system_app">Applications système</string>
@@ -759,7 +759,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="traffic_purchase_body">Appuyez pour recharger votre solde.</string>
     <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation de données de votre forfait.&lt;br/>Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Appuyez pour recharger votre solde.&lt;/U>&lt;/font>"</string>
     <string name="more_settings">Plus</string>
-    <string name="repair_loading_text">Un instant…</string>
+    <string name="repair_loading_text">Juste un instant…</string>
     <string name="network_diagnostics">Tester le réseau</string>
     <string name="btn_start_diagnostic">Tester le réseau</string>
     <string name="btn_stop_diagnostic">Arrêter</string>
@@ -1249,6 +1249,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
+    <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
+    <string name="power_save_ps_clean">"Vider le cache dès l'appareil est verrouillé"</string>
+    <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (synchronisation, GPS) pour économiser la batterie"</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
     <string name="apps_list_header_title_sms_access">"Restreindre l'accès aux codes de vérification"</string>
@@ -1407,7 +1411,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="suggest_scan_again">"Terminez l'analyse pour éviter des risques de sécurité."</string>
     <string name="hints_handle_item_text_virus">Danger</string>
     <string name="hints_scan_result_safe">Sûr</string>
-    <string name="descx_quick_scan_preparation">Un instant…</string>
+    <string name="descx_quick_scan_preparation">Juste un instant…</string>
     <string name="descx_quick_scan_cancel">Analyse annulée</string>
     <string name="dialog_title_stop_virus_scan">"Arrêter l'analyse de sécurité"</string>
     <string name="dialog_msg_stop_virus_scan">"Arrêter l'analyse de sécurité avant qu'elle ne se termine ?"</string>
@@ -1449,7 +1453,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_item_shortcut_title">Gérer les raccourcis</string>
     <string name="menu_item_shortcut_summary">"Choisir les icônes à afficher sur votre écran d'accueil"</string>
     <string name="activity_title_create_shortcut">Gérer les raccourcis</string>
-    <string name="menu_item_notification_title">Menu dans le pann. de notification</string>
+    <string name="menu_item_notification_title">Afficher le menu dans le pann. de notification</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_power_text">Optimisation de la batterie</string>
     <string name="menu_item_notification_antispam_text_normal">Liste noire</string>
@@ -1575,7 +1579,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="title_flow_verify_failed">"Impossible d'ajuster pour 5 jours d'affilée"</string>
     <string name="summary_flow_verify_failed">"Contrôler l'utilisation des données mobiles afin d'éviter des frais supplémentaires"</string>
     <string name="title_flow_notification">Notification de données mobiles</string>
-    <string name="summary_flow_notification">Afficher votre consommation mensuelle de données mobiles dans la barre de notification</string>
+    <string name="summary_flow_notification">Afficher votre consommation mensuelle de données mobiles dans le panneau de notification</string>
     <string name="title_flow_purchase">Acheter du volume de données mobiles</string>
     <string name="summary_flow_purchase">Il semble que votre volume de données restantes est insuffisant. Achetez-en pour rester connecté.</string>
     <string name="title_show_notification">Widget du panneau de notifications</string>
@@ -2231,7 +2235,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_data_back_booster">Le booster de vitesse de jeu est désactivé. Les fonctions de communication sont restaurées.</string>
     <string name="support_game_booster_tips">"Augmenter la vitesse &amp; améliorer l'expérience de jeu"</string>
     <string name="setting">Paramètres</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Juste un instant…</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
     <string name="game_more_improve">Restreindre les activités en arrière-plan et la vitesse de téléchargement pour économiser la batterie et la bande passante pour le jeu</string>
     <string name="dont_bore">Ne pas laisser les boutons et les notifications vous distraire</string>
@@ -2313,7 +2317,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_signed_title">"S'enregistrer dans le mois"</string>
     <string name="gb_network_status_bad">Une erreur de connexion est survenue.</string>
     <string name="gs_open_game_booster_summary">Augmentez la vitesse du réseau pour les jeux</string>
-    <string name="gb_signed_gift_loading_summary">Un instant…</string>
+    <string name="gb_signed_gift_loading_summary">Juste un instant…</string>
     <string name="gb_signed_gift_loading_fail">Chargement impossible</string>
     <string name="gb_msg_completely_shielded">Masquer les messages</string>
     <string name="gb_msg_quickly_answer">Autoriser les réponses rapides</string>

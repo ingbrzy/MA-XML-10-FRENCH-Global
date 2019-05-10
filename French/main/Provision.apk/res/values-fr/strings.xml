@@ -51,7 +51,7 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="terms_of_use_label">"Votre vie privée est très importante pour nous. Veuillez lire les conditions d'utilisation ainsi que la politique de confidentialité pour savoir quelles informations nous collectons, comment nous les utilisons et les différents choix disponibles.
 
 Vous devez les accepter avant de pouvoir utiliser MIUI. %s et les composants du compte Mi se connecteront à internet et localiseront votre appareil."</string>
-    <string name="terms_of_use_lable_apps">"Services Mi, Services de l'activation de la Mi SIM, Mi Cloud, Trouver votre appareil, Ecran d'accueil, Centre de jeux, MAB, MIUI Daemon et composants du système MSA, services de traduction, Apps rapides, App coffre-fort, statistiques, Lien Mi"</string>
+    <string name="terms_of_use_lable_apps">"Services Mi, Services de l'activation de la Mi SIM, Mi Cloud, Trouver votre appareil, Écran d'accueil, Centre de jeux, MAB, MIUI Daemon et composants du système MSA, services de traduction, Apps rapides, App coffre-fort, statistiques, Lien Mi"</string>
     <string name="terms_of_use_lable_gms">, Services Google Play</string>
     <string name="terms_of_use_label_systemhelper">", Service d'enregistrement automatique"</string>
     <string name="terms_of_use_lable_smart_cards">, cartes intelligentes</string>
@@ -92,6 +92,8 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="content_description_complete">Terminé</string>
     <string name="language_picker_other_languages_title">Plus de langues</string>
     <string name="language_settings">Choisir une langue</string>
+    <string name="font_hint_normal">Augmenter la taille du texte</string>
+    <string name="font_hint_large">Taille de texte par défaut</string>
     <string name="navigation_picker_radio_text_full_screen">Gestes en plein écran</string>
     <string name="navigation_picker_radio_text_virtual_key">Boutons</string>
     <string name="congratulation_swipe">Balayez vers le haut pour accéder au système</string>
@@ -119,4 +121,8 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="ai_button_double_press_desc">Appuyez deux fois sur le bouton IA pour terminer les tâches personnalisées</string>
     <string name="zone_picker_title">Choisir un fuseau horaire</string>
     <string name="locale_picker_other_locale_title">Plus de régions</string>
+    <string name="skip_gesture_guide_dialog_title">Gestes en plein écran</string>
+    <string name="skip_gesture_guide_dialog_message">Assurez-vous de savoir utiliser les gestes en plein écran avant de sélectionner cette option.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Annuler</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK </string>
 </resources>

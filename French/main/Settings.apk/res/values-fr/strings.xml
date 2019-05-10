@@ -590,6 +590,19 @@ Activez optimisation batterie."</string>
     <string name="backup_pw_cancel_button_text">Annuler</string>
     <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
     <string name="backup_section_title">Sauvegarde et restauration</string>
+    <string name="backup_set_clear_success">Turned off backup password successfully</string>
+    <string name="backup_set_clear_title">Turn off backup password</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Turn off</string>
+    <string name="backup_set_enter_new_pw">Enter new backup password</string>
+    <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+    <string name="backup_set_enter_old_pw">Enter old backup password</string>
+    <string name="backup_set_enter_pw_title">Enter backup password</string>
+    <string name="backup_set_error_pw">The password you entered is incorrect</string>
+    <string name="backup_set_modify_title">Change backup password</string>
+    <string name="backup_set_new_pw_title">Enter new backup password</string>
+    <string name="backup_set_null_pw">Enter password first</string>
+    <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
     <string name="badge_title">"Afficher le badge d'icône d'application de bureau"</string>
     <string name="band_mode_failed">Échec</string>
     <string name="band_mode_loading">Chargement de la liste de bandes…</string>
@@ -1168,9 +1181,9 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
     <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
     <string name="call_manager_title">"Gestionnaire d'appels"</string>
-    <string name="call_records_name_1">Debbie Smith</string>
-    <string name="call_records_name_2">Jason Lee</string>
-    <string name="call_records_name_3">Tom Fowles</string>
+    <string name="call_records_name_1">Louise Richard</string>
+    <string name="call_records_name_2">Pierre Dubois</string>
+    <string name="call_records_name_3">Thomas Bernard</string>
     <string name="call_records_summary_1">9:35 | 26 secondes | China Unicom</string>
     <string name="call_records_summary_2">16 Août | 1m 16s | China Mobile</string>
     <string name="call_records_summary_3">16 Août | 2m 24s | China Unicom</string>
@@ -1264,10 +1277,14 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
+    <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+    <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
     <string name="choose_spell_checker">Sélectionner correcteur ortho</string>
     <string name="choose_timezone">Sélectionner le fuseau horaire</string>
+    <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
+    <string name="choose_unlock_fingerprint_msg">"Définissez l'écran de verrouillage avant d'ajouter votre empreinte digitale."</string>
     <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
     <string name="cleaner">Nettoyeur</string>
     <string name="clear_activities">Effacer les actions par défaut</string>
@@ -1647,6 +1664,9 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="date_time_set_timezone_title">Fuseau horaire</string>
     <string name="date_time_settings">Date &amp; heure</string>
     <string name="day_of_week">Jour de la semaine</string>
+    <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Activer quand même?"</string>
+    <string name="dc_light_summary">Appliquez une gradation CC pour réduire la fatigue oculaire</string>
+    <string name="dc_light_title">Mode anti-scintillement</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
     <string name="debug_app_set">Application de débogage : %1$s</string>
@@ -1694,7 +1714,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Supprimer cette empreinte digitale ?</string>
     <string name="delete_rule">Retirer des règles</string>
     <string name="delete_saved_network">Supprimer les réseaux enregistrés</string>
-    <string name="delete_sound_effect">Le son de «Supprimer»</string>
+    <string name="delete_sound_effect">Le son de Supprimer</string>
     <string name="deleted_apps">Applications supprimées</string>
     <string name="deletion_helper_automatic_title">Automatique</string>
     <string name="deletion_helper_manual_title">Manuels</string>
@@ -2162,7 +2182,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
     <string name="failed_to_shut_down_find_device_content">"Impossible de désactiver Localiser l'appareil. Attendez une minute ou deux et réessayez."</string>
     <string name="failed_to_shut_down_find_device_title">Impossible de désactiver</string>
-    <string name="fallback_home_title">Un instant…</string>
+    <string name="fallback_home_title">Juste un instant…</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
     <string name="feedback">Commentaires</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
@@ -2416,12 +2436,11 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_add_fingerprint_put_finger_title">Appuyer et retirer après vibration</string>
     <string name="gxzw_add_fingerprint_title">Ajouter votre empreinte digitale</string>
     <string name="gxzw_anim_light">Néon</string>
-    <string name="gxzw_anim_metal">Métal</string>
     <string name="gxzw_anim_pulse">Pouls</string>
     <string name="gxzw_anim_rhythm">Rythme</string>
     <string name="gxzw_anim_star">Lumière des étoiles</string>
     <string name="gxzw_anim_title">"Animation d'empreinte"</string>
-    <string name="gxzw_aod_show_summary">"L'icône d'empreinte digitale sera affichée lorsque l'écran est éteint. Cette fonctionnalité augmente la consommation d'énergie du système."</string>
+    <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption.</string>
     <string name="gxzw_aod_show_tittle">"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint"</string>
     <string name="gxzw_dialog_message">"Pour pouvoir utiliser le capteur d'empreinte digitale intégré à l'écran, n'utilisez pas de protecteur d'écran. Si vous pensez qu'un protecteur d'écran est toujours nécessaire, choisissez parmi les options compatibles autorisées."</string>
     <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
@@ -3196,6 +3215,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_features">Fonctionnalités lab MIUI</string>
     <string name="miui_lab_gallery_search_desc">"Recherche d'image améliorée"</string>
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
+    <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
+    <string name="miui_lab_gesture_title">FullScreen Gesture</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -3794,7 +3815,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="passpoint_content">Identifiants de \"%1$s\"</string>
     <string name="passpoint_label">Enregistré via</string>
     <string name="passwordIncorrect">Mot de passe incorrect</string>
-    <string name="password_entrance_title">"Verrouillage de l'écran"</string>
+    <string name="password_entrance_title">"Définir l'écran de verrouillage"</string>
     <string name="password_guard">Mot de passe</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
@@ -4256,7 +4277,7 @@ Interface UT : %5$s"</string>
 "<li>Données mobiles</li>"
 "<li>Bluetooth</li></string>
     <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
-    <string name="reset_network_final_desc">Réinitialiser tous les paramètres réseau ? Cette action est irréversible.</string>
+    <string name="reset_network_final_desc">Réinitialiser tous les paramètres réseau maintenant? Cela peut prendre quelques secondes. Vous ne pourrez pas inverser cette action.</string>
     <string name="reset_network_title">Réinitialiser le Wi-Fi, les données mobiles et le Bluetooth</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_second_space_passwd">Réinitialiser le mot de passe du second espace</string>
@@ -4368,7 +4389,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_locking_sounds_title">"Sons du verrouillage d'écran"</string>
     <string name="screen_max_aspect_ratio_desc">Autorisez les applications sélectionnées à fonctionner en mode Plein écran</string>
     <string name="screen_max_aspect_ratio_title">Mode Plein écran</string>
-    <string name="screen_monochrome_mode_apps_loading">Un instant…</string>
+    <string name="screen_monochrome_mode_apps_loading">Juste un instant…</string>
     <string name="screen_monochrome_mode_apps_title">Utiliser le mode monochrome</string>
     <string name="screen_monochrome_mode_global_summary">Utiliser le mode monochrome pour toutes les applications</string>
     <string name="screen_monochrome_mode_global_title">Toutes les applications</string>
@@ -4385,7 +4406,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_optimize">Contraste</string>
     <string name="screen_optimize_disabled">Impossible de régler le contraste lorsque le mode de lecture est activé</string>
     <string name="screen_paper_mode_adjust_level">Ajuster</string>
-    <string name="screen_paper_mode_apps_loading">Un instant…</string>
+    <string name="screen_paper_mode_apps_loading">Juste un instant…</string>
     <string name="screen_paper_mode_apps_title">Utiliser le mode de lecture</string>
     <string name="screen_paper_mode_global_summary">Utiliser le mode de lecture pour toutes les applications</string>
     <string name="screen_paper_mode_global_title">Toutes les applications</string>
@@ -4520,6 +4541,7 @@ Pour épingler l'écran :
     <string name="search_advanced_settings">Paramètres avancés;Wifi;Paramètres Wifi;Paramètres WLAN</string>
     <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
+    <string name="search_ambient_display_screen_title">Affichage en mode Veille</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">"APN;Noms des points d'accès"</string>
     <string name="search_app_invisible">Application invisible;Applications invisibles</string>
@@ -4557,6 +4579,7 @@ Pour épingler l'écran :
     <string name="search_dndm_vip_call_setting_title">VIP;Exceptions</string>
     <string name="search_dndm_wristband">Activer avec Mi Band;Mi Band</string>
     <string name="search_do_not_disturb_mode">Ne pas déranger</string>
+    <string name="search_doze_always_on_title">Toujours activé</string>
     <string name="search_dtmf_tone_enable_title">Activer la tonalité des touches du pavé numérique;Touches du pavé numérique;tonalité des touches;sons des touches;sons du pavé numérique</string>
     <string name="search_empty">Aucun résultat</string>
     <string name="search_enable_adb">Débogage USB</string>
@@ -4841,7 +4864,6 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
     <string name="settings_safetylegal_title">Informations de sécurité</string>
     <string name="settings_shortcut">Raccourci vers les paramètres</string>
-    <string name="setup_choose_unlock_fingerprint_msg">"Définissez l'écran de verrouillage avant d'ajouter votre empreinte digitale."</string>
     <string name="setup_choose_unlock_mixed_password">Mot de passe</string>
     <string name="setup_choose_unlock_mixpassword_title">Définir le mot de passe</string>
     <string name="setup_choose_unlock_password">Code PIN</string>
@@ -5120,11 +5142,11 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
-    <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
+    <string name="status_bar_settings_all_app_display_loading">Juste un instant…</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s:  "</string>
     <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
-    <string name="status_bar_settings_status_bar">Barre de statut</string>
+    <string name="status_bar_settings_status_bar">"Barre d'état"</string>
     <string name="status_bt_address">Adresse Bluetooth</string>
     <string name="status_data_network_type">Type de réseau de données mobiles</string>
     <string name="status_data_state">État du réseau mobile</string>
@@ -5699,7 +5721,49 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_access_description">"L'accès aux données d'utilisation permet à une application d'effectuer le suivi des applications que vous utilisez, de la fréquence d'utilisation, de l'opérateur, des paramètres de langue et d'autres détails."</string>
     <string name="usage_access_title">Applis avec accès données util.</string>
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
+    <string name="usage_state_app_timer">"Temps d'écran"</string>
+    <string name="usage_state_app_usage_detail_title">"Détails de l'utilisation des applications"</string>
+    <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
+    <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">"Temps d'écran entre %d: 00 et %d: 00"</string>
+    <string name="usage_state_app_use_time">"Temps d'écran de l'application"</string>
+    <string name="usage_state_channel_mouth">Les 30 derniers jours</string>
+    <string name="usage_state_channel_week">Les 7 derniers jours</string>
+    <string name="usage_state_date">D MMM</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications entre %d:00 et %d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Appareil déverrouillé entre %d: 00 et %d: 00</string>
+    <string name="usage_state_friday">Ven.</string>
+    <string name="usage_state_go_more">"Plus d'applications"</string>
+    <string name="usage_state_hour_minute" formatted="false">%d h %d m</string>
+    <string name="usage_state_less_one_minute">Moins de 1 minute</string>
+    <string name="usage_state_monday">Lun.</string>
+    <string name="usage_state_mourth_day">Screen time on %s</string>
+    <string name="usage_state_noti_mourth_day">Notifications on %s</string>
+    <string name="usage_state_notification">Gérer les notifications</string>
+    <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
+    <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'écran. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
+    <string name="usage_state_remind_title">"Alerte de temps d'écran"</string>
+    <string name="usage_state_rest_day">Week-ends</string>
+    <string name="usage_state_saturday">Sam.</string>
+    <string name="usage_state_set_invalid_time_toast">Impossible de définir des délais inférieurs à 1 minute</string>
+    <string name="usage_state_sunday">Dim.</string>
+    <string name="usage_state_thursday">Jeu.</string>
+    <string name="usage_state_today">"Aujourd'hui"</string>
+    <string name="usage_state_today_total_text">"Temps d'écran aujourd'hui"</string>
+    <string name="usage_state_tuesday">Mar.</string>
+    <string name="usage_state_unlock_mourth_day">Unlocked on %s</string>
+    <string name="usage_state_usage_time">"Temps d'écran"</string>
+    <string name="usage_state_usage_time_remind">"Alerte de temps d'écran"</string>
+    <string name="usage_state_use_time_remind_title">"Alerte de temps d'écran"</string>
+    <string name="usage_state_wednesday">Mer.</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Weekends : %dh %dm</string>
+    <string name="usage_state_week_total_text">"Temps d'écran (7 derniers jours)"</string>
+    <string name="usage_state_which_mouth">MMM</string>
+    <string name="usage_state_work_day">Jours ouvrables</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Jours ouvrables : %dh %dm</string>
     <string name="usage_stats_label">Données statistiques</string>
+    <string name="usage_stats_normal_day">Jours ouvrables</string>
+    <string name="usage_stats_week_day">Week-ends</string>
     <string name="usage_time_label">"Temps d'utilisation"</string>
     <string name="usage_type_actual_power">Consommation observée</string>
     <string name="usage_type_audio">Audio</string>
@@ -5721,6 +5785,25 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_type_video">Vidéo</string>
     <string name="usage_type_wake_lock">Maintenir activé</string>
     <string name="usage_type_wifi_running">Wi-Fi activé</string>
+    <string name="usagestats_app_category_miui_financial">Finance</string>
+    <string name="usagestats_app_category_miui_game">Jeux</string>
+    <string name="usagestats_app_category_miui_life">Mode de vie</string>
+    <string name="usagestats_app_category_miui_productivity">Productivité</string>
+    <string name="usagestats_app_category_miui_reading">Lecture</string>
+    <string name="usagestats_app_category_miui_shopping">Shopping</string>
+    <string name="usagestats_app_category_miui_social">Réseaux Sociaux</string>
+    <string name="usagestats_app_category_miui_system">Applications système</string>
+    <string name="usagestats_app_category_miui_tools">Outils</string>
+    <string name="usagestats_app_category_miui_undefined">Autre</string>
+    <string name="usagestats_app_category_miui_video_etc">Musique et vidéos</string>
+    <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
+    <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Today's limit: %s | %s remaining"</string>
+    <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
+    <string name="usagestats_device_timeout_des" formatted="false">"Vous avez utilisé votre appareil pour %dh %dm aujourd'hui. Reposez-vous!"</string>
+    <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>
+    <string name="usagestats_device_timeout_positive">"C'est compris"</string>
+    <string name="usagestats_device_timeout_title">"Alerte de temps d'écran"</string>
     <string name="usb_adb_input">Débogage USB (Paramètres de sécurité)</string>
     <string name="usb_adb_input_desc">"Accorder les autorisations et simulation d'entrée via le débogage USB"</string>
     <string name="usb_audio_disable_routing">Désactiver le routage audio USB</string>
@@ -6390,6 +6473,9 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_priority_type_summary">"Permettre de définir la priorité pour chaque point d'accès manuellement"</string>
     <string name="wifi_priority_type_title">"Définir la priorité des points d'accès manuellement"</string>
     <string name="wifi_property">Propriété Wi-Fi</string>
+    <string name="wifi_protection_on">Activé</string>
+    <string name="wifi_protection_settings_title">Protection contre les requêtes de sonde Wi-Fi</string>
+    <string name="wifi_protection_tip">"MIUI protégera vos données personnelles contre les demandes de sonde Wi-Fi provenant d'adresses MAC aléatoires et de renifleurs de sonde Wi-Fi lorsque votre appareil recherche des réseaux Wi-Fi."</string>
     <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Sauvegardé</string>

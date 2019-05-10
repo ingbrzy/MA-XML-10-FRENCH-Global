@@ -820,6 +820,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Paramètres du forfait</string>
     <string name="ivr_type_settings_hint">Veuillez saisir votre forfait de données</string>
+    <string name="jump_to_mobile_network_setting">Paramètres du réseau mobile</string>
     <string name="keep_screen_on">Rester activé</string>
     <string name="keep_screen_on_summary">"L'écran ne se met jamais en veille lors du chargement."</string>
     <string name="keywords_carrier_settings_euicc">opérateur, esim, sim, euicc</string>
@@ -1390,6 +1391,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="selectContact">sélectionner un contact</string>
     <string name="select_application">Sélectionner une appli</string>
     <string name="select_automatically">Sélectionner automatiquement un réseau</string>
+    <string name="select_dds_dialog_title">Select default mobile data SIM</string>
     <string name="select_logd_size_dialog_title">Tailles enreg. par tampon journal</string>
     <string name="select_logd_size_title">Tailles mémoires tampons enregistr.</string>
     <string name="select_logpersist_dialog_title">"Sélectionner les mémoires tampon journal à stocker en permanence sur l'appareil"</string>
@@ -1688,7 +1690,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="vm_change_pin_error_too_weak">Le nouveau code PIN est trop faible. Un mot de passe fort ne devrait pas avoir de séries continues ou une répétition de chiffres.</string>
     <string name="vm_change_pin_new_pin">Nouveau code PIN</string>
     <string name="vm_change_pin_old_pin">Ancien code PIN</string>
-    <string name="vm_change_pin_progress_message">Un instant…</string>
+    <string name="vm_change_pin_progress_message">Juste un instant…</string>
     <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
     <string name="voice_number_setting_primary_user_only">"Paramètres de la messagerie vocale peuvent être uniquement modifiés par l'utilisateur principal."</string>
     <string name="voice_privacy">Confidentialité de la voix</string>

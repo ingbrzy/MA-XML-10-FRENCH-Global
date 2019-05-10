@@ -2,7 +2,7 @@
 <resources>
     <string name="button_dismiss">OK</string>
     <string name="app_label">Diffusions cellulaires</string>
-    <string name="sms_cb_settings">Paramètres de diffusion cellulaire</string>
+    <string name="sms_cb_settings">"Alertes d'urgence"</string>
     <string name="cell_broadcast_settings_not_available">Les paramètres de diffusion cellulaire ne sont pas disponibles pour cet utilisateur.</string>
     <string name="no_cell_broadcasts">"Il n'existe aucune alerte active dans votre région. Vous pouvez modifier les paramètres d'alerte à l'aide de l'option de menu \"Paramètres\"."</string>
     <string name="menu_preferences">Paramètres</string>

@@ -9,6 +9,10 @@
         <item>Garçon</item>
         <item>Fille</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Sauvegarder des photos</item>
+        <item>Synchroniser les photos avec Mi Cloud</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Mes weekends</item>
         <item>Morceaux de vie</item>

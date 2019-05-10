@@ -76,6 +76,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="sms_title">SMS</string>
     <string name="mms_title">MMS</string>
     <string name="wifi_title">Paramètres Wi-Fi</string>
+    <string name="phone_title">Paramètres de téléphone</string>
     <string name="note_title">Notes</string>
     <string name="compute_backup_info">Récupération des informations de la sauvegarde…</string>
     <string name="compute_delete_contact_info">"Obtention d'infos…"</string>
@@ -222,14 +223,14 @@ Taille de la mise à jour : %2$s"</string>
     <string name="xiaomi_router">Routeur Mi</string>
     <string name="router_backup_hint">Laissez votre appareil allumé</string>
     <string name="see_backup_files_on_router">Afficher les sauvegardes sur le Mi Router %s</string>
-    <string name="page_loading">Un instant…</string>
+    <string name="page_loading">Juste un instant…</string>
     <string name="file_uploading">Envoi…</string>
     <string name="new_backup">Sauvegarder</string>
     <string name="restore_backup">Restaurer</string>
     <string name="enable_encrypt_description">Chiffrer</string>
     <string name="disable_encrypt_description">Ne pas chiffrer</string>
     <string name="digit_percent">%</string>
-    <string name="state_waiting">Un instant…</string>
+    <string name="state_waiting">Juste un instant…</string>
     <string name="state_mounting">Accès au stockage du routeur…</string>
     <string name="abort_backup_confirm">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
     <string name="abort_restore_confirm">"La restauration n'est pas terminée. Arrêter quand même ?"</string>
@@ -258,6 +259,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="err_pkg_not_exist">"Impossible de trouver l'application."</string>
     <string name="err_user_abort">"Annulé par l'utilisateur."</string>
     <string name="err_binder_died">"L'application s'est arrêtée de manière inattendue."</string>
+    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément"</string>
     <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
     <string name="restore_is_running">"Restauration de l'appareil"</string>
     <string name="notif_backup_title">Sauvegarder les données</string>
@@ -276,7 +278,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="remote_receive">Recevoir</string>
     <string name="click_to_view">Appuyez pour voir</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">"Transférer les contacts, l'historique d'appel, les messages, la disposition du bureau, les applications, les paramètres, etc. sur un nouvel appareil"</string>
+    <string name="trans_main_tutor">"Transférer les contacts, l'historique d'appel, les messages, la disposition de l'écran d'accueil, les applications, les paramètres, etc. sur un nouvel appareil"</string>
     <string name="trans_sender">"Je suis l'expéditeur"</string>
     <string name="trans_receiver">Je suis le destinataire</string>
     <string name="trans_waiting_for_sender">"Attendre que l'ancien appareil se connecte…"</string>
@@ -309,6 +311,7 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
     <string name="trans_detail_qq_data">Données de QQ (avec historique de conversation inclus)</string>
     <string name="trans_detail_app_data_useless_tip">"Vous pouvez restaurer ces données depuis l'appli, pas besoin de les transférer."</string>
     <string name="trans_detail_item_app_data_too_large_tip">"Il se peut que l'élément soit trop gros pour le transférer."</string>
+    <string name="trans_detail_item_app_data_skip_data">"Impossible de transférer les données de l'application"</string>
     <string name="trans_detail_item_app_data_selected_tip">Les applications correspondantes sélectionnées également.</string>
     <string name="trans_detail_list_footer">"1. Vous pouvez sélectionner les applications individuelles que vous souhaitez transférer. 
 2. Si vous sélectionnez les données d'application, les applications correspondantes seront également sélectionnées. 
@@ -385,7 +388,7 @@ Sélectionnez uniquement les éléments importants afin de transférer plus rapi
     <string name="trans_calculating_app_sd_description">Données sur la carte SD</string>
     <string name="trans_native_no_space">"L'espace de stockage sur l'ancien périphérique (%s disponible) est insuffisant.
 Libérez de l'espace de stockage ou ne transférez que des éléments importants."</string>
-    <string name="trans_please_waiting">Un instant…</string>
+    <string name="trans_please_waiting">Juste un instant…</string>
     <string name="trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover a besoin d'espace de stockage pour regrouper les données transférées, mais il semble que l'espace disponible sur l'ancien appareil est insuffisant. Libérez de l'espace dans \"Sécurité\" ou ne transférez que des éléments importants."</string>
     <string name="button_clean_garbage">"Libérer de l'espace"</string>

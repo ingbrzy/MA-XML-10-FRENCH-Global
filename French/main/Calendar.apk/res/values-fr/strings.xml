@@ -102,6 +102,7 @@
     <string name="card_title_change">Plus</string>
     <string name="cards_language_hint">Certaines cartes peuvent ne pas être disponibles dans la langue sélectionnée.</string>
     <string name="change_response_title">Changer la réponse</string>
+    <string name="change_zodiac">Changer de signe astrologique</string>
     <string name="click_to_share">Appuyer pour partager</string>
     <string name="close_alarm">Désactiver</string>
     <string name="contacts_permission_desc">Accéder aux informations de contact</string>
@@ -203,6 +204,7 @@
     <string name="event_view">"Voir l'événement"</string>
     <string name="every_weekday">Lundi au vendredi</string>
     <string name="fb_birthday_failure">"Impossible d'importer les anniversaires depuis Facebook. Veuillez réessayez."</string>
+    <string name="fb_birthday_region_warning">"Cette fonctionnalité n'est pas disponible dans cette région"</string>
     <string name="fb_birthday_success">Importation des anniversaire depuis Facebook réussie</string>
     <string name="fb_calendar_account_name">Agenda local Mi</string>
     <string name="fb_calendar_display_name">Anniversaires des amis Facebook</string>
@@ -291,7 +293,7 @@
     <string name="month_view">Mois</string>
     <string name="monthly">Tous les mois</string>
     <string name="monthly_on_day">Mensuel (même date)</string>
-    <string name="monthly_on_day_count">Mensuel (%1$s %2$s)</string>
+    <string name="monthly_on_day_count">Mensuel (%1$s )</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="new_event_description">Nouveau</string>
     <string name="news">Actualités</string>
@@ -351,7 +353,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="preferences_week_start_day_title">Début de la semaine</string>
     <string name="pull_to_refresh_hint">Faites glisser vers le bas pour actualiser les événements de %1$d</string>
     <string name="refresh">Actualiser</string>
-    <string name="refreshing_hint">Un instant…</string>
+    <string name="refreshing_hint">Juste un instant…</string>
     <string name="remind_me">Rappeler</string>
     <string name="repeat_activity_label">Répétition</string>
     <string name="repeat_custom_activity_label">Personnalisé</string>
@@ -453,7 +455,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="travel_item_weather_now">Météo de la destination</string>
     <string name="travel_load_failed">Chargement impossible</string>
     <string name="travel_loaded">Propulsé par Veryzhum</string>
-    <string name="travel_loading">Un instant…</string>
+    <string name="travel_loading">Juste un instant…</string>
     <string name="travel_local">Destination</string>
     <string name="travel_seat_number_text">Siège</string>
     <string name="travel_train_number_text">Train</string>

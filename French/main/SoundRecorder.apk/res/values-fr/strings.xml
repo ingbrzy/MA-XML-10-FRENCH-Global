@@ -133,7 +133,7 @@
     <string name="preference_enable_earpiece_summary">Utiliser les haut-parleurs pour la lecture</string>
     <string name="preference_enable_earpiece_title">Utiliser les haut-parleurs</string>
     <string name="preference_led_indicator">"Notifications à l'écran de verrouillage"</string>
-    <string name="preference_led_indicator_prompt">"Pendant l'enregistrement, afficher la barre d'état et une notification lumineuse lorsque l'écran est verrouillé"</string>
+    <string name="preference_led_indicator_prompt">"Pendant l'enregistrement, afficher dans la barre d'état et avec une notification lumineuse si l'écran est verrouillé"</string>
     <string name="preference_online_orders">Commandes en ligne</string>
     <string name="preference_recog_faqs">FAQ de la transcription en ligne</string>
     <string name="preference_recog_terms">"Conditions générales d'utilisation"</string>

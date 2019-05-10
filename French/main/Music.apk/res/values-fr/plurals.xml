@@ -79,8 +79,8 @@ Note : le fichier sera également supprimé de cet appareil."</item>
         <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> en téléchargement</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">Téléchargements gratuits restants: %d chansons</item>
-        <item quantity="one">Téléchargements gratuits restants : %d chanson</item>
+        <item quantity="other">%d téléchargements gratuits restants</item>
+        <item quantity="one">%d téléchargement gratuit restant</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d éléments sélectionnés</item>

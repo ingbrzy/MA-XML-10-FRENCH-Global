@@ -33,12 +33,12 @@
         <item quantity="one">Code PUK incorrect, %d tentative restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les &lt;&lt;xliff:g id=number>%d&lt;/xliff:g> heures pour toujours vous en souvenir</item>
-        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les &lt;&lt;xliff:g id=number>%d&lt;/xliff:g> heures pour toujours vous en souvenir</item>
+        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
+        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les &lt;&lt;xliff:g id=number>%d&lt;/xliff:g> heures pour toujours vous en souvenir</item>
-        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les &lt;&lt;xliff:g id=number>%d&lt;/xliff:g> heures pour toujours vous en souvenir</item>
+        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
+        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Environ %d heures restantes</item>

@@ -216,6 +216,7 @@ Pour activer votre compte, suivez le
     <string name="passport_talkback_switch_image_captcha">"Basculer sur le code de vérification de l'image"</string>
     <string name="passport_license_info_open">Détails</string>
     <string name="passport_license_info_collapse">Réduire</string>
+    <string name="passport_first_login_prompt">Compte Mi sera créé automatiquement lorsque vous vous connecterez pour la première fois.</string>
     <string name="search_app_name">Compte Mi</string>
     <string name="search_mi_account">Compte Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud, Paramètre de compte, Informations Mi Pay, Se déconnecter</string>
@@ -284,7 +285,7 @@ Pour activer votre compte, suivez le
     <string name="account_user_avatar_from_album">Sélectionner une photo</string>
     <string name="account_crop_user_avatar">Retailler la photo</string>
     <string name="sns_access_token_expired_warning">La connexion automatique a expiré. Connectez-vous à nouveau à votre compte.</string>
-    <string name="user_avatar_uploading">Un instant…</string>
+    <string name="user_avatar_uploading">Juste un instant…</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="account_invalid_user_avatar">"Cette photo n'est pas valide. Essayez un autre."</string>
@@ -308,7 +309,7 @@ Pour activer votre compte, suivez le
     <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre compte Mi.</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comtpes."</string>
-    <string name="just_a_second">Un instant…</string>
+    <string name="just_a_second">Juste un instant…</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
     <string name="mi_account_identity_title">Vérifier votre identité</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre compte Mi.</string>
@@ -346,10 +347,12 @@ Pour activer votre compte, suivez le
     <string name="used_cloud_storage_info">Espace de stockage utilisé %s</string>
     <string name="mi_finance">Mes Finances</string>
     <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
-    <string name="loading_micloud_sync_data">Un instant…</string>
+    <string name="loading_micloud_sync_data">Juste un instant…</string>
     <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
     <string name="scan_barcode_title">Scannez le Code QR pour vous connecter</string>
     <string name="talkback_scan_barcode">Scanner un code QR</string>
+    <string name="scan_barcode">Scanner le code QR pour vous inscrire</string>
+    <string name="agreement_and_privacy">"Politique de confidentialité et Accord de l'utilisateur"</string>
     <string name="authorize_title">Autorisation</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="device_list_title">Mes appareils</string>
@@ -416,9 +419,8 @@ Pour activer votre compte, suivez le
     <string name="push_notify_dialog_title">Vérification du compte</string>
     <string name="push_notify_dialog_message">"Un appareil inconnu est utilisé pour se connecter à votre Compte Mi. Saisissez ce code de vérification sur votre appareil. Si ce n'était pas vous, veuillez changer le mot de passe de votre Compte Mi dès maintenant. Ne dévoilez pas le code de vérification à d'autres personnes."</string>
     <string name="account_secure_info_pref_title">Informations du compte</string>
-    <string name="account_user_email">E-mail</string>
-    <string name="account_user_phone">Téléphone</string>
-    <string name="account_user_recovery_phone">Numéro de récupération</string>
+    <string name="account_user_email">E-mail de récupération</string>
+    <string name="account_user_phone">Numéro de récupération</string>
     <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>

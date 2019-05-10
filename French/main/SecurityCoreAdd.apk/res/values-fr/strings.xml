@@ -53,10 +53,11 @@
     <string name="goToSecondSpacce">Aller au Second espace</string>
     <string name="newSecondSpace">Activer le Second espace</string>
     <string name="closeSecondSpace">Supprimer le Second espace</string>
-    <string name="loading_space">Un instant…</string>
+    <string name="loading_space">Juste un instant…</string>
     <string name="private_space_setting">Gérer</string>
     <string name="exit_private_space">Basculer</string>
-    <string name="wating">Un instant…</string>
+    <string name="kid_mode_label">Kid space</string>
+    <string name="wating">Juste un instant…</string>
     <string name="Active">Actif</string>
     <string name="ok_button">OK </string>
     <string name="remove_button">Supprimer et redémarrer</string>
@@ -161,6 +162,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="create_space_loading">Création du Second espace…</string>
     <string name="close_second_space">Second espace supprimé</string>
     <string name="close_second_space_success">Second espace supprimé</string>
+    <string name="close_kid_space_success">Deleted Kid space</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="PrivacyContactDes1">"Les contacts deviendront privés.
@@ -328,7 +330,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="same_qr_code_enter_space">"Aller à l'Espace de travail"</string>
     <string name="same_qr_code_create_space">En créer un autre</string>
     <string name="not_support_air_space">"Cette fonctionnalité n'est pas encore prise en charge sur votre téléphone"</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Juste un instant…</string>
     <string name="contact_us">Nous contacter</string>
     <string name="space_deleted">Cet espace a été supprimé</string>
     <string name="function_not_support">Non pris en charge sur cet appareil</string>
@@ -460,4 +462,6 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="button_touch">Placez votre doigt sur le capteur</string>
     <string name="button_input_password">Saisir le mot de passe</string>
     <string name="master_clear_not_available">"La réinitialisation d'usine est limitée par votre société."</string>
+    <string name="dual_animation">"Démarrer l'animation"</string>
+    <string name="dual_animation_description">"Afficher l'animation lors du lancement de deux applications"</string>
 </resources>

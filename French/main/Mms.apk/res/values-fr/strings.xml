@@ -29,7 +29,7 @@
     <string name="already_updated">À jour</string>
     <string name="app_label">Messages</string>
     <string name="app_name">Appareils</string>
-    <string name="application_list_title">Application Mini</string>
+    <string name="application_list_title">Applications Mini</string>
     <string name="attach_group_chat">Groupe de discussion</string>
     <string name="attach_image">Images</string>
     <string name="attach_rcs_file">Fichier</string>
@@ -49,13 +49,13 @@
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Aucune connexion réseau ou une autre carte SIM a été insérée. Veuillez insérer la carte SIM depuis laquelle le message a été envoyée et connectez-vous au réseau.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Activer la messagerie intelligente</string>
-    <string name="auto_identify_btn_text_when_all_disabled">Identifier lID de lexpéditeur automatiquement</string>
-    <string name="auto_identify_btn_title">Ce message est envoyé à partir dun numéro inconnu.</string>
+    <string name="auto_identify_btn_text_when_all_disabled">"Identifier l'ID de l'expéditeur automatiquement"</string>
+    <string name="auto_identify_btn_title">"Ce message est envoyé à partir d'un numéro inconnu."</string>
     <string name="auto_identify_confirmation">"L'activation de cette fonctionnalité peut prendre plusieurs minutes."</string>
     <string name="back_to_message_list">Retour à la liste des messages</string>
     <string name="batch_adding_progress_message">Ajout…</string>
-    <string name="batch_deleting_message_progress_message">Suppression…</string>
-    <string name="batch_deleting_progress_message">Suppression…</string>
+    <string name="batch_deleting_message_progress_message">Suppression en cours…</string>
+    <string name="batch_deleting_progress_message">Suppression en cours…</string>
     <string name="bcc_label">"Cci : "</string>
     <string name="block_messaging_entry_title">SMS bloqué</string>
     <string name="block_support_text">Pris en charge par Antiy.</string>
@@ -74,7 +74,7 @@
     <string name="button_pre_slide">Précédent</string>
     <string name="button_resend_message">Renvoyer</string>
     <string name="button_unfold">Dérouler</string>
-    <string name="call_sender">Appeler lexpéditeur</string>
+    <string name="call_sender">"Appeler l'expéditeur"</string>
     <string name="can_not_send_by_rcs">"Impossible d'utiliser la messagerie de China Mobile"</string>
     <string name="can_not_view_group_chat_stranger">"Impossible d'afficher les détails des étrangers."</string>
     <string name="cannot_add_picture_and_video">"Impossible d'ajouter une vidéo et une image sur une diapositive."</string>
@@ -110,7 +110,7 @@
 "</string>
     <string name="complain_upload">La plainte a été déposée</string>
     <string name="compressing">"L'image est trop grande. Compression..."</string>
-    <string name="confirm">Ok</string>
+    <string name="confirm">OK </string>
     <string name="confirm_add_blacklist_dialog_dspt">Ajouter ce numéro à votre liste bloquée ?</string>
     <string name="confirm_delete_SIM_message">Supprimer ce message de la carte SIM ?</string>
     <string name="confirm_delete_all_SIM_messages">Supprimer tous les messages de la carte SIM ?</string>
@@ -173,6 +173,8 @@
     <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">Correction</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>
@@ -242,15 +244,15 @@
     <string name="found_wild_messages_title">Synchroniser les messages depuis Mi Cloud</string>
     <string name="from_label">"De : "</string>
     <string name="from_pkg_name">"De l'application :"</string>
-    <string name="group_already_kicked_hint">Impossible denvoyer des messages. Vous nêtes pas membre de ce groupe de discussion.</string>
+    <string name="group_already_kicked_hint">"Impossible d'envoyer des messages. Vous n'êtes pas membre de ce groupe de discussion."</string>
     <string name="group_message">Message groupé</string>
     <string name="group_message_title">Groupe de discussions</string>
-    <string name="group_not_exist_hint">Impossible denvoyer des messages. Ce groupe de discussion a été supprimé.</string>
+    <string name="group_not_exist_hint">"Impossible d'envoyer des messages. Ce groupe de discussion a été supprimé."</string>
     <string name="group_notify_message_title">Notifications du groupe de discussion</string>
     <string name="group_rejoin_failed">Impossible de joindre le groupe de discussion</string>
     <string name="group_resend_message">Renvoyer (%d)</string>
-    <string name="group_view_settings_disolved">Impossible dafficher les éléments. Ce groupe de discussion a été supprimé.</string>
-    <string name="group_view_settings_not_memeber">Impossible dafficher les éléments. Vous nêtes pas membre de ce groupe de discussion.</string>
+    <string name="group_view_settings_disolved">"Impossible d'afficher les éléments. Ce groupe de discussion a été supprimé."</string>
+    <string name="group_view_settings_not_memeber">"Impossible d'afficher les éléments. Vous n'êtes pas membre de ce groupe de discussion."</string>
     <string name="groupchat_list_title">Groupe de discussions</string>
     <string name="guild_add_attachments">"Appuyer pour ajouter des émoticônes et d'autres éléments"</string>
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
@@ -264,7 +266,7 @@
     <string name="hybrid_network_access_denied">Accès réseau refusé</string>
     <string name="hybrid_network_unavaliable">Impossible de se connecter au réseau</string>
     <string name="hybrid_pull_to_refresh_pull_label">Tirez pour actualiser…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Juste un instant…</string>
     <string name="hybrid_pull_to_refresh_release_label">Relâchez pour actualiser…</string>
     <string name="hybrid_service_unavailiable">Service indisponible</string>
     <string name="hybrid_try_again">Veuillez réessayer</string>
@@ -279,9 +281,9 @@
     <string name="invalid_recipient_message">Corrigez le ou les noms des destinataires, faute de quoi ils ne recevront pas le message.</string>
     <string name="kilobyte">ko</string>
     <string name="layout_selector_title">"Mise en page du diaporama "</string>
-    <string name="loading_all_messages">Un instant…</string>
-    <string name="loading_conversations">Un instant…</string>
-    <string name="loading_mms">Un instant…</string>
+    <string name="loading_all_messages">Juste un instant…</string>
+    <string name="loading_conversations">Juste un instant…</string>
+    <string name="loading_mms">Juste un instant…</string>
     <string name="manage_permission_app_label">Gestion des droits</string>
     <string name="mark_number_by_own_dialog_subtitle">Marqué comme %1$s</string>
     <string name="me">Moi</string>
@@ -305,7 +307,7 @@
     <string name="menu_traffic_destination">Destination</string>
     <string name="menu_unlock">Retirer des favoris</string>
     <string name="menu_view_contact">Afficher le contact</string>
-    <string name="menu_view_group_info">Informations du groupe</string>
+    <string name="menu_view_group_info">Info sur le groupe</string>
     <string name="message_class_label">Catégorie:</string>
     <string name="message_contact">Contact :</string>
     <string name="message_details_title">Détails du message</string>
@@ -438,7 +440,7 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Nouveaux messages</string>
     <string name="number_add_hint">Entrez un numéro de téléphone</string>
-    <string name="number_recognition_partner">Fournisseurs de services de reconnaissance didentifiant dexpéditeur</string>
+    <string name="number_recognition_partner">"Fournisseurs de services de reconnaissance d'identifiant d'expéditeur"</string>
     <string name="open_audio_record_panel">"Ouvrir le panneau pour enregistrer de l'audio"</string>
     <string name="open_edit_sms_panel">Ouvrir le panneau pour éditer des messages</string>
     <string name="open_url_with_web">"Permettre d'ouvrir l'URL avec Internet ?"</string>
@@ -540,8 +542,8 @@
     <string name="prvate_contact">Contacts privés</string>
     <string name="quick_reply">Répondre</string>
     <string name="rate_limit_surpassed">OK</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">Changer</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">"Lorsque le signal réseau est faible, la partie texte d'un message (jusqu'à 900 octets) peut être convertie et envoyée sous forme de SMS. Vous pouvez changer cela dans les paramètres."</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Modifier les paramètres</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">"Les messages jusqu'à 900B peuvent être convertis et envoyés sous forme de SMS lorsque le signal du réseau est faible. Appuyez sur \"Modifier les paramètres\" si vous ne souhaitez pas convertir vos messages en SMS."</string>
     <string name="rcs_auto_resend_as_sms_remind_title">Convertir en SMS</string>
     <string name="rcs_auto_resend_mms">Convertir en MMS</string>
     <string name="rcs_auto_resend_sms">Convertir en SMS</string>
@@ -614,7 +616,7 @@
     <string name="restored_to_phone_memory">Restauré</string>
     <string name="rms_audio_body">[Audio]</string>
     <string name="rms_audio_file_duration_too_long">"Impossible d'envoyer un fichier audio de plus de 180 secondes"</string>
-    <string name="rms_audio_file_length_too_large">Impossible denvoyer un fichier audio de plus de %1$d Mo</string>
+    <string name="rms_audio_file_length_too_large">"Impossible d'envoyer un fichier audio de plus de %1$d Mo"</string>
     <string name="rms_card_body">[Carte]</string>
     <string name="rms_cloud_file_body">[Fichier Cloud]</string>
     <string name="rms_emoticon_body">[Emoji]</string>
@@ -658,6 +660,7 @@
     <string name="security_alert_dialog_title">Rapport</string>
     <string name="select_audio">Sélectionnez un fichier audio</string>
     <string name="select_bottom_text">Texte en bas</string>
+    <string name="select_copy_text">Sélectionnez le texte à copier</string>
     <string name="select_different_attachment">Sélectionnez une autre pièce jointe.</string>
     <string name="select_different_audio">Sélectionnez un autre audio.</string>
     <string name="select_different_picture">Sélectionnez une autre image.</string>
@@ -755,7 +758,7 @@
     <string name="storage_unavailable">"Pas assez d' espace libre"</string>
     <string name="subject_hint">Objet</string>
     <string name="subject_label">"Objet : "</string>
-    <string name="subscribe">Sabonner</string>
+    <string name="subscribe">"S'abonner"</string>
     <string name="summary_pref_cm_smart_sms">Modèles de cartes, numéros de service SMS, et plus.</string>
     <string name="switch_to_editor">Mode éditeur</string>
     <string name="switch_to_menu">Mode menu</string>
