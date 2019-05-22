@@ -314,25 +314,6 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
-    <string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactivez d'abord l'inversion de couleur."</string>
-    <string name="aod_got_it">"C'est compris"</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
-    <string name="aod_mode_bg">Arrière-plan</string>
-    <string name="aod_mode_clock">Horloge</string>
-    <string name="aod_mode_style">"Style et fond d'horloge"</string>
-    <string name="aod_mode_summary">"Cette fonctionnalité augmente la consommation d'énergie du système. Il sera désactivé si votre appareil reste longtemps dans le noir ou si des restrictions d'économiseur d'énergie sont appliquées."</string>
-    <string name="aod_mode_time_summary">"Définissez l'heure pour activer et désactiver le mode Toujours actif"</string>
-    <string name="aod_mode_time_title">Planifier</string>
-    <string name="aod_mode_title">Mode Toujours actif</string>
-    <string name="aod_mode_turn_off">Désactivé</string>
-    <string name="aod_mode_turn_on">Activé</string>
-    <string name="aod_sample_date">Mardi 10 Mai</string>
-    <string name="aod_sample_hour">2</string>
-    <string name="aod_sample_hour_vertical">02</string>
-    <string name="aod_sample_minute">38</string>
-    <string name="aod_sample_time">2:38</string>
-    <string name="aod_to_close">Désactiver</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">"Type d'authentification"</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -590,19 +571,19 @@ Activez optimisation batterie."</string>
     <string name="backup_pw_cancel_button_text">Annuler</string>
     <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
     <string name="backup_section_title">Sauvegarde et restauration</string>
-    <string name="backup_set_clear_success">Turned off backup password successfully</string>
-    <string name="backup_set_clear_title">Turn off backup password</string>
-    <string name="backup_set_confirm">OK</string>
-    <string name="backup_set_confirm_clear">Turn off</string>
-    <string name="backup_set_enter_new_pw">Enter new backup password</string>
-    <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
-    <string name="backup_set_enter_old_pw">Enter old backup password</string>
-    <string name="backup_set_enter_pw_title">Enter backup password</string>
-    <string name="backup_set_error_pw">The password you entered is incorrect</string>
-    <string name="backup_set_modify_title">Change backup password</string>
-    <string name="backup_set_new_pw_title">Enter new backup password</string>
-    <string name="backup_set_null_pw">Enter password first</string>
-    <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
+    <string name="backup_set_clear_success">Désactiver le mot de passe de sauvegarde avec succès</string>
+    <string name="backup_set_clear_title">Désactiver le mot de passe de sauvegarde</string>
+    <string name="backup_set_confirm">OK </string>
+    <string name="backup_set_confirm_clear">Désactiver</string>
+    <string name="backup_set_enter_new_pw">Entrez le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_enter_new_pw_again">Confirmez le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_enter_old_pw">"Entrez l'ancien mot de passe de sauvegarde"</string>
+    <string name="backup_set_enter_pw_title">Entrez le mot de passe de sauvegarde</string>
+    <string name="backup_set_error_pw">Le mot de passe que vous avez saisi est incorrect</string>
+    <string name="backup_set_modify_title">Changer le mot de passe de sauvegarde</string>
+    <string name="backup_set_new_pw_title">Entrez le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_null_pw">"Entrez d'abord le mot de passe"</string>
+    <string name="backup_set_pw_confirm_title">Confirmez le nouveau mot de passe de sauvegarde</string>
     <string name="badge_title">"Afficher le badge d'icône d'application de bureau"</string>
     <string name="band_mode_failed">Échec</string>
     <string name="band_mode_loading">Chargement de la liste de bandes…</string>
@@ -1277,13 +1258,13 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
-    <string name="choose_keyguard_clock_style">Lock screen clock format</string>
-    <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
+    <string name="choose_keyguard_clock_style">"Verrouiller le format de l'horloge"</string>
+    <string name="choose_keyguard_clock_summary">Ce paramètre ne fonctionne pas avec les thèmes tiers</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
     <string name="choose_spell_checker">Sélectionner correcteur ortho</string>
     <string name="choose_timezone">Sélectionner le fuseau horaire</string>
-    <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
+    <string name="choose_unlock_face_msg">"Définissez un verrouillage de l'écran avant d'enregistrer les données de visage."</string>
     <string name="choose_unlock_fingerprint_msg">"Définissez l'écran de verrouillage avant d'ajouter votre empreinte digitale."</string>
     <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
     <string name="cleaner">Nettoyeur</string>
@@ -1666,6 +1647,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="day_of_week">Jour de la semaine</string>
     <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Activer quand même?"</string>
     <string name="dc_light_summary">Appliquez une gradation CC pour réduire la fatigue oculaire</string>
+    <string name="dc_light_summary_new">"La gradation CC réduit la fatigue oculaire dans des conditions de faible luminosité. Cependant, la qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé."</string>
     <string name="dc_light_title">Mode anti-scintillement</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
@@ -2440,7 +2422,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_anim_rhythm">Rythme</string>
     <string name="gxzw_anim_star">Lumière des étoiles</string>
     <string name="gxzw_anim_title">"Animation d'empreinte"</string>
-    <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption.</string>
+    <string name="gxzw_aod_show_summary">"Soulevez l'appareil ou appuyez sur l'écran pour faire apparaître l'icône d'empreinte digitale. Cette fonctionnalité augmente la consommation d'énergie du système."</string>
     <string name="gxzw_aod_show_tittle">"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint"</string>
     <string name="gxzw_dialog_message">"Pour pouvoir utiliser le capteur d'empreinte digitale intégré à l'écran, n'utilisez pas de protecteur d'écran. Si vous pensez qu'un protecteur d'écran est toujours nécessaire, choisissez parmi les options compatibles autorisées."</string>
     <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
@@ -3215,8 +3197,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_features">Fonctionnalités lab MIUI</string>
     <string name="miui_lab_gallery_search_desc">"Recherche d'image améliorée"</string>
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
-    <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
-    <string name="miui_lab_gesture_title">FullScreen Gesture</string>
+    <string name="miui_lab_gesture_desc">Use gestures instead of buttons for navigation</string>
+    <string name="miui_lab_gesture_title">Gestes en plein écran</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -4538,6 +4520,7 @@ Pour épingler l'écran :
     <string name="search_accessibility_screen_magnification_title">"Gestes d'agrandissement;Agrandissement"</string>
     <string name="search_accessibility_settings">Accessibilité</string>
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
+    <string name="search_add_facerecoginition_text">Face unlock;Face recognition</string>
     <string name="search_advanced_settings">Paramètres avancés;Wifi;Paramètres Wifi;Paramètres WLAN</string>
     <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
@@ -4605,6 +4588,7 @@ Pour épingler l'écran :
     <string name="search_lock_settings">"Écran de verrouillage &amp; mot de passe;Déverrouillage Bluetooth;code d'accès;Déverrouiller avec un appareil Bluetooth"</string>
     <string name="search_lock_sounds_enable_title">"Verrouillage d'écran;Activer le son du verrouillage d'écran"</string>
     <string name="search_manage_device_admin">"Administrateurs de l'appareil;Admin;Administrateur"</string>
+    <string name="search_manage_facerecoginition_text">Face unlock;Face recognition</string>
     <string name="search_manage_notification_access_title">Accès aux notifications;Notifications;Permissions de notification</string>
     <string name="search_master_clear_title">"Réinitialisation des valeurs d'usine"</string>
     <string name="search_menu">Rechercher dans les paramètres</string>
@@ -5723,8 +5707,8 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
     <string name="usage_state_app_timer">"Temps d'écran"</string>
     <string name="usage_state_app_usage_detail_title">"Détails de l'utilisation des applications"</string>
-    <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
-    <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
+    <string name="usage_state_app_usage_list_title">"Temps d'écran de l'application"</string>
+    <string name="usage_state_app_usage_list_week_title">"Temps d'écran de l'application"</string>
     <string name="usage_state_app_usage_tip_title" formatted="false">"Temps d'écran entre %d: 00 et %d: 00"</string>
     <string name="usage_state_app_use_time">"Temps d'écran de l'application"</string>
     <string name="usage_state_channel_mouth">Les 30 derniers jours</string>
@@ -5737,8 +5721,8 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_hour_minute" formatted="false">%d h %d m</string>
     <string name="usage_state_less_one_minute">Moins de 1 minute</string>
     <string name="usage_state_monday">Lun.</string>
-    <string name="usage_state_mourth_day">Screen time on %s</string>
-    <string name="usage_state_noti_mourth_day">Notifications on %s</string>
+    <string name="usage_state_mourth_day">"Temps d'écran le %s"</string>
+    <string name="usage_state_noti_mourth_day">Notifications le %s</string>
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
     <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'écran. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
@@ -5751,7 +5735,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_today">"Aujourd'hui"</string>
     <string name="usage_state_today_total_text">"Temps d'écran aujourd'hui"</string>
     <string name="usage_state_tuesday">Mar.</string>
-    <string name="usage_state_unlock_mourth_day">Unlocked on %s</string>
+    <string name="usage_state_unlock_mourth_day">Déverrouillé le %s</string>
     <string name="usage_state_usage_time">"Temps d'écran"</string>
     <string name="usage_state_usage_time_remind">"Alerte de temps d'écran"</string>
     <string name="usage_state_use_time_remind_title">"Alerte de temps d'écran"</string>
@@ -5798,7 +5782,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usagestats_app_category_miui_video_etc">Musique et vidéos</string>
     <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
     <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">"Today's limit: %s | %s remaining"</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Limite d'aujourd'hui: %s | %s restant"</string>
     <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Vous avez utilisé votre appareil pour %dh %dm aujourd'hui. Reposez-vous!"</string>
     <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>

@@ -4,4 +4,8 @@
         <item quantity="other">Focus. %d visages détectés</item>
         <item quantity="one">Focalisé. %d visage détecté</item>
     </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Prise en rafale effectuée, %1$s photos prises</item>
+        <item quantity="one">Prise en rafale effectuée, %1$s photo prise</item>
+    </plurals>
 </resources>

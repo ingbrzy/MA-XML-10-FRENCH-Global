@@ -248,10 +248,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
     <string name="tts_report_weather_desc" />
     <string name="tts_report_wind" />
     <string name="unit">Unités</string>
@@ -281,4 +277,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="xiaomi_weather_description_title">À propos de Météo</string>
     <string name="yes_vote_ratio">Pour %1$s%%</string>
     <string name="your_location">Votre localisation</string>
+    <string name="tts_report_temperature_high_centigrade" />
+    <string name="tts_report_temperature_high_fahrenheit" />
+    <string name="tts_report_temperature_low_centigrade" />
+    <string name="tts_report_temperature_low_fahrenheit" />
 </resources>

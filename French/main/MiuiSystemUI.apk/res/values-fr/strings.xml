@@ -293,8 +293,6 @@
     <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
     <string name="always_use_device">Utiliser par défaut pour cet appareil USB</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
     <string name="app_info">"Infos sur l'application"</string>
     <string name="app_label">Système IU</string>
@@ -473,8 +471,8 @@
     <string name="category_work">Travail</string>
     <string name="charge_length_format">%1$sauparavant</string>
     <string name="chooseUsbActivity">Choisissez une application à associer au périphérique USB</string>
-    <string name="choose_clock_title_left_top">Left-aligned</string>
-    <string name="choose_clock_title_middle">Centered</string>
+    <string name="choose_clock_title_left_top">Alignée à gauche</string>
+    <string name="choose_clock_title_middle">Centrée</string>
     <string name="choose_clock_title_vertical">Vertical</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="clear_adb_keys">Révoquer les autorisations du débogage USB</string>
@@ -585,7 +583,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dlg_summary_nfc">Désactiver NFC</string>
     <string name="dlg_summary_title">"L'économiseur de batterie extrême arrête toute activité en arrière-plan après avoir quitté une application et retourne à l'écran d'accueil. Si vous souhaitez qu'une application s'exécute en arrière-plan, ajoutez-la à des exceptions d'arrière-plan."</string>
     <string name="dnd_is_off">NPD désactivé</string>
-    <string name="dnd_notification_warnings_title">DND is on. Calls and notifications will be silenced.</string>
+    <string name="dnd_notification_warnings_title">NPD est activé. Les appels et les notifications seront réduits au silence.</string>
     <string name="do_disclosure_generic">Cet appareil est géré par votre organisation</string>
     <string name="do_disclosure_with_name">Cet appareil est géré par %s</string>
     <string name="do_not_silence">Ne pas mettre sur silence</string>
@@ -702,14 +700,13 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_rotated_right">Tournez votre tête vers la gauche</string>
     <string name="face_unlock_sc_status">"Faites glisser vers le bas pour ouvrir l'appareil photo"</string>
     <string name="face_unlock_stay_away_screen">"Restez à une distance de 25 à 40 cm de l'écran"</string>
-    <string name="face_unlock_success">Données de visage vérifiées avec succès</string>
-    <string name="face_unlock_success_show_message_dialog_msg">Allow Lock screen notifications to be able to view them on your Lock screen.</string>
+    <string name="face_unlock_success_show_message_dialog_msg">"Autoriser les notifications de l'écran de verrouillage à pouvoir les afficher sur votre écran de verrouillage."</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Non merci</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Autoriser</string>
     <string name="face_unlock_success_show_message_dialog_title">"Notifications d'écran de verrouillage"</string>
-    <string name="face_unlock_success_show_message_msg">Show only notification source when device is locked and add notification details after face data is verified</string>
-    <string name="face_unlock_success_show_message_title">Show notification details after verifying face data</string>
-    <string name="face_unlock_success_show_message_toast">Notifications will be shown on Lock screen</string>
+    <string name="face_unlock_success_show_message_msg">"Afficher uniquement la source de notification lorsque l'appareil est verrouillé et ajouter des détails de notification une fois les données de visage vérifiées"</string>
+    <string name="face_unlock_success_show_message_title">Afficher les détails de la notification après avoir vérifié les données de visage</string>
+    <string name="face_unlock_success_show_message_toast">"Les notifications seront affichées sur l'écran de verrouillage"</string>
     <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
     <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
@@ -891,7 +888,6 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_charged">Chargée</string>
     <string name="keyguard_charging_back_to_lockscreen">"Retour à L'écran de verrouillage"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Sur batterie</string>
-    <string name="keyguard_charging_info_click_to_detail">Afficher les détails</string>
     <string name="keyguard_charging_info_data_c">%s °C</string>
     <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
@@ -907,6 +903,9 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_charging_info_tip_text4">"N'utilisez pas de façon active votre appareil lorsqu'il est en charge afin d'éviter qu'il surchauffe."</string>
     <string name="keyguard_charging_info_tip_text5">"Il faut plus de temps pour charger les batteries lorsqu'elles sont plus chaudes que d'habitude."</string>
     <string name="keyguard_charging_info_tip_text6">"Éteignez l'écran et éloignez votre appareil pour le refroidir."</string>
+    <string name="keyguard_charging_normal_and_level_tip">Charging %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">Fast charging %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Charging rapidly %d%%</string>
     <string name="keyguard_indication_charging_time">"En charge (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_fast">"En charge rapide (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_slowly">"En charge lente (%s jusqu'à la charge complète)"</string>
@@ -1021,9 +1020,10 @@ d MMMM"</string>
     <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
     <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
     <string name="lock_screen_magazine_global_button_text">Plus</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">More</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Enter</string>
     <string name="lock_screen_no_sim_card_emergency_only">"Appel d'urgence uniquement"</string>
     <string name="lock_screen_no_sim_card_no_service">Aucun service</string>
-    <string name="lock_wallpaper_enter">Saisir</string>
     <string name="lockscreen_access_pattern_area">Zone du Schéma.</string>
     <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Téléphone %1$s ajouté</string>
@@ -1193,7 +1193,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_low_battery_action_btn">Activer</string>
     <string name="notification_low_battery_need_charge">La batterie est faible. Chargez votre appareil.</string>
     <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
-    <string name="notification_low_battery_title">Less than %d%% of battery remaining</string>
+    <string name="notification_low_battery_title">Moins de %d%% de batterie restante</string>
     <string name="notification_manager">Gérer les notifications</string>
     <string name="notification_manager_des">Filtrer et gérer les notifications</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>

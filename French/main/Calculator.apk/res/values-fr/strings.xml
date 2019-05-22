@@ -610,4 +610,6 @@ Taille %2$s"</string>
 Taille de la mise à jour Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s mise à jour!</string>
     <string name="year" />
+    <string name="preference_use_voice">Sortie vocale</string>
+    <string name="warn_locale_unsupport_for_voice">"La sortie vocale pour cette langue n'est pas encore prise en charge."</string>
 </resources>

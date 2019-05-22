@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="SMTP_independent_verification_text">Vérification indépendante SMTP</string>
     <string name="SMTP_password_text">Mot de passe</string>
     <string name="SMTP_username_text">"Nom d'utilisateur"</string>
@@ -165,8 +164,10 @@
     <string name="ad_merge">Publicités &amp; Notifications</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="add_account_keywords">Ajouter un compte;ajouter un compte de messagerie</string>
+    <string name="add_account_search">Ajouter un compte</string>
     <string name="add_attachment">Ajouter une pièce jointe</string>
     <string name="add_calendar">Rappel</string>
+    <string name="add_file_exception">"Impossible d'ajouter. Essayez d'ajouter cette pièce jointe à partir d'un endroit différent."</string>
     <string name="add_label">Ajouter un dossier</string>
     <string name="add_pre_message_attachments">Ajouter les pièces jointes du message précédent ?</string>
     <string name="add_pre_message_attachments_no">Ne pas ajouter</string>
@@ -176,6 +177,10 @@
     <string name="always_bcc_myself">Toujours me mettre en Cci</string>
     <string name="always_show_images">Toujours voir les images de cet expéditeur</string>
     <string name="app_name">E-mail</string>
+    <string name="appraise_des">Aimez-vous notre application ?</string>
+    <string name="appraise_good">Oui</string>
+    <string name="appraise_ignore">Plus tard</string>
+    <string name="appraise_negative">Non</string>
     <string name="archive">Archive</string>
     <string name="archived">Archivé</string>
     <string name="att_download_failed_content">Impossible de télécharger la pièce jointe pour ce message.</string>
@@ -195,7 +200,7 @@
     <string name="attachment_application_vnd_ms_excel">Tableau</string>
     <string name="attachment_application_vnd_ms_powerpoint">Présentation</string>
     <string name="attachment_audio">Audio</string>
-    <string name="attachment_canceling">Annulation…</string>
+    <string name="attachment_canceling">Annulation en cours…</string>
     <string name="attachment_decoding">Décompression de la pièce jointe…</string>
     <string name="attachment_download_all">Tout télécharger</string>
     <string name="attachment_image">Image</string>
@@ -351,6 +356,7 @@
     <string name="default_signature_2">Envoyé depuis mon %s</string>
     <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
     <string name="delete">Supprimer</string>
+    <string name="delete_contact_content">Delete this contact now?</string>
     <string name="delete_message_flow">Supprimer le flux de messages</string>
     <string name="delete_message_flow_keywords">supprimer le flux de messages;supprimer rediriger</string>
     <string name="deleted">Supprimé</string>
@@ -361,7 +367,9 @@
     <string name="device_not_activiey_lint1">"Gestionnaire d'appareil non activé"</string>
     <string name="device_not_activiey_lint2">Le service mail ne fonctionne pas avec exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Vous avez choisi de synchroniser manuellement les e-mails. Actualiser pour synchroniser.</string>
+    <string name="dialog_agree">Accepter</string>
     <string name="dialog_change_sync_lookback">Le mail reçu il y a %s sera automatiquement supprimé. Appuyez pour changer.</string>
+    <string name="dialog_disagree">Refuser</string>
     <string name="dialog_insufficient_space_on_external">Impossible de télécharger la pièce jointe. Espace insuffisant sur le stockage externe.</string>
     <string name="dialog_insufficient_space_on_internal">Espace disque insuffisant sur le stockage interne.</string>
     <string name="dialog_system_auto_sync_account_no_open">Activer la synchronisation du compte pour recevoir automatiquement les e-mails</string>
@@ -417,7 +425,8 @@
     <string name="exception_cancel">"
         Cet événement a été annulé
         pour le :
-%s "</string>
+        %s
+    "</string>
     <string name="exception_updated">Les détails de cet évènement ont été modifiés pour :%s</string>
     <string name="exchange_name">Entreprise</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -446,8 +455,10 @@
     <string name="file_save_term">"Conditions d'enregistrement de ficher"</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Appuyer sur le bouton pour envoyer \"%s\" à toutes les personnes dans la conversation</string>
+    <string name="folder_empty_to_fresh">"Mail isn't synced. Pull down to sync."</string>
     <string name="folder_list_display_all">Afficher tous les dossiers</string>
     <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
+    <string name="folder_no_mails">No emails in this folder.</string>
     <string name="folder_picker_title">Chois des dossiers</string>
     <string name="folder_removed">Supprimé de %1$s</string>
     <string name="folder_shortcut_widget_label">Dossier e-mail</string>
@@ -480,11 +491,13 @@
     <string name="gmail_server_authorization_deleted">"Impossible d'authentifier le compte. Essayez d'ajouter ce compte à nouveau."</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
+    <string name="have_auth_code">"J'ai un code"</string>
     <string name="header_category_account">Comptes</string>
     <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Commentaires</string>
     <string name="header_label_general_preferences">Paramètres généraux</string>
     <string name="help_and_info">Aide</string>
+    <string name="help_me_get_qq_auth">Obtenir le code QQ</string>
     <string name="hide_elided">▼ Cacher le texte cité</string>
     <string name="hide_password">Masquer le mot de passe</string>
     <string name="hint_quick_reply_all">Répondre à tous</string>
@@ -504,6 +517,7 @@
     <string name="invalid_recipient_title">Erreur de destinataire</string>
     <string name="kilobytes">%s ko</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="list_empty_to_fresh">No emails yet.</string>
     <string name="load_from_remote">Rechercher les e-mails sur le serveur</string>
     <string name="load_more">Charger plus</string>
     <string name="loading_conversation">Chargement…</string>
@@ -539,12 +553,6 @@
     <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser les e-mails à partir de</string>
     <string name="mailbox_settings_sync_enabled_label">Synchroniser ce dossier</string>
     <string name="mailbox_settings_sync_enabled_summary">Synchroniser les messages dans ce dossier</string>
-    <string name="maileditor_fontsize_textitem1">8pt</string>
-    <string name="maileditor_fontsize_textitem2">10pt</string>
-    <string name="maileditor_fontsize_textitem3">12pt</string>
-    <string name="maileditor_fontsize_textitem4">14pt</string>
-    <string name="maileditor_fontsize_textitem5">16pt</string>
-    <string name="maileditor_fontsize_textitem6">18pt</string>
     <string name="manual_sync">Synchroniser maintenant</string>
     <string name="mark_important">Marquer comme important</string>
     <string name="mark_not_important">Marquer comme non important</string>
@@ -555,38 +563,48 @@
     <string name="me_subject_pronun">moi</string>
     <string name="meeting_accepted">"
         Accepté :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_allday">"
         Quand :
-%s (toute la journée)
+        %s
+        (toute la journée)
     "</string>
     <string name="meeting_allday_recurring">"
         Quand :
-%s (toute la journée, récurrent)
+        %s
+        (toute la journée, récurrent)
     "</string>
     <string name="meeting_canceled">"
         Annulé :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_declined">"
         Refusé :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_recurring">"
         Quand :
-%s (récurrent)
+        %s
+        (récurrent)
     "</string>
     <string name="meeting_responded_failed">Pas de réponse</string>
     <string name="meeting_tentative">"
         Tentative :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_updated">"
         Mis à jour :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_when">"
         Quand :
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_where">"
         Où :
-%s "</string>
+        %s
+    "</string>
     <string name="megabytes">%s Mo</string>
     <string name="menu_att_mgr">Pièces jointes</string>
     <string name="menu_att_mgr_order_default">Récemment vu</string>
@@ -664,8 +682,10 @@ Essayez une autre boîte de réception."</string>
     <string name="notification_action_undo_remove_label">Étiquette retirée</string>
     <string name="notification_exchange_calendar_added">Calendrier Exchange ajouté</string>
     <string name="notify_channel_new_mail">Notifier les nouveaux messages</string>
+    <string name="notify_channel_no_disterb">Mode NPD</string>
     <string name="notify_channel_permission_notice">Autorisations requises</string>
     <string name="notify_channel_send_fail">Notifier les envois en échec</string>
+    <string name="notify_channel_service">Notifier à propos de la synchronisation en arrière-plan</string>
     <string name="oauth_error_description">"Échec de l'authentification"</string>
     <string name="oauth_gmail_login_notify">"Entrez le nom d'utilisateur et le mot de passe de votre compte Google sur la page suivante."</string>
     <string name="oauth_login_continue">Continuer</string>
@@ -676,12 +696,13 @@ Essayez une autre boîte de réception."</string>
     <string name="one_day">1 jour</string>
     <string name="one_month">1 mois</string>
     <string name="one_week">1 semaine</string>
+    <string name="open_androidp_warning">Avertissement à propos des kits de développement non officiels 9.0</string>
     <string name="open_calendar_and_contacts_permission">"Autoriser E-mail à accéder aux informations du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_calendar_permission">"Autoriser E-mail à accéder aux informations du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">"Autoriser E-mail à accéder aux informations des contacts, du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_contacts_permission">Autoriser E-mail à accéder au stockage et au contacts dans les paramètres</string>
     <string name="open_notification_kingagent">Activer les notifications burial point</string>
-    <string name="optimization_suggestion">Suggestions doptimisation</string>
+    <string name="optimization_suggestion">"Suggestions d'optimisation"</string>
     <string name="others_mail">Autre</string>
     <string name="others_mail_des">(Compatible avec les services mail de 600K)</string>
     <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
@@ -777,7 +798,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="policy_screen_timeout">Exiger un dispositif pour verrouiller son écran</string>
     <string name="policy_text_truncation">"Limiter la taille du texte de l'e-mail"</string>
     <string name="pop3_name">POP3</string>
-    <string name="preference_eas_tips">Appuyez sur Activer pour configurer le serveur mail.</string>
+    <string name="preference_eas_tips">Appuyez sur “Activer“ pour configurer le serveur mail.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">"En POP3, les pièces jointes seront automatiquement téléchargées avec l'e-mail. Cela peut augmenter votre consommation de données mobiles."</string>
     <string name="preference_sender_image_description">"Afficher la photo de profile à côté du nom de l'expéditeur dans la Boîte de réception"</string>
@@ -788,6 +809,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="preview_attachment">Aperçu</string>
     <string name="previous_action">Retour</string>
     <string name="print">Imprimer</string>
+    <string name="privacy_des">Les journaux contiennent des infos de débogage du client e-mail et celles de votre appareil. Cette information est utilisée pour localiser les problèmes plus rapidement. En tapant sur «%1$s» ci-dessous, vous acceptez notre «%2$s ».</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="prompt_title">Prompt</string>
     <string name="protocol_setting_toast">Appuyez sur le coin supérieur droit pour accéder aux paramètres après avoir accepté</string>
@@ -812,11 +834,13 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="qq_bar_send_message">Envoyer un SMS</string>
     <string name="qq_login_basecode">Connexion à QQ Mail Web. Saisissez le mot de passe indépendant.</string>
     <string name="qq_login_get_auth">Activer la protection de mot de passe si vous ne pouvez pas recevoir des SMS</string>
+    <string name="qq_login_notice">Remarque : Si vous avez déjà configuré un mot de passe, vous devrez le vérifier lorsque vous vous connecterez.</string>
     <string name="qq_login_open_imap">Appuyez sur \"Aide\" pour activer IMAP/SMTP</string>
     <string name="qq_login_origin_setting">"Saisissez votre nom d'utilisateur et votre mot de passe pour vous connecter >"</string>
     <string name="qq_login_send_message">Appuyez sur \"Envoyer un SMS\" pour recevoir un code de vérification</string>
     <string name="qq_login_webview">Connexion au client Web QQ, appuyez sur Se connecter en utilisant le mot de passe.</string>
     <string name="qq_next_generation_auth_toast">Activer la protetion de mot de passe dans votre navigateur</string>
+    <string name="qq_pwd_or_qq_auth_code">"Entrer le code QQ ou le mot de passe de l'e-mail"</string>
     <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
     <string name="qq_verify_code">(Nécessite un code de vérification de QQ)</string>
     <string name="qq_webview_loading">Un instant…</string>
@@ -871,6 +895,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="recognize_ticket_train_return">Retourné</string>
     <string name="recognize_ticket_train_user_name">Passager : %1$s</string>
     <string name="recognize_title">Informations de voyage</string>
+    <string name="recommend_protocal">Recommendations Usage Protocol</string>
     <string name="reduce_the_receiving_frequencye_summary">Synchroniser la boîte de réception moins fréquemment quand le mode Ne pas déranger est activé</string>
     <string name="reduce_the_receiving_frequencye_title">Réduire la fréquence de synchronisation</string>
     <string name="refresh">Actualiser</string>
@@ -878,6 +903,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="refreshing_done">Terminé</string>
     <string name="release_to_refresh">Relâchez pour actualiser</string>
     <string name="remind_attachment_size_limit">Vos e-mails ne doivent pas dépasser %s Mo</string>
+    <string name="remote_no_mail">"Il n'y a plus d'e-mails sur le serveur."</string>
     <string name="remove_account">Supprimer le compte</string>
     <string name="remove_folder">Retirer de %1$s</string>
     <string name="remove_star">Retirer des favoris</string>
@@ -951,6 +977,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="shortcut_name_title">Nom du raccourci</string>
     <string name="show_elided">▶ Voir le texte cité</string>
     <string name="show_images">Télécharger et voir les images</string>
+    <string name="show_more_attachment">Plus de pièces jointes</string>
     <string name="show_password">Afficher le mot de passe</string>
     <string name="signature">"
 
@@ -963,6 +990,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
     <string name="sort_attachment">Trier par</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage">Stockage</string>
     <string name="str_select_all">Tout sélectionner</string>
     <string name="str_select_none">Tout déselectionner</string>
@@ -994,12 +1022,13 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="title_activity_about">À propos</string>
     <string name="to">À</string>
     <string name="to_heading">"À : "</string>
-    <string name="toast_bar_fail_synchronization">Impossible de se connecter au réseau</string>
+    <string name="toast_bar_fail_synchronization">"Couldn't access server. Wait a minute or two and try again."</string>
     <string name="toast_bar_insufficient_memory_space">Impossible de recevoir des e-mails. Espace de stockage insuffisant.</string>
     <string name="toast_bar_invalid_account">Les informations du compte ont expiré. Appuyez pour vous reconnecter.</string>
     <string name="toast_bar_no_connection_network">"Vous n'êtes pas connecté à internet"</string>
     <string name="toast_bar_open_gmail_synchronization">Impossible de se connecter à Gmail. Activer le proxy Gmail.</string>
     <string name="toast_bar_send_fail_remind">"Impossible d'envoyer l'e-mail. Enregistré dans le dossier \"Sortant\"."</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Couldn't sync. Wait a minute or two and try again. If you're signing in for the first time, authorize your device via the intranet/SMS token."</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">"Pour synchroniser les infos d'agenda et les contacts, accordez à E-mail les autorisations requises dans les paramètres"</string>
     <string name="toastbar_calendar_permission_switch_close">Pour recevoir les rappels, accordez les autorisations requises à E-mail dans les paramètres</string>
     <string name="toastbar_contacts_permission_switch_close">Pour ajouter des contacts, accordez à E-mail les autorisations requises dans les paramètres</string>
@@ -1066,6 +1095,7 @@ Appuyer sur \""<b>Synchroniser maintenant</b> pour la première synchronisation 
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Autre</string>
     <string name="wipe_account_fail_description">Autoriser</string>
+    <string name="wipe_account_fail_description_remind">Due to data usage restrictions, there may be residual data in Calendar and Contacts after you delete the account. Delete these items manually.</string>
     <string name="wipe_account_fail_title">Impossible de supprimer les informations personnelles</string>
     <string name="wps_title">Mail WPS</string>
     <string name="wrong_password">Le mot de passe entré est incorrect</string>

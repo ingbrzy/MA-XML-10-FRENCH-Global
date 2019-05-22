@@ -368,7 +368,9 @@
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
     <string name="widgets_preview_title">Ajouter un widget</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
+    <string name="default_folder_title_meitu">Meitu</string>
+    <string name="privacy_thumbnail_blur_summary">"Flouter les aperçus d'applications dans Récents"</string>
+    <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="system_shortcuts_more_operation">"Informations sur l'application"</string>
 </resources>

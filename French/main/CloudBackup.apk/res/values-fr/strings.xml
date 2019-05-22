@@ -199,7 +199,7 @@
     <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
     <string name="restore_network_unconnect">%s (En attente de connexion)</string>
     <string name="restore_network_pause">%s (Appuyez pour reprendre)</string>
-    <string name="hint_restore_cross_space">Home screen layout might be displayed incorrectly if you transfer items between spaces.</string>
+    <string name="hint_restore_cross_space">"La disposition de l'écran d'accueil peut ne pas s'afficher correctement si vous transférez des éléments entre des espaces."</string>
     <string name="restore_detail_title">Sélectionner les éléments à restaurer</string>
     <string name="restore_detail_category_settings">Paramètres</string>
     <string name="restore_detail_category_apps">"Disposition de l'écran d'accueil &amp; applications"</string>

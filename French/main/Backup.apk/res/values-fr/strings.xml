@@ -259,7 +259,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="err_pkg_not_exist">"Impossible de trouver l'application."</string>
     <string name="err_user_abort">"Annulé par l'utilisateur."</string>
     <string name="err_binder_died">"L'application s'est arrêtée de manière inattendue."</string>
-    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément"</string>
+    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément."</string>
     <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
     <string name="restore_is_running">"Restauration de l'appareil"</string>
     <string name="notif_backup_title">Sauvegarder les données</string>
@@ -642,4 +642,11 @@ Ne récupérez que les éléments importants pour aller plus vite."</string>
 Libérez de l'espace ou faites plusieurs transferts plus petits."</string>
     <string name="usb_trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
     <string name="usb_trans_old_phone_low_space_msg">"De l'espace supplémentaire est nécessaire pour préparer vos sauvegardes. Il n'y a pas assez d'espace de stockage pour continuer le transfert. Vous pouvez libérer de l'espace et supprimer les fichiers inutiles dans l'appli Sécurité, ou essayer de ne transférer que les éléments importants."</string>
+    <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Mover est disponible. Mettre à jour Mi Mover maintenant?</string>
+    <string name="dialog_app_upgrade_exit">Quitter</string>
+    <string name="dialog_app_upgrade_download">Mettre à Jour</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>

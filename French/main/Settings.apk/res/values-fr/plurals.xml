@@ -20,10 +20,6 @@
         <item quantity="other">Délai très court (%1$d ms)</item>
         <item quantity="one">Délai très court (%1$d ms)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sheures %2$s"</item>
-        <item quantity="one">" %1$sheure %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Désactivé pour %d applications</item>
         <item quantity="one">Désactivé pour %d application</item>
@@ -337,12 +333,12 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
         <item quantity="one">%d élément</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">A reçu %d notifications</item>
