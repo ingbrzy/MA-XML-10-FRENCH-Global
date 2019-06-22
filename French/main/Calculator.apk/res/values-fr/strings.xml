@@ -280,6 +280,7 @@
     <string name="tax_param_error">"Saisir les taux exacts d'assurance"</string>
     <string name="tax_payment_period">Nombre de paiements</string>
     <string name="tax_rate_provider">Calculé selon la nouvelle réglementation fiscale. Les données sont fournies par hexun.com et East Money.</string>
+    <string name="tax_rate_provider_east_money">Calculé selon la nouvelle réglementation fiscale. Les données sont fournies par East Money.</string>
     <string name="tax_result_real_get">Après taxe</string>
     <string name="tax_social_insurance">Assurance sociale</string>
     <string name="tax_thershold_foreign">%s (Ressortissants étrangers)</string>

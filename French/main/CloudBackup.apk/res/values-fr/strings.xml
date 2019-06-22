@@ -102,7 +102,7 @@
     <string name="restore_task_cancelling">Annulation en cours…</string>
     <string name="remove_task_in_process">Suppression…</string>
     <string name="remove_task_unfinished">Suppression pas terminée</string>
-    <string name="back_up_task_unfinished">Sauvegarde pas terminée</string>
+    <string name="back_up_task_unfinished">Impossible de sauvegarder</string>
     <string name="about_to_recover">Juste un instant…</string>
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
@@ -218,4 +218,10 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="provision_background_restore_more_data">"Restaurer plus d'éléments en arrière-plan"</string>
     <string name="selected">Sélectionné</string>
     <string name="unselected">Non sélectionné</string>
+    <string name="backup_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">"Pas assez d'espace de stockage dans Mi Cloud. Mettez à niveau votre plan ou libérez de l'espace de stockage."</string>
+    <string name="restore_task_unfinished">Restauration impossible</string>
+    <string name="restore_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
+    <string name="restore_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
 </resources>

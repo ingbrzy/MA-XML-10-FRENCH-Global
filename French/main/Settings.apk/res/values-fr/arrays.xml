@@ -787,6 +787,24 @@
         <item>30 derniers jours</item>
         <item>Définir cycle conso...</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Aujourd'hui (Données Mobiles) "</item>
+        <item>"Ce mois-ci (Données Mobiles) "</item>
+        <item>"Le mois dernier (Données Mobiles) "</item>
+        <item>"Aujourd'hui (Wi-Fi) "</item>
+        <item>"Ce mois-ci (Wi-Fi) "</item>
+        <item>"Le mois dernier (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Aujourd'hui "</item>
+        <item>"Ce mois-ci "</item>
+        <item>"Le mois dernier "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Aujourd'hui: "</item>
+        <item>"Ce mois-ci:  "</item>
+        <item>"Le mois dernier:  "</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Afficher les zones de superposition</item>
@@ -1435,6 +1453,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilisation des données mobiles "</item>
+        <item>"Utilisation de Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation désactivée</item>

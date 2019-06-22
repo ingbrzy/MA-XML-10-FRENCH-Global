@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
     <string name="auto_start_warning_allow">Autoriser</string>
     <string name="auto_start_warning_deny">Refuser</string>
-    <string name="call_record_sample_prefix_miui">Appeler</string>
     <string name="call_record_or">" ou "</string>
     <string name="caller_info_name_delimiter">" ou "</string>
     <string name="first_back_long_press_message">Pour personnaliser appuyer &amp; maintenir pour naviguer avec les boutons, aller sur paramètres > système > boutons</string>
@@ -198,12 +197,13 @@
     <string name="popup_camera_front_failed">"Impossible d'ouvrir la caméra frontale. Réessayez."</string>
     <string name="takeback_camera_front_failed">Impossible de fermer la caméra frontale. Réessayez.</string>
     <string name="stop_operate_camera_frequently">Vous ouvrez trop souvent la caméra frontale.</string>
+    <string name="popup_camera_front_when_use">"L'application Appareil photo doit ouvrir à nouveau la caméra avant. Ouvrez maintenant?"</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Impossible d'ouvrir la caméra frontale plusieurs fois. Essayez de calibrer la caméra."</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Impossible de fermer la caméra frontale plusieurs fois. Essayez de calibrer la caméra.</string>
     <string name="popup_camera_calibrate_now">Étalonner</string>
     <string name="popup_camera_calibrate_success">Calibré avec succès. Vous pouvez ouvrir la caméra avant maintenant.</string>
     <string name="popup_camera_calibrate_failed">"Impossible d'étalonner"</string>
     <string name="popup_camera_using_camera_background">%s utilise la caméra frontale</string>
-    <string name="sim_lock_non_ais_msg">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="sim_lock_non_ais_msg">"Votre carte SIM n'est pas complètement opérationnelle avec ce téléphone car elle n'est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
 </resources>

@@ -72,6 +72,18 @@
         <item quantity="other">%1$d photos et vidéos</item>
         <item quantity="one">%1$d photo ou vidéo</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Enregistre %d photos sélectionnées et supprimer le reste ?</item>
+        <item quantity="one">Enregistre %d photo sélectionnée et supprimer le reste ?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Enregistrer %d photos sélectionnées</item>
+        <item quantity="one">Enregistrer %d photo sélectionnée</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d photos</item>
         <item quantity="one">%d photo</item>
@@ -91,6 +103,18 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Supprimer %d rafales de Mi Cloud et de tous les appareils synchronisés?</item>
+        <item quantity="one">Supprimer %d rafale de Mi Cloud et de tous les appareils synchronisés?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Supprimer %d rafales ?</item>
+        <item quantity="one">Supprimer %d rafale?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Supprimer %d rafales de Mi Cloud et de cet appareil ?</item>
+        <item quantity="one">Supprimer %d rafale de Mi Cloud et de cet appareil ?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Supprimer %d éléments de tous les appareils et de Mi Cloud ?</item>
@@ -115,6 +139,10 @@
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Supprimer ces %d photos de cet album et de Mi Cloud ?</item>
         <item quantity="one">Supprimer cette photo de cet album et de Mi Cloud ?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Supprimer %d rafales de cet appareil ?</item>
+        <item quantity="one">Supprimer %d rafale de cet appareil ?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Supprimer ces %d vidéos de tous les appareils et de Mi Cloud ?</item>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">Appliqué sur %1$d appareils</item>
+        <item quantity="one">Appliqué sur %1$d appareil</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d commentaires</item>
         <item quantity="one">%d commentaire</item>

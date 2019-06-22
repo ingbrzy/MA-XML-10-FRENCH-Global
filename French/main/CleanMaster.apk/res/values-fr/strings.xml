@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Désinstaller</string>
     <string name="pref_category_title_cleanup_white_list">Exceptions</string>
     <string name="pref_title_cleanup_white_list">Exceptions</string>
-    <string name="pref_summary_cleanup_white_list">"Empêcher les applications sélectionnées d'être nettoyées"</string>
+    <string name="pref_summary_cleanup_white_list">"Empêcher les fichiers sélectionnés d'être nettoyés"</string>
     <string name="pref_category_title_auto_update_cleanup_db">Paramètres additionnels</string>
     <string name="pref_title_auto_update_cleanup_db">Mise à jour automatique</string>
     <string name="pref_summary_auto_update_cleanup_db">Dernière mise à jour: %s</string>
@@ -186,8 +186,6 @@
     <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation terminée</string>
     <string name="activity_title_cache_data">"Données d'application"</string>
     <string name="deepclean_cache_header_left">Fichiers de donnée : %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s des fichiers de la corbeille</string>
-    <string name="notification_summary_of_garbage_cleanup">"Appuyer pour libérer de l'espace."</string>
     <string name="notification_summary_after_auto_cleanup">%s nettoyé.</string>
     <string name="toast_uninstall_success">Désinstallation terminée</string>
     <string name="toast_app_no_residual_on_sdcard">"L'application n'a aucune donnée stockée sur votre carte SD"</string>
@@ -567,4 +565,10 @@
     <string name="one_tap_clean_M">%d Mo</string>
     <string name="one_tap_clean_GB">%s Go</string>
     <string name="security_center_slogan">Sécurité. Toujours sur ses gardes.</string>
+    <string name="notification_garbage_cleanup_title">Effacer les fichiers de la corbeille</string>
+    <string name="notification_garbage_cleanup_summary">Taille de la corbeille atteinte %s</string>
+    <string name="notification_low_memory_cache_title">Vider le cache</string>
+    <string name="notification_low_memory_cache_summary">"Moins de 1,5 Go d'espace de stockage disponible"</string>
+    <string name="notification_low_memory_deepclean_title">Espace de stockage faible</string>
+    <string name="notification_low_memory_deepclean_summary">"Nettoyage en profondeur peut libérer de l'espace de stockage sur votre appareil"</string>
 </resources>

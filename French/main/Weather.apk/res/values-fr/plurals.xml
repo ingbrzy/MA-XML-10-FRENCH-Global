@@ -36,6 +36,22 @@
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personnes ont voté"</item>
         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> personne ont voté"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Température la plus élevée: %1$s degrés Celsius</item>
+        <item quantity="one">Température la plus élevée: %1$s degré Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Température la plus élevée: %1$s degrés Fahrenheit</item>
+        <item quantity="one">Température la plus élevée: %1$s degré Fahrenheit</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Température la plus basse: %1$s degrés Celsius</item>
+        <item quantity="one">Température la plus basse: %1$s degré Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Température la plus basse: %1$s degrés Fahrenheit</item>
+        <item quantity="one">Température la plus basse: %1$s degré Fahrenheit</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Dégagé</item>
         <item quantity="one">Dégagé</item>

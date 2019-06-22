@@ -903,9 +903,9 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyguard_charging_info_tip_text4">"N'utilisez pas de façon active votre appareil lorsqu'il est en charge afin d'éviter qu'il surchauffe."</string>
     <string name="keyguard_charging_info_tip_text5">"Il faut plus de temps pour charger les batteries lorsqu'elles sont plus chaudes que d'habitude."</string>
     <string name="keyguard_charging_info_tip_text6">"Éteignez l'écran et éloignez votre appareil pour le refroidir."</string>
-    <string name="keyguard_charging_normal_and_level_tip">Charging %d%%</string>
-    <string name="keyguard_charging_quick_and_level_tip">Fast charging %d%%</string>
-    <string name="keyguard_charging_super_quick_and_level_tip">Charging rapidly %d%%</string>
+    <string name="keyguard_charging_normal_and_level_tip">En charge %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">En charge rapide %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Charge rapidement %d%%</string>
     <string name="keyguard_indication_charging_time">"En charge (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_fast">"En charge rapide (%s jusqu'à la charge complète)"</string>
     <string name="keyguard_indication_charging_time_slowly">"En charge lente (%s jusqu'à la charge complète)"</string>
@@ -1020,8 +1020,9 @@ d MMMM"</string>
     <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
     <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
     <string name="lock_screen_magazine_global_button_text">Plus</string>
-    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">More</string>
-    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Enter</string>
+    <string name="lock_screen_magazine_label">"Ouvrir le fond d'écran Carrousel"</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Plus</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Entrer</string>
     <string name="lock_screen_no_sim_card_emergency_only">"Appel d'urgence uniquement"</string>
     <string name="lock_screen_no_sim_card_no_service">Aucun service</string>
     <string name="lockscreen_access_pattern_area">Zone du Schéma.</string>
@@ -1043,6 +1044,8 @@ d MMMM"</string>
     <string name="lockscreen_sim_error_message_short">Carte SIM non valide.</string>
     <string name="lockscreen_unlock_left">Le raccourci de gauche déverrouille aussi</string>
     <string name="lockscreen_unlock_right">Le raccourci de droite déverrouille aussi</string>
+    <string name="long_screenshot_guide_text">"Appuyer pour faire
+une capture d'écran défilante"</string>
     <string name="long_screenshot_not_support_msg">"L'application actuelle ne prend pas en charge le défilement des captures d'écran"</string>
     <string name="long_screenshot_out_of_memory_error">"L'image est trop volumineuse"</string>
     <string name="long_screenshot_processing">Traitement en cours…</string>

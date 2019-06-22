@@ -132,13 +132,61 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">Ajouter %d minutes</item>
         <item quantity="one">Ajouter %d minute</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s jours</item>
+        <item quantity="one">%s jour</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s heures</item>
+        <item quantity="one">%s heure</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s jours restants</item>
+        <item quantity="one">%s jour restant</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s heures restantes</item>
+        <item quantity="one">%s heure restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutes restantes</item>
+        <item quantity="one">%s minute restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s jours restants</item>
+        <item quantity="one">%s jour restant</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s heures restantes</item>
+        <item quantity="one">%s heure restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes restantes</item>
+        <item quantity="one">%s minute restante</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">"%s jours jusqu'à être complètement chargé"</item>
+        <item quantity="one">"%s jour jusqu'à être complètement chargé"</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">"%s heures jusqu'à être complètement chargé"</item>
+        <item quantity="one">"%s heure jusqu'à être complètement chargé"</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">"%s minutes jusqu'à être complètement chargé"</item>
+        <item quantity="one">"%s minute jusqu'à être complètement chargé"</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="other">%2$d applis, y compris, incluant %1$s, consomment de la batterie</item>
+        <item quantity="one">%2$d appli, y compris, incluant %1$s, consomme de la batterie</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
+        <item quantity="other">%d applis consomment de la batterie</item>
+        <item quantity="one">%d appli consomme de la batterie</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
@@ -377,8 +425,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
     <plurals name="function_shield_num">
-        <item quantity="other">%d features</item>
-        <item quantity="one">%d feature</item>
+        <item quantity="other">%d fonctionnalités</item>
+        <item quantity="one">%d fonctionnalité</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    + %1$d plus de caractères</item>

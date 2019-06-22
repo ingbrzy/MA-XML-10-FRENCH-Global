@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_firewall_setting">Liste noire</string>
     <string name="activity_not_found">Aucune application trouvée pour effectuer cette action</string>
     <string name="activity_not_found_uri">"Aucune application n'a été trouvée pour gérer cette action"</string>
@@ -99,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">Les services de messagerie intelligente sont fournis par votre opérateur. La messagerie doit se connecter à Internet et accéder à votre localisation pour pouvoir fournir ces services. Vous devez accepter les %1s de votre opérateur avant de commencer à utiliser ces services. Acceptez-vous?</string>
     <string name="cm_privacy_dialog_title">Attention</string>
     <string name="cmcc_privacy">"Accord de confidentialité de l'opérateur China Mobile"</string>
-    <string name="complain_input_number">Entrez votre numéro de téléphone</string>
-    <string name="complain_jump">Passer</string>
     <string name="complain_message_title">Rapporter</string>
-    <string name="complain_ok">OK </string>
-    <string name="complain_phone_number">Numéro de téléphone (optionnel)</string>
-    <string name="complain_reason">Pourquoi signalez-vous ce message ?</string>
-    <string name="complain_success">Merci pour votre commentaire. Cela nous aide à améliorer la messagerie !</string>
-    <string name="complain_tips">"Le contenu du dernier message que vous signalez sera envoyé sur nos serveurs avec le numéro de téléphone que vous avez fourni. Nos fournisseurs de services examineront le message rapporté.
-"</string>
-    <string name="complain_upload">La plainte a été déposée</string>
     <string name="compressing">"L'image est trop grande. Compression..."</string>
     <string name="confirm">OK </string>
     <string name="confirm_add_blacklist_dialog_dspt">Ajouter ce numéro à votre liste bloquée ?</string>
@@ -173,8 +163,8 @@
     <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
-    <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="dialog_sim_locked_confirm">OK </string>
+    <string name="dialog_sim_locked_message">"Votre carte SIM n'est pas complètement opérationnelle avec ce téléphone car elle n'est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
     <string name="dialog_title_fake_cell_detect_error">Correction</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>
@@ -269,7 +259,7 @@
     <string name="hybrid_pull_to_refresh_refreshing_label">Juste un instant…</string>
     <string name="hybrid_pull_to_refresh_release_label">Relâchez pour actualiser…</string>
     <string name="hybrid_service_unavailiable">Service indisponible</string>
-    <string name="hybrid_try_again">Veuillez réessayer</string>
+    <string name="hybrid_try_again">Réessayez</string>
     <string name="i_know">"C'est compris"</string>
     <string name="imageview_ad">Pub</string>
     <string name="importing_progress_private_message">Importation…</string>
@@ -721,8 +711,8 @@
     <string name="sms_rejected_body">Un SMS entrant a été rejeté.</string>
     <string name="sms_rejected_title">SMS rejeté</string>
     <string name="sms_report_dialog_content">"Impossible d'envoyer le rapport, réessayer."</string>
-    <string name="sms_report_dialog_retry">Réessayer</string>
-    <string name="sms_report_dialog_title">Réessayer</string>
+    <string name="sms_report_dialog_retry">Réessayez</string>
+    <string name="sms_report_dialog_title">Réessayez</string>
     <string name="sms_report_failed">"Impossible d'envoyer le rapport"</string>
     <string name="sms_report_success">Rapport envoyé avec succès</string>
     <string name="snippet_audio">[Audio]</string>
@@ -735,6 +725,7 @@
     <string name="sp_mark_as_read_menu_title">Marquer comme lu(s)</string>
     <string name="sqlite_disk_full">"L'espace de stockage sur votre appareil est plein."</string>
     <string name="sqlite_low_memory">Espace de stockage insuffisant</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_failed">Échec</string>
     <string name="status_label">État :</string>
     <string name="status_pending">En attente</string>

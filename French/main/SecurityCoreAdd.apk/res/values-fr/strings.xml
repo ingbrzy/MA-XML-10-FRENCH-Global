@@ -56,7 +56,7 @@
     <string name="loading_space">Juste un instant…</string>
     <string name="private_space_setting">Gérer</string>
     <string name="exit_private_space">Basculer</string>
-    <string name="kid_mode_label">Kid space</string>
+    <string name="kid_mode_label">Espace Enfant</string>
     <string name="wating">Juste un instant…</string>
     <string name="Active">Actif</string>
     <string name="ok_button">OK </string>
@@ -162,7 +162,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="create_space_loading">Création du Second espace…</string>
     <string name="close_second_space">Second espace supprimé</string>
     <string name="close_second_space_success">Second espace supprimé</string>
-    <string name="close_kid_space_success">Deleted Kid space</string>
+    <string name="close_kid_space_success">Espace Enfant supprimé</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="PrivacyContactDes1">"Les contacts deviendront privés.

@@ -46,7 +46,7 @@
     <string name="sync_dspt_entrance_provision_confirm_content">"Les applications intégrées à MIUI ont besoin de Mi Cloud pour sauvegarder vos photos, contacts, notes et plus encore. Mi Cloud est gratuit et prêt à l'emploi."</string>
     <string name="sync_dspt_entrance_provision_skip">Ignorer cette étape</string>
     <string name="sync_dspt_entrance_provision_network">"Cette application doit se connecter à Internet pour fonctionner normalement. La synchronisation des données peut nécessiter la connexion des données mobiles et l'activation du Wi-Fi."</string>
-    <string name="find_device_dspt_provision">Si vous perdez votre appareil, vous pouvez aller sur %s pour localiser, verrouiller ou réinitialiser celui-ci. Vous pouvez activer ou désactiver cette fonction dans les Paramètres.</string>
+    <string name="find_device_dspt_provision">Si vous perdez votre appareil, vous pouvez aller sur &lt;font color=#ff0000>%s&lt;/font> pour localiser, verrouiller ou réinitialiser celui-ci. Vous pouvez activer ou désactiver cette fonction dans les Paramètres.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
@@ -138,8 +138,8 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="sync_item_calllog_summary">"Synchroniser les enregistrements d'appels émis et reçus sur cet appareil"</string>
     <string name="micloud_main_network_error">Connexion réseau impossible</string>
     <string name="micloud_main_manual_sync">Synchroniser manuellement</string>
-    <string name="micloud_main_sync_mode_title">Synchroniser en temps réel</string>
-    <string name="micloud_main_sync_mode_summary">"Les éléments ci-dessus seront synchronisés en temps réel lorsque cette fonction est activée. Cela pourrait augmenter la consommation d'énergie de votre appareil."</string>
+    <string name="micloud_main_sync_mode_title">Synchronisation rapide</string>
+    <string name="micloud_main_sync_mode_summary">"Synchronisez les données de l'application en temps réel. La consommation électrique augmentera lorsque cette fonction est activée."</string>
     <string name="micloud_main_wait_wlan">En attente du Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge_sleep">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez pleinement votre appareil pour reprendre la synchronisation."</string>
     <string name="micloud_main_wait_wlan_charge">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez complètement votre appareil pour reprendre la synchronisation."</string>
@@ -271,11 +271,9 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="micloud_find_device_guide_alert_negtive">Non merci</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Non merci</string>
     <string name="micloud_find_device_close_alert_title">"Désactiver Localiser l'appareil ?"</string>
-    <string name="micloud_find_device_close_alert_content">Si vous désactivez cette fonctionnalité, vous ne serez plus en mesure de localiser votre appareil en cas de perte.</string>
     <string name="micloud_find_device_close_alert_positive">Continuer</string>
     <string name="micloud_find_device_close_alert_negtive">Désactiver quand même</string>
-    <string name="find_device_gdpr_prompt">"En activant l'option Localiser l'appareil, vous acceptez notre \"Politique de confidentialité\". Si vous devez révoquer votre autorisation de confidentialité veuillez désactiver cette fonctionnalité."</string>
-    <string name="find_device_gdpr_prompt_policy_doc_name">Politique de Confidentialité</string>
+    <string name="find_device_gdpr_prompt">"En activant Trouver l'appareil, vous acceptez notre"<u><a href="app://com.miui.cloudservice.gdpr.license">Politique de confidentialité</a></u>. Si vous devez révoquer une autorisation, désactivez cette fonction.</string>
     <string name="activate_finddevice">"Connectez-vous à Internet pour activer votre l'appareil"</string>
     <string name="account_related">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à Internet pour vérifier l'appareil."</string>
     <string name="connect_network">Se connecter au Wi-Fi ou insérer une carte SIM</string>
@@ -384,6 +382,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="micloud_sync_result_cloud_storage_full">Le stockage Mi Cloud est plein</string>
     <string name="micloud_sync_result_cta_permission_error">"Connectez-vous d'abord au réseau"</string>
     <string name="micloud_sync_result_common_message">Impossible de synchroniser. Attendez une minute ou deux et réessayez.</string>
+    <string name="micloud_request_sync_too_frequent">Trop de requêtes. Patientez une ou deux minutes et essayez à nouveau.</string>
     <string name="warning_bar_title_sync_off">Synchroniser avec Mi Cloud est désactivé</string>
     <string name="warning_bar_action_turn_on_sync">Activer</string>
     <string name="warning_bar_title_master_sync_off">Synchronisation auto est désactivée</string>
@@ -418,10 +417,13 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="sync_detail_summary_off">Désactivé</string>
     <string name="enable_sync_setting_title">Configuration des services cloud…</string>
     <string name="provision_sync_items_loading">Préparation à la synchronisation des éléments</string>
+    <string name="waiting_for_sync">En attente…</string>
+    <string name="system_busy_or_network_error">Une erreur est survenue. Attendez une minute ou deux et essayez à nouveau.</string>
     <string name="micloud_main_memory_low_title">Le stockage interne du téléphone est presque plein</string>
     <string name="micloud_notif_title_memory_low">Impossible de synchroniser avec Mi Cloud</string>
     <string name="find_device_service_title">"Localiser l'appareil"</string>
     <string name="micloud_wipe_data_confirm_title">Retirer les éléments synchronisés avec Mi Cloud sur le téléphone après la déconnexion ?</string>
     <string name="wipe_data_dialog_msg">Certains éléments %s ne sont pas synchronisés. Ils seront enregistrés sur votre appareil et ne seront pas supprimés.</string>
+    <string name="micloud_find_device_close_alert_content">"Si vous désactivez l'option Trouver un appareil, vous ne pourrez pas localiser votre téléphone à l'aide de cette fonctionnalité. Si votre téphone prend en charge la fonctionnalité NFC, toutes vos cartes bancaires et cartes à clés seront supprimées de Mi Pay."</string>
     <string name="micloud_manual_all_sync_off_summary">Restaurer les données synchronisées sur de nouveaux appareils en utilisant Mi Cloud</string>
 </resources>

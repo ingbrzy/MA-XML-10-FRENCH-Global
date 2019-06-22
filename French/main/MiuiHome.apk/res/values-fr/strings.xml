@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
+    <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
     <string name="add_screen">Ajouter un écran</string>
     <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
     <string name="announce_for_checked">%1$s, vérifié</string>
@@ -31,9 +31,11 @@
     <string name="announce_for_open_default_preview">"Paramètres de l'écran d'accueil par défaut ouverts"</string>
     <string name="announce_for_open_folder">Dossier %1$s ouvert</string>
     <string name="announce_for_open_launcher_menu">Menu ouvert</string>
+    <string name="announce_for_search_bar">Barre de recherche</string>
     <string name="announce_for_show_uninstall_dialog">Désinstallation des journaux apparus. Annuler ou confirmer.</string>
     <string name="announce_for_unchecked">%1$s, non vérifié</string>
     <string name="announce_for_widget_span">Largeur %1$d, hauteur %2$d</string>
+    <string name="announce_for_xiaoai">IA Mi</string>
     <string name="app_already_exist">"L'application existe déjà"</string>
     <string name="app_being_backup_message">"L'application est en cours de restauration"</string>
     <string name="app_being_restored_message">"L'app est en cours de restauration"</string>
@@ -93,6 +95,7 @@
     <string name="defalut_launcher_title">"Lanceur d'application par défaut"</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Jeux</string>
+    <string name="default_folder_title_meitu">Applications Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">"Plus d'applications"</string>
     <string name="default_folder_title_security">Système</string>
@@ -289,6 +292,8 @@
     <string name="preferences_general_title">Paramètres supplémentaires</string>
     <string name="preferences_title">Paramètres du lanceur</string>
     <string name="preferred_app_settings_not_selected">Non sélectionné</string>
+    <string name="privacy_thumbnail_blur_summary">"Flouter les aperçus d'applications dans Récents"</string>
+    <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="quick_app">Applications rapides</string>
     <string name="recents_config_title">Récents</string>
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
@@ -316,6 +321,9 @@
     <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
     <string name="settings">Paramètres</string>
     <string name="settings_shortcut">Paramètres</string>
+    <string name="shake_to_align_icons">"Agiter l'appareil pour remplir les cellules vides avec des icônes"</string>
+    <string name="shake_to_align_icons_summary">Agiter votre appareil en mode édition pour remplir automatiquement les cellules vides avec des icônes</string>
+    <string name="shake_to_align_icons_title">Agiter pour remplir les cellules vides</string>
     <string name="share">Partager</string>
     <string name="show_all">Tout afficher</string>
     <string name="show_mem_info_title">"Afficher l'état de la mémoire"</string>
@@ -325,11 +333,13 @@
     <string name="sort_by_not_defined">Tri-auto</string>
     <string name="start_activity_failed">Impossible de démarrer</string>
     <string name="starting_preset_app">Démarrage…</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_downloaded">Téléchargée</string>
     <string name="status_downloading">Téléchargement en cours</string>
     <string name="status_installing">Installation en cours</string>
     <string name="status_paused">En pause</string>
     <string name="status_pending">En attente</string>
+    <string name="system_shortcuts_more_operation">"Informations sur l'application"</string>
     <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
     <string name="title_select_live_folder">Sélectionner un dossier</string>
     <string name="title_select_shortcut">Sélectionner un raccourci</string>
@@ -368,9 +378,4 @@
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
     <string name="widgets_preview_title">Ajouter un widget</string>
-    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">"Flouter les aperçus d'applications dans Récents"</string>
-    <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
-    <string name="system_shortcuts_more_operation">"Informations sur l'application"</string>
 </resources>

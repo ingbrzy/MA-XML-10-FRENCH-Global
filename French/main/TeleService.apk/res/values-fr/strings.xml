@@ -372,7 +372,7 @@ Bluetooth"</string>
     <string name="cdma_system_select_dialogtitle">Sélection système</string>
     <string name="cdma_system_select_summary">"Modifier le mode d'itinérance CDMA"</string>
     <string name="cdma_system_select_title">Choix du système</string>
-    <string name="cell_bc_sms_disable">Diffusion cellulaire des SMS activée</string>
+    <string name="cell_bc_sms_disable">Diffusion cellulaire des SMS désactivée</string>
     <string name="cell_bc_sms_enable">Diffusion cellulaire des SMS activée</string>
     <string name="cell_broadcast_settings">"Diffusion des services d'urgence"</string>
     <string name="cell_broadcast_sms">Diffusion cellulaire des SMS</string>
@@ -983,6 +983,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="network_info_message">Message réseau</string>
     <string name="network_lte">LTE (recommandé)</string>
     <string name="network_message">Message réseau</string>
+    <string name="network_mode_updating_title">Type de réseau</string>
     <string name="network_operator_category">Réseau</string>
     <string name="network_query_error">Erreur lors de la recherche de réseaux.</string>
     <string name="network_select_title">Réseau</string>
@@ -1245,12 +1246,17 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preferred_network_type_3g_only_warning">Votre carte SIM doit prendre en charge la 3G pour se connecter au réseau.</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">3G préféré</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G (CDMA) préféré</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE préféré</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) préféré</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred">Préférer 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Automatique</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">2G uniquement (économie de batterie)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM uniquement</string>
     <string name="preferred_network_type_pref_entries_only_3g">3G uniquement</string>
+    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA uniquement</string>
     <string name="preferred_network_type_title">Type de réseau préféré</string>
     <string name="preferred_phone_account">"Compte d'appel préféré"</string>
     <string name="preferred_wificall_title">Préférences réseau</string>
@@ -1391,7 +1397,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="selectContact">sélectionner un contact</string>
     <string name="select_application">Sélectionner une appli</string>
     <string name="select_automatically">Sélectionner automatiquement un réseau</string>
-    <string name="select_dds_dialog_title">Select default mobile data SIM</string>
+    <string name="select_dds_dialog_title">Sélectionner la carte SIM de données mobiles par défaut</string>
     <string name="select_logd_size_dialog_title">Tailles enreg. par tampon journal</string>
     <string name="select_logd_size_title">Tailles mémoires tampons enregistr.</string>
     <string name="select_logpersist_dialog_title">"Sélectionner les mémoires tampon journal à stocker en permanence sur l'appareil"</string>
