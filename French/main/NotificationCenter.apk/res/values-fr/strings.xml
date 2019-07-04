@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="default_list_type">Trier par heure de réception</string>
+    <string name="disable_float_notification">Les notifications flottantes ne sont pas autorisées</string>
+    <string name="disable_lockscreen_notification">"Les notifications d'écran de verrouillage ne sont pas autorisées"</string>
+    <string name="disable_show_badge_notification">Les badges de notification ne sont pas autorisées</string>
+    <string name="enable_float_notification">Les notifications flottantes sont autorisées</string>
+    <string name="enable_lockscreen_notification">"Les notifications d'écran de verrouillage sont autorisées"</string>
+    <string name="enable_show_badge_notification">Les badges de notification sont autorisées</string>
+    <string name="expandable_under_keyguard">"Ouvrir le panneau de notification sur l'écran de verrouillage"</string>
+    <string name="float_notifications">Notifications flottantes</string>
+    <string name="hint_search_all">Rechercher des applications</string>
+    <string name="hint_search_in_disabled_apps">Rechercher des applications ne pouvant pas afficher des notifications</string>
+    <string name="hint_search_in_enabled_apps">Rechercher des applications pouvant afficher des notifications</string>
+    <string name="list_title_disable_notification">Les notifications ne sont pas autorisées</string>
+    <string name="loading">Juste un instant…</string>
+    <string name="lock_screen_display_rules">Format</string>
+    <string name="lock_screen_tip_toast">"Autoriser les notifications dans \"Notifications d'applications\" en premier"</string>
+    <string name="lockscreen_notifications">"Notifications à l'écran de verrouillage"</string>
+    <string name="not_sent_recently">Pas récemment</string>
+    <string name="notification_display_setting">Panneau de notification</string>
+    <string name="notification_display_style">Style de notification</string>
+    <string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
+    <string name="notification_fold_title">Dossier des notifications</string>
+    <string name="notification_manager">"Notifications de l'application"</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Désactivé</string>
+    <string name="on">Activé</string>
+    <string name="show_badge_notifications">Badges de notification</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_disable_float_notification">Les notifications flottantes ne sont pas autorisées</string>
+    <string name="summary_disable_lockscreen_notification">"Les notifications d'écran de verrouillage ne sont pas autorisées"</string>
+    <string name="summary_disable_show_badge_notification">Les badges de notification ne sont pas autorisées</string>
+    <string name="summary_enable_float_notification">Les notifications flottantes sont autorisées</string>
+    <string name="summary_enable_lockscreen_notification">"Les notifications d'écran de verrouillage sont autorisées"</string>
+    <string name="summary_enable_show_badge_notification">Les badges de notification sont autorisées</string>
+    <string name="summary_float_enable_notification_first">Autoriser les notifications à pouvoir activer les notifications flottantes</string>
+    <string name="summary_lock_screen_enable_notification_first">"Autoriser les notifications à pouvoir activer les notifications sur l'écran de verrouillage"</string>
+    <string name="summary_show_badge_enable_notification_first">Autoriser les notifications à pouvoir activer les badges de notifications</string>
+</resources>
