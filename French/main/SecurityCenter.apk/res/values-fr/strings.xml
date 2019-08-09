@@ -2540,7 +2540,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="first_aid_dialog_msg_stop_scan">"Arrêter l'analyse maintenant ?"</string>
     <string name="device_manager_apply_step_1">"Activez l'administrateur pour cette application ?"</string>
     <string name="device_manager_apply_step_2">"L'activation de l'administrateur de l'appareil pour cette application peut entraîner l'exposition de vos données personnelles.
-Toutes les données sur votre appareil seront supprimées et le mot de passe de votre écran de verrouillage doit être réinitialisé."</string>
+Toutes les données sur votre appareil peuvent être supprimées et le mot de passe de votre écran de verrouillage peut être réinitialisé."</string>
     <string name="device_manager_apply_step_3">"Assurez-vous de comprendre tous les risques possibles avant de procéder. Activer l'administrateur de l'appareil pour cette application maintenant ?"</string>
     <string name="app_permission_use_neccesary">Autorisations requises</string>
     <string name="app_permission_use_no_neccesary">Autorisations optionnelles</string>
