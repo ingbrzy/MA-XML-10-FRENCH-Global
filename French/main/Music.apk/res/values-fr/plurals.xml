@@ -49,8 +49,8 @@ total %2$d chanson"</item>
         <item quantity="one">%d commentaire</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y a %d jour</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Supprimer %d éléments ?</item>
@@ -99,8 +99,8 @@ Note : le fichier sera également supprimé de cet appareil."</item>
         <item quantity="one">Impossible de télécharger %1$d élément</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d Abonnés</item>
-        <item quantity="one">%d Abonné</item>
+        <item quantity="other">%d abonnés</item>
+        <item quantity="one">%d abonné</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d chansons vont être envoyées</item>

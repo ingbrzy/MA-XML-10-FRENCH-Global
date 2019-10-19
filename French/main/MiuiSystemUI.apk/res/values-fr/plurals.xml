@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Récemment ouvert, applications disponibles : %d.</item>
-        <item quantity="one">Récemment ouvert, application disponible : %d.</item>
+        <item quantity="other">Récemment ouvert, applications disponibles: %d.</item>
+        <item quantity="one">Récemment ouvert, application disponible: %d.</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Récemment ouvert, applications disponibles : %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
-        <item quantity="one">Récemment ouvert, application disponible : %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
+        <item quantity="other">Récemment ouvert, applications disponibles: %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
+        <item quantity="one">Récemment ouvert, application disponible: %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Masquer les notifications de %1$s &amp; %2$d applications.</item>
@@ -15,6 +15,10 @@
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Masquer les notifications de %d applications ?</item>
         <item quantity="one">Masquer les notifications de cette application ?</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Raccrocher dans %1$d secondes</item>
+        <item quantity="one">Raccrocher dans %1$d seconde</item>
     </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d notifications sans importance</item>
@@ -29,12 +33,12 @@
         <item quantity="one">Code PUK incorrect, %d tentative restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
-        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
+        <item quantity="other">Vous n’avez pas utilisé votre mot de passe depuis %d heures. Entrez votre mot de passe.</item>
+        <item quantity="one">Vous n’avez pas utilisé votre mot de passe depuis %d heure. Entrez votre mot de passe.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
-        <item quantity="one">Entrez votre mot de passe au moins une fois toutes les %d heures pour toujours vous en souvenir</item>
+        <item quantity="other">Vous n’avez pas utilisé votre schéma de déverrouillage depuis %d heures. Entrez votre mot de passe.</item>
+        <item quantity="one">Vous n’avez pas utilisé votre schéma de déverrouillage depuis %d heure. Entrez votre mot de passe.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Environ %d heures restantes</item>

@@ -17,45 +17,13 @@
         <item>Au moins 3 processus</item>
         <item>Au moins 4 processus</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Toujours afficher le pourcentage</item>
         <item>Afficher le pourcentage pendant la charge (par défaut)</item>
         <item>Ne pas afficher cette icône</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utiliser sélection du système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>16 bits/échantillon</item>
         <item>24 bits/échantillon</item>
         <item>32 bits/échantillon</item>

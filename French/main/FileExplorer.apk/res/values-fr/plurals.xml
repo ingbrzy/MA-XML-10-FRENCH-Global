@@ -44,16 +44,4 @@
         <item quantity="other">%1$d éléments sélectionnés</item>
         <item quantity="one">%1$d élément sélectionné</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">Fichiers correspondants dans \"%1$s\" (%2$d éléments)</item>
-        <item quantity="one">Fichier correspondant dans \"%1$s\" (%2$d élément)</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">Fichiers correspondants à \"%1$s\" (%2$d éléments)</item>
-        <item quantity="one">Fichier correspondant à \"%1$s\" (%2$d élément)</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">Fichiers correspondants à \"%1$s\" (%2$d éléments)</item>
-        <item quantity="one">Fichier correspondant à \"%1$s\" (%2$d élément)</item>
-    </plurals>
 </resources>

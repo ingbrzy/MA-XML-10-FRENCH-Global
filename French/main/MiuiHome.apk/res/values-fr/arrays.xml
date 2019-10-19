@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="editing_mode_entries">
         <item>"Fond d'écran"</item>
         <item>Widgets</item>
@@ -37,8 +29,20 @@
         <item>Poussière</item>
         <item>Tempêtes de sable</item>
         <item>Grêle</item>
-        <item>"Poussière dans l'air"</item>
+        <item>Poussière dans lair</item>
         <item>Brume</item>
+    </string-array>
+    <string-array name="cell_icon_size_entries">
+        <item>Minuscule</item>
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+        <item>Énorme</item>
+    </string-array>
+    <string-array name="minus_screen_entries">
+        <item>Aucun</item>
+        <item>"Coffre d'applications"</item>
+        <item>Google</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Par défaut</item>
