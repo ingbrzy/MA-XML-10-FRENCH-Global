@@ -3,10 +3,8 @@
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="a2dp_sink_mbs_label">Audio Bluetooth</string>
   <string name="ack_record">Enregistrement accusé de réception</string>
-  <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
   <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode avion.</string>
   <string name="airplane_error_title">Mode avion</string>
-  <string name="app_name">Bluetooth</string>
   <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
   <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
   <string name="auth_notif_title">Clé de session</string>
@@ -19,7 +17,6 @@
   <string name="bluetooth_map_remote_message_access_feature_downgrade">"Rétrogradation de la fonctionnalité d'accès aux messages à distance"</string>
   <string name="bluetooth_map_repair_for_adv_message_access_feature">Re-coupler pour accéder à un message avancé</string>
   <string name="bluetooth_map_repair_for_message_access_version_comp">"Re-coupler pour la compatibilité des versions d'accès aux messages"</string>
-  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_map_settings_app_icon">"Icône de l'application"</string>
   <string name="bluetooth_map_settings_cancel">Annuler</string>
   <string name="bluetooth_map_settings_count">Espaces libres:</string>
@@ -28,9 +25,6 @@
   <string name="bluetooth_map_settings_save">Enregistrer</string>
   <string name="bluetooth_map_settings_title">Paramètres de partage de la messagerie via le Bluetooth</string>
   <string name="bluetooth_opp_file_limit_exceeded">Impossible de transférer les fichiers supérieurs à 4 Go</string>
-  <string name="bluetooth_rc_feat_content">Peer supports advanced feature</string>
-  <string name="bluetooth_rc_feat_subtext">Re-pair from peer to enable it</string>
-  <string name="bluetooth_rc_feat_title">Bluetooth Media Browsing</string>
   <string name="bluetooth_sap_notif_disconnect_button">Déconnecter</string>
   <string name="bluetooth_sap_notif_disconnecting">En attente de déconnexion du client…</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Forcer la déconnexion</string>
@@ -41,8 +35,6 @@
   <string name="bt_enable_line1">Vous devez activer la fonction Bluetooth pour pouvoir utiliser les services Bluetooth.</string>
   <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
   <string name="bt_enable_ok">Activer</string>
-  <string name="bt_error_btn_ok">OK</string>
-  <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1_default">"Il n’ya pas assez d’espace sur la carte SD pour enregistrer le fichier. \"%1$s\""</string>
   <string name="bt_sm_2_1_nosdcard">"Il n'y a pas assez d'espace sur le stockage USB pour enregistrer le fichier \"%1$s\""</string>
   <string name="bt_sm_2_2">Espace nécessaire: %1$s</string>
@@ -59,7 +51,6 @@
   <string name="download_fail_line1">Fichier non reçu</string>
   <string name="download_fail_line2">Fichier: %1$s</string>
   <string name="download_fail_line3">Motif: %1$s</string>
-  <string name="download_fail_ok">OK</string>
   <string name="download_line1">De: \"%1$s\"</string>
   <string name="download_line2">Fichier: %1$s</string>
   <string name="download_line3">Taille du fichier: %1$s</string>
@@ -69,19 +60,16 @@
   <string name="download_succ_ok">Ouvrir</string>
   <string name="download_success">Réception de %1$s terminée</string>
   <string name="download_title">Transfert de fichier</string>
-  <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
   <string name="enabling_progress_content">Activation Bluetooth…</string>
   <string name="enabling_progress_title">Veuillez patienter…</string>
   <string name="inbound_history_title">Transferts entrants</string>
   <string name="inbound_noti_title">Partage Bluetooth: fichiers reçus</string>
-	<string name="incoming_file_confirm_Notification_caption">Do you want to receive this file?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s est prêt à envoyer le fichier \"%2$s\".</string>
   <string name="incoming_file_confirm_Notification_title">Partage Bluetooth: fichier entrant</string>
   <string name="incoming_file_confirm_cancel">Refuser</string>
   <string name="incoming_file_confirm_content">Accepter le fichier entrant ?</string>
   <string name="incoming_file_confirm_ok">Accepter</string>
   <string name="incoming_file_confirm_timeout_content">Expiration du délai de réception du fichier de \"%1$s\"</string>
-  <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Transfert de fichier</string>
   <string name="incoming_line1">Expéditeur</string>
   <string name="incoming_line2">Nom de fichier</string>
@@ -95,7 +83,6 @@
   <string name="not_exist_file">Aucun fichier</string>
   <string name="not_exist_file_desc">"Le fichier n'existe pas. 
 "</string>
-  <string name="noti_caption">%1$s réussies, %2$s non réussies.</string>
   <string name="notification_received">Partage Bluetooth: %1$s reçu</string>
   <string name="notification_received_fail">Partage Bluetooth: fichier %1$s non reçu</string>
   <string name="notification_receiving">Partage Bluetooth: réception de %1$s</string>
@@ -104,7 +91,6 @@
   <string name="notification_sent_complete">100 % effectués</string>
   <string name="notification_sent_fail">Partage Bluetooth: fichier %1$s non envoyé</string>
   <string name="notify_server">Avertir le serveur TCP</string>
-  <string name="ok_button">OK</string>
   <string name="opp_notification_group">Partage Bluetooth</string>
   <string name="outbound_history_title">Transferts sortants</string>
   <string name="outbound_noti_title">Partage Bluetooth: fichiers envoyés</string>
@@ -117,12 +103,6 @@
   <string name="permdesc_bluetoothWhitelist">"Permet à l'application d'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l'utilisateur ne soit nécessaire."</string>
   <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
   <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche</string>
-  <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
-  <string name="phonebook_advance_feature_support">Phonebook Advance Feature Supported</string>
-  <string name="remote_pbap_version_change">Remote Phonebook Profile Version Change</string>
-  <string name="remote_phonebook_feature_downgrade">Remote Phonebook Feature Downgrade</string>
-  <string name="repair_for_adv_phonebook_feature">Re-pair for Advance Phonebook Feature</string>
-  <string name="repair_for_phonebook_access_version_comp">Re-pair for Phonebook Access Version Compatibility</string>
   <string name="start_server">Démarrer le serveur TCP</string>
   <string name="status_canceled">"le transfert a été annulé par l'utilisateur."</string>
   <string name="status_connection_error">Échec de la connexion.</string>
@@ -156,6 +136,5 @@
   <string name="upload_line3">Type de fichier: %1$s (%2$s)</string>
   <string name="upload_line5">Envoi de fichier en cours...</string>
   <string name="upload_succ_line5">Fichier envoyé</string>
-  <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>
 </resources>

@@ -32,12 +32,12 @@
         <item>Poussière dans lair</item>
         <item>Brume</item>
     </string-array>
-    <string-array name="cell_icon_size_entries">
-        <item>Minuscule</item>
-        <item>Petit</item>
-        <item>Moyen</item>
-        <item>Grand</item>
-        <item>Énorme</item>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
     </string-array>
     <string-array name="minus_screen_entries">
         <item>Aucun</item>
@@ -62,5 +62,14 @@
         <item>Centre</item>
         <item>Gauche</item>
         <item>Droite</item>
+    </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Aucun</item>
+        <item>Balayez vers le haut</item>
+        <item>Barre de recherche</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>Défaut</item>
+        <item>Google</item>
     </string-array>
 </resources>

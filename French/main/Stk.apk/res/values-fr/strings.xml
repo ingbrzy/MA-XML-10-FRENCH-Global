@@ -6,7 +6,6 @@
   <string name="menu_back">Retour</string>
   <string name="service_name">Nom du service</string>
   <string name="stk_no_service">Aucun service disponible</string>
-  <string name="button_ok">OK</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_yes">Oui</string>
   <string name="button_no">Non</string>
@@ -30,5 +29,4 @@
   <string name="sim_type_sim_name">Outils SIM</string>
   <string name="sim_type_usim_name">Outils USIM</string>
   <string name="sim_type_uim_name">Outils USIM</string>
-  <string name="stk_intent_permission">Des autorisations sont requises</string>
 </resources>

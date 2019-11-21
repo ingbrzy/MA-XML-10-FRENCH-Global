@@ -29,7 +29,7 @@
   <string name="exo_track_surround_5_point_1">Son surround 5.1</string>
   <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
   <string name="exo_track_unknown">Inconnu</string>
-  <string name="fw_blocked">Liste Noire</string>
+  <string name="fw_blocked">Liste noire</string>
   <string name="fw_oversea">"Bloquer les appels de l'étranger"</string>
   <string name="fw_blocked_count">"Bloqué "</string>
   <string name="fw_blocked_join">" et "</string>
@@ -215,9 +215,9 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="loding">Chargement des données</string>
   <string name="action_source_sms_title">Messages bloqués</string>
   <string name="action_source_call_title">Appels bloqués</string>
-  <string name="st_title_open_antispam">Liste Noire</string>
+  <string name="st_title_open_antispam">Liste noire</string>
   <string name="st_title_antispam_mode">Règles</string>
-  <string name="st_sub_title_whiteblack_list_group">Liste Noire</string>
+  <string name="st_sub_title_whiteblack_list_group">Liste noire</string>
   <string name="st_title_keywords_blacklist">Liste noire des mots-clés</string>
   <string name="st_title_keywords_whitelist">Exceptions des mots-clés</string>
   <string name="st_title_blacklist_numbers">Numéros bloqués</string>
@@ -533,7 +533,7 @@ de l'opérateur"</string>
   <string name="input_aviable_traffic">"Définir la limite d'utilisation des données"</string>
   <string name="pkg_traffic">"Définir la limite d'utilisation de données"</string>
   <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
-  <string name="dialog_change_package_type_summary">La modification du type de forfait de données réinitialisera tous les paramètres dutilisation des données (ex:les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant?</string>
+  <string name="dialog_change_package_type_summary">"La modification du type de forfait de données réinitialisera tous les paramètres d'utilisation des données (ex: les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant ?"</string>
   <string name="traffic_usage_warning_limit">"Avertissement de la limite d'utilisation de données"</string>
   <string name="traffic_usage_warning_title">"Alerte d'utilisation des données"</string>
   <string name="traffic_usage_warning_body">Vous avez déjà utilisé %s Go de données mobiles ce mois-ci.</string>
@@ -543,6 +543,7 @@ de l'opérateur"</string>
   <string name="power_save_on_time_end_time_summary_na">À</string>
   <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
   <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie"</string>
+  <string name="power_save_ps_close_setting_5g">"Limitez les fonctions consommant de l'énergie (synchronisation, connectivité 5G, GPS)"</string>
   <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
   <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
   <string name="power_save_settings">Paramètres de la batterie</string>
@@ -634,7 +635,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
   <string name="traffic_correction_success_notify_message">Appuyez pour voir les détails.</string>
   <string name="sim_location_error_notify_title">Erreur de la Carte SIM</string>
   <string name="sim_location_error_notify_message">Appuyez pour modifier la localisation SIM.</string>
-  <string name="sim_location_error_dialog_message">La SIM que vous utilisez provient de %1$s. Cela diffère du paramètre que vous avez défini manuellement (%2$s). Changer la localisation SIM sur %3$s?</string>
+  <string name="sim_location_error_dialog_message">La SIM que vous utilisez provient de %1$s. Cela diffère du paramètre que vous avez défini manuellement (%2$s). Changer la localisation SIM sur %3$s ?</string>
   <string name="package_change_notification_title">Ajuster automatiquement la limite de données</string>
   <string name="package_change_notification_summary">Appuyez pour en savoir plus.</string>
   <string name="package_setted_error_notification_titile">Impossible de définir le forfait de données</string>
@@ -704,9 +705,18 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="tc_sms_report_toast_text">"Obtention d'infos…"</string>
   <string name="tc_sms_report_type">Type de rapport</string>
   <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
+  <string name="privacy_description_camera">%1s is using camera in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_camera_mic">%1s is using camera and microphone in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_mic">%1s is using microphone in the background. You can toggle the switch below to restrict this activity.</string>
   <string name="sc_allow_network_dialog_tiltle">"Impossible d'utiliser cette fonctionnalité"</string>
+  <string name="privacy_notification_subtitle">Tap to manage permissions</string>
+  <string name="privacy_notification_title_camera">%1s is using camera in the background</string>
+  <string name="privacy_notification_title_camera_mic">%1s is using camera and microphone in the background</string>
+  <string name="privacy_notification_title_mic">%1s is using microphone in the background</string>
   <string name="sc_allow_network_dialog_message">"Vous avez limité la connexion réseau et l'accès à votre localisation pour l'application Sécurité. Accordez à l'application Sécurité les autorisations requises pour utiliser cette fonctionnalité."</string>
   <string name="privacy_prompt_upload">Envoyer</string>
+  <string name="privacyapp_number_masked_text">Contenu de la notification est masqué</string>
+  <string name="privacyapp_number_unmasked_text">Contenu de la notification peut être masqué</string>
   <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
 
 Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
@@ -817,6 +827,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des applications sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
   <string name="ip_address_exception_summary">"Impossible d'obtenir une adresse IP. Si vous rencontrez à nouveau ce problème, essayez d'utiliser une adresse IP statique."</string>
   <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
+  <string name="lock_all_title">Verrouiller toutes les applications</string>
   <string name="renew_ip">Réessayer</string>
   <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
   <string name="open_now">"Autoriser l'application à utiliser le réseau mobile"</string>
@@ -934,8 +945,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="status_bar_network_flow_setup_data_plan">"   Configurer le forfait de données >"</string>
   <string name="status_bar_network_flow_phone_balance">"   Crédit du téléphone: %1$s "</string>
   <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s>%3$s&lt;/font>"</string>
-  <string name="status_bar_network_flow_content">"Aujourd'hui:%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restant: %2$s"</string>
-  <string name="status_bar_network_flow_content_not_setting">"Aujourd'hui:%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Ce mois: %2$s"</string>
+  <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restant: %2$s"</string>
+  <string name="status_bar_network_flow_content_not_setting">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Ce mois: %2$s"</string>
   <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
   <string name="pref_key_tethering_setting">Limite de données unique</string>
   <string name="pref_key_tethering_title">Limite de données unique</string>
@@ -983,6 +994,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="power_center_ontime_boot">Horaire de démarrage</string>
   <string name="power_center_time_to_boot">Horaire de démarrage</string>
   <string name="power_center_repeat">Répéter</string>
+  <string name="power_center_scan_item_title_5g">Connectivité 5G</string>
   <string name="power_center_ontime_shutdown">"Horaire d'extinction"</string>
   <string name="power_center_power_save_summary_text">"Augmenter le temps restant jusqu'à %1$d h %2$d m"</string>
   <string name="power_center_power_save_title_text">Économiseur de batterie</string>
@@ -995,6 +1007,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="power_dialog_cancel">Annuler</string>
   <string name="power_dialog_ok">OK </string>
   <string name="power_dialog_super_save_msg">"Ultra économiseur de batterie restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS, connexion au réseau, par exemple) disponibles aussi longtemps que possible. Activer l'économiseur de batterie Ultra ?"</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra économiseur de batterie restreint la plupart des fonctions consommant de l’énergie (connectivité 5G, par exemple), réduisant ainsi les performances de votre appareil. Seuls les appels, les messages et la connectivité réseau ne seront pas affectés. Activer l'économiseur de batterie Ultra ?"</string>
   <string name="power_dialog_super_save_title">Ultra économiseur de batterie</string>
   <string name="power_consume_rank_title">"Consommation d'énergie"</string>
   <string name="power_consume_rank_software">Applications</string>
@@ -1124,9 +1137,9 @@ medical card"</string>
   <string name="ew_emergency_recent_medicine">Recent active medication</string>
   <string name="ew_emergency_title">Medical card</string>
   <string name="ew_first_start_network_title">Terms and conditions</string>
-  <string name="ew_guide_law_agree">Agree</string>
+  <string name="ew_guide_law_agree">Accepter</string>
   <string name="ew_guide_law_done">Got it</string>
-  <string name="ew_guide_law_exit">"Don't agree"</string>
+  <string name="ew_guide_law_exit">"Pas d'accord"</string>
   <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
   <string name="ew_guide_law_title">Disclaimer</string>
   <string name="ew_guide_next_text">Next</string>
@@ -1187,6 +1200,7 @@ medical card"</string>
   <string name="power_analysis_suggestion_need_optimize">"Problèmes d'utilisation de la batterie détectés."</string>
   <string name="power_optimize_save_on_lockscreen">"Économiser de l'énergie pendant que l'appareil est verrouillé"</string>
   <string name="power_optimize_close_app">"Fermer les applications qui consomment excessivement de l'énergie"</string>
+  <string name="power_optimize_disable_5g">Restreindre la connectivité 5G</string>
   <string name="power_optimize_disable_app_autostart">"Empêcher les applications de s'ouvrir automatiquement"</string>
   <string name="power_optimize_disable_start_other_app">"Empêcher les applications d'ouvrir d'autres applications"</string>
   <string name="power_optimize_brightness">"Luminosité de l'écran"</string>
@@ -1355,6 +1369,7 @@ medical card"</string>
   <string name="power_center_scan_item_title_running_app">Applications fonctionnant en arrière-plan</string>
   <string name="power_center_list_item_close_bluetooth">Désactiver le Bluetooth</string>
   <string name="power_center_list_item_set_lockscreen_time">"Mettre l'écran en veille après 30 secondes d'inactivité"</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">"Verrouiller l'appareil après %d secondes d'inactivité"</string>
   <string name="power_center_one_key_save">Optimiser</string>
   <string name="power_center_list_item_auto_brightness">"Ajuster automatiquement la luminosité de l'écran"</string>
   <string name="power_center_list_item_deep_save_title">Paramètres avancés</string>
@@ -1503,7 +1518,7 @@ medical card"</string>
   <string name="menu_text_networkassistants_unit_mb">Mo</string>
   <string name="menu_text_networkassistants_unit_kb">ko</string>
   <string name="menu_text_networkassistants_unit_b">O</string>
-  <string name="menu_text_antispam">Liste Noire</string>
+  <string name="menu_text_antispam">Liste noire</string>
   <string name="menu_summary_antispam">Bloquer les appels et les messages</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_garbage_cleanup">Nettoyeur</string>
@@ -1587,7 +1602,7 @@ medical card"</string>
   <string name="pref_category_title_module_settings">Paramètres des fonctions</string>
   <string name="Settings_title_garbage_cleanup">Nettoyeur</string>
   <string name="Settings_title_network_assistants">"Paramètres d'utilisation des données"</string>
-  <string name="Settings_title_anti_spam">Liste Noire</string>
+  <string name="Settings_title_anti_spam">Liste noire</string>
   <string name="Settings_title_power_center">"Paramètre de l'optimisation de la batterie"</string>
   <string name="Settings_title_anti_virus">"Paramètres de l'analyse de sécurité"</string>
   <string name="menu_item_virus_cloud_scan_title">Base de données virales en ligne</string>
@@ -1973,8 +1988,8 @@ medical card"</string>
   <string name="ac_notification_contentTitle">"Protéger les applications sélectionnées avec Verrouillage d'application"</string>
   <string name="ac_pre_notification_contentTitle">"Essayer Verrouillage d'application"</string>
   <string name="ac_post_notification_contentTitle">"Activer le verrouillage d'application"</string>
-  <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers?</string>
-  <string name="notification_masked_item">Masquer les notifications</string>
+  <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers ?</string>
+  <string name="notification_masked_item">Comment masquer le contenu de la notification ?</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
   <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
   <string name="set_applock_password">Définir un mot de passe</string>
@@ -1984,10 +1999,10 @@ medical card"</string>
   <string name="ac_pre_notification_contentText">Protégez vos infos personnelles</string>
   <string name="ac_post_notification_contentText">Obtenir une protection de niveau système</string>
   <string name="midrop_post_notification_contentText">"Transférer des fichiers à une vitesse jusqu'à 50 Mbps avec Mi Drop."</string>
-  <string name="notification_masked_subtitle">"Masquer les notifications des applis protégées avec le Verrouillage d'application"</string>
+  <string name="notification_masked_subtitle">Utiliser le verrouillage des applications pour masquer le contenu des notifications pour les applications sélectionnées</string>
   <string name="ac_enter_applock">Ouvrir Verr. App</string>
-  <string name="ac_mask_all_apps">Masquer pour toutes les applications</string>
-  <string name="ac_unmask_all_apps">Démasquer pour toutes les applications</string>
+  <string name="ac_mask_all_apps">Masquer pour tous</string>
+  <string name="ac_unmask_all_apps">Afficher pour tous</string>
   <string name="ac_summaryOn">Entrez le mot de passe pour ouvrir les applications protégées</string>
   <string name="ac_summaryOff">"Désactivé, aucun mot de passe n'est requis pour ouvrir les applications"</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
@@ -2007,7 +2022,7 @@ medical card"</string>
   <string name="convenient_mode">Déverrouiller toutes vos applications à la fois</string>
   <string name="convenient_summary">Entrez le mot de passe une fois pour déverrouiller toutes les applications</string>
   <string name="suggest_app_tolock">Suggestions</string>
-  <string name="suggest_app_tolock_masked">Masqué</string>
+  <string name="suggest_app_tolock_masked">Contenu caché</string>
   <string name="suggest_app_tolock_unmasked">Notifications visibles</string>
   <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_password_button_text_normal">Mot de passe oublié</string>
@@ -2052,17 +2067,15 @@ medical card"</string>
   <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
   <string name="system_application">Applications système</string>
   <string name="system_permission_declare_agree">Accepter</string>
-  <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les autorisations suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
+  <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
   <string name="system_permission_declare_disagree">Refuser</string>
   <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
   <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
   <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
-  <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
-Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
-  <string name="system_permission_declare_privacy_no_permission">"Notez que %1s doit collecter vos données pour fonctionner normalement.
-Nous respectons et protégeons votre vie privée."</string>
+  <string name="system_permission_declare_privacy_declare">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur. Notez que Sécurité doit se connecter à internet et requiert les permissions suivantes pour collecter vos informations personnelles:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Notez que Sécurité doit se connecter à internet et collecter les informations personnelles requises pour vous fournir des services. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
   <string name="system_permission_declare_privacy_policy">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
   <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
   <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Permissions."</string>
@@ -2104,6 +2117,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="applock_not_add_account">Pas maintenant</string>
   <string name="applock_add_account">Ajouter</string>
   <string name="applock_not_login_account">"Vous n'êtes pas connecté"</string>
+  <string name="applock_settings_unlock_all_toast">Déverrouillé toutes les applications</string>
   <string name="applock_bind_account_title">Mot de passe oublié</string>
   <string name="applock_close_dialog_title">"Désactiver le Verrouillage d'application ?"</string>
   <string name="applock_close_dialog_summary">"Toutes les applications cachées seront affichées, leur écran d'accueil sera restauré et votre application sera supprimée. Désactiver le verrouillage de l'application ?"</string>
@@ -2138,6 +2152,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="face_unlock_finger_or_password_switch">Utilisez votre empreinte digitale ou entrez votre mot de passe pour le déverrouiller</string>
   <string name="applock_function_base_settings">"Verrouillage des applications"</string>
   <string name="applock_function_pwd_settings">Mot de passe</string>
+  <string name="applock_go_to">Paramètres</string>
   <string name="applock_face_unlock_title">Reconnaissance faciale</string>
   <string name="applock_face_unlock_summary">Déverrouiller les applis avec les données du visage</string>
   <string name="fingerprint_to_lock_summary">Déverrouiller les applis sans utiliser votre empreinte digitale</string>
@@ -2331,7 +2346,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="app_manager_data_size">Données utilisateur</string>
   <string name="app_manager_cache_size">Cache</string>
   <string name="app_manager_clear_all_data">Effacer toutes les données</string>
-  <string name="app_manager_dlg_clear_cache_title">Vider le cache?</string>
+  <string name="app_manager_dlg_clear_cache_title">Vider le cache ?</string>
   <string name="app_manager_comuting_size">Calcul…</string>
   <string name="app_manager_show_all_apps_opened">Affichage des résultats depuis toutes les applications…</string>
   <string name="app_manager_search_prompt">"Impossible de trouver des résultats ? Essayer d'afficher les résultats depuis toutes les applications."</string>
@@ -2623,7 +2638,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="gamebox_hangup_tips_title">"Éteindre l'écran"</string>
   <string name="gamebox_hangup_tips_content">"Cette fonctionnalité vous permet de désactiver l'écran, tout en maintenant le jeu en arrière-plan. Il s'éteint automatiquement une fois que vous déverrouillez votre appareil."</string>
   <string name="gamebox_immersion_tips_title">Attention</string>
-  <string name="gamebox_immersion_tips_content">"Le mode immersif restreint toutes les fonctionnalités de la carte SIM à l'exception de la connexion de données mobiles. Vous ne serez ni interrompu par des appels ou par des notifications concernant des appels manqués. Toutes les fonctionnalités de la carte SIM seront restaurées lorsque le mode Immersive est désactivé. Activer le mode immersif?"</string>
+  <string name="gamebox_immersion_tips_content">"Le mode immersif restreint toutes les fonctionnalités de la carte SIM à l'exception de la connexion de données mobiles. Vous ne serez ni interrompu par des appels ou par des notifications concernant des appels manqués. Toutes les fonctionnalités de la carte SIM seront restaurées lorsque le mode Immersive est désactivé. Activer le mode immersif ?"</string>
   <string name="gamebox_func_antimsg_open">Les notifications flottantes sont limitées maintenant</string>
   <string name="gamebox_func_antimsg_close">Les notifications flottantes sont autorisées maintenant</string>
   <string name="gamebox_func_wlan_open">Le Wi-Fi est activé maintenant</string>
@@ -2637,7 +2652,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="alert_back_milink_hangup_tips_content">"Casting won't be interrupted while you're ending a call. You can press the Power button to wake the screen."</string>
   <string name="alert_back_diving_mode_summary">Désactiver le mode Immersif maintenant ?</string>
   <string name="gamebox_immerson_open">Activaction du mode immersif, ne changez pas de réseau…</string>
-  <string name="gamebox_milink">Cast</string>
+  <string name="gamebox_milink">Caster</string>
   <string name="create_gamebooster_destop">"Création du raccourci de l'écran d'accueil avec succès"</string>
   <string name="notify_diving_mode_exception_close">Mode immersif désactivé avec succès</string>
   <string name="notify_diving_mode_exception_open_fail">"Une erreur de la carte SIM s'est produite. Impossible d'activer le mode immersif."</string>

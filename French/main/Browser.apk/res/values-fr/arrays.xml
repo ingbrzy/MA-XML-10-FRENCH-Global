@@ -6,16 +6,17 @@
         <item>Aucun</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Page de démarrage par défaut</item>
-        <item>Personnalisé</item>
+        <item>Par défaut</item>
+        <item>URL personnalisée</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Téléphone</item>
         <item>Tablette</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Affichage vertical</item>
-        <item>Affichage horizontal</item>
+        <item>Tuile</item>
+        <item>Verticale</item>
+        <item>Horizontale</item>
     </string-array>
     <string-array name="pref_tab_restore_array">
         <item>Toujours demander</item>
@@ -28,6 +29,10 @@
         <item>Normale</item>
         <item>Grande</item>
         <item>Très grande</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Signets</item>
+        <item>Historiques</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>

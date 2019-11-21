@@ -14,10 +14,6 @@
   <string name="abc_menu_meta_shortcut_label">Méta+</string>
   <string name="abc_menu_shift_shortcut_label">Maj+</string>
   <string name="abc_menu_space_shortcut_label">espace</string>
-  <string name="abc_menu_sym_shortcut_label">Sym+</string>
-  <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_menu_alt_shortcut_label">Alt+</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_search_hint">Rechercher…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -32,7 +28,6 @@
   <string name="exo_controls_fastforward_description">Avance rapide</string>
   <string name="exo_controls_fullscreen_description">Mode plein écran</string>
   <string name="exo_controls_next_description">Titre suivant</string>
-  <string name="exo_controls_pause_description">Pause</string>
   <string name="exo_controls_play_description">Lecture</string>
   <string name="exo_controls_previous_description">Titre précédent</string>
   <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
@@ -47,10 +42,8 @@
   <string name="exo_download_failed">Échec du téléchargement</string>
   <string name="exo_download_notification_channel_name">Téléchargements</string>
   <string name="exo_download_removing">Suppression des téléchargements…</string>
-  <string name="exo_track_mono">Mono</string>
   <string name="exo_track_selection_auto">Automatique</string>
   <string name="exo_track_selection_none">Aucun</string>
-  <string name="exo_track_selection_title_audio">Audio</string>
   <string name="exo_track_selection_title_text">Texte</string>
   <string name="exo_track_selection_title_video">Vidéo</string>
   <string name="exo_track_stereo">Stéréo</string>
@@ -95,14 +88,8 @@
   <string name="apply_font_btn_reboot">Redémarrer</string>
   <string name="apply_font_tip">Redémarrez pour appliquer la police de ce thème.</string>
   <string name="apply_theme_with_ringtones">Appliquer le thème avec la sonnerie</string>
-  <string name="audio_duration_minutes_format">%1$d minutes</string>
   <string name="audio_duration_seconds_format">%1$d secondes</string>
   <string name="audition_ringtone">Jouer</string>
-  <string name="author_attention">Follow</string>
-  <string name="author_attention_success">Followed successfully</string>
-  <string name="author_dialog_message">Unfollow this account now?</string>
-  <string name="author_dynamic">Status</string>
-  <string name="author_dynamic_no_resource">"Couldn't find results"</string>
   <string name="automatically_update_using_theme_tips">Mettre à jour automatiquement la prochaine fois</string>
   <string name="backup_theme_dialog_message">Sauvegarder votre thème actuel ?</string>
   <string name="backup_theme_dialog_ok">Sauvegarder</string>
@@ -137,7 +124,6 @@
   <string name="component_title_wallpaper">"Fonds d'écran"</string>
   <string name="count_down_tip">%ds restant</string>
   <string name="current_using_desktop_wallpaper_text">"Écran d'accueil"</string>
-  <string name="current_using_float_wallpaper_text">Transparent</string>
   <string name="current_using_lockscreen_wallpaper_text">Écran de verrouillage</string>
   <string name="current_version">Version actuelle: %1$s</string>
   <string name="current_version_incompatible">Non compatible</string>
@@ -148,13 +134,9 @@
   <string name="description_size">Taille</string>
   <string name="description_summary">Résumé</string>
   <string name="description_uploadtime">Mise à jour</string>
-  <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Taille: %2$s</string>
   <string name="desktop_effects">"Effets de l'écran d'accueil"</string>
   <string name="desktop_wallpaper">"Écran d'accueil"</string>
-  <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
-  <string name="detail_author_fans">"Followers: "</string>
-  <string name="detail_author_works">"Items: "</string>
   <string name="detail_recommend_title">Vous aimerez sûrement ceux-là</string>
   <string name="dev_options">Options développeur</string>
   <string name="dev_options_summary">Ressources Web</string>
@@ -209,7 +191,6 @@
   <string name="gift_use_confirmation_dlg_title">Envoyer ce cadeau ?</string>
   <string name="gift_use_fail_dlg_title">Erreur</string>
   <string name="gift_used">Envoyé</string>
-  <string name="go_accessibility_setting">Sélectionner</string>
   <string name="goto_purchased_list">"Afficher l'historique des achats"</string>
   <string name="goto_wechat">Compte WeChat copié \"%1$s\" au presse-papier. Ouvrez WeChat maintenant ?</string>
   <string name="has_mamual_hide_font">Caché</string>
@@ -244,7 +225,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
   <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>
-  <string name="item_resource_audio_optional_notification_ring">Notifications</string>
   <string name="item_resource_audio_optional_phone_ring">Sonnerie</string>
   <string name="kuyin_user_agreement_content">"Les abonnements de sonnerie personnalisés sont fournis par iFlytek. Vous devez accepter %s avant d'utiliser des abonnements de sonnerie personnalisés. Acceptez-vous ?"</string>
   <string name="kuyin_user_agreement_content_href">"Politique de confidentialité d'iFlytek"</string>
@@ -277,12 +257,10 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="miuishare_account_login_ok">Se connecter</string>
   <string name="miuishare_account_need_activate">Partager avec Weibo nécessite un compte Weibo qui est associé à votre compte Mi. Activez votre compte Mi pour continuer.</string>
   <string name="miuishare_account_need_login">Partager avec Weibo nécessite un compte Weibo qui est associé à votre compte Mi. Connectez-vous à votre compte Mi pour continuer.</string>
-  <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_mini_program_title">"Vérifiez le fond d'écran que j'ai trouvé !"</string>
   <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
   <string name="miuishare_please_retry">"Impossible d'obtenir les informations. Vérifiez vos paramètres de réseau puis réessayez."</string>
   <string name="miuishare_publish">Envoyer</string>
-  <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Partagé avec succès</string>
   <string name="miuishare_share_editor_title">Partager</string>
   <string name="miuishare_share_fail">Impossible de partager</string>
@@ -290,7 +268,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="miuishare_title_more">Plus</string>
   <string name="miuishare_title_share">Partager</string>
   <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="mix_global_option">Général</string>
   <string name="mix_global_option_des">Panneau de notification, Téléphone, Messages et autres éléments du système. Décochez cette case pour utiliser les options par défaut.</string>
   <string name="mix_home_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
@@ -310,20 +287,16 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="network_exception">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="no_data">Impossible de se connecter au réseau</string>
   <string name="no_net_work_connection">Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="official_accounts">WeChat</string>
   <string name="online_no_network">Impossible de se connecter au réseau</string>
   <string name="online_precust_abstract">Abstrait</string>
-  <string name="online_precust_animal">Animal</string>
   <string name="online_precust_building">Bâtiment</string>
   <string name="online_precust_creative">Créatif</string>
-  <string name="online_precust_hatsune">Hatsune</string>
   <string name="online_precust_lifestyle">Mode de vie</string>
   <string name="online_precust_museum">Musée anglais</string>
   <string name="online_precust_plant">Plante</string>
   <string name="online_precust_scenery">Paysage</string>
   <string name="online_search_hint">Chercher des ressources en ligne</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
-  <string name="playing_ringtone">Playing</string>
   <string name="pref_privacy_policy">Politique de confidentialité</string>
   <string name="present_local_fonts">Mes polices</string>
   <string name="present_local_themes">Mes thèmes</string>
@@ -387,7 +360,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_comment_limit">Pas si vite ! Revenez après avoir utilisé ce thème un peu plus longtemps.</string>
   <string name="resource_comment_loading_list">Chargement…</string>
   <string name="resource_comment_name_default">Surnom</string>
-  <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Pas encore de commentaires ici. Vous pouvez être le premier à laisser un commentaire.</string>
   <string name="resource_comment_over_limit">Votre commentaire est trop long. Raccourcissez le et réessayez.</string>
   <string name="resource_comment_publish">Envoyer</string>
@@ -426,11 +398,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_download">Télécharger</string>
   <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
   <string name="resource_download_notification_title_one">Thème téléchargé</string>
-  <string name="resource_download_trial">Try</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
   <string name="resource_exchange">Rembourser</string>
-  <string name="resource_exchange_confirm">OK</string>
   <string name="resource_exchange_empty_format">Entrez le code cadeau</string>
   <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
   <string name="resource_exchange_has_expired">Le code que vous avez entré a expiré.</string>
@@ -475,7 +445,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_no_match_app">Aucune application trouvée pour effectuer cette action.</string>
   <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
   <string name="resource_no_result">Aucun résultat</string>
-  <string name="resource_notification_default">Notifications</string>
   <string name="resource_on_trial">Essayer: %1$s</string>
   <string name="resource_online">En ligne</string>
   <string name="resource_online_picker">Choisir une sonnerie en ligne</string>
@@ -505,7 +474,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_save_to_note">Enregistrer dans Notes</string>
   <string name="resource_search_color_hint_blue">Bleu</string>
   <string name="resource_search_color_hint_green">Vert</string>
-  <string name="resource_search_color_hint_orange">Orange</string>
   <string name="resource_search_color_hint_purple">Pourpre</string>
   <string name="resource_search_color_hint_red">Rouge</string>
   <string name="resource_search_color_hint_yellow">Jaune</string>
@@ -546,7 +514,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_trial_end_time">"(Essai jusqu'à %1$s)"</string>
   <string name="resource_trial_end_time_format">hh:mma d MMM</string>
   <string name="resource_trial_end_title">"Période d'essai expirée"</string>
-  <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_trial_fail_go_settings">Paramètres</string>
   <string name="resource_trial_fail_message">Assurez-vous que votre horloge système est réglée à la bonne heure.</string>
   <string name="resource_trial_fail_title">"Impossible de mettre en place la séance d'essai"</string>
@@ -555,9 +522,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_trial_minutes">(Essai: %1$d min)</string>
   <string name="resource_unknow_error">Une erreur inconnue est survenue</string>
   <string name="resource_update">Mettre à jour</string>
-  <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">En attente</string>
-  <string name="resource_waiting_pause">Pause</string>
   <string name="resource_wallpaper_download">"Télécharger fond d'écran"</string>
   <string name="ringtone_set_success">Défini avec succès</string>
   <string name="sdcard_not_mounted_dialog_message">"Insérez une carte SD maintenant.
@@ -566,8 +531,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="search_hint_header_text">Mots clés</string>
   <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
   <string name="server_internal_error">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
-  <string name="service_btn_text_know">知道啦</string>
-  <string name="service_btn_text_try">试试看</string>
   <string name="set_color_ring_back_tone">Définir une sonnerie personnalisée de rappel</string>
   <string name="settings">Paramètres</string>
   <string name="shortcut_add">Ajouter</string>
@@ -575,7 +538,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="shortcut_message">"Ajouter un raccourci à l'écran d'accueil !"</string>
   <string name="shortcut_show_tip">Ne plus afficher</string>
   <string name="shortcut_title">"Aimez-vous nos fonds d'écran ?"</string>
-  <string name="show_free">Afficher gratuitement %1$s</string>
   <string name="show_free_font">Afficher les polices gratuites</string>
   <string name="show_free_theme">Afficher les thèmes gratuits</string>
   <string name="show_free_wallpaper">"Afficher les fonds d'écran gratuits"</string>
@@ -590,7 +552,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
   <string name="theme_apply_audio_dialog_item_color_ring_back_tone">CRBT</string>
   <string name="theme_apply_audio_dialog_item_mms">Sonnerie de messagerie</string>
-  <string name="theme_apply_audio_dialog_item_notification">Notification</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Sonnerie</string>
   <string name="theme_apply_failured">"Impossible d'appliquer"</string>
   <string name="theme_apply_success">Appliqué avec succès</string>
@@ -626,7 +587,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="theme_component_title_lockwallpaper">Écran de verrouillage</string>
   <string name="theme_component_title_miwallpaper">"Fond d'écran MIUI"</string>
   <string name="theme_component_title_mms">Messages</string>
-  <string name="theme_component_title_notification">Notification</string>
   <string name="theme_component_title_others">Autres</string>
   <string name="theme_component_title_photo_frame">Cadre images</string>
   <string name="theme_component_title_ringtone">Sonnerie</string>
@@ -695,14 +655,11 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="transparent_wallpaper_filter_setting">Applications individuelles</string>
   <string name="transparent_wallpaper_guide">Allez à Thèmes</string>
   <string name="transparent_wallpaper_guide_tip">"Vous pouvez sélectionner un fond d'écran transparent dans Thèmes dès maintenant."</string>
-  <string name="transparent_wallpaper_is_running_in_background">Transparent wallpaper is running in the background</string>
   <string name="transparent_wallpaper_pref_summary">"Fonds d'écran avec une opacité de fond réduite"</string>
   <string name="transparent_wallpaper_white_wallpaper">Rendre le fond blanc</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">"Impossible de rendre le fond blanc"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">La couleur de fond est blanche maintenant</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Le papier peint transparent semble le meilleur sur fond blanc</string>
-	<string name="trial_count_empty">No more free items left for today. Come back tomorrow!</string>
-  <string name="trial_count_tip">Trial period ends in %1$s:%2$s:%3$s</string>
   <string name="trial_for_free">Essai gratuit</string>
   <string name="trial_get_failed_tip">Terminez en regardant la vidéo pour obtenir le thème.</string>
   <string name="trial_get_success_tip">"Félicitations ! Vous avez un essai gratuit de 3 jours."</string>
@@ -737,7 +694,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="video_data_tips_title">"Alerte d'utilisation des données"</string>
   <string name="video_silence_apply_success">Configuration de la vidéo sans son est un succès</string>
   <string name="video_wallpaper_import">Appuyez pour ajouter des éléments</string>
-  <string name="wallpaper_24h">24H</string>
   <string name="wallpaper_apply">Appliquer</string>
   <string name="wallpaper_crop">Rogner</string>
   <string name="wallpaper_decoded_error">Erreur de chargement</string>
@@ -760,14 +716,11 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="wallpaper_loop_my_desk_wallpaper">"Mes fonds d'écran d'accueil"</string>
   <string name="wallpaper_loop_my_lock_wallpaper">"Mes fonds d'écran de verrouillage"</string>
   <string name="wallpaper_loop_order_desc">"Sélectionnez l'ordre dans lequel les diapositives apparaissent"</string>
-  <string name="wallpaper_loop_order_loop">Original</string>
   <string name="wallpaper_loop_order_shuffle">Aléatoire</string>
   <string name="wallpaper_loop_order_title">Ordre des diapositives</string>
   <string name="wallpaper_loop_title">"Diaporama de fond d'écran"</string>
   <string name="wallpaper_loop_title_desk_wallpaper">"Diaporama de fond d'écran sur l'écran d'accueil"</string>
   <string name="wallpaper_loop_title_lock_walpaper">"Diaporama de fond d'écran sur l'écran de verrouillage"</string>
-  <string name="wallpaper_no_favorite">No items here yet.</string>
-  <string name="wallpaper_no_record">No items here yet.</string>
   <string name="wallpaper_online">"Fonds d'écran en ligne"</string>
   <string name="wallpaper_online_no_more">"C'est tout pour le moment"</string>
   <string name="wallpaper_online_tip">"Connectez-vous au réseau pour voir plus d'éléments"</string>
@@ -783,7 +736,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="wallpaper_settings_page_title">"Fond d'écran"</string>
   <string name="wallpaper_static">Statique</string>
   <string name="wechat_not_found">Installez WeChat en premier</string>
-  <string name="weibo">Weibo</string>
   <string name="wifi_check_cancel">Annuler</string>
   <string name="wifi_check_confirm">Confirmer</string>
   <string name="wifi_check_message">Utiliser les données mobiles pour télécharger les mises à jour?</string>

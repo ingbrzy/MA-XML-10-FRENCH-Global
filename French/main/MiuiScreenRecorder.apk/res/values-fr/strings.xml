@@ -31,7 +31,6 @@
   <string name="gleam_led_while_recording">"Le voyant de notifications clignote lors de l'enregistrement"</string>
   <string name="hint_back">Retour</string>
   <string name="hint_home">Accueil</string>
-  <string name="hint_menu">Menu</string>
   <string name="hint_power">Puissance</string>
   <string name="hint_volume_down">Volume diminué</string>
   <string name="hint_volume_up">Volume augmenté</string>
@@ -61,7 +60,6 @@
   <string name="recording_without_mic">"Le microphone est occupé, impossible d'enregistrer un son maintenant."</string>
   <string name="resolution">Résolution</string>
   <string name="resolution_summary">Les vidéos avec une résolutiion plus élevée sont plus nettes</string>
-  <string name="screen_orientation">Orientation</string>
   <string name="screen_orientation_summary">Orientation des vidéos enregistrées</string>
   <string name="screen_record_option">"Options d'enregistrement"</string>
   <string name="screen_record_params">"Paramètres d'enregistrement"</string>

@@ -8,7 +8,6 @@
   <string name="app_label">Spouler impress.</string>
   <string name="blocked_notification_title_template">Impression de \"%1$s\" bloquée</string>
   <string name="button_delete">Supprimer</string>
-  <string name="button_ok">OK</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_print">Annuler la tâche</string>
   <string name="cancelling_notification_title_template">Annulation de \"%1$s\" en cours…</string>
@@ -29,12 +28,8 @@
   <string name="generating_print_job">Génération tâche impression…</string>
   <string name="install_for_print_preview">"Installer un lecteur PDF pour afficher l'aperçu"</string>
   <string name="label_color">Couleur</string>
-  <string name="label_copies">Copies</string>
-  <string name="label_copies_summary">Copies:</string>
-  <string name="label_destination">Destination</string>
   <string name="label_duplex">Recto verso</string>
   <string name="label_orientation">Disposition</string>
-  <string name="label_pages">Pages</string>
   <string name="label_paper_size">Taille du papier</string>
   <string name="label_paper_size_summary">Taille du papier:</string>
   <string name="more_options_button">"Plus d'options"</string>
@@ -45,7 +40,7 @@
   <string name="open_print_service">"Activer l'impression"</string>
   <string name="open_print_service_tips">"Pour pouvoir utiliser cette fonction, activez d’abord l’impression dans les paramètres."</string>
   <string name="open_wlan">Activer le Wi-Fi</string>
-  <string name="open_wlan_tips">Activez le Wi-Fi pour trouver les imprimantes plus rapidement.</string>
+  <string name="open_wlan_tips">Activer le Wi-Fi pour trouver des imprimantes</string>
   <string name="other_printer">Autres imprimantes</string>
   <string name="page_description_template">Page %1$d sur %2$d</string>
   <string name="pages_range_example">ex: 1-5, 8, 11-13</string>
@@ -62,7 +57,7 @@
   <string name="print_fail_network_error">"Impossible d'imprimer. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="print_forget_printer">"Supprimer l'imprimante"</string>
   <string name="print_help_label">Aide</string>
-  <string name="print_help_tip">"Assurez-vous que votre téléphone et l'imprimante sont connectés au même réseau Wi-Fi ou que Wi-Fi Direct est activé. Voir \"Aide\"."</string>
+  <string name="print_help_tip">"Assurez-vous que l'imprimante et votre téléphone sont connectés au même réseau Wi-Fi ou le Wi-Fi Direct activé. %1$s."</string>
   <string name="print_help_tip_reg">Aide</string>
   <string name="print_no_print_services">"Aucun service d'impression activé"</string>
   <string name="print_no_printers">Aucune imprimante trouvée</string>
@@ -107,5 +102,4 @@
   <string name="system_print_service_help">"A propos de l'impression"</string>
   <string name="template_all_pages">Toutes (%1$s)</string>
   <string name="template_page_range">Plage de %1$s</string>
-  <string name="wifi_direct">Wi-Fi Direct</string>
 </resources>

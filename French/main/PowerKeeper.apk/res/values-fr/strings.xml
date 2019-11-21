@@ -25,7 +25,6 @@
   <string name="power_center">Optimisation de la batterie</string>
   <string name="power_usage">"Consommation d'énergie"</string>
   <string name="power_mode">"Paramètres de gestion d'énergie"</string>
-  <string name="performance_category">Performance</string>
   <string name="permstep_description">"Autoriser cette application à accéder à vos nombres de pas"</string>
   <string name="permstep_label">Accès aux nombres de pas</string>
   <string name="pref_config_title">Optimisation des performances</string>
@@ -33,7 +32,6 @@
   <string name="app_preload_policies_summary">"Utilisez l'apprentissage automatique pour prévoir les applications les plus susceptibles d'être utilisées et charger les ressources à l'avance."</string>
   <string name="scenario_policies_warmcontrol">Contrôle de température</string>
   <string name="warm_configure">Paramètres du contrôle de température</string>
-  <string name="important_warning">Attention</string>
   <string name="confirm">Confirmer</string>
   <string name="warm_performance_tip">Votre appareil chauffera plus lorsque plusieurs traitements seront en cours.</string>
   <string name="vip_feedback">Commentaire VIP</string>
