@@ -44,6 +44,10 @@
         <item quantity="other">(%d fichiers)</item>
         <item quantity="one">(%d fichier)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d fichiers</item>
         <item quantity="one">%1$d fichier</item>
@@ -235,6 +239,10 @@
     <plurals name="photo_remain_days">
         <item quantity="other">%d jours</item>
         <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Les photos sélectionnées ne se trouvent pas sur l'appareil. Voulez-vous les télécharger en utilisant vos données mobiles ?"</item>

@@ -11,26 +11,10 @@
         <item>4 Mbits/s</item>
         <item>1 Mbits/s</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>24 fps</item>
-        <item>30 fps</item>
-        <item>48 fps</item>
-        <item>60 fps</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Auto</item>
         <item>Portrait</item>
         <item>Paysage</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_resolution">
-        <item>1080p</item>
-        <item>720p</item>
-        <item>480p</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_resolution_values">
-        <item>1080</item>
-        <item>720</item>
-        <item>480</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Désactiver le son</item>
@@ -40,10 +24,5 @@
     <string-array name="screenrecorder_settings_storage_location">
         <item>Stockage Interne</item>
         <item>Stockage externe</item>
-    </string-array>
-    <string-array name="screenrecorder_utils_support_high_frames_cpu">
-        <item>Qualcomm Technologies, Inc SDM845</item>
-        <item>Qualcomm Technologies, Inc MSM8998</item>
-        <item>Qualcomm Technologies, Inc SM8150</item>
     </string-array>
 </resources>

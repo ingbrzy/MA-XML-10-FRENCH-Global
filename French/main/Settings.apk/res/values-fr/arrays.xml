@@ -281,26 +281,26 @@
       <item>Meilleur effort (débit binaire adaptatif)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Latence courte</item>
-        <item>Latence moyenne</item>
-        <item>Longue latence</item>
+      <item>Latence courte</item>
+      <item>Latence moyenne</item>
+      <item>Longue latence</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Latence courte (50~100ms)</item>
-        <item>Latence moyenne (150~200ms)</item>
-        <item>Longue latence (300~500ms)</item>
+      <item>Latence courte (50~100ms)</item>
+      <item>Latence moyenne (150~200ms)</item>
+      <item>Longue latence (300~500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimisé pour la qualité de la connexion</item>
-        <item>Qualité audio et de connexion équilibrée</item>
-        <item>Optimisé pour la qualité audio</item>
-        <item>Meilleur effort (débit binaire automatique)</item>
+      <item>Optimisé pour la qualité de la connexion</item>
+      <item>Qualité audio et de connexion équilibrée</item>
+      <item>Optimisé pour la qualité audio</item>
+      <item>Meilleur effort (débit binaire automatique)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimisé pour la qualité de la connexion (400kbps)</item>
-        <item>Qualité audio et de connexion équilibrée (500/560kbps)</item>
-        <item>Optimisé pour la qualité audio (900kbps)</item>
-        <item>Meilleur effort (Auto Bit Rate)</item>
+      <item>Optimisé pour la qualité de la connexion (400kbps)</item>
+      <item>Qualité audio et de connexion équilibrée (500/560kbps)</item>
+      <item>Optimisé pour la qualité audio (900kbps)</item>
+      <item>Meilleur effort (Auto Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
       <item>Utiliser sélection du système (par défaut)</item>
@@ -360,6 +360,13 @@
       <item>Cinq minutes</item>
       <item>Une heure</item>
       <item>Aucun délai</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Désactivé</item>
+        <item>Activé filtre</item>
+        <item>Activé</item>
+        <item>Activé \"En-têtes filtrés\"</item>
+        <item>Activé \"Paquets multimédias filtrés\"</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
       <item>1 seconde</item>
@@ -1072,8 +1079,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="screen_optimize_title">
 	  <item>Auto (recommandé)</item>
-      <item>Contraste automatique</item>
-      <item>Augmenter le contraste</item>
+      <item>Saturé</item>
       <item>Par défaut</item>
     </string-array>
     <string-array name="screen_saturation_title">
@@ -1183,14 +1189,14 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>"Échelle d'animation 10x"</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>"Ajustez les couleurs en fonction de l'éclairage actuel"</item>
-        <item>Toujours améliorer les couleurs</item>
-        <item>"Restaurez la couleur standard du contenu de l'écran avec l'étalonnage des couleurs"</item>
+      <item>"Ajustez les couleurs en fonction de l'éclairage actuel"</item>
+      <item>Toujours améliorer les couleurs</item>
+      <item>"Restaurez la couleur standard du contenu de l'écran avec l'étalonnage des couleurs"</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Auto (recommandé)</item>
-        <item>Saturé</item>
-        <item>"Couleur d'origine"</item>
+      <item>Auto (recommandé)</item>
+      <item>Saturé</item>
+      <item>"Couleur d'origine"</item>
     </string-array>
     <string-array name="tts_rate_entries">
       <item>Très lent</item>
@@ -1394,8 +1400,8 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>Média</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-      <item>Use randomized MAC</item>
-      <item>Use device MAC</item>
+      <item>Utiliser un MAC aléatoire</item>
+      <item>"Utiliser le MAC de l'appareil"</item>
     </string-array>
     <string-array name="aod_clock_style_entries">
       <item>Horizontal</item>

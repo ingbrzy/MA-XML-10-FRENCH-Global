@@ -32,41 +32,41 @@
         <item quantity="other">%d secondes</item>
         <item quantity="one">%d seconde</item>
     </plurals>
-    <plurals name="sleep_duration_hour">
-        <item quantity="other">%1$s heures</item>
+	<plurals name="sleep_duration_hour">
+        <item quantity="other">%1s heures</item>
         <item quantity="one">%1$s heure</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1$s h</item>
-        <item quantity="one">%1$s h</item>
+        <item quantity="other">%1s heures</item>
+        <item quantity="one">%1$s heure</item>
     </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%1$s minutes</item>
         <item quantity="one">%1$s minute</item>
     </plurals>
     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s min</item>
+        <item quantity="other">%1$s mins</item>
         <item quantity="one">%1$s min</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Intervalle de répétition changé à %d minutes</item>
-        <item quantity="one">Intervalle de répétition changé à %d minute</item>
+        <item quantity="other">"Changer l'intervalle de répétition pour %d minutes"</item>
+        <item quantity="one">"Changer l'intervalle de répétition pour %d minute"</item>
     </plurals>
     <plurals name="snooze_duration_count">
-        <item quantity="other">Déclencher %1$s fois</item>
-        <item quantity="one">Déclencher %1$s fois</item>
+        <item quantity="other">Go off %1$s times</item>
+        <item quantity="one">Go off %1$s time</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">Toutes les %1$s minutes, se déclenche %2$s fois</item>
-        <item quantity="one">Chaque%1$s minute, se déclenche %2$s fois</item>
+        <item quantity="other">Toutes les %1$s min, go off %2$s times</item>
+        <item quantity="one">Every %1$s min, go off %2$s time</item>
     </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Toutes les %1$s mins</item>
-        <item quantity="one">Chaque %1$s min</item>
+        <item quantity="one">Toutes les %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">"L'alarme se déclenchera %2$s fois (%1$s chaque min.)"</item>
-        <item quantity="one">"L'alarme se déclenchera %2$s fois (%1$s min.)"</item>
+        <item quantity="other">"L'alarme sonnera %2$s fois (chaque %1$s min.)"</item>
+        <item quantity="one">"L'alarme sonnera %2$s fois (%1$s min.)"</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Rappel dans %d mins</item>

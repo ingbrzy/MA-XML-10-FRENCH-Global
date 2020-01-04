@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="recommendation_desc_week">
-        <item>Recommendations du dimanche</item>
-        <item>Recommendations du lundi</item>
-        <item>Recommendations du mardi</item>
-        <item>Recommendations du mercredi</item>
-        <item>Recommendations du jeudi</item>
-        <item>Recommendations du vendredi</item>
-        <item>Recommendations du samedi</item>
+        <item>Recommandations du dimanche</item>
+        <item>Recommandations du lundi</item>
+        <item>Recommandations du mardi</item>
+        <item>Recommandations du mercredi</item>
+        <item>Recommandations du jeudi</item>
+        <item>Recommandations du vendredi</item>
+        <item>Recommandations du samedi</item>
     </string-array>
 </resources>

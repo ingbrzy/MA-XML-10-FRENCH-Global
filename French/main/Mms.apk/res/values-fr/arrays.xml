@@ -56,6 +56,13 @@
         <item>never resize</item>
         <item>always resize a selected option which is then stored as default value</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>Fraude</item>
+        <item>Contenu explicite ou illégal</item>
+        <item>Spam</item>
+        <item>Autre</item>
+        <item>Annuler</item>
+    </string-array>
     <string-array name="recv_type">
         <item>Recevoir et notifier</item>
         <item>Recevoir seulement</item>
