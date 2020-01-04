@@ -23,24 +23,24 @@
         <item>100 %</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>16 bits par échantillon</item>
         <item>24 bits par échantillon</item>
         <item>32 bits par échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>16 bits par échantillon</item>
         <item>24 bits par échantillon</item>
         <item>32 bits par échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
         <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
         <item>Stéréo</item>
     </string-array>
@@ -57,21 +57,21 @@
         <item>Qualité de lecture optimale (débit adaptatif)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>44,1 kHz</item>
         <item>48 kHz</item>
         <item>88,2 kHz</item>
         <item>96 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>44,1 kHz</item>
         <item>48 kHz</item>
         <item>88,2 kHz</item>
         <item>96 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Audio Qualcomm® aptX™</item>
@@ -81,7 +81,7 @@
         <item>Désactiver les codecs facultatifs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Audio Qualcomm® aptX™</item>
@@ -107,6 +107,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Désactivé</item>
+        <item>Activé et filtré</item>
+        <item>Activé</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Couleurs améliorées</item>

@@ -117,6 +117,7 @@
     <string name="exo_track_surround_5_point_1">Son ambiophonique 5.1</string>
     <string name="exo_track_surround_7_point_1">Son ambiophonique 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
+    <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="mr_button_content_description">Bouton Diffuser</string>
     <string name="mr_cast_button_connected">Bouton Diffuser. Connecté</string>
     <string name="mr_cast_button_connecting">Bouton Diffuser. Connexion en cours…</string>

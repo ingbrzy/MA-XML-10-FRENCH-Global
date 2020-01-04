@@ -18,8 +18,8 @@
         <item>Ce soir</item>
         <item>Demain</item>
         <item>Weekend</item>
-        <item>Semaine prochaine</item>
-        <item>Mois prochain</item>
+        <item>Semaine suivante</item>
+        <item>Mois suivant</item>
         <item>Choisir une date</item>
     </string-array>
     <string-array name="compose_modes">
@@ -52,23 +52,18 @@
         <item>Liste de conversation</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
-        <item>Tout</item>
-        <item>Seuls les destinataires</item>
-    </string-array>
-    <string-array name="prefValues_autoAdvance">
-        <item>jamais</item>
-        <item>anicien</item>
-        <item>liste</item>
+        <item>Tous</item>
+        <item>Seulement des expéditeurs</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Adresse:</item>
-        <item>Tél:</item>
-        <item>Nom:</item>
-        <item>E-mail:</item>
-        <item>Mobile:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Code postal:</item>
+        <item>Adresse :</item>
+        <item>Tél :</item>
+        <item>Nom :</item>
+        <item>E-mail :</item>
+        <item>Mobile :</item>
+        <item>WeChat :</item>
+        <item>Fax :</item>
+        <item>Code postal :</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Merci,</item>
@@ -81,21 +76,5 @@
         <item>Cet e-mail</item>
         <item>Avertissement</item>
         <item>Avertissement par email</item>
-    </string-array>
-    <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
-        <item>normal</item>
-        <item>large</item>
-        <item>huge</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Avertissement:</item>
-        <item>Avis de non responsabilité</item>
-        <item>Envoyé via WPSMail</item>
-        <item>Envoyé de</item>
-        <item>Envoyé avec</item>
-        <item>Merci,</item>
-        <item>Sincères salutations</item>
     </string-array>
 </resources>
