@@ -8,16 +8,12 @@
     <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">supprimer</string>
     <string name="abc_menu_enter_shortcut_label">entrée</string>
     <string name="abc_menu_function_shortcut_label">Fonction+</string>
     <string name="abc_menu_meta_shortcut_label">Méta+</string>
     <string name="abc_menu_shift_shortcut_label">Maj+</string>
     <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Recherche en cours...</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -47,7 +43,6 @@
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_next_description">Chanson suivante</string>
-    <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Lire</string>
     <string name="exo_controls_previous_description">Chanson précédente</string>
     <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
@@ -64,5 +59,4 @@
     <string name="s6">"Autoriser l'annonce à créer un événement dans l'agenda?"</string>
     <string name="s7">Annonce test</string>
     <string name="search_menu_title">Rechercher</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

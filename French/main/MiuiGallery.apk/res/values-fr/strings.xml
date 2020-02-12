@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+  <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">Désactiver</string>
   <string name="abc_capital_on">Activer</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -47,6 +47,7 @@
   <string name="add_to_secret_failed_with_reason">"Ne peut être ajouté à l'album caché. %1$s."</string>
   <string name="add_to_secret_successful">"Ajouté à l'album privé"</string>
   <string name="add_to_share_album_not_delete">"Vous ne pouvez pas supprimer la photo d'un album partagé"</string>
+  <string name="scanning_device_tips">"Recherche d'appareils à proximité… Assurez-vous que l'autre appareil est en mode détectable."</string>
   <string name="added_to_favorites">Ajouté aux favoris</string>
   <string name="added_to_favorites_desc">Ajouté aux favoris</string>
   <string name="added_to_favorites_tip">"Ajoutés à l'album \"Favoris\""</string>
@@ -245,7 +246,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Autre</string>
   <string name="by_sms">SMS</string>
-  <string name="byteShort">o</string>
+  <string name="byteShort">" o"</string>
   <string name="camera_needs_auto_backup_tip">"L'album photo doit être synchronisé"</string>
   <string name="can_authorize_owner_albums_share_to_tv">"Autoriser l'affichage d'albums sur votre téléviseur"</string>
   <string name="can_not_transfer_when_screening">Impossible de lancer pendant les transferts</string>
@@ -496,7 +497,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="editor_talkback_undo">Annuler</string>
   <string name="editphoto_datetime_needdownload_origin_subtitle">"Téléchargez le fichier original de Xiaomi Cloud pour pouvoir changer l'heure."</string>
   <string name="editphoto_datetime_needdownload_origin_title">"Télécharger l'original"</string>
-  <string name="email_picker_title">Ajouter un e-mail partagée</string>
+  <string name="email_picker_title">Ajouter un E-mail partagée</string>
   <string name="empty_album_cloud_list_title">Aucun album à synchroniser</string>
   <string name="empty_album_hidden_list_title">Aucun album caché</string>
   <string name="empty_description_conditions">Rappelez-vous les choses qui comptent</string>
@@ -514,7 +515,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="enable_face_album_title">Trier par personnes</string>
   <string name="enable_midrop">Activer</string>
   <string name="enter_choice_mode">Boîte de dialogue Partager ouverte</string>
-  <string name="enter_email_hint">"Saisir l'adresse e-mail"</string>
+  <string name="enter_email_hint">"Saisir l'adresse E-mail"</string>
   <string name="error_album_not_exist">"L'album n'existe pas"</string>
   <string name="error_build_thumbnail_action">Télécharger le fichier original</string>
   <string name="error_build_thumbnail_msg">Impossible de télécharger la miniature. Essayez de télécharger le fichier original.</string>
@@ -720,7 +721,7 @@ sont disponibles"</string>
   <string name="generate_story_title">Souvenirs</string>
   <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
   <string name="gif_tip">GIF</string>
-  <string name="gigabyteShort">Go</string>
+  <string name="gigabyteShort">" Go"</string>
   <string name="grant_permission_go_and_set">Définir</string>
   <string name="grant_permission_text">"La Galerie a besoin de se connecter à 
 %s
@@ -783,7 +784,7 @@ sont disponibles"</string>
   <string name="kick_sharer">Retirer les accès partagés</string>
   <string name="kick_sharer_failed">Impossible de supprimer cette personne</string>
   <string name="kick_sharer_successfully">Cette personne a été supprimée</string>
-  <string name="kilobyteShort">ko</string>
+  <string name="kilobyteShort">" Ko"</string>
   <string name="limit_height">La hauteur doit être > 0</string>
   <string name="limit_width">La largeur doit être > 0</string>
   <string name="load_complete">Aucun élément ici</string>
@@ -825,7 +826,7 @@ pour personnaliser Galerie"</string>
   <string name="mark_operation_processing">Traitement en cours…</string>
   <string name="mark_operation_succeeded">Ajouté avec succès</string>
   <string name="mark_people_ignore_info_message">Appuyez et maintenir les photos des personnes pour les ajouter à des groupes</string>
-  <string name="megabyteShort">Mo</string>
+  <string name="megabyteShort">" Mo"</string>
   <string name="member_menu_vipname_free">Free</string>
   <string name="member_menu_vipname_mega">Mega</string>
   <string name="member_menu_vipname_premium">Premium</string>
@@ -838,9 +839,6 @@ pour personnaliser Galerie"</string>
   <string name="merge_album">Fusionner</string>
   <string name="merge_album_title">Fusionner avec une personne</string>
   <string name="messagelist_sender_self">Moi</string>
-  <string name="mi_9t">Mi 9T</string>
-  <string name="mi_9t_pro">Mi 9T Pro</string>
-  <string name="mi_a3">Mi A3</string>
   <string name="mi_drop">Mi Share</string>
   <string name="micloud_introduce">Synchronisez les photos et les vidéos automatiquement (compte Mi requis)</string>
   <string name="month_view_tip_button_text">"C'est compris"</string>
@@ -1010,7 +1008,7 @@ pour personnaliser Galerie"</string>
   <string name="permission_storage_name">Stockage</string>
   <string name="permission_use_desc">Permissions</string>
   <string name="pet_album_display_name">"Photos d'animaux"</string>
-  <string name="petabyteShort">Po</string>
+  <string name="petabyteShort">" Po"</string>
   <string name="photo">Photos</string>
   <string name="photo_edit_file_not_exits_tip">"Télécharger la photo avant de l'éditer"</string>
   <string name="photo_editor_adjust">Ajuster</string>
@@ -1029,8 +1027,8 @@ pour personnaliser Galerie"</string>
   <string name="photo_editor_label">Éditer</string>
   <string name="photo_editor_long_crop">Rogner</string>
   <string name="photo_editor_miui_beauty">Embellir</string>
-  <string name="photo_editor_miui_beauty_menu_eraser_blemish">Taches</string>
-  <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Supprimer les taches</string>
+  <string name="photo_editor_miui_beauty_menu_eraser_blemish">Tâches</string>
+  <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Supprimer les tâches</string>
   <string name="photo_editor_miui_beauty_menu_eraser_pouch">Cercles sombres</string>
   <string name="photo_editor_miui_beauty_menu_eye_bright">Éclat</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Grands yeux</string>
@@ -1053,7 +1051,7 @@ pour personnaliser Galerie"</string>
   <string name="photo_editor_navigator_module_download_success">Téléchargé avec succès</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">En attente du Wi-Fi</string>
   <string name="photo_editor_navigator_module_downloading">Téléchargement de %s en cours…</string>
-  <string name="photo_editor_navigator_need_download">Se connecter à Internet pour télécharger %s.</string>
+  <string name="photo_editor_navigator_need_download">Se connecter à internet pour télécharger %s.</string>
   <string name="photo_editor_remove_watermark">Supprimer filigrane</string>
   <string name="photo_editor_remove_watermark_on">Ajouter un filigrane</string>
   <string name="photo_editor_remover">Supprimer</string>
@@ -1062,13 +1060,6 @@ pour personnaliser Galerie"</string>
   <string name="photo_editor_sticker">Autocollant</string>
   <string name="photo_editor_talkback_cancel">Annuler</string>
   <string name="photo_editor_talkback_confirm">Confirmer</string>
-  <string name="photo_editor_talkback_crop_16_9">16:9</string>
-  <string name="photo_editor_talkback_crop_1_1">1:1</string>
-  <string name="photo_editor_talkback_crop_2_3">2:3</string>
-  <string name="photo_editor_talkback_crop_3_2">3:2</string>
-  <string name="photo_editor_talkback_crop_3_4">3:4</string>
-  <string name="photo_editor_talkback_crop_4_3">4:3</string>
-  <string name="photo_editor_talkback_crop_9_16">9:16</string>
   <string name="photo_editor_talkback_crop_free">Libre</string>
   <string name="photo_editor_talkback_crop_mirror">Mirror</string>
   <string name="photo_editor_talkback_crop_original">Original</string>
@@ -1216,7 +1207,7 @@ pour personnaliser Galerie"</string>
   <string name="scan_qr_code_buttom_text">Scanner le QR code pour voir cet album</string>
   <string name="screen_doodle_talkback_size">Largeur de ligne de Doodle</string>
   <string name="screen_editor_btn_delete">Supprimer</string>
-  <string name="screen_editor_btn_save">Sauvegarder</string>
+  <string name="screen_editor_btn_save">Enreg.</string>
   <string name="screen_editor_delete_dialog_msg">"Supprimer cette capture d'écran ?"</string>
   <string name="screen_editor_finish">Terminer</string>
   <string name="screen_save_dialog_btn_cancel">Annuler</string>
@@ -1360,12 +1351,9 @@ pour personnaliser Galerie"</string>
   <string name="slim_stop">"Arrêter l'optimisation"</string>
   <string name="special_type_8k">IA 8K</string>
   <string name="special_type_eye_repair">"Correction des yeux fermés avec l'IA"</string>
-  <string name="special_type_hdr">HDR</string>
-  <string name="special_type_log">LOG</string>
   <string name="special_type_night_beauty">IA Portrait faible luminosité</string>
   <string name="special_type_night_mode">IA Mode nuit</string>
   <string name="special_type_portrait">IA Portrait lumineux</string>
-  <string name="special_type_raw">RAW</string>
   <string name="special_type_wide_angle">IA Ultra grand angle</string>
   <string name="start_debug">Débogage de la Galerie</string>
   <string name="start_to_use_face_albumset">Trier par personnes</string>
@@ -1421,10 +1409,9 @@ pour personnaliser Galerie"</string>
   <string name="syncing_metadata_title">Synchronisation des données Xiaomi Cloud</string>
   <string name="syncing_normal_title">Sauvegarde des photos et vidéos</string>
   <string name="system_album">Album Système</string>
-  <string name="terabyteShort">To</string>
+  <string name="terabyteShort">" To"</string>
   <string name="text_append_color">Couleur</string>
   <string name="text_append_font">Police</string>
-  <string name="text_append_font_example">Aa</string>
   <string name="text_append_hint">Saisir du texte</string>
   <string name="text_append_style">Bulle</string>
   <string name="text_append_transparent">Opacité</string>
@@ -1560,6 +1547,7 @@ pour personnaliser Galerie"</string>
   <string name="video_editor_loading_warning_msg">"En raison d'une erreur d'encodage, certaines fonctionnalités et aperçus peuvent être indisponibles pendant le processus d'édition. Cela n'affecter pas le fichier vidéo final."</string>
   <string name="video_editor_loading_warning_title">"Erreur d'encodage"</string>
   <string name="video_editor_more">Avancé</string>
+  <string name="video_editor_not_support_8k_tips">"Can't edit 8K videos"</string>
   <string name="video_editor_not_support_tips">De tels fichiers vidéos ne sont pas pris en charge</string>
   <string name="video_editor_ok">OK </string>
   <string name="video_editor_regulator">Ajuster</string>

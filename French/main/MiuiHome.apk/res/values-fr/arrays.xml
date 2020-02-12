@@ -5,10 +5,6 @@
         <item>Widgets</item>
         <item>Paramètres</item>
     </string-array>
-    <string-array name="fast_scroller_style_values">
-        <item>default</item>
-        <item>letter</item>
-    </string-array>
     <string-array name="gadget_weather_image">
         <item>Dégagé</item>
         <item>Nuageux</item>
@@ -42,11 +38,6 @@
         <item>M</item>
         <item>L</item>
         <item>XL</item>
-    </string-array>
-    <string-array name="minus_screen_entries">
-        <item>Aucun</item>
-        <item>"Coffre d'applications"</item>
-        <item>Google</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Par défaut</item>

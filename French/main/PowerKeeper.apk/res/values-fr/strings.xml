@@ -24,7 +24,7 @@
   <string name="nonui_mode_config_description">"Ne pas allumer l'écran pour les notifications, désactiver le voyant lumineux, le capteur d'empreintes digitales ainsi que les touches de contrôle afin d'économiser la batterie lorsque MIU détecte que vous n'utilisez pas votre appareil."</string>
   <string name="power_center">Optimisation de la batterie</string>
   <string name="power_usage">"Consommation d'énergie"</string>
-  <string name="power_mode">"Paramètres de gestion d'énergie"</string>
+  <string name="power_mode">"Paramètres d'alimentation"</string>
   <string name="performance_category">Performance</string>
   <string name="permstep_description">"Autoriser cette application à accéder à vos nombres de pas"</string>
   <string name="permstep_label">Accès aux nombres de pas</string>
@@ -94,7 +94,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="search_result_text">Impossible de trouver une application</string>
   <string name="power_consume_abnormal_night">La batterie est déchargée la nuit</string>
   <string name="enable_sleep_mode">"Activez le mode veille pour optimiser l'utilisation de la batterie pendant la nuit"</string>
-  <string name="sleepmode_privacy_title">Mode Veille</string>
+  <string name="sleepmode_privacy_title">Mode veille</string>
   <string name="sleepmode_privacy_link">Apprendre plus à propos de la confidentialité et de la sécurité</string>
   <string name="sleepmode_disclaimer_cancel">Annuler</string>
   <string name="sleepmode_disclaimer_agree">Accepter</string>

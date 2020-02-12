@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="Today">"Aujourd'hui"</string>
   <string name="Yesterday">Hier</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
@@ -181,7 +191,7 @@
   <string name="comment_model_send_forbid_desc">Your published multiple comments containing items that violate our community standards. Your account is permanently suspended now. You can appeal against our decision using in-app feedback.</string>
   <string name="comment_model_send_forbid_tips">Account suspended</string>
   <string name="comment_model_send_success">Sent successfully</string>
-  <string name="common_cancel">Cancel</string>
+  <string name="common_cancel">Annuler</string>
   <string name="common_google_play_services_enable_button">Activer</string>
   <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
   <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -288,6 +298,7 @@ Send this code to the supervisor."</string>
   <string name="fw_loading">Chargement…</string>
   <string name="fw_reload_sub_title">"Appuyez sur l'écran pour réessayer"</string>
   <string name="fw_reload_title">Impossible de se connecter au réseau.</string>
+  <string name="gallery_fold_tags">Hide marks</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Appareil photo</string>
   <string name="gallery_folder_alias_download">Downloads</string>
@@ -295,7 +306,6 @@ Send this code to the supervisor."</string>
   <string name="gallery_folder_alias_mobileqq">QQ camera</string>
   <string name="gallery_folder_alias_mobileqq_file">QQ files</string>
   <string name="gallery_folder_alias_pdd">Pinduoduo</string>
-  <string name="gallery_folder_alias_qq">QQ</string>
   <string name="gallery_folder_alias_qqeditpic">QQ editor</string>
   <string name="gallery_folder_alias_qtt">Qutoutiao</string>
   <string name="gallery_folder_alias_screen_recorder">Screen recordings</string>
@@ -320,6 +330,7 @@ Send this code to the supervisor."</string>
   <string name="gallery_video_operate_text">Slow-motion adjustments</string>
   <string name="gallery_video_save_video">Creating video…</string>
   <string name="gallery_video_slow_edit">Slow-motion</string>
+  <string name="gallery_view_tags">Show marks</string>
   <string name="get_back_pwd">Resetting password</string>
   <string name="get_ph_ticket">Obtenir un code</string>
   <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
@@ -348,11 +359,16 @@ for videos"</string>
   <string name="language_setting_tips_dialog">You can select language preferences for content in Account &gt; Language.</string>
   <string name="later">Later</string>
   <string name="loading">Chargement…</string>
+  <string name="local_push_title">Popular today</string>
   <string name="login">Se connecter</string>
   <string name="login_tip">Sign in to be able to receive our replies to your feedback.</string>
   <string name="logout">Se déconnecter</string>
   <string name="logout_account">Sign out</string>
   <string name="lp_base_folder">Stockage externe</string>
+  <string name="lp_play_mode_list_loop">Loop all</string>
+  <string name="lp_play_mode_pause">Play one</string>
+  <string name="lp_play_mode_single_loop">Loop one</string>
+  <string name="lp_play_mode_title">Playback mode</string>
   <string name="lp_speed_title">Vitesse de lecture</string>
   <string name="lp_speed_toast">Joué à la vitesse %sX …</string>
   <string name="lp_videoView_error_button">"C'est compris"</string>
@@ -373,6 +389,7 @@ for videos"</string>
   <string name="lv_audio_track">Son audio</string>
   <string name="lv_auto_update">Mettre à jour plus tard</string>
   <string name="lv_brightness">Luminosité</string>
+  <string name="lv_cast">Cast</string>
   <string name="lv_check_delete_file">Sélectionner les éléments à supprimer</string>
   <string name="lv_check_send_file">"Vous ne pouvez envoyer qu'un seul fichier à la fois"</string>
   <string name="lv_confirm_delete_history">Supprimer les éléments sélectionnés ?</string>
@@ -465,14 +482,8 @@ for videos"</string>
   <string name="mi_video">Vidéo</string>
   <string name="moment_guide_desc">Use gestures to zoom in and out</string>
   <string name="moment_tab_all">Tout</string>
-  <string name="moment_tab_facebook">Facebook</string>
   <string name="moment_tab_image">Images</string>
-  <string name="moment_tab_instagram">Instagram</string>
-  <string name="moment_tab_qq">QQ</string>
-  <string name="moment_tab_sina_weibo">Weibo</string>
   <string name="moment_tab_video">Enregistré</string>
-  <string name="moment_tab_wechat">WeChat</string>
-  <string name="moment_tab_whatsapp">WhatsApp</string>
   <string name="moment_title_my_videos">Mes vidéos</string>
   <string name="monday">Lundi</string>
   <string name="month">lundi</string>
@@ -507,6 +518,7 @@ for videos"</string>
   <string name="next">Suivant</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
+  <string name="no_more_content">"That's all for now"</string>
   <string name="no_network_tips">"Can't use this feature now. Network access is restricted."</string>
   <string name="no_recommend_data">pas de vidéo recommandée maintenant</string>
   <string name="no_phone">No phone number</string>
@@ -611,8 +623,8 @@ Update Mi Video to the latest version first."</string>
   <string name="ovp_video_plugin_installation_two">Chargement…</string>
   <string name="page_title_language">Préférences de langue pour vidéo</string>
   <string name="passport_access_denied">Access denied</string>
-  <string name="passport_account_label">Mi Account</string>
-  <string name="passport_account_name">"Account: %1$s "</string>
+  <string name="passport_account_label">Compte Mi</string>
+  <string name="passport_account_name">"Compte: %1$s "</string>
   <string name="passport_activate_token_expired">Verification code expired. Try again.</string>
   <string name="passport_area_code_title">Area code</string>
   <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
@@ -773,7 +785,7 @@ Increase the security of your account."</string>
   <string name="plus_player_share_screen_in_device">Playing on %s…</string>
   <string name="plus_player_share_screen_no_device">"Couldn't find devices nearby."</string>
   <string name="plus_player_share_screen_play">Casting video…</string>
-  <string name="plus_player_share_screen_searching_device">Searching for devices nearby…</string>
+  <string name="plus_player_share_screen_searching_device">"Recherche d'appareils à proximité…"</string>
   <string name="plus_player_share_screen_starting_service">Preparing to cast…</string>
   <string name="plus_player_share_screen_stop">Stop casting</string>
   <string name="plus_player_share_screen_video_not_support">"Previews aren't supported for this video format."</string>

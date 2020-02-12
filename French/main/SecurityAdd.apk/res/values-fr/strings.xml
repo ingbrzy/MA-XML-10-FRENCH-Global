@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="_00_00">00:00</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -19,6 +18,17 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="ad_downloading">Télécharger…</string>
+  <string name="gamebooster_network_dialog_message">"Permettre à Sécurité de se connecter au réseau afin d'utiliser toutes les fonctionnalités du booster de vitesse du jeu ?"</string>
+  <string name="gamebooster_network_dialog_title">Certaines fonctionnalités ne sont pas disponibles</string>
+  <string name="superpower_app_contact">Contacts</string>
+  <string name="superpower_app_delete">Supprimer</string>
+  <string name="superpower_app_edit">Éditer</string>
+  <string name="superpower_app_exit">Quitter</string>
+  <string name="superpower_app_isadded">Ajouté</string>
+  <string name="superpower_app_mms">Messagerie</string>
+  <string name="superpower_app_phone">Téléphone</string>
+  <string name="superpower_settings_launcher">Économiseur de batterie ultra</string>
+  <string name="superpower_toast_app_select_full">"Vous pouvez ajouter jusqu'à 6 éléments aux applications fréquemment utilisées"</string>
   <string name="answer_call_btn_text">立即接听</string>
   <string name="app_cache_clean_no_cache">无缓存</string>
   <string name="app_cache_clean_tost_msg">清除完成</string>
@@ -230,8 +240,6 @@
   <string name="superpower_settings">Ultra économiseur de batterie</string>
   <string name="superpower_system">Recommandé</string>
   <string name="superpower_third">Applications tierces</string>
-  <string name="superpower_time">h:mm</string>
-  <string name="superpower_time_24">H:mm</string>
   <string name="switch_kid_mode">切换儿童空间</string>
   <string name="this_function_can_not_use_in_second_space">亲情守护只支持在初始空间使用，请切换到初始空间使用此功能。</string>
   <string name="time_control_desc">管理宝贝在儿童空间内的时间使用</string>

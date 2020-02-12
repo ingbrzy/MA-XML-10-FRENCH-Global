@@ -39,11 +39,6 @@
         <item>Juste pour cette fois</item>
         <item>Définir un rappel répété</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup">
-        <item>Désactivé</item>
-        <item>Pour tous les événements</item>
-        <item>Pour les événements les plus pertinents</item>
-    </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Désactivé</item>
         <item>Pour tous les événements</item>
@@ -192,100 +187,21 @@
         <item>Peut-être</item>
         <item>Non</item>
     </string-array>
-    <string-array name="timezone_labels">
-        <item>Îles Marshall</item>
-        <item>Îles Midway</item>
-        <item>Hawaï</item>
-        <item>Alaska</item>
-        <item>Heure du pacifique</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Heure normale des Rocheuses</item>
-        <item>Amérique centrale</item>
-        <item>Heure du centre</item>
-        <item>Mexico</item>
-        <item>Saskatchewan</item>
-        <item>Bogotá</item>
-        <item>Heure de la côte Est</item>
-        <item>Vénézuela</item>
-        <item>"Heure de l'Atlantique (Barbade)"</item>
-        <item>"Heure de l'Atlantique (Canada)"</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Terre-Neuve</item>
-        <item>Brasilia</item>
-        <item>Buenos Aires</item>
-        <item>Groenland</item>
-        <item>Montévidéo</item>
-        <item>Mi-Atlantique</item>
-        <item>Açores</item>
-        <item>Cap-Vert</item>
-        <item>Casablanca</item>
-        <item>Londres, Dublin</item>
-        <item>Amsterdam, Berlin</item>
-        <item>Belgrade</item>
-        <item>Bruxelles</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>"Afrique de l'Ouest"</item>
-        <item>Amman, Jordanie</item>
-        <item>Athènes, Istanbul</item>
-        <item>Beyrouth, Liban</item>
-        <item>Le Caire</item>
-        <item>Helsinki</item>
-        <item>Jérusalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bagdad</item>
-        <item>Moscou</item>
-        <item>Koweït</item>
-        <item>Nairobi</item>
-        <item>Téhéran</item>
-        <item>Bakou</item>
-        <item>Tbilissi</item>
-        <item>Erevan</item>
-        <item>Dubaï</item>
-        <item>Kaboul</item>
-        <item>Islamabad, Karachi</item>
-        <item>Ouraslk</item>
-        <item>Ekaterinbourg</item>
-        <item>Calcutta</item>
-        <item>Sri Lanka</item>
-        <item>Katmandou</item>
-        <item>Astana</item>
-        <item>Rangoon</item>
-        <item>Krasnoïarsk</item>
-        <item>Bangkok</item>
-        <item>Pékin</item>
-        <item>Hong Kong</item>
-        <item>Macao</item>
-        <item>Singapour</item>
-        <item>Irkoutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Séoul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakoutsk</item>
-        <item>Adélaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fidji</item>
-        <item>Tonga</item>
-    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 heures avant</item>
         <item>4 heures avant</item>
         <item>5 heures avant</item>
         <item>6 heures avant</item>
         <item>1 jour avant</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
     </string-array>
     <string-array name="week_header_name">
         <item>DIM</item>

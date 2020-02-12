@@ -163,8 +163,8 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
   <string name="switch_to_second_space">Aller dans le deuxième espace</string>
   <string name="switch_to_first_space">Aller dans le premier espace</string>
   <string name="click_to_back_first_space">Appuyer pour retourner dans le premier espace</string>
-  <string name="click_to_switch">Appuyez pour voir</string>
-  <string name="confirm_main_space_password">Confirmer le mot de passe du premier Espace</string>
+  <string name="click_to_switch">Appuyez pour afficher</string>
+  <string name="confirm_main_space_password">Confirmer le mot de passe du premier espace</string>
   <string name="create_space_loading">Création du deuxième espace…</string>
   <string name="close_second_space">Deuxième espace supprimé</string>
   <string name="close_second_space_success">Deuxième espace supprimé</string>
@@ -297,16 +297,12 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="search_result_text">Impossible de trouver une application</string>
   <string name="confirm_close_password_title">Désactivation du mot de passe</string>
   <string name="confirm_close_password_desc">"Vous ne serez plus en mesure d'accéder au deuxième espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe. Désactiver de toute manière?"</string>
-  <string name="xspace_weixin_title">WeChat</string>
-  <string name="xspace_whatsapp_title">WhatsApp</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share_sign">Se connecter et partager</string>
   <string name="whatsapp_send">Partager sur WhatsApp</string>
   <string name="use_google_open">"Réveillez-vous avec l'assistant vocal"</string>
   <string name="use_xiaoai_open">Réveillez-vous avec Mi IA</string>
-  <string name="xspace_weibo_title">Weibo</string>
   <string name="weibo_send">Envoyer sur Weibo</string>
-  <string name="xspace_qq_title">QQ</string>
   <string name="qq_send">Envoyer à des amis sur QQ/un ordinateur</string>
   <string name="qq_login">Se connecter à QQ</string>
   <string name="xspace_default_setting_label">Personnalisation</string>
@@ -471,16 +467,16 @@ contrôler les applications installées et restreindre l'utilisation"</string>
   <string name="undo_privacy_menu">Révoquer lautorisation</string>
   <string name="more_settings">Plus</string>
   <string name="undo_success">Révoqué avec succès</string>
-  <string name="master_clear_apply_title">Attention</string>
   <string name="button_text_next_step">Suivant</string>
   <string name="button_text_next_step_timer">Étape suivante (%d)</string>
-  <string name="dialog_tip_need_network">Votre appareil doit se connecter à Internet pour révoquer lautorisation.</string>
+  <string name="dialog_tip_need_network">"Votre appareil doit se connecter à internet pour révoquer l'autorisation."</string>
   <string name="dialog_undo_negative">Ne pas révoquer</string>
   <string name="dialog_title_service_error">Erreur du serveur</string>
-  <string name="dialog_message_service_error">Impossible de révoquer lautorisation et deffectuer une réinitialisation des données dusine. Réessayez</string>
+  <string name="dialog_message_service_error">"Impossible de révoquer l'autorisation et deffectuer une réinitialisation des données dusine. Réessayez"</string>
   <string name="dialog_verify">Vérifiez votre empreinte digitale</string>
   <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>
   <string name="button_touch">Placez votre doigt sur le capteur</string>
   <string name="button_input_password">Saisir le mot de passe</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_not_available">"La réinitialisation d'usine est limitée par votre société."</string>
 </resources>

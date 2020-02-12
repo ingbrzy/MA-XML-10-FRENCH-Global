@@ -205,6 +205,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="account_sync_summary_all_on">Synchronisation activée pour tous les éléments</string>
   <string name="account_sync_summary_some_on">Synchronisation activée pour %1$d élément(s) sur %2$d</string>
   <string name="account_sync_title">Synchro. du compte</string>
+  <string name="acount_data">Comptes</string>
   <string name="action_drag_label_move_bottom">Placer en dernier</string>
   <string name="action_drag_label_move_down">Déplacer vers le bas</string>
   <string name="action_drag_label_move_top">Placer en premier</string>
@@ -353,22 +354,10 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="aod_style_description">"Afficher l'horloge, la date, l'heure, les notifications et d'autres éléments lorsque l'écran est éteint"</string>
   <string name="aod_style_title">Style</string>
   <string name="aod_to_close">Désactiver</string>
-  <string name="apn_apn">APN</string>
   <string name="apn_auth_type">"Type d'authentification"</string>
-  <string name="apn_auth_type_chap">CHAP</string>
   <string name="apn_auth_type_none">Aucune</string>
-  <string name="apn_auth_type_pap">PAP</string>
-  <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
   <string name="apn_edit">"Modifier le point d'accès"</string>
   <string name="apn_general">Général</string>
-  <string name="apn_http_port">Port</string>
-  <string name="apn_http_proxy">Proxy</string>
-  <string name="apn_mcc">MCC</string>
-  <string name="apn_mms">MMS</string>
-  <string name="apn_mms_port">Port MMS</string>
-  <string name="apn_mms_proxy">Proxy MMS</string>
-  <string name="apn_mmsc">MMSC</string>
-  <string name="apn_mnc">MNC</string>
   <string name="apn_name">Nom</string>
   <string name="apn_new">Ajouter APN</string>
   <string name="apn_not_set">Non défini</string>
@@ -457,6 +446,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="app_usage_preference">"Préférences d'utilisation de l'application"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="application_data">Application</string>
   <string name="application_forbid_auto_startup">Interdire %s de démarrer en arrière-plan</string>
   <string name="application_info_label">Infos appli</string>
   <string name="application_item_already_permission">Autorisé</string>
@@ -576,7 +566,7 @@ Dernière exécution le %2$s"</string>
   <string name="automatic_storage_manager_preference_title">"Gestionnaire d'espace de stockage"</string>
   <string name="automatic_storage_manager_settings">"Gérer l'espace de stockage"</string>
   <string name="automatic_storage_manager_text">"Pour libérer de l'espace de stockage, le gestionnaire d'espace de stockage supprime des photos et des vidéos sauvegardées sur votre appareil."</string>
-  <string name="available_size">%s Disponible</string>
+  <string name="available_size">%s disponible</string>
   <string name="available_via_carrier">Disponible via %1$s</string>
   <string name="available_via_passpoint">Disponible via %1$s</string>
   <string name="available_virtual_keyboard_category">Clavier virtuel disponible</string>
@@ -607,18 +597,29 @@ Activez optimisation batterie."</string>
   <string name="backtouch_enable_title">"Ajuster le volume à l'arrière"</string>
   <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement des données sauvegardées.</string>
   <string name="backup_configure_account_title">Compte de sauvegarde</string>
+  <string name="backup_data">Sauvegardes</string>
   <string name="backup_data_summary">"Sauvegarder les données d'applications, les mots de passe Wi-Fi et d'autres paramètres sur les serveurs Google"</string>
   <string name="backup_data_title">Sauvegarder mes données</string>
+  <string name="backup_difference_content">"Local backups:
+Local backups can include app data and normally contain more items. Backup files are stored at MIUI-backup-AllBackup and need to be copied to a computer once the backup process is complete.
+
+Cloud backups:
+Backups are stored in Xiaomi Cloud and can be accessed wirelessly. This method is faster and easier than local backups, but you can't back up app data to Xiaomi Cloud.
+"</string>
+  <string name="backup_difference_title">4. How are local backups different from cloud backups?</string>
   <string name="backup_disabled">Sauvegarde désactivée</string>
   <string name="backup_erase_dialog_message">"Arrêter de sauvegarder les mots de passe Wi-Fi, les signets, d'autres paramètres, et les données d'application, et effacer toutes les copies sur les serveurs Google ?"</string>
   <string name="backup_inactive_title">Service de sauvegarde inactif</string>
   <string name="backup_pw_cancel_button_text">Annuler</string>
   <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
+  <string name="backup_restore_data_content">"Your backups can contain contacts, messages (SMS and MMS), call history, calendar events, photos, audio files, videos, documents, apps, app data, and Home screen layout.
+"</string>
+  <string name="backup_restore_data_title">5. What items can I back up or restore?</string>
   <string name="backup_section_title">Sauvegarde et restauration</string>
   <string name="backup_set_clear_success">Désactiver le mot de passe de sauvegarde avec succès</string>
   <string name="backup_set_clear_title">Désactiver le mot de passe de sauvegarde</string>
   <string name="backup_set_confirm">OK</string>
-  <string name="backup_set_confirm_clear">Désactiveé</string>
+  <string name="backup_set_confirm_clear">Désactivée</string>
   <string name="backup_set_enter_new_pw">Entrez le nouveau mot de passe de sauvegarde</string>
   <string name="backup_set_enter_new_pw_again">Confirmer le nouveau mot de passe de sauvegarde</string>
   <string name="backup_set_enter_old_pw">"Entrez l'ancien mot de passe de sauvegarde"</string>
@@ -633,8 +634,8 @@ Activez optimisation batterie."</string>
   <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
   <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
   <string name="badge_title">"Afficher les badges d'icône d'application"</string>
-  <string name="band_24G">" (bande de 2.4 GHz)"</string>
-  <string name="band_5G">" (bande de 5 GHz)"</string>
+  <string name="band_24G">" (bande 2.4 GHz)"</string>
+  <string name="band_5G">" (bande 5 GHz)"</string>
   <string name="band_mode_failed">Échec</string>
   <string name="band_mode_loading">Chargement de la liste de bandes…</string>
   <string name="band_mode_set">Définir</string>
@@ -692,12 +693,9 @@ Activez optimisation batterie."</string>
   <string name="battery_info_health_unspecified_failure">Erreur inconnue</string>
   <string name="battery_info_label">Infos de la batterie</string>
   <string name="battery_info_level_label">Niveau de la batterie:</string>
-  <string name="battery_info_power_ac">AC</string>
-  <string name="battery_info_power_ac_usb">AC+USB</string>
   <string name="battery_info_power_label">Alimentation électrique:</string>
   <string name="battery_info_power_unknown">Inconnu</string>
   <string name="battery_info_power_unplugged">Débranché</string>
-  <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_power_wireless">Sans fil</string>
   <string name="battery_info_scale_label">Dimension de la batterie:</string>
   <string name="battery_info_screen_on">"Temps de veille de l'écran:"</string>
@@ -1173,26 +1171,21 @@ Vous pouvez le modifier dans les paramètres."</string>
   <string name="bt_aac_open_dialog_summary">"L'AAC risque de ne pas reproduire le son en raison de problèmes de compatibilité. 
 Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth > Appareils jumelés."</string>
   <string name="bt_aac_open_dialog_title">Basculer vers codec AAC</string>
-  <string name="bt_aac_pre_title">AAC</string>
   <string name="bt_dialog_remember_choice">Se souvenir de ce choix</string>
   <string name="bt_dialog_settings">Paramètres</string>
   <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
   <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
   <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
-  <string name="bt_ldac_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie plus élevée
-Cette fonctionnalité peut être désactivée dans [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut:"</string>
   <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
-  <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Attributs</string>
   <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge le protocole LHDC, il sera connecté par défaut. LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie supérieure
-Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
+  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut:</string>
   <string name="bt_lhdc_open_dialog_summary">"LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
-  <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Attributes</string>
   <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
   <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
@@ -1219,13 +1212,14 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Redémarrer maintenant</string>
   <string name="button_text_reject">Refuser</string>
-  <string name="byteShort">o</string>
+  <string name="byteShort">" o"</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">"Processus d'arrière-plan mis en cache"</string>
   <string name="calendar_remind">Événements</string>
   <string name="calendar_sound_dialog_title">Choisir le son du calendrier</string>
   <string name="calendar_sound_title">Son du calendrier</string>
+  <string name="call_example_name">Nom</string>
   <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
   <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
   <string name="call_manager_title">"Gestionnaire d'appels"</string>
@@ -1339,12 +1333,14 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Utiliser cette application pour certaines opérations par défaut</string>
   <string name="clear_adb_keys">Révoquer les permissions du débogage USB</string>
+  <string name="clear_all_data">Effacer toutes les données</string>
   <string name="clear_cache_btn_text">Vider le cache</string>
   <string name="clear_data_dlg_text">Les données de cette application (fichiers, paramètres, comptes, bases de données, etc.) vont être définitivement supprimées.</string>
   <string name="clear_data_dlg_title">"Supprimer les données de l'application ?"</string>
   <string name="clear_failed_dlg_text">"Impossible d'effacer le stockage pour l'application."</string>
   <string name="clear_instant_app_confirmation">Voulez-vous supprimer cette appli instantanée ?</string>
   <string name="clear_instant_app_data">"Effacer les données de l'application"</string>
+  <string name="clear_phone_data_category">Effacez les éléments suivants</string>
   <string name="clear_uri_btn_text">"Supprimer l'accès"</string>
   <string name="clear_user_data_text">Effacer le stockage</string>
   <string name="close_aod">Cette fonctionnalité ne peut pas être combinée avec le mode \"Toujours activé\". Désactivez le mode \"Toujours activé\" en premier.</string>
@@ -1361,14 +1357,15 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="cloud_backup_section_title">Sauvegarde Xiaomi Cloud</string>
   <string name="cloud_backup_settings_section_title">Paramètres de sauvegarde</string>
   <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
+  <string name="cloud_restore_section_summary_new">Back up Home screen layout, apps, system settings, and more</string>
   <string name="cloud_restore_section_title">Restaurer depuis Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title_new">In Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Version du matériel</string>
-  <string name="codec_low_latency_summary">Provide a low latency experience for Audio/Video synchronization</string>
-  <string name="codec_low_latency_title">Low Latency</string>
+  <string name="codec_low_latency_summary">Minimisez la latence pendant la synchronisation audio et vidéo du jeu</string>
+  <string name="codec_low_latency_title">Faible latence</string>
   <string name="color_black">Noir</string>
   <string name="color_blue">Bleu</string>
   <string name="color_calibration_none">Natif</string>
-  <string name="color_calibration_srgb">sRGB</string>
   <string name="color_cyan">Cyan</string>
   <string name="color_gray">Gris</string>
   <string name="color_green">Vert</string>
@@ -1420,6 +1417,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="color_unspecified">Par défaut</string>
   <string name="color_white">Blanc</string>
   <string name="color_yellow">Jaune</string>
+  <string name="common_issue">F.A.Q</string>
   <string name="common_settings">Accès rapides</string>
   <string name="complete_parameters">Caractéristiques</string>
   <string name="complete_settings">Paramètres</string>
@@ -1485,8 +1483,8 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="connected_device_saved_title">Appareils enregistrés</string>
   <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
   <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth, NFC</string>
-  <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mode Voiture</string>
-  <string name="connected_devices_dashboard_summary">Bluetooth, mode Voiture, NFC</string>
+  <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mode voiture</string>
+  <string name="connected_devices_dashboard_summary">Bluetooth, mode voiture, NFC</string>
   <string name="connected_devices_dashboard_title">Appareils connectés</string>
   <string name="connected_via_carrier">Connecté à %1$s</string>
   <string name="connected_via_network_scorer">Automatiquement connecté via %1$s</string>
@@ -1495,6 +1493,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="connected_wifi">Connecté</string>
   <string name="connecting_to_vpn">Connexion au VPN</string>
   <string name="connection_and_sharing">Connexion et partage</string>
+  <string name="contact_data">Contacts</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="contributors_title">Collaborateurs</string>
   <string name="controls_label">Commandes</string>
@@ -1731,6 +1730,9 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="data_used_template">%1$s utilisé(s)</string>
   <string name="data_warning">"Seuil d'avertissement"</string>
   <string name="data_warning_footnote">"Le seuil d'avertissement sur la consommation des données et la limite de données sont mesurés par votre appareil. Cette mesure peut différer des données de l'opérateur."</string>
+  <string name="datasize_decrease_content">"Contacts, messages, and system data are compressed while they're being backed up, which results in smaller file size.
+"</string>
+  <string name="datasize_decrease_title">6. Why are some backup files smaller than the actual items?</string>
   <string name="date_and_time">Date et heure</string>
   <string name="date_and_time_settings_summary">"Configurer la date, l'heure, le fuseau horaire et les formats"</string>
   <string name="date_and_time_settings_title">Date et heure</string>
@@ -2088,7 +2090,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dndm_vip_call_setting_detal">Toujours accepter les appels de la liste blanche</string>
   <string name="dndm_vip_call_setting_title">Exceptions</string>
   <string name="dndm_vip_call_summary_contact">Tous</string>
-  <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
   <string name="dndm_vip_list_all">Tous</string>
   <string name="dndm_vip_list_contact">Tous les contacts</string>
@@ -2301,29 +2302,6 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="enterprise_privacy_settings_summary_with_name">Modifications et paramètres gérés par %s</string>
   <string name="enterprise_privacy_usage_stats">Durée et consommation des données dans chaque application</string>
   <string name="enterprise_privacy_wipe_device">"L'administrateur peut supprimer toutes les données de l'appareil"</string>
-  <string name="eq_auto">Personnaliser</string>
-  <string name="eq_blues">Blues</string>
-  <string name="eq_cancel">Annuler</string>
-  <string name="eq_classical">Classique</string>
-  <string name="eq_country">Country</string>
-  <string name="eq_dance">Dance</string>
-  <string name="eq_delete">Supprimer</string>
-  <string name="eq_delete_success">Terminé</string>
-  <string name="eq_electronic">Électronique</string>
-  <string name="eq_flat">Par défaut</string>
-  <string name="eq_hiphop">Hip Hop</string>
-  <string name="eq_jazz">Jazz</string>
-  <string name="eq_metal">Métal</string>
-  <string name="eq_ok">OK </string>
-  <string name="eq_pop">Pop</string>
-  <string name="eq_preset_create">Créer</string>
-  <string name="eq_preset_format">Réglage utilisateur %d</string>
-  <string name="eq_preset_hint">"Nom de l'effet"</string>
-  <string name="eq_preset_rename">Renommer</string>
-  <string name="eq_preset_select">Choisir une présélection</string>
-  <string name="eq_return">Retour</string>
-  <string name="eq_rock">Rock</string>
-  <string name="equalizer">Égaliseur</string>
   <string name="erase_application">Supprimer les applications</string>
   <string name="erase_application_description">Supprimer les applications téléchargées</string>
   <string name="erase_data">Supprimer</string>
@@ -2456,20 +2434,20 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="finish_button">Terminer</string>
   <string name="finish_button_label">Terminer</string>
   <string name="firewall_allow_all">Autoriser toutes les applications à se connecter via la méthode suivante</string>
-  <string name="firewall_allow_data">"Autoriser l'utilisation des données mobiles"</string>
+  <string name="firewall_allow_data">"Autoriser l'utilisation des données cellulaires"</string>
   <string name="firewall_allow_network">Autoriser</string>
   <string name="firewall_allow_wlan">"Autoriser l'utilisation de la connexion Wi-Fi"</string>
   <string name="firewall_applist">Applications</string>
-  <string name="firewall_mobile">Données Mobiles</string>
+  <string name="firewall_mobile">Données cellulaires</string>
   <string name="firewall_network_allow">%1$s est autorisé à utiliser la connexion %2$s</string>
   <string name="firewall_network_restrict_notify_message">Appuyez pour modifier les paramètres.</string>
-  <string name="firewall_network_restrict_notify_mobile">Données Mobiles</string>
+  <string name="firewall_network_restrict_notify_mobile">Données cellulaires</string>
   <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
   <string name="firewall_permission">Permissions de connexion</string>
   <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
   <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
-  <string name="firewall_restrict_data">Restreindre la consommation de données mobiles</string>
+  <string name="firewall_restrict_data">Restreindre la consommation de données cellulaires</string>
   <string name="firewall_restrict_notify_title">%s ne peut pas utiliser le réseau</string>
   <string name="firewall_restrict_wlan">"Restreindre l'utilisation de la connexion Wi-Fi"</string>
   <string name="firewall_set_bg_firewall_default_dialog_summary">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela. Restreindre quand même ?</string>
@@ -2532,10 +2510,10 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="forget">Supprimer</string>
   <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_password_dialog_button_text">Retour</string>
-  <string name="forget_password_dialog_content_four">&lt;Data>2. Sélectionnez &lt;font color=#e6e6e6>[Wipe data]&lt;/font> et attendez que votre appareil redémarre.&lt;/Data></string>
-  <string name="forget_password_dialog_content_one">&lt;Data>Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une que vous &lt;font color =#ec2700> effacez toutes les données de votre appareil &lt;/font> (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant cette action&lt;/Data></string>
-  <string name="forget_password_dialog_content_three">"&lt;Data>1. Éteignez votre appareil. Appuyez simultanément sur le bouton &lt;font color=#e6e6e6> [Power] &lt;/font> et sur le bouton &lt;font color = #e6e6e6> [Volume +]&lt;/font> jusqu'à ce que l'&lt;img src =''>icône.&lt;/Data>"</string>
-  <string name="forget_password_dialog_content_two">Suivez ces étapes pour effacer les données:</string>
+  <string name="forget_password_dialog_content_four">"2. Sélectionnez [Wipe data] et attendez que votre appareil redémarre."</string>
+  <string name="forget_password_dialog_content_one">"Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une fois que vous aurez effacez toutes les données de votre appareil (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant cette action"</string>
+  <string name="forget_password_dialog_content_three">"1. Éteignez votre appareil. Appuyez simultanément sur le bouton [Power] et sur le bouton [Volume +]."</string>
+  <string name="forget_password_dialog_content_two">"Suivez ces étapes pour effacer les données: "</string>
   <string name="forget_password_dialog_title">Réinitialisez votre mot de passe</string>
   <string name="forget_pattern">Schéma oublié ?</string>
   <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
@@ -2543,7 +2521,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="forget_wifi_message">Votre appareil arrêtera de se connecter automatiquement à ce réseau.</string>
   <string name="found_new_version">Nouvelle version disponible:</string>
   <string name="fourhours">2 heures</string>
-  <string name="fp_nav_center_back_to_home_title">"Appuyer le bouton d'Accueil pour retourner à l'Écran d'accueil"</string>
+  <string name="fp_nav_center_back_to_home_title">"Appuyer le bouton d'accueil pour retourner à l'écran d'accueil"</string>
   <string name="free_memory">Disponible</string>
   <string name="free_wifi_agreement_remind_never">Ne plus afficher</string>
   <string name="free_wifi_confirm">OK</string>
@@ -2627,7 +2605,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
   <string name="gesture_z">Modèle Z</string>
   <string name="giga_hertz">" GHz"</string>
-  <string name="gigabyteShort">Go</string>
+  <string name="gigabyteShort">" Go"</string>
   <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
   <string name="global_locale_change_title">Changer de langue</string>
   <string name="gmscore_settings_title">Services de base de Google</string>
@@ -2690,13 +2668,10 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="hdmi_3d_display_enable_summary">Support des jeux 3D</string>
   <string name="hdmi_3d_display_enable_title">Affichage 3D</string>
   <string name="hdmi_3d_help_title">À propos de la 3D stéréoscopique HDMI</string>
-  <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3dplay_control_disable_subtext">"Sortie 3D stéréoscopique vers l'affichage 3D externe est désactivé"</string>
   <string name="hdmi_3dplay_control_enable_subtext">"Sortie 3D stéréoscopique vers l'affichage 3D externe est activé"</string>
   <string name="hdmi_3dplay_control_text">Sortie 3D</string>
-  <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Native</string>
-  <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Paramètres du compte</string>
   <string name="header_add_an_account">Ajouter un compte</string>
   <string name="header_application_sync_settings">"Paramètres de synchronisation de l'application"</string>
@@ -2732,6 +2707,43 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="home_key">Accueil</string>
   <string name="home_title">"Écran d'accueil"</string>
   <string name="home_work_profile_not_supported">Non compatible avec les profils professionnels</string>
+  <string name="homepage_all_settings">All Settings</string>
+  <string name="homepage_condition_footer_content_description">Collapse</string>
+  <string name="homepage_personal_settings">Suggestions</string>
+  <string name="how_backup_content">"There are 3 types of backups you can create: local, cloud, and USB.
+
+Local backups:
+Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
+Note:
+You can use Mi PC Suite to back up and restore items.
+
+Local backups:
+You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
+
+USB backups:
+This method allows you to save system settings, accounts, app data, and other items to an external USB storage device.
+"</string>
+  <string name="how_backup_title">1. How can I back up items?</string>
+  <string name="how_encrypt_content">"You can only encrypt local backups. There are 2 ways to do this:
+a) Open the page with your local backups, tap the button to turn on encryption, and sign in to your Mi Account. Backups will be encrypted automatically after that. Remember that you'll need to sign in to your Mi Account to restore items from encrypted backups.
+b) If you're using Mi PC Suite to back up items, you can use encryption options there.
+
+Note:
+Remember the password you set for encrypted backups! You won't be able to decrypt your backups if you forget it.
+"</string>
+  <string name="how_encrypt_title">3. How do I encrypt my backups?</string>
+  <string name="how_restore_backup_content">"Here's how you can restore items that were backed up using different methods:
+
+Local backups:
+Copy the backup file from your computer to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+
+Cloud backups:
+Sign in to your Mi Account, go to Settings &gt; Back up, restore, or reset &gt; In Xiaomi Cloud, and select the backup file.
+
+USB backups:
+Copy the backup file to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+"</string>
+  <string name="how_restore_backup_title">2. How do I restore backed up items?</string>
   <string name="http_invoke_app">Applications Web</string>
   <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
   <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
@@ -2769,7 +2781,6 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="infinity_display_title">Affichage plein écran</string>
   <string name="information_dialog_button_text">"C'est compris"</string>
   <string name="input_assistance">Aide à la saisie</string>
-  <string name="input_hint_prefix">Entrer %1$s</string>
   <string name="input_method">Clavier</string>
   <string name="input_method_bottom_close">Désactiver</string>
   <string name="input_method_bottom_open">Activer</string>
@@ -2943,13 +2954,13 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="keywords_voice_input">détecteur, saisie, voix, parler, langue, mains libres, main libre, reconnaissance, choquant, terme, audio, historique, casque bluetooth</string>
   <string name="keywords_vr_listener">rv réalité virtuelle écouteur service de soutien stéréo</string>
   <string name="keywords_wallpaper">arrière-plan, écran, écran de verrouillage, thème</string>
-  <string name="keywords_wifi">Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;WLAN;WLAN</string>
+  <string name="keywords_wifi">Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi</string>
   <string name="keywords_wifi_calling">Wi-Fi, Wi-Fi, appel, appels</string>
   <string name="keywords_write_settings">modifier paramètres système</string>
   <string name="kid_space_settings">Espace enfant</string>
   <string name="keywords_zen_mode_settings">ne pas déranger, calendrier, notifications, bloquer, silence, vibreur, veille, travail, sélectionner, son, couper le son, jour, jour de semaine, week-end, soir de semaine, événement</string>
-  <string name="kilobyteShort">Ko</string>
-  <string name="kilobyte_per_second">ko/s</string>
+  <string name="kilobyteShort">" Ko"</string>
+  <string name="kilobyte_per_second">" Ko/s"</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="language_empty_list_user_restricted">"Vous n'êtes pas autorisé à modifier la langue de l'appareil."</string>
   <string name="language_input_gesture_title">Langues, saisie et gestes</string>
@@ -2975,18 +2986,11 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="launching_rep">Rapport…</string>
   <string name="layout_exhuge_font_take_effect_tips">La taille du texte XXL ne fonctionne que dans Téléphone, Messagerie et Contacts.</string>
   <string name="layout_exhuge_font_tips">"Plus d'options sont disponibles dans %1$s"</string>
-  <string name="layout_exhuge_font_tips_reg">"Accessibilité &gt; Taille d'affichage"</string>
-  <string name="layout_size_exhuge">XXL</string>
-  <string name="layout_size_exhuge_text">XXL</string>
-  <string name="layout_size_huge">XL</string>
+  <string name="layout_exhuge_font_tips_reg">"Accessibilité et taille d'affichage"</string>
   <string name="layout_size_huge_text">Très grande</string>
-  <string name="layout_size_large">L</string>
   <string name="layout_size_large_text">Grande</string>
-  <string name="layout_size_medium">M</string>
   <string name="layout_size_medium_text">Moyenne</string>
-  <string name="layout_size_normal">S</string>
   <string name="layout_size_normal_text">Petite</string>
-  <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Très petite</string>
   <string name="learn_more">En savoir plus</string>
   <string name="led_colors_summary">Couleur de la LED de notification</string>
@@ -3026,7 +3030,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
   <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
   <string name="local_backup_section_summary">Paramètres système, comptes, et applis</string>
-  <string name="local_backup_section_title">Local</string>
+  <string name="local_backup_section_summary_new">Back up accounts, app data, system settings, and more</string>
+  <string name="local_backup_section_title">Sauvegardes locales</string>
+  <string name="local_backup_section_title_new">Sur cet appareil</string>
   <string name="locale_default">Par défaut</string>
   <string name="locale_not_translated">Il est possible que cette langue ne soit pas disponible dans certaines applis.</string>
   <string name="locale_remove_menu">Supprimer</string>
@@ -3264,7 +3270,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="lockscreen_glogin_checking_password">Vérification…</string>
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_submit_button">"S'identifier"</string>
-  <string name="lockscreen_label">Écran de vérrouillage</string>
+  <string name="lockscreen_label">Écran de verrouillage</string>
   <string name="lockscreen_magazine">"Fond d'écran carrousel"</string>
   <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">"Fond d'écran carrousel de haute qualité"</string>
@@ -3366,6 +3372,7 @@ D'autres personnes utilisent cet appareil.
   <string name="master_clear_progress_title">Suppression en cours</string>
   <string name="master_clear_short_title">"Effacer données (rétablir config. d'usine)"</string>
   <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
+  <string name="master_clear_title_new">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
   <string name="max_aspect_settings_all_app_display_loading">Chargement…</string>
   <string name="max_cpu10_info">"Deca-Core Max "</string>
   <string name="max_cpu2_info">"Dual-Core Max "</string>
@@ -3386,8 +3393,8 @@ D'autres personnes utilisent cet appareil.
   <string name="media_volume_option_title">Volume du multimédias</string>
   <string name="media_volume_summary">Régler le volume pour la musique et les vidéos</string>
   <string name="media_volume_title">Multimédia</string>
-  <string name="megabyteShort">Mo</string>
-  <string name="megabyte_per_second">Mo/s</string>
+  <string name="megabyteShort">" Mo"</string>
+  <string name="megabyte_per_second">" Mo/s"</string>
   <string name="meid_multi_sim">MEID (SIM %1$d)</string>
   <string name="mem_details_title">Détails de la mémoire</string>
   <string name="memory">Mémoire vive</string>
@@ -3610,66 +3617,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="multi_network_acceleration_app_settings">Accélération du réseau pour les applications</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Ce paramètre prendra effet après avoir redémarré votre appareil</string>
-  <string name="music_app_unavailable">"Assurez-vous que l'application Musique Mi est disponible."</string>
-  <string name="music_audio_effect_optimize">Paramètres audio</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, écouteurs et autres paramètres audio</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, écouteurs et autres paramètres audio</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, écouteurs et autres paramètres audio</string>
-  <string name="music_audio_effect_settings">Paramètres des effets</string>
-  <string name="music_dirac_control">Optimiser la qualité audio</string>
-  <string name="music_dirac_mode_cancelling">Mi Anti-bruit 3.5mm</string>
-  <string name="music_dirac_mode_capsule">Mi Capsule</string>
-  <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
-  <string name="music_dirac_mode_general">Général</string>
-  <string name="music_dirac_mode_general_earbuds">Standard</string>
-  <string name="music_dirac_mode_general_inear">Intra standard</string>
-  <string name="music_dirac_mode_half_in_ear">Mi Half Intra</string>
-  <string name="music_dirac_mode_headset">Casque Mi</string>
-  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
-  <string name="music_dirac_mode_in_ear">Mi Intra</string>
-  <string name="music_dirac_mode_in_ear2">Mi Intra 2</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi Intra (2013)</string>
-  <string name="music_dirac_mode_in_ear_pro">Mi Intra Pro</string>
-  <string name="music_dirac_mode_india_earphones">Écouteurs Mi</string>
-  <string name="music_dirac_mode_india_earphones_basic">Écouteurs Mi basique</string>
-  <string name="music_dirac_mode_off">Dirac désactivé</string>
-  <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
-  <string name="music_dirac_mode_piston_100">Mi Piston</string>
-  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
-  <string name="music_dirac_mode_piston_basic">Édition basique</string>
-  <string name="music_dirac_mode_piston_color">Édition couleur</string>
-  <string name="music_dirac_mode_piston_standard">Édition standard</string>
-  <string name="music_dirac_mode_piston_youth">Édition jeunesse</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Anti-bruit Type-C</string>
-  <string name="music_dolby_mode_movie">Vidéo</string>
-  <string name="music_dolby_mode_music">Musique</string>
-  <string name="music_dolby_mode_off">Désactivé</string>
   <string name="music_equalizer">Égaliseur</string>
-  <string name="music_equalizer_summary">Ajuster les niveaux individuels pour différents types de musique</string>
-  <string name="music_hd_title">Audio HD</string>
-  <string name="music_headphone_settings">"Sélectionnez le type d'écouteurs"</string>
-  <string name="music_headset_button_settings">Assigner les boutons</string>
-  <string name="music_headset_calibrate">Assigner les boutons</string>
-  <string name="music_headset_calibrate_apply">Utiliser</string>
-  <string name="music_headset_calibrate_confirm">Appliquer ?</string>
-  <string name="music_headset_calibrate_hint">Appuyez sur le bouton du haut</string>
-  <string name="music_headset_calibrate_next_track">Piste suivante</string>
-  <string name="music_headset_calibrate_prev_track">Piste précédente</string>
-  <string name="music_headset_calibrate_success">Paramètres appliqués</string>
-  <string name="music_headset_calibrate_volume_down">Baisser le volume</string>
-  <string name="music_headset_calibrate_volume_up">Monter le volume</string>
-  <string name="music_headset_calibrate_wrong_key">Mauvais bouton</string>
-  <string name="music_headset_mode_music">Contrôle des chansons</string>
-  <string name="music_headset_mode_settings">Boutons des écouteurs</string>
-  <string name="music_headset_mode_volume">Contrôle du volume</string>
-  <string name="music_headset_no_contected">"Pas d'écouteurs détectés"</string>
-  <string name="music_headset_settings">Écouteurs et effets audio</string>
-  <string name="music_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
-  <string name="music_hifi_title">Audio Hi-Fi</string>
-  <string name="music_mi_effect_summary">"Utiliser l'amplificateur de son Mi lorsque vous utilisez des écouteurs"</string>
-  <string name="music_mi_effect_title">Amélioration audio Mi</string>
-  <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="music_unsupport_effect_summary">Les casques USB ne sont pas pris en charge</string>
   <string name="musicfx_title">Effets musicaux</string>
   <string name="mute_music_stream">Désactiver le son la diffusion de musique</string>
   <string name="mute_voiceassist_stream">Assistant vocale muet</string>
@@ -3681,6 +3629,9 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="my_device_info_device_name_preference_title">"Nom de l'appareil"</string>
   <string name="n_cacrts">%d certificats CA</string>
   <string name="nature_color">Par défaut</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">"Balayez vers le haut depuis le bas de l'écran, puis balayez vers la gauche ou la droite"</string>
+  <string name="navigation_guide_app_quick_switch_summary">"Balayez vers la gauche ou la droite depuis l'indicateur plein écran ou le bas de l'écran"</string>
+  <string name="navigation_guide_app_quick_switch_title">Basculer entre les applications</string>
   <string name="navigation_guide_app_summary">"Balayez vers la gauche ou la droite depuis le bord de l'écran dans la partie supérieure de l'écran"</string>
   <string name="navigation_guide_app_title">"Action du déclencheur d'applications"</string>
   <string name="navigation_guide_appswitch_anim_summary">"Faites glisser à travers l'écran à partir du bord pour retourner à l'application précédente"</string>
@@ -3695,6 +3646,10 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="navigation_guide_dialog_skip">Pas maintenant</string>
   <string name="navigation_guide_dialog_summary">Découvrez les gestes que vous pouvez utiliser pour la navigation dans le système.</string>
   <string name="navigation_guide_dialog_title">Découvrir les gestes</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">"Un nouveau geste pour basculer entre les applications sera utilisé après avoir masqué l'indicateur plein écran. Apprenez ce geste maintenant ?"</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Apprenez un nouveau geste</string>
+  <string name="navigation_guide_hide_gesture_line_summary">"Ne pas afficher l'indicateur plein écran lors de l'utilisation de gestes plein écran"</string>
+  <string name="navigation_guide_hide_gesture_line_title">"Masquer l'indicateur plein écran"</string>
   <string name="navigation_guide_home_summary">"Balayer du bas vers le haut de l'écran"</string>
   <string name="navigation_guide_home_title">"Aller à l'écran d'accueil"</string>
   <string name="navigation_guide_recent_summary">"Balayer du bas vers le haut de l'écran et mettre en pause"</string>
@@ -3706,16 +3661,13 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="nearby_wifi">Réseaux disponibles</string>
   <string name="need_reboot_now">Redémarrer pour installer la mise à jour.</string>
   <string name="netcheck_title">Diagnostique réseau</string>
-  <string name="network_1x">1x</string>
-  <string name="network_2G">2G</string>
-  <string name="network_3G">3G</string>
   <string name="network_4G">4G (recommandé)</string>
   <string name="network_alarm">"Ne faites pas taire les appels internet"</string>
   <string name="network_alarm_summary">"Remarque: certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
   <string name="network_alarm_summary_reg">Afficher les applications prises en charge</string>
   <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">Consommation des données</string>
-  <string name="network_changed_noti_summary">Avec les données mobiles</string>
+  <string name="network_changed_noti_summary">Avec les données cellulaires</string>
   <string name="network_changed_noti_title">Déconnecté du Wi-Fi</string>
   <string name="network_control">"Afficher les paramètres de l'application"</string>
   <string name="network_dashboard_summary_data_usage">conso. des données</string>
@@ -3741,7 +3693,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="network_speed_for_apps_title">Connexion</string>
   <string name="network_speed_for_apps_total">Vitesse de connexion</string>
   <string name="networks">"Sélection de l'opérateur"</string>
-  <string name="networks_title">Réseaux mobiles</string>
+  <string name="networks_title">Réseaux cellulaires</string>
   <string name="never">Jamais</string>
   <string name="new_backup_pw_prompt">Saisissez votre nouveau mot de passe de sauvegarde complète.</string>
   <string name="new_device_suggestion_summary">Découvrez votre nouveau téléphone</string>
@@ -4025,6 +3977,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
 L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="other">Autre</string>
   <string name="other_advanced_settings">Paramètres additionnels</string>
+  <string name="other_data">Other items on this device</string>
   <string name="other_device_info">Autres</string>
   <string name="other_input_settings">Paramètres additionnels du clavier</string>
   <string name="other_personal_settings">Paramètres personnels</string>
@@ -4136,6 +4089,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="phone_call_noise_suppression">Suppression du bruit ambiant durant un appel</string>
   <string name="phone_info_label">Informations sur le téléphone</string>
   <string name="phone_language">Langues</string>
+  <string name="photo_data">Photos et vidéos</string>
   <string name="physical_keyboard_title">Clavier physique</string>
   <string name="pick_up_gesture_wakeup_title">"Soulever pour allumer l'écran"</string>
   <string name="picture_color_mode">Mode image couleur</string>
@@ -4150,6 +4104,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
   <string name="please_select_phase2">Authentification étape 2</string>
   <string name="please_type_passphrase">Mot de passe</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pointer_location">Localisation du pointeur</string>
   <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
   <string name="pointer_settings_category">Souris / Pavé tactile</string>
@@ -4200,6 +4156,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="power_mgr">Optimisation de la batterie</string>
   <string name="power_mode">Puissance</string>
   <string name="power_mode_balanced_title">Puissance équilibrée</string>
+  <string name="power_monitor_summary">"Outils utilisés pour surveiller l'alimentation."</string>
+  <string name="power_monitor_title">Moniteur de puissance</string>
   <string name="power_optimize">Économiseur de batterie</string>
   <string name="power_overcounted">Surestimée</string>
   <string name="power_phone">Appels vocaux</string>
@@ -4382,6 +4340,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="privacy_protection_title">Protection des données</string>
   <string name="privacy_relative">Confidentialité</string>
   <string name="privacy_settings">Sauvegarder et réinitialiser</string>
+  <string name="privacy_settings_new">Sauvegarder, restaurer ou réinitialiser</string>
   <string name="privacy_settings_title">Sauvegarde</string>
   <string name="privacy_thumbnail_blur_progress_message">Chargement…</string>
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
@@ -4458,11 +4417,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="radioInfo_data_connecting">Connexion</string>
   <string name="radioInfo_data_disconnected">Déconnecté</string>
   <string name="radioInfo_data_suspended">Interrompu</string>
-  <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_bytes">octets</string>
-  <string name="radioInfo_display_dbm">dBm</string>
   <string name="radioInfo_display_packets">paquets</string>
-  <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getIMS">État du service IMS</string>
   <string name="radioInfo_menu_viewADN">"Afficher le carnet d'adresses de la carte SIM"</string>
   <string name="radioInfo_menu_viewFDN">Afficher les numéros autorisés</string>
@@ -4519,7 +4475,6 @@ Interface UT: %5$s"</string>
   <string name="radio_info_set_perferred_label">Définir le type de réseau préféré:</string>
   <string name="radio_info_signal_location_label">Informations de géolocalisation mobiles (obsolètes):</string>
   <string name="radio_info_signal_strength_label">Intensité du signal:</string>
-  <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Actualiser</string>
   <string name="radio_info_smsc_update_label">Mettre à jour</string>
   <string name="radio_info_toggle_dns_check_label">Activer/Désactiver le contrôle DNS</string>
@@ -4602,6 +4557,7 @@ Interface UT: %5$s"</string>
   <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre compte Mi utilisé dans le premier espace</string>
   <string name="reset_shortcut_manager_throttling">Réinitialiser la limitation de débit de ShortcutManager</string>
   <string name="reset_shortcut_manager_throttling_complete">La limitation de débit ShortcutManager a bien été réinitialisée.</string>
+  <string name="reset_title">Réinitialiser</string>
   <string name="resetting_second_space_passwd">Réinitialisation du mot de passe du second espace</string>
   <string name="resident_timezone_summary">Seconde Horloge</string>
   <string name="resolver_settings_label">Trier</string>
@@ -4847,6 +4803,7 @@ Pour épingler l'écran:
   <string name="screenshot_three_gesture">"Faites glisser 3 doigts vers le bas pour effectuer une capture d'écran"</string>
   <string name="screenshot_three_gesture_summary">Les autres gestes à 3 doigts seront désactivés</string>
   <string name="sd_card_settings_label">Stockage externe</string>
+  <string name="sd_data">Données de la carte SD</string>
   <string name="sd_card_storage">Stockage externe</string>
   <string name="sd_eject">Désinstaller la carte SD</string>
   <string name="sd_eject_summary">Désinstaller la carte SD pour la retirer en toute sécurité</string>
@@ -5365,12 +5322,12 @@ Le code PIN est peut-être incorrect."</string>
   <string name="single_key_use">Bouton unique</string>
   <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>
   <string name="single_press_AI_button">Appuyer sur le bouton IA</string>
-  <string name="size_byte">o</string>
-  <string name="size_giga_byte">Go</string>
-  <string name="size_kilo_byte">ko</string>
-  <string name="size_mega_byte">Mo</string>
-  <string name="size_peta_byte">Po</string>
-  <string name="size_tera_byte">To</string>
+  <string name="size_byte">" o"</string>
+  <string name="size_giga_byte">" Go"</string>
+  <string name="size_kilo_byte">" ko"</string>
+  <string name="size_mega_byte">" Mo"</string>
+  <string name="size_peta_byte">" Po"</string>
+  <string name="size_tera_byte">" To"</string>
   <string name="skip_anyway_button_label">Ignorer quand même</string>
   <string name="skip_label">Ignorer</string>
   <string name="skip_lock_screen_confirm_msg">"Les notifications, les commandes du lecteur de musique et les raccourcis ne seront pas affichés sur l'écran de verrouillage."</string>
@@ -5489,7 +5446,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_awake_time">Temps en activité</string>
   <string name="status_bar_app_disable_notification">Notifications cachées</string>
   <string name="status_bar_app_enable_floating">Notifications flottantes</string>
-  <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
+  <string name="status_bar_app_enable_keyguard">Écran de verrouillage</string>
   <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
   <string name="status_bar_settings">"Notifications et barre de statut</string>
@@ -5503,14 +5460,9 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bt_address">Adresse Bluetooth</string>
   <string name="status_data_network_type">Type de réseau de données mobiles</string>
   <string name="status_data_state">État du réseau mobile</string>
-  <string name="status_esim_id">EID</string>
   <string name="status_failed_to_write">Impossible de modifier des données sur le tag NFC. Si le problème persiste, essayez avec un autre tag.</string>
-  <string name="status_icc_id">ICCID</string>
   <string name="status_invalid_password">Mot de passe erroné. Veuillez réessayer.</string>
   <string name="status_latest_area_info">"Informations sur l'opérateur"</string>
-  <string name="status_meid_number">MEID</string>
-  <string name="status_min_number">MIN</string>
-  <string name="status_msid_number">MSID</string>
   <string name="status_number">Numéro de téléphone</string>
   <string name="status_number_sim_slot">Numéro de téléphone (SIM %1$d)</string>
   <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
@@ -5720,7 +5672,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="storageuse_settings_title">Utilisation du stockage</string>
   <string name="strict_mode">Mode strict activé</string>
   <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
-  <string name="strong_suppression_summary">"Your device won't respond to accidental touch, some gesture controls might not work near the edges"</string>
+  <string name="strong_suppression_summary">Your device will be less responsive to accidental touch, some gesture controls might not work near the edges</string>
   <string name="strong_suppression_title">Big area</string>
   <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
@@ -5741,7 +5693,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
   <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
   <string name="supl_not_set">&lt;Non défini></string>
-  <string name="supplicant_state_label">Etat suppliant:</string>
+  <string name="supplicant_state_label">État suppliant:</string>
   <string name="support_gesture_title">Modèles 3D</string>
   <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
   <string name="sure_sync_now">Synchroniser les éléments maintenant ?</string>
@@ -5791,6 +5743,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="system_app_settings">Applications systèmes</string>
   <string name="system_apps_updater">"Mise à jour d'applications système"</string>
   <string name="system_backup_section_title">Sauvegarde</string>
+  <string name="system_backup_section_title_new">Sauvegarder ou restaurer</string>
   <string name="system_dashboard_summary">Langues, date et heure, sauvegarde, mises à jour</string>
   <string name="system_default_app">(Paramètres par défaut)</string>
   <string name="system_package">Les mises à jour du système ne peuvent pas être installées sur des supports externes.</string>
@@ -5858,6 +5811,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="time_unit_just_now">"À l'instant"</string>
   <string name="timed_titlei">Minuteur %d</string>
   <string name="timezone_settings">Fuseau horaire</string>
+  <string name="tip_remove_data">Factory reset will erase these items from your device</string>
   <string name="title_color_calibration">Correction des couleurs prédéfinies</string>
   <string name="title_convert_fbe">Conversion en fichiers basés sur le chiffrement</string>
   <string name="title_font">Police</string>
@@ -6037,7 +5991,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="unlock_set_enter_system">"Désactiver l'écran de verrouillage"</string>
   <string name="unlock_set_enter_system_summary">"En allumant l'écran vous atteindrez directement le bureau."</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Fonctionnalité expérimentale avec niveau de sécurité faible</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Déverrouiler avec la reconnaissance faciale</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Déverrouiller  avec la reconnaissance faciale</string>
   <string name="unlock_set_unlock_disabled_summary">"Désactivé par l'admin, règles chiffrement, stockage ID"</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Changer ou désactiver un schéma, code PIN, ou mot de passe</string>
   <string name="unlock_set_unlock_launch_picker_change_title">"Modifier l'écran de verrouillage"</string>
@@ -6068,7 +6022,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
   <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
   <string name="unmute_sound_title">Activer le son</string>
-  <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisés pour le mode plein écran</string>
+  <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisées pour le mode plein écran</string>
   <string name="unrestricted_app_summary">"Autoriser l'accès non restreint aux données lorsque l'économiseur de données est activé"</string>
   <string name="unrestricted_app_title">Conso. données non restreinte</string>
   <string name="unrestricted_data_saver">Données non restreintes</string>
@@ -6097,7 +6051,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usage_app_weekday_limit">Jours de la semaine</string>
   <string name="usage_app_weekend_limit">Week-Ends</string>
   <string name="usage_log">"Statistiques d'utilisation des apps"</string>
-  <string name="usage_state_app_timer">"Gestionnaires d'utilisations"</string>
+  <string name="usage_state_app_timer">Bien-être numérique</string>
   <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
   <string name="usage_state_app_usage_list_title">"Temps d'utilisation"</string>
   <string name="usage_state_app_usage_list_week_title">"Temps d'utilisation"</string>
@@ -6152,7 +6106,6 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usage_type_data_wifi_recv">Données Wi-Fi reçues</string>
   <string name="usage_type_data_wifi_send">Données Wi-Fi envoyées</string>
   <string name="usage_type_flashlight">Lampe de poche</string>
-  <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Durée sans signal</string>
   <string name="usage_type_on_time">"Durée d'activation"</string>
   <string name="usage_type_phone">Téléphone</string>
@@ -6206,7 +6159,6 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
   <string name="usb_install_app">Installer via USB</string>
   <string name="usb_install_app_desc">"Autoriser l'installation des applications via USB"</string>
   <string name="usb_midi_summary">Permettre aux applications compatibles avec le protocole MIDI de fonctionner via USB avec des logiciels MIDI sur votre ordinateur</string>
-  <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Monter le stockage USB</string>
   <string name="usb_msd_driver_installer_summary">Obtenez les pilotes pour Windows et OSX</string>
   <string name="usb_msd_driver_installer_title">"Pilote d'installation du disque (MSD)"</string>
@@ -6214,11 +6166,9 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
   <string name="usb_msd_title">Stockage de masse</string>
   <string name="usb_mtp_summary">"Permet de transférer des fichiers multimédias sous Windows ou à l'aide de l'application Android File Transfer pour Mac (voir www.android.com/filetransfer)"</string>
   <string name="usb_mtp_title">Périphérique multimédia (MTP)</string>
-  <string name="usb_pref">USB</string>
   <string name="usb_preference">Préférences USB</string>
   <string name="usb_ptp_summary">"Permet de transférer des photos à l'aide du logiciel photo et de transférer des fichiers sur les ordinateurs non compatibles avec le protocole MTP."</string>
   <string name="usb_ptp_title">Appareil photo (PTP)</string>
-  <string name="usb_summary_MIDI">MIDI</string>
   <string name="usb_summary_MIDI_power">MIDI et alimentation</string>
   <string name="usb_summary_charging_only">"Rechargement de l'appareil"</string>
   <string name="usb_summary_file_transfers">Transfert de fichiers</string>
@@ -6237,9 +6187,7 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
   <string name="usb_tethering_storage_active_subtext">"Impossible de partager la connexion lorsque le stockage USB est en cours d'utilisation"</string>
   <string name="usb_tethering_subtext">Partager la connexion internet du téléphone via un câble USB</string>
   <string name="usb_tethering_unavailable_subtext">USB non connecté</string>
-  <string name="usb_title">USB</string>
   <string name="usb_use">Utiliser la connexion USB pour</string>
-  <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_MIDI_desc">Utiliser cet appareil en tant que MIDI</string>
   <string name="usb_use_charging_only">Aucun transfert de données</string>
   <string name="usb_use_charging_only_desc">Uniquement pour charger cet appareil</string>
@@ -6255,6 +6203,10 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
   <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">"Pour utiliser cette fonctionnalité, sélectionnez un fournisseur d'évaluation de l'état du réseau compatible"</string>
   <string name="use_open_wifi_automatically_summary_scoring_disabled">"Pour utiliser cette fonctionnalité, sélectionnez un fournisseur d'évaluation de l'état du réseau"</string>
   <string name="use_open_wifi_automatically_title">Connexion aux réseaux ouverts</string>
+  <string name="use_otg_charge_only">Recharge inversée</string>
+  <string name="use_otg_file_transfers">Chargement inversé et transfert de fichiers</string>
+  <string name="use_otg_file_transfers_summary">Chargement 500mA plus lent et transferts de fichiers</string>
+  <string name="use_otg_title">USB On-The-Go</string>
   <string name="use_personalized_ad_service">Recommandation de publicités personnalisées</string>
   <string name="use_personalized_ad_service_summary">"Lorsque les recommandations sont désactivées, la quantité de publicités affichée reste la même que lorsqu'elle est activée, mais pas en fonction des données de vos habitudes ou de vos informations personnelles."</string>
   <string name="use_privacy_password_immediate">Utiliser</string>
@@ -6530,7 +6482,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
   <string name="wait_for_debugger">Attendre le débogage</string>
   <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-  <string name="wake_suppression_summary">Your device might respond to accidental touch, but will also respond to gesture controls near the edges</string>
+  <string name="wake_suppression_summary">Your device will be more responsive to accidental touch, but will also react to most gesture controls near the edges</string>
   <string name="wake_suppression_title">Small area</string>
   <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
   <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
@@ -6569,7 +6521,6 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wapi_password_length_is_min">Le mot de passe doit contenir au moins 8 caractères</string>
   <string name="wapi_password_length_is_min_to_max">Le mot de passe doit contenir entre 8 et 64 caractères</string>
   <string name="wapi_psk_type">Type de mot de passe</string>
-  <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Hexadécimal</string>
   <string name="wapi_yes">Oui</string>
   <string name="warm_color">Chaud</string>
@@ -6626,12 +6577,13 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement saturé"</string>
   <string name="wifi_ask_disable">%s requiert la désactivation du Wi-Fi.</string>
   <string name="wifi_ask_enable">"%s requiert l'activation du Wi-Fi."</string>
-  <string name="wifi_assistant">Assistant Wi-Fi</string>
+  <string name="wifi_assist">Assistant Wi-Fi</string>
+  <string name="wifi_assistant">Sélectionnez automatiquement les meilleurs réseaux</string>
   <string name="wifi_assistant_auto_confirm_data_message">"Le Wi-Fi actuel ne peut pas accéder à internet, utilisez plutôt les données mobiles, vous pouvez désactiver l'assistant Wi-Fi dans les paramètres"</string>
   <string name="wifi_assistant_confirm_always">"Plus d'indices la prochaine fois"</string>
   <string name="wifi_assistant_confirm_connection_title">Confirmer la connexion</string>
   <string name="wifi_assistant_data_prompt">"Activer l'assistant Wi-Fi"</string>
-  <string name="wifi_assistant_data_prompt_summary">"Lorsque l'assistant Wi-Fi bascule sur le réseau de données mobiles, affichez une boîte de dialogue à valider"</string>
+  <string name="wifi_assistant_data_prompt_summary">"Afficher un avertissement sur l'utilisation des données lors du passage aux données mobiles"</string>
   <string name="wifi_assistant_description">"Après avoir activé cette fonction:
 1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
 2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données mobiles sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
@@ -6802,9 +6754,14 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_link_turbo">Utiliser les données mobiles pour augmenter la vitesse</string>
   <string name="wifi_link_turbo_app_settings_summary">Sélectionnez les applications qui utiliseront cette fonctionnalité</string>
   <string name="wifi_link_turbo_app_settings_title">Sélectionnez des applications</string>
+  <string name="wifi_link_turbo_customize">Applications personnalisées</string>
+  <string name="wifi_link_turbo_customize_summary">"Sélectionnez les applications qui fonctionneront avec l'assistant Wi-Fi selon vos préférences"</string>
+  <string name="wifi_link_turbo_list">Applications</string>
   <string name="wifi_link_turbo_no_app">"Aucune application ici pour l'instant."</string>
   <string name="wifi_link_turbo_off">Désactiver</string>
   <string name="wifi_link_turbo_on">Activer</string>
+  <string name="wifi_link_turbo_recommendation">Applications recommandées</string>
+  <string name="wifi_link_turbo_recommendation_summary">"Recevez des recommandations basées sur les statistiques d'utilisation des données"</string>
   <string name="wifi_link_turbo_summary">"Augmentez la vitesse de connexion pour la sélection d'applications utilisant des données mobiles lorsque la connexion Wi-Fi est mauvaise"</string>
   <string name="wifi_menu_advanced">Options avancées</string>
   <string name="wifi_menu_configure">Configurer</string>
@@ -7103,16 +7060,15 @@ On dirait que le stockage des certificats n'est pas activé."</string>
   <string name="work_sync_dialog_yes">Remplacer</string>
   <string name="work_use_personal_sounds_summary">Les sons des profils professionnel et personnel sont identiques</string>
   <string name="work_use_personal_sounds_title">Utiliser sons du profil perso</string>
-  <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Assurez-vous que le routeur supporte et que WPS est activé</string>
   <string name="wps_connect_title">Connecté WPS</string>
-  <string name="write_settings">Modifier param. système</string>
+  <string name="write_settings">Modifier les paramètres système</string>
   <string name="write_settings_description">Cette autorisation permet à une application de modifier les paramètres système.</string>
   <string name="write_settings_off">Non</string>
   <string name="write_settings_on">Oui</string>
   <string name="write_settings_summary">%1$d sur %2$d applis autorisées à modifier les paramètres système</string>
   <string name="write_settings_title">Peut modifier les paramètres système</string>
-  <string name="write_system_settings">Modifier param. système</string>
+  <string name="write_system_settings">Modifier les paramètres système</string>
   <string name="write_tag">Modifier</string>
   <string name="wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
   <string name="xiaomi_account">Compte Mi</string>
@@ -7337,4 +7293,97 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
   <string name="zone_menu_by_region">Sélectionner par zone géo.</string>
   <string name="zone_time_type_dst">"Heure d'été"</string>
   <string name="zone_time_type_standard">Heure standard</string>
+  <string name="config_charging_function_name">mise en charge</string>
+  <string name="config_list_label">Réseaux configurés</string>
+  <string name="disconnect">déconnecter</string>
+  <string name="eq_auto">Personnaliser</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_cancel">Annuler</string>
+  <string name="eq_classical">Classique</string>
+  <string name="eq_country">Pays</string>
+  <string name="eq_dance">Danse</string>
+  <string name="eq_delete">Effacer</string>
+  <string name="eq_delete_success">Terminer</string>
+  <string name="eq_electronic">Electronic</string>
+  <string name="eq_flat">Défaut</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Métal</string>
+  <string name="eq_ok">OK</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Créer</string>
+  <string name="eq_preset_format">Préréglage utilisateur %d</string>
+  <string name="eq_preset_hint">"Nom de l'effet"</string>
+  <string name="eq_preset_rename">Renommer</string>
+  <string name="eq_preset_select">Choisissez un préréglage</string>
+  <string name="eq_return">Revenir</string>
+  <string name="eq_rock">Rock</string>
+  <string name="equalizer">Égaliseur</string>
+  <string name="hidden_ssid_label">Caché SSID:</string>
+  <string name="input_hint_prefix">Entrer %1$s</string>
+  <string name="intent_sender_data_label">Données:</string>
+  <string name="ipaddr_label">Adresse IP:</string>
+  <string name="link_speed_label">Vitesse connexion:</string>
+  <string name="macaddr_label">Adresse MAC:</string>
+  <string name="music_app_unavailable">"Assurez-vous que l'application Mi Musique est disponible."</string>
+  <string name="music_audio_effect_optimize">Paramètres audio</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, casque et autres paramètres audio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, casque et autres paramètres audio</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, casque et autres paramètres audio</string>
+  <string name="music_audio_effect_settings">"Paramètres d'effets"</string>
+  <string name="music_dirac_control">Optimiser la qualité audio</string>
+  <string name="music_dirac_mode_cancelling">Suppression du bruit Mi 3.5mm</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
+  <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
+  <string name="music_dirac_mode_general">Général</string>
+  <string name="music_dirac_mode_general_earbuds">Général</string>
+  <string name="music_dirac_mode_general_inear">Intra général</string>
+  <string name="music_dirac_mode_half_in_ear">Mi Intra</string>
+  <string name="music_dirac_mode_headset">Mi Casque</string>
+  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
+  <string name="music_dirac_mode_in_ear">Mi Intra</string>
+  <string name="music_dirac_mode_in_ear2">Mi Intra 2</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi Intra (2013)</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi Intra Pro</string>
+  <string name="music_dirac_mode_india_earphones">Mi Écouteur</string>
+  <string name="music_dirac_mode_india_earphones_basic">Mi Écouteur Basic</string>
+  <string name="music_dirac_mode_off">Dirac désactivé</string>
+  <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
+  <string name="music_dirac_mode_piston_100">Mi Piston</string>
+  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+  <string name="music_dirac_mode_piston_basic">Édition de base</string>
+  <string name="music_dirac_mode_piston_color">Édition couleur</string>
+  <string name="music_dirac_mode_piston_standard">Édition standard</string>
+  <string name="music_dirac_mode_piston_youth">Édition jeunesse</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling Type-C</string>
+  <string name="music_dolby_mode_movie">Vidéo</string>
+  <string name="music_dolby_mode_music">Musique</string>
+  <string name="music_dolby_mode_off">Désactiver</string>
+  <string name="music_equalizer_summary">Ajustez les niveaux individuels pour différents types de musique</string>
+  <string name="music_hd_title">Son HD</string>
+  <string name="music_headphone_settings">Choisissez le type de casque</string>
+  <string name="music_headset_button_settings">Attribuer des boutons</string>
+  <string name="music_headset_calibrate">Attribuer des boutons</string>
+  <string name="music_headset_calibrate_apply">Utilisation</string>
+  <string name="music_headset_calibrate_confirm">Appliquer ces paramètres ?</string>
+  <string name="music_headset_calibrate_hint">Appuyez sur le bouton supérieur</string>
+  <string name="music_headset_calibrate_next_track">Piste suivante</string>
+  <string name="music_headset_calibrate_prev_track">Piste précédente</string>
+  <string name="music_headset_calibrate_success">Paramètres appliqués</string>
+  <string name="music_headset_calibrate_volume_down">Diminuer le volume</string>
+  <string name="music_headset_calibrate_volume_up">Augmentez le volume</string>
+  <string name="music_headset_calibrate_wrong_key">"C'est le mauvais bouton"</string>
+  <string name="music_headset_mode_music">Contrôler la lecture de musique</string>
+  <string name="music_headset_mode_settings">Boutons de télécommande pour casque</string>
+  <string name="music_headset_mode_volume">Contrôle le niveau du volume</string>
+  <string name="music_headset_no_contected">Aucun casque détecté</string>
+  <string name="music_headset_settings">Casques et effets audio</string>
+  <string name="music_hifi_summary">Réduisez le bruit et la distorsion et augmentez la qualité audio</string>
+  <string name="music_hifi_title">Audio Hi-Fi</string>
+  <string name="music_mi_effect_summary">Utilisez Mi Sound Enhancer lorsque vous utilisez des haut-parleurs</string>
+  <string name="music_mi_effect_title">Mi Sound Enhancer</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_unsupport_effect_summary">"Les casques USB ne sont pas pris en charge"</string>
+  <string name="status_serialno">numéro de série</string>
+  <string name="system_haptic_feedback">Retour haptique</string>
 </resources>
