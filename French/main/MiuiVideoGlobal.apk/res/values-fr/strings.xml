@@ -215,7 +215,7 @@
   <string name="confirm_new_pwd">Confirm new password</string>
   <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
   <string name="content">Content</string>
-  <string name="content_can_not_null">"Can't submit feedback without description."</string>
+  <string name="content_can_not_null">"Impossible de soumettre des commentaires sans description."</string>
   <string name="data_empty">Aucun élément ici</string>
   <string name="day">jour</string>
   <string name="description">Description</string>
@@ -818,7 +818,7 @@ Increase the security of your account."</string>
   <string name="plus_properties_file_name">Filename</string>
   <string name="plus_properties_finished">Finished</string>
   <string name="plus_properties_format">Format</string>
-  <string name="plus_properties_frame_rate">Frame rate</string>
+  <string name="plus_properties_frame_rate">"Fréquence d'images"</string>
   <string name="plus_properties_last_playback_position">Last position</string>
   <string name="plus_properties_last_playback_time">Last played</string>
   <string name="plus_properties_length">Duration</string>

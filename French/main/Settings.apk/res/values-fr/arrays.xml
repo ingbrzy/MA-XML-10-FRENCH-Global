@@ -9,6 +9,29 @@
       <item>TIÈDE</item>
       <item>FROID</item>
     </string-array>
+     <string-array name="ai_item_action_array">
+      <item>Aucun</item>
+      <item>"Activer l'assistant Google"</item>
+     </string-array>
+    <string-array name="autofill_logging_level_entries">
+      <item>Désactiver</item>
+      <item>Débug</item>
+      <item>Verbose</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+      <item>Bureau seulement</item>
+      <item>Automatique</item>
+    </string-array>
+    <string-array name="aggregate_entries">
+        <item>Recommandé</item>
+        <item>Important</item>
+        <item>Sans importance</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI décidera quelles notifications doivent apparaître directement</item>
+        <item>Les notifications apparaîtront dans la zone de notification</item>
+        <item>Les notifications apparaîtront dans un dossier séparé</item>
+    </string-array>
     <string-array name="ai_key_item_name">
       <item>"Parler à l'assistant Google"</item>
       <item>Ouvrir la recherche Google</item>
@@ -270,12 +293,14 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
       <item>Optimisé pour une faible latence</item>
+      <item>Optimisé pour une faible latence</item>
       <item>Optimisé pour la qualité de la connexion</item>
       <item>Qualité audio et de connexion équilibrée</item>
       <item>Optimisé pour la qualité audio</item>
       <item>Meilleur effort (débit binaire automatique)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+      <item>Optimisé pour une faible latence (192kbps)</item>
       <item>Optimisé pour une faible latence (256kbps)</item>
       <item>Optimisé pour la qualité de la connexion (400kbps)</item>
       <item>Qualité audio et de connexion équilibrée (500/560kbps)</item>
@@ -284,23 +309,45 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
       <item>Utiliser sélection du système (par défaut)</item>
+      <item>44.1 kHz</item>
+      <item>48.0 kHz</item>
+      <item>88.2 kHz</item>
+      <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
       <item>Utiliser sélection du système (par défaut)</item>
+      <item>44.1 kHz</item>
+      <item>48.0 kHz</item>
+      <item>88.2 kHz</item>
+      <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
       <item>Utiliser la préférence de système (par défaut)</item>
-      <item>Audio Qualcomm® aptX™</item>
-      <item>Audio Qualcomm® aptX™ HD</item>
-      <item>Audio Qualcomm® aptX™ Adaptive</item>
+      <item>SBC</item>
+      <item>AAC</item>
+      <item>Qualcomm® aptX™ audio</item>
+      <item>Qualcomm® aptX™ HD audio</item>
+      <item>LDAC</item>
+      <item>Qualcomm® aptX™ Adaptive audio</item>
+      <item>Qualcomm® aptX™ TWS+ audio</item>
+      <item>LHDC_V3</item>
+      <item>LHDC_V2</item>
+      <item>LHDC_V1</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
       <item>Utiliser la préférence de système (par défaut)</item>
-      <item>Audio Qualcomm® aptX™</item>
-      <item>Audio Qualcomm® aptX™ HD</item>
-      <item>Audio Qualcomm® aptX™ Adaptive</item>
+      <item>SBC</item>
+      <item>AAC</item>
+      <item>Qualcomm® aptX™ audio</item>
+      <item>Qualcomm® aptX™ HD audio</item>
+      <item>LDAC</item>
+      <item>Qualcomm® aptX™ Adaptive audio</item>
+      <item>Qualcomm® aptX™ TWS+ audio</item>
+      <item>LHDC_V3</item>
+      <item>LHDC_V2</item>
+      <item>LHDC_V1</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
@@ -315,6 +362,11 @@
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
       <item>Utiliser la valeur par défaut du système: %1$d</item>
+      <item>1</item>
+      <item>2</item>
+      <item>3</item>
+      <item>4</item>
+      <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
       <item>Deux minutes</item>
@@ -692,16 +744,15 @@
       <item>Mode enfant</item>
       <item>Gestionnaire de fichiers</item>
       <item>"Verrouillage d'application"</item>
-      <item>Second espace</item>
+      <item>Deuxième espace</item>
     </string-array>
     <string-array name="connect_mode_entries">
       <item>Compatibilité</item>
       <item>Haut débit</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-      <item>"Automatique (en fonction de l'heure de la journée)"</item>
-      <item>Toujours activé</item>
-      <item>Toujours désactivé</item>
+	  <item>Sombre</item>
+      <item>Clair</item>
     </string-array>
     <string-array name="data_usage_data_range">
       <item>30 derniers jours</item>
@@ -856,6 +907,12 @@
       <item>Raccourcis de transports publics</item>
     </string-array>
     <string-array name="max_number_titles">
+      <item>6</item>
+      <item>5</item>
+      <item>4</item>
+      <item>3</item>
+      <item>2</item>
+      <item>1</item>
       <item>Illimité</item>
     </string-array>
     <string-array name="media_feedback_level_entries">

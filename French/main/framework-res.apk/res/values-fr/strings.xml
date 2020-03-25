@@ -895,8 +895,6 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="menu_shift_shortcut_label">Maj+</string>
   <string name="menu_space_shortcut_label">espace</string>
   <string name="menu_sym_shortcut_label">Sym+</string>
-  <string name="miaudiovisual_notification_summary">"Activez pour afficher les effets sur l'écran de verrouillage"</string>
-  <string name="miaudiovisual_notification_title">Effets audio et visuels</string>
   <string name="midnight">minuit</string>
   <string name="minute">min</string>
   <string name="minute_picker_description">Curseur circulaire des minutes</string>
@@ -1532,8 +1530,8 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="time_picker_text_input_mode_description">"Passer en mode saisie de texte pour la saisie de l'heure."</string>
   <string name="toolbar_collapse_description">Réduire</string>
   <string name="tooltip_popup_title">Info-bulle</string>
-  <string name="turn_off_radio">Désactiver le mode sans-fil</string>
-  <string name="turn_on_radio">Activer le mode sans-fil</string>
+  <string name="turn_off_radio">Désactiver le mode sans fil</string>
+  <string name="turn_on_radio">Activer le mode sans fil</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Appuyer deux fois pour régler le zoom</string>
   <string name="undo">Annuler</string>
   <string name="unpin_target">Retirer</string>

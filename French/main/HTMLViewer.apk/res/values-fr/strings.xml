@@ -21,6 +21,7 @@ allez sur %s sur un autre périphérique connecté."</string>
   <string name="settings_safetylegal_activity_unreachable">Connexion réseau impossible. Pour afficher cette information maintenant, allez sur %s depuis un ordinateur connecté à Internet.</string>
   <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="ime_privacy_policy">Choisir un clavier</string>
+  <string name="legal_written_offer">Offre écrite</string>
   <string name="ad_service">Service publicitaire</string>
   <string name="settings_ad_loading">Chargement…</string>
   <string name="settings_ad_loading_unavailable">"Impossible de charger l'information."</string>

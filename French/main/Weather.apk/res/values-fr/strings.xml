@@ -8,12 +8,16 @@
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
   <string name="abc_capital_on">ACTIVÉ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">supprimer</string>
   <string name="abc_menu_enter_shortcut_label">entrée</string>
   <string name="abc_menu_function_shortcut_label">Fonction+</string>
   <string name="abc_menu_meta_shortcut_label">Méta+</string>
   <string name="abc_menu_shift_shortcut_label">Maj+</string>
   <string name="abc_menu_space_shortcut_label">espace</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Rechercher…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -26,6 +30,9 @@
   <string name="about_weather_setting">À propos de la météo</string>
   <string name="about_weather_setting_feedback">"Retour d'information"</string>
   <string name="abrupt_weather_settings_summary_type">"Recevez des alertes sur les précipitations attendues, les changements de la qualité de l'air et d'autres changements importants"</string>
+  <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
   <string name="request_permission_location_dialog_content">Pour afficher les informations météorologiques pertinentes dans votre emplacement actuel</string>
   <string name="request_permission_main_purpose">Affichage des informations météo</string>
   <string name="request_permission_read_phone_state_dialog_content">Pour identifier votre appareil</string>
@@ -64,6 +71,9 @@
   <string name="aqi_settings_summary">Alertes IQA</string>
   <string name="aqi_settings_title">IQA</string>
   <string name="aqi_sub_desc">IQA</string>
+  <string name="clear_net_mock_success">Net mock clear success</string>
+  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+  <string name="data_source_timezone">"GMT %1$s"</string>
   <string name="information_settings_title">Info météo</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="aqi_data_source">Propulsé par Colorful Clouds</string>
@@ -86,6 +96,7 @@
   <string name="aqi_quality_major_pollutants">Polluants majeurs</string>
   <string name="aqi_quality_map_title">"Carte de la qualité de l'air"</string>
   <string name="aqi_quality_no2_desc">"Dioxyde d'azote"</string>
+  <string name="aqi_quality_o3_desc">Ozone</string>
   <string name="aqi_quality_pm10_desc">Particules grossières inhalables</string>
   <string name="aqi_quality_pm25_desc">Particules fines</string>
   <string name="aqi_quality_so2_desc">Dioxyde de soufre</string>
@@ -94,6 +105,7 @@
   <string name="aqi_top_pollution">Polluants majeurs</string>
   <string name="button_abandon">Annuler les modifications</string>
   <string name="button_add_city">Ajouter une ville</string>
+  <string name="button_allow">OK</string>
   <string name="button_confirm">Accepter</string>
   <string name="button_exit">Refuser</string>
   <string name="button_not_allow">Annuler</string>
@@ -103,6 +115,7 @@
   <string name="button_settings_confirm_to_revoke_title">"Révoquer l'autorisation ?"</string>
   <string name="button_sure_abandon">Annuler les modifications ?</string>
   <string name="card_item_ad_text">Publicité</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Vérifiez votre connexion réseau et réessayez</string>
   <string name="china_version_first_start_network_msg">Vous devez accepter %1$s et %2$s de Xiaomi pour pouvoir utiliser la météo. La météo doit accéder à votre localisation et se connecter à Internet pour fonctionner normalement. Accepter?</string>
   <string name="city_exceeded_warning">"Vous pouvez ajouter jusqu'à 10 villes"</string>
@@ -194,6 +207,16 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="network_not_available">Impossible de se connecter au réseau</string>
   <string name="network_unavailable">Impossible de se connecter au réseau.</string>
   <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
+  <string name="news_load_more_default">上拉刷新</string>
+  <string name="news_load_more_failed">网络不可用，请检查网络后重试</string>
+  <string name="news_load_more_loading">正在刷新</string>
+  <string name="news_load_more_no_data">仅展示最近48小时的资讯</string>
+  <string name="news_refresh_loading">正在载入</string>
+  <string name="news_refresh_pull_to_refresh">下拉刷新</string>
+  <string name="news_refresh_release_to_refresh">松开刷新</string>
+  <string name="news_tips_net_error">网络不可用，请检查网络后重试</string>
+  <string name="news_tips_no_data">暂无更多新资讯</string>
+  <string name="news_tips_success">已更新%1$d条资讯</string>
   <string name="night_not_disturb_settings_summary">Bloquer les alertes entre 23h00 et 7h00</string>
   <string name="night_not_disturb_settings_title">Ne pas déranger la nuit</string>
   <string name="no_data">Aucune donnée</string>
@@ -204,6 +227,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="open_now">Ouvrir</string>
   <string name="other_warning_settings">Autres alertes</string>
   <string name="particulate_matter_exceeded">Elevé</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Trop élevé</string>
   <string name="permission_device_info">"Informations sur l'appareil"</string>
   <string name="permission_device_introduce">"Pour reconnaître l'ID de l'appareil en fonction du modèle et de l'IMEI et fournir des services localisés en fonction des préférences de langue"</string>
@@ -219,6 +243,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="precipitation_degree_one">Aucun</string>
   <string name="precipitation_degree_three">Modéré</string>
   <string name="precipitation_degree_two">Faible</string>
+  <string name="pressure_connect">%1$s mb</string>
   <string name="privacy_grant_failed">"Impossible d'accorder l'autorisation. Patientez une minute ou deux puis réessayez."</string>
   <string name="privacy_grant_or_revoke_settings">"Accord et révocation d'autorisation"</string>
   <string name="privacy_grant_success">Permissions accordée avec succès</string>
@@ -239,6 +264,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="realtime_humidity_title">Humidité relative</string>
   <string name="realtime_temperature_no_data">Non disponible</string>
   <string name="realtime_wind_default_title">Vent</string>
+  <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="refresh_empty_data">"Impossible de charger les données. Attendez une minute ou deux et réessayez."</string>
   <string name="refresh_fail">Impossible de se connecter au réseau</string>
   <string name="reminder_from_xiaomi_weather_app">Alerte Mi météo</string>
