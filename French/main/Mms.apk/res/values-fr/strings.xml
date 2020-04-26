@@ -159,7 +159,7 @@
   <string name="confirm_restore_message">Restaurer les messages sélectionnés?</string>
   <string name="confirm_restore_positive">Restaurer</string>
   <string name="confirm_restore_title">Restaurer les messages</string>
-  <string name="confirm_send_mms">Un de vos destinataires comprend une adresse E-mail. Ce message sera envoyé en tant que MMS, ce qui peut entraîner des frais supplémentaires de votre opérateur.</string>
+  <string name="confirm_send_mms">Un de vos destinataires comprend une adresse Email. Ce message sera envoyé en tant que MMS, ce qui peut entraîner des frais supplémentaires de votre opérateur.</string>
   <string name="confirm_upload_sms">Télécharger des messages pour améliorer la fonctionnalité de la liste de blocage</string>
   <string name="contact_card_unknown_contact">Contact inconnu</string>
   <string name="contact_not_exists">"Cette personne n'est pas dans vos contacts."</string>
@@ -172,7 +172,7 @@
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Copié dans le presse-papiers</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
-  <string name="context_menu_send_mail">Envoyer un E-mail</string>
+  <string name="context_menu_send_mail">Envoyer un Email</string>
   <string name="context_menu_send_sms">Envoyer des SMS</string>
   <string name="context_menu_view_contact">Afficher le contact</string>
   <string name="context_menu_view_mms">Afficher le MMS</string>
@@ -322,7 +322,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Relâchez pour actualiser…</string>
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Veuillez réessayer</string>
-  <string name="i_know">"C'est compris"</string>
+  <string name="i_know">Compris</string>
   <string name="ignore">Not now</string>
   <string name="imageview_ad">Pub</string>
   <string name="importing_progress_private_message">Importation…</string>
@@ -445,7 +445,7 @@ Ce message peut être non sollicité."</string>
   <string name="mx_btn_enable">Activer</string>
   <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Vous avez envoyé %1$d SMS et %2$d MMS gratuitement</string>
-  <string name="mx_current_status">Paramètres Mi Message</string>
+  <string name="mx_current_status">Paramètres Mi Messages</string>
   <string name="mx_dspt">Envoyer des SMS et MMS aux autres appareils MIUI sans encourir de frais pendant que vous êtes connecté au Wi-Fi.</string>
   <string name="mx_dspt_listview">Envoyer des messages aux autres utilisateurs MIUI sans encourir de frais</string>
   <string name="mx_dspt_provision">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI via internet sans encourir de frais. Un SMS sortant peut être nécessaire pour réactiver Mi Message. Votre opérateur vous facturera ce message. En plus, quand ce service est activé, une petite quantité de données mobiles est requise pour vérifier si l'autre utilisateur est en ligne. Acceptez-vous?"</string>
@@ -462,7 +462,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="mx_main_purpose_short">"Mi Message permet aux utilisateurs de MIUI d'envoyer et de recevoir des SMS et MMS gratuits."</string>
   <string name="mx_message">Mi Message</string>
   <string name="mx_msg">Mi Messages</string>
-  <string name="mx_msg_pageview_setting_title">Paramètres Mi Message</string>
+  <string name="mx_msg_pageview_setting_title">Paramètres Mi Messages</string>
   <string name="mx_offline">Hors ligne</string>
   <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
   <string name="mx_on_sim_2">Mi Message SIM slot 2</string>

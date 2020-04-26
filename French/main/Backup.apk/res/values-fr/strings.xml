@@ -142,7 +142,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="sc_service_unavailable">Service Mi Cloud indisponible</string>
   <string name="sc_unauthorized">Se connecter à nouveau</string>
   <string name="sc_request_timeout">La requête a expiré</string>
-  <string name="sc_precondition_failed">"Vous devez d'abord ajouter une adresse e-mail à votre compte Mi."</string>
+  <string name="sc_precondition_failed">"Vous devez d'abord ajouter une adresse Email à votre compte Mi."</string>
   <string name="sc_internal_server_error">Erreur interne du serveur</string>
   <string name="sc_others">"Une erreur s'est produite"</string>
   <string name="succeed">Terminé</string>
@@ -466,9 +466,9 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_connect_failed_device_incompatible">"L'appareil n'est pas compatible. Annulez le transfert et réessayez."</string>
   <string name="trans_connection_failed">La connexion a été interrompue</string>
   <string name="user_notice_title">Attention</string>
-  <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion Internet pour fonctionner normalement."</string>
+  <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion internet pour fonctionner normalement."</string>
   <string name="user_notice_declaration_ignore">Ne plus afficher</string>
-  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title">F.A.Q</string>
   <string name="trans_intro_question_1">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil iOS ?</string>
   <string name="trans_intro_desc_1">Sur un téléphone Mi, connectez-vous au Wi-Fi et appuyez sur \"Je suis le destinataire\". Sélectionnez votre appareil iOS, connectez-vous à iCloud et importez les données.</string>
   <string name="trans_intro_question_2">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil Android ?</string>
@@ -482,7 +482,7 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_question_3">%d. Que faire si Mi Transfert se bloque à certaine étape ?</string>
   <string name="trans_intro_desc_3">Annulez le transfert, quittez Mi Transfert et recommencez. Les fichiers en double seront écrasés au cours du nouveau transfert.</string>
   <string name="trans_intro_question_4">"%d. Pourquoi ne suis-je pas en mesure d'utiliser le Wi-Fi pendant les transferts ?"</string>
-  <string name="trans_intro_desc_4">"Mi Transfert utilise Wi-Fi pour transférer des fichiers. C'est pourquoi vous ne pouvez pas vous connecter à Internet en utilisant Wi-Fi sur l'un ou l'autre périphérique pendant un transfert. Vous pouvez toujours utiliser des données mobiles. Cependant, certains périphériques plus récents (par exemple, Mi 6) pourraient toujours se connecter à Internet en utilisant Wi-Fi pendant les transferts."</string>
+  <string name="trans_intro_desc_4">"Mi Transfert utilise Wi-Fi pour transférer des fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet en utilisant Wi-Fi sur l'un ou l'autre périphérique pendant un transfert. Vous pouvez toujours utiliser des données mobiles. Cependant, certains périphériques plus récents (par exemple, Mi 6) pourraient toujours se connecter à internet en utilisant Wi-Fi pendant les transferts."</string>
   <string name="trans_intro_desc_4_market">"Mi Transfert utilise le Wi-Fi pour transférer les fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet avec le Wi-Fi sur les deux appareils pendant le transfert. Vous pouvez cependant continuer à utiliser les données mobiles."</string>
   <string name="trans_intro_question_5">"%d. Pourquoi Mi Transfert me dit-il que l'espace de stockage sur mon ancien téléphone est insuffisant ?"</string>
   <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mo à 1 Go d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
@@ -506,11 +506,11 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_question_9_market">%d. Commentaires.</string>
   <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre avis avec l'application \"Commentaire\"."</string>
   <string name="trans_intro_desc_9_method_1_dec">"Allez à l'écran d'accueil > Outils > Commentaire."</string>
-  <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un e-mail</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un Email</string>
   <string name="trans_intro_desc_9_method_2_dec">Envoyez votre commentaire à miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_3_title">3. Signaler des problèmes dans QQ</string>
   <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Transfert: 687338378</string>
-  <string name="btn_got_it">"C'est compris"</string>
+  <string name="btn_got_it">Compris</string>
   <string name="backup_security_tips_title">Les sauvegardes peuvent ne pas fonctionner</string>
   <string name="backup_security_tips_message">Certaines applications peuvent ne pas être sauvegardées ou restaurées.</string>
   <string name="trans_security_tips_title">Compatibilité Mi Transfert</string>
@@ -559,7 +559,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Ouvrez Réglages sur votre appareil iOS, et sélectionnez iCloud.
 2. Déplacez le bouton pour Contacts et autres éléments.
 3. Sélectionnez Photos et déplacez le bouton pour la bibliothèque Photo de iCloud."</string>
-  <string name="user_name">Identifiant Apple ou e-mail</string>
+  <string name="user_name">Identifiant Apple ou Email</string>
   <string name="password">Mot de passe</string>
   <string name="user_name_null">"Le champ du nom d'utilisateur ne peut être vide"</string>
   <string name="password_null">Le champ de mot de passe ne peut être vide</string>

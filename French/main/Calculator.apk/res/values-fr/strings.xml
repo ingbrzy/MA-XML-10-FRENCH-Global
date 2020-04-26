@@ -132,7 +132,7 @@
   <string name="friday_shortest">V</string>
   <string name="fund_loan">Fond de crédit</string>
   <string name="further_education">Enseignement complémentaire</string>
-  <string name="global_network_confirm_content">Convertisseur de devise doit se connecter à Internet pour fonctionner normalement.</string>
+  <string name="global_network_confirm_content">Convertisseur de devise doit se connecter à internet pour fonctionner normalement.</string>
   <string name="global_search_key_area_convertion">Superficie, convertisseur de superficie, conversion de superficie</string>
   <string name="global_search_key_calculation">"Calculer;Calculatrice ;Conversion d'unités;Convertisseur;Convertisseur d'unité"</string>
   <string name="global_search_key_date_convertion">Convertisseur de temps, unités de temps, conversion de temps, temps</string>
@@ -160,9 +160,9 @@
   <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
   <string name="interest_rate_hint">"Entrer le taux d'intérêt"</string>
   <string name="item_title_aa_payment">Scinder la facture</string>
-  <string name="item_title_age">Age</string>
+  <string name="item_title_age">Âge</string>
   <string name="item_title_area_conversion">Aire</string>
-  <string name="item_title_bmi">BMI</string>
+  <string name="item_title_bmi">IMC</string>
   <string name="item_title_calculator">Calculatrice</string>
   <string name="item_title_currency">Devise</string>
   <string name="item_title_date_calculator">Date</string>
@@ -171,10 +171,10 @@
   <string name="item_title_emi">Personal loan</string>
   <string name="item_title_length_conversion">Longueur</string>
   <string name="item_title_mortgage">Prêt immobilier</string>
-  <string name="item_title_percentage">Percentage</string>
+  <string name="item_title_percentage">Pourcentage</string>
   <string name="item_title_radix">Système numéral</string>
   <string name="item_title_scientific_calculator">Scientifique</string>
-  <string name="item_title_spilt_bill">Projet de loi divisé</string>
+  <string name="item_title_spilt_bill">"Partage d'addition"</string>
   <string name="item_title_tax">Taxes</string>
   <string name="item_title_temprature_conversion">Température</string>
   <string name="item_title_time_conversion">Temps</string>
@@ -228,7 +228,7 @@
   <string name="loan_repayment_detail_loading">Chargement de la modalité de remboursement…</string>
   <string name="loan_type_title">"Taux d'intérêt standard"</string>
   <string name="loan_unit">(×10K)</string>
-  <string name="lpr_ok">"C'est compris"</string>
+  <string name="lpr_ok">Compris</string>
   <string name="lpr_tips_msg">"À partir du 8 octobre 2019, le taux d'intérêt des prêts au logement commerciaux et personnels sera calculé en fonction du taux préférentiel du prêt (LPR) au lieu du taux de référence de 4,9% précédemment appliqué. Maintenant, le taux final sera confirmé en ajoutant un point de base LPR.
 
 Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retards peuvent être dus à des jours fériés) sur le site Web de la Banque populaire de Chine."</string>
@@ -323,7 +323,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="name_save">"Vous sauvegardez "</string>
   <string name="name_split">Montant fractionné</string>
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
-  <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
+  <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
@@ -694,9 +694,9 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="unit_data_display_weight_us.cwt">Qintal américain</string>
   <string name="unit_feet">Pieds</string>
   <string name="unit_inch">Pouces</string>
-  <string name="unit_kg">Kilogramme</string>
+  <string name="unit_kg">Kilogrammes</string>
   <string name="unit_meter">Mètres</string>
-  <string name="unit_pound">Pounds</string>
+  <string name="unit_pound">Livres</string>
   <string name="unit_year">A</string>
   <string name="unit_year_format">Année %s</string>
   <string name="updating">Mise à jour de la Calculatrice…</string>

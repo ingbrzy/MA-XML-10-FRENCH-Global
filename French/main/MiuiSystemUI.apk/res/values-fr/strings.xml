@@ -88,9 +88,9 @@
   <string name="accessibility_carrier_network_change_mode">"Changement d'opérateur réseau."</string>
   <string name="accessibility_cast_name">Connecté à %s.</string>
   <string name="accessibility_casting_turned_off">"La diffusion de l'écran s'est arrêtée."</string>
-  <string name="accessibility_cell_data">Données Mobiles</string>
-  <string name="accessibility_cell_data_off">Données Mobiles désactivées</string>
-  <string name="accessibility_cell_data_on">Données Mobiles activées</string>
+  <string name="accessibility_cell_data">Données cellulaires</string>
+  <string name="accessibility_cell_data_off">Données cellulaires désactivées</string>
+  <string name="accessibility_cell_data_on">Données cellulaires activées</string>
   <string name="accessibility_clear_all">Effacer toutes les notifications.</string>
   <string name="accessibility_compatibility_zoom_button">Bouton du zoom de compatibilité.</string>
   <string name="accessibility_compatibility_zoom_example">Zoomer un écran plus petit vers un plus grand.</string>
@@ -451,8 +451,8 @@
   <string name="bluetooth_pairing_rejected_error_message">Association rejetée par %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association accorde l'accès à tous les contacts et à l'historique des appels une fois connecté."</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec l'appareil"</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à Internet"</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
   <string name="bluetooth_profile_a2dp">Audio média</string>
   <string name="bluetooth_profile_a2dp_high_quality">Audio haut qualité: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio haut qualité</string>
@@ -462,7 +462,7 @@
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_map">Messages texte</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
-  <string name="bluetooth_profile_pan">Accès à Internet</string>
+  <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
   <string name="bluetooth_profile_pbap">Partage de contacts</string>
   <string name="bluetooth_profile_pbap_summary">Utilisé pour partager contacts</string>
@@ -496,7 +496,7 @@
   <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
   <string name="bluetooth_talkback_phone">Téléphone</string>
   <string name="bluetooth_tethered">Connexion via Bluetooth activée</string>
-  <string name="branded_monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les e-mails, les applications et les sites Web.</string>
+  <string name="branded_monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les Emails, les applications et les sites Web.</string>
   <string name="branded_vpn_footer">Le réseau peut être surveillé</string>
   <string name="broadcast_tile">Vignette de diffusion</string>
   <string name="bt_hci_snoop_log">Activer Bluetooth HCI journal de snoop</string>
@@ -545,7 +545,7 @@
   <string name="clock_seconds_desc">"Afficher les secondes l'horloge dans la barre d'état peut impacter l'autonomie de la batterie."</string>
   <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
-  <string name="confirm">"C'est compris"</string>
+  <string name="confirm">Compris</string>
   <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_pin_msg">Répétez le code PIN</string>
@@ -567,7 +567,7 @@
   <string name="daltonizer_mode_protanomaly">Protanomalie (rouge-vert)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
   <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
-  <string name="data_connection_no_internet">Pas connecté à Internet</string>
+  <string name="data_connection_no_internet">Pas connecté à internet</string>
   <string name="data_saver">Économiseur de données</string>
   <string name="data_saver_description">"Pour réduire l'utilisation de données, l'économiseur de données empêche certaines applications d'envoyer ou de recevoir des données en arrière-plan. Une application que vous utilisez actuellement peut accéder aux données, mais peut le faire moins fréquemment. Cela peut signifier, par exemple, que les images ne s'affichent pas tant que vous n'appuyez pas."</string>
   <string name="data_saver_enable_button">Activer</string>
@@ -800,7 +800,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fsg_demo_back">Retour</string>
   <string name="fsg_demo_go_on">Découvrir</string>
   <string name="go_to_web">Aller sur le Web</string>
-  <string name="got_it">"C'est compris"</string>
+  <string name="got_it">Compris</string>
   <string name="gps_notification_found_text">Localisation définie par le GPS</string>
   <string name="gps_notification_searching_text">Recherche de GPS...</string>
   <string name="guest_exit_guest">"Supprimer l'invité"</string>
@@ -946,7 +946,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyboard_shortcut_group_applications_browser">Navigateur</string>
   <string name="keyboard_shortcut_group_applications_calendar">Calendrier</string>
   <string name="keyboard_shortcut_group_applications_contacts">Contacts</string>
-  <string name="keyboard_shortcut_group_applications_email">E-mail</string>
+  <string name="keyboard_shortcut_group_applications_email">Email</string>
   <string name="keyboard_shortcut_group_applications_music">Musique</string>
   <string name="keyboard_shortcut_group_applications_sms">Message</string>
   <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
@@ -1146,7 +1146,7 @@ une capture d'écran de défilement"</string>
   <string name="memory_clear_result_mega">%1$s Mo effacés</string>
   <string name="menu_ime">Sélectionneur de clavier</string>
   <string name="miui_guide_dialog_button_negative_text">Paramètres</string>
-  <string name="miui_guide_dialog_button_positive_text">"C'est compris"</string>
+  <string name="miui_guide_dialog_button_positive_text">Compris</string>
   <string name="miui_guide_dialog_message">Les sons des médias (musique, vidéos, etc.) seront toujours lus en mode silencieux. Vous pouvez changer cela dans les paramètres.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par un périphérique Bluetooth</string>
   <string name="miui_ringer_count_down">Compte à rebours</string>
@@ -1168,23 +1168,23 @@ une capture d'écran de défilement"</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
   <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
   <string name="monitoring_button_view_policies">Voir les conditions</string>
-  <string name="monitoring_description_app">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
-  <string name="monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les e-mails, les applications et les sites Web.</string>
-  <string name="monitoring_description_app_personal_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les e-mails, les applications et les sites Web.
+  <string name="monitoring_description_app">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les Emails, les applications et les sites Web.</string>
+  <string name="monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les Emails, les applications et les sites Web.</string>
+  <string name="monitoring_description_app_personal_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les Emails, les applications et les sites Web.
 
 Vous êtes aussi connecté à %3$s, qui peut contrôler l'activité de votre réseau personnel."</string>
-  <string name="monitoring_description_app_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les e-mails, les applications et les sites Web.
+  <string name="monitoring_description_app_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les Emails, les applications et les sites Web.
 
 Pour plus d'informations, contactez votre administrateur."</string>
   <string name="monitoring_description_ca_cert_settings">"Ouvrir les informations d'identification approuvées"</string>
   <string name="monitoring_description_ca_certificate">"Un certificat d'autorité est installé sur cet appareil. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
   <string name="monitoring_description_do_body">"Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil."</string>
-  <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
+  <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les Emails, les applications et les sites Web.</string>
   <string name="monitoring_description_do_header_generic">Votre appareil est géré par %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s utilise %2$s pour gérer votre appareil.</string>
   <string name="monitoring_description_do_learn_more">En savoir plus</string>
   <string name="monitoring_description_managed_profile_ca_certificate">"Votre organisation a installé un certificat d'autorité dans votre profil de travail. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
-  <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les Email, les applications et les sites Web inclus.</string>
   <string name="monitoring_description_management">"Votre appareil est géré par votre organisation.
 
 Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil.
@@ -1197,18 +1197,18 @@ Pour plus d'informations, contactez votre administrateur."</string>
 Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil.
 
 Pour plus d'informations, contactez votre administrateur."</string>
-  <string name="monitoring_description_named_vpn">Votre profil est connecté à %1$s, qui peut surveiller votre activité réseau ainsi que les e-mails, les applications et les site Web.</string>
+  <string name="monitoring_description_named_vpn">Votre profil est connecté à %1$s, qui peut surveiller votre activité réseau ainsi que les Emails, les applications et les site Web.</string>
   <string name="monitoring_description_network_logging">"Votre administrateur a activé la journalisation du réseau , ce qui surveille le trafic sur votre appareil.
 
 Pour plus d'informations, contactez votre administrateur."</string>
-  <string name="monitoring_description_personal_profile_named_vpn">Votre profil personnel est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
-  <string name="monitoring_description_two_named_vpns">Votre profil est connecté à %1$s et %2$s, qui peuvent surveiller votre activité réseau ainsi que les e-mails, les applications et les site Web.</string>
+  <string name="monitoring_description_personal_profile_named_vpn">Votre profil personnel est connecté à %1$s, qui peut surveiller votre activité réseau, avec les Email, les applications et les sites Web inclus.</string>
+  <string name="monitoring_description_two_named_vpns">Votre profil est connecté à %1$s et %2$s, qui peuvent surveiller votre activité réseau ainsi que les Emails, les applications et les site Web.</string>
   <string name="monitoring_description_vpn">"You avez accordé l'autorisation à une application pour configurer une connexion VPN.
 
-Cette application peut surveiller votre appareil et l'activité du réseau, y compris les e-mails, les applications et les sites Web."</string>
+Cette application peut surveiller votre appareil et l'activité du réseau, y compris les Emails, les applications et les sites Web."</string>
   <string name="monitoring_description_vpn_profile_owned">"Votre profil de travail est géré par %1$s.
 
-Votre administrateur est capable de surveiller l'activité de votre réseau y compris les e-mails, les applications et les sites Web.
+Votre administrateur est capable de surveiller l'activité de votre réseau y compris les Emails, les applications et les sites Web.
 
 Pour plus d'informations, contactez votre administrateur.
 
@@ -1221,13 +1221,13 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="monitoring_title_device_owned">"Gestion de l'appareil"</string>
   <string name="monitoring_title_profile_owned">Surveillance de profil</string>
   <string name="mount_storage">Oui</string>
-  <string name="mr_button_content_description">Bouton Caster</string>
+  <string name="mr_button_content_description">Bouton diffusion</string>
   <string name="mr_cast_button_connected">Bouton Cast. Connecté</string>
   <string name="mr_cast_button_connecting">Bouton Cast. Connexion</string>
   <string name="mr_cast_button_disconnected">Bouton Cast. Déconnecter</string>
   <string name="mr_cast_dialog_title_view_placeholder">Aucune information disponible</string>
   <string name="mr_chooser_searching">Trouver des appareils</string>
-  <string name="mr_chooser_title">Caster à</string>
+  <string name="mr_chooser_title">Diffuser à</string>
   <string name="mr_controller_album_art">Album art</string>
   <string name="mr_controller_casting_screen">Casting screen</string>
   <string name="mr_controller_close_description">Fermer</string>
@@ -1339,7 +1339,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_foget_password_method">Mot de passe oublié ?</string>
   <string name="phone_locked_foget_password_method_content">"&lt;Data&gt;Vous devez &amp;lt;font color=#a5220e&amp;gt;effacer toutes les données &amp;lt;/font&amp;gt;sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage.&lt;/Data&gt;"</string>
   <string name="phone_locked_foget_password_method_next">Suivant</string>
-  <string name="phone_locked_foget_password_ok">"C'est compris"</string>
+  <string name="phone_locked_foget_password_ok">Compris</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">"&lt;Data>Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi.;&lt;/Data>"</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data>sélectionner&lt;font color=#a5220e>\"Effacer &amp;amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data>"</string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
@@ -1440,9 +1440,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_brightness_dialog_title">Luminosité</string>
   <string name="quick_settings_brightness_label">Luminosité</string>
   <string name="quick_settings_cast_detail_empty_text">Aucun appareil disponible</string>
-  <string name="quick_settings_cast_device_default_description">Prêt à caster</string>
+  <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
   <string name="quick_settings_cast_device_default_name">Périphérique sans nom</string>
-  <string name="quick_settings_cast_title">Caster</string>
+  <string name="quick_settings_cast_title">Diffusion</string>
   <string name="quick_settings_casting">En diffusion</string>
   <string name="quick_settings_cellular_detail_data_limit">%s limite</string>
   <string name="quick_settings_cellular_detail_data_usage">Utilisation des données</string>
@@ -1605,7 +1605,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="screen_pinning_description">"Cela le garde en vue jusqu'à ce que vous le détachiez. Appuyer et maintenir les boutons d'accueil et d'alimentation simultanément pour détacher."</string>
   <string name="screen_pinning_description_accessible">"Cela le garde en vue jusqu'à ce que vous le détachiez. Appuyer et maintenir les boutons d'accueil et d'alimentation simultanément pour détacher."</string>
   <string name="screen_pinning_negative">Non merci</string>
-  <string name="screen_pinning_positive">"C'est compris"</string>
+  <string name="screen_pinning_positive">Compris</string>
   <string name="screen_pinning_title">"L'écran est épinglé"</string>
   <string name="screen_zoom_summary_custom">Personnaliser (%d)</string>
   <string name="screen_zoom_summary_default">Par défaut</string>
@@ -1736,7 +1736,7 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="status_bar_settings_mute_label">DÉSACTIVER LE SON</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Paramètres</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion Internet</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connecté</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Notifications</string>
@@ -1786,7 +1786,7 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="structure_face_delete_data_dialog_msg">"Impossible de lancer la l'appareil photo et obtenir un aperçu. Réessayez."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Veuillez réessayer</string>
   <string name="structure_face_delete_data_dialog_title">"Impossible de lancer l'appareil photo"</string>
-  <string name="structure_face_hardware_abnormal_btn">"C'est compris"</string>
+  <string name="structure_face_hardware_abnormal_btn">Compris</string>
   <string name="structure_face_hardware_abnormal_msg">"Une erreur du hardware est survenue. Redémarrer votre appareil. Si cela n'aide pas, appelez 400–100–5678 pour obtenir de l'aide."</string>
   <string name="structure_face_hardware_abnormal_title">Erreur du Hardware</string>
   <string name="structure_face_modules_abnormal_btn">Redémarrer</string>
@@ -1921,7 +1921,7 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="usb_notification_ptp_ticker_text">Connecté en tant que périphérique multi-média (photos)</string>
   <string name="usb_preference_title">Options de transfert de fichiers USB</string>
   <string name="usb_ptp_text">Photos</string>
-  <string name="usb_share_net_info">"Utiliser la connexion Internet de l'ordinateur"</string>
+  <string name="usb_share_net_info">"Utiliser la connexion internet de l'ordinateur"</string>
   <string name="usb_storage_error_message">Il y a un problème avec votre carte SD.</string>
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par USB. Appuyez sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et le stockage de votre téléphone.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers et de votre ordinateur.</string>
@@ -2017,7 +2017,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
   <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
   <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">"Connecté, pas d'Internet"</string>
+  <string name="wifi_connected_no_internet">"Connecté, pas d'internet"</string>
   <string name="wifi_coverage_extend">Activer l’extension de couverture Wi-Fi</string>
   <string name="wifi_coverage_extend_summary">Étendre la couverture Wi-Fi en utilisant un point d’accès</string>
   <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
@@ -2057,7 +2057,7 @@ On dirait que le stockage des certificats n’est pas activé."</string>
   <string name="window_animation_scale_title">"Échelle d'animation de fenêtre"</string>
   <string name="wireless_change_to_ac_charging">Passé à la charge filaire</string>
   <string name="wireless_charge_current">En charge</string>
-  <string name="wireless_charge_dialog_cancel">"C'est compris"</string>
+  <string name="wireless_charge_dialog_cancel">Compris</string>
   <string name="wireless_charge_dialog_title">Placez votre appareil au centre de la base de chargement</string>
   <string name="wireless_charge_reset_device">La charge est lente. Ajustez votre appareil.</string>
   <string name="wireless_charge_reset_device_detail">Assurez-vous que la position de votre appareil sur la base de chargement est correcte</string>

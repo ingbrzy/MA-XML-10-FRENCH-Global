@@ -125,9 +125,9 @@
   <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un code ou d'une clé d'accès incorrects."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association vous permet d'accéder à vos contacts et à l'historique des appels lorsque vous êtes connecté."</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion internet locale partagée</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
   <string name="bluetooth_profile_a2dp">Multimédia</string>
   <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
@@ -287,7 +287,7 @@ Bluetooth"</string>
   <string name="inactive_app_inactive_summary">"Application inactive. Appuyez ici pour l'activer."</string>
   <string name="inactive_apps_title">Applications mises en veille</string>
   <string name="incall_error_call_failed">Impossible de passer un appel.</string>
-  <string name="incall_error_power_off">Désactivez le mode Avion pour passer un appel.</string>
+  <string name="incall_error_power_off">Désactivez le mode avion pour passer un appel.</string>
   <string name="incall_error_supp_service_unknown">"Ce service n'est pas pris en charge."</string>
   <string name="install_other_apps">"Installation d'applis inconnues"</string>
   <string name="keep_screen_on">Rester activé</string>
@@ -493,6 +493,7 @@ Bluetooth"</string>
   <string name="voice_dial_out">Appel vocal</string>
   <string name="voice_report_incoming_call">Appel entrant</string>
   <string name="voice_report_unknown_num">Numéro inconnu</string>
+  <string name="volume_boost_text">Volume boosté avec succès</string>
   <string name="vpn_settings_not_available">Les paramètres VPN ne sont pas disponibles pour cet utilisateur.</string>
   <string name="wait_for_debugger">"Attendre l'intervention du débogueur"</string>
   <string name="wait_for_debugger_summary">"L'application déboguée attend d'être liée au débogueur pour s'exécuter."</string>
@@ -502,7 +503,7 @@ Bluetooth"</string>
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
   <string name="wifi_connected_mac_randomization">"Sélection aléatoire de l'adresse MAC lors de la connexion"</string>
   <string name="wifi_connected_mac_randomization_summary">"Sélectionner l'adresse MAC de manière aléatoire lors de la connexion aux réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">Connecté, aucun accès à Internet</string>
+  <string name="wifi_connected_no_internet">Connecté, aucun accès à internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Non connecté en raison de la faible qualité du réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_network_failure">"Échec de configuration de l'adresse IP"</string>
@@ -512,13 +513,13 @@ Bluetooth"</string>
   <string name="wifi_display_certification_summary">"Afficher les options de la certification de l'affichage sans fil"</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
   <string name="wifi_metered_label">"Facturé à l'usage"</string>
-  <string name="wifi_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_no_internet">Aucun accès à internet</string>
   <string name="wifi_no_internet_no_reconnect">Reconnexion automatique impossible</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_remembered">Enregistré</string>
   <string name="wifi_security_none">Aucune</string>
   <string name="wifi_status_mac_randomized">La sélection des adresses MAC est aléatoire</string>
-  <string name="wifi_status_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_status_no_internet">Aucun accès à internet</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
   <string name="wifi_unmetered_label">"Non facturé à l'usage"</string>
   <string name="wifi_verbose_logging">Autoriser enreg. infos Wi-Fi détaillées</string>

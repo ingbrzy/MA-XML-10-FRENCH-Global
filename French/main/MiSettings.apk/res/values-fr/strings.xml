@@ -36,7 +36,7 @@
   <string name="category_other">Autre</string>
   <string name="color_gamut">Gamme de couleurs</string>
   <string name="contact_description">"Appuyez sur les raccourcis de l'écran d'accueil pour passer des appels"</string>
-  <string name="contact_title">Raccourcis de contacts</string>
+  <string name="contact_title">Raccourcis des contacts</string>
   <string name="contrast_ratio">Contraste</string>
   <string name="create">Créer</string>
   <string name="create_failed">Impossible de créer</string>
@@ -44,10 +44,10 @@
   <string name="created">Créé</string>
   <string name="created_successfully">Créé avec succès</string>
   <string name="cu_confirm">Définir</string>
-  <string name="display_description">"Icônes plus grandes, texte large, moins d'encombrement visuel"</string>
-  <string name="display_title">Objets plus grands</string>
+  <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
+  <string name="display_title">Interface plus grandes</string>
   <string name="exit_easymode">Désactiver le mode simplifié</string>
-  <string name="first_unlock_time">Premier déverrouillage : </string>
+  <string name="first_unlock_time">Premier déverrouillage: </string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Désactivé le mode de mise au point."</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
   <string name="gamma">Gamma</string>
@@ -119,7 +119,7 @@
   <string name="unlock_times_per_day">"Moyenne quotidienne: "</string>
   <string name="unlock_times_per_hour">"Déverrouillé par heure: "</string>
   <string name="usage_agree">Accepter</string>
-  <string name="usage_app_get_it">"C'est compris"</string>
+  <string name="usage_app_get_it">Compris</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
   <string name="usage_app_limit_prelong">Prolonger le temps</string>
@@ -168,7 +168,7 @@
   <string name="usage_home_premission_main_summary">"Bienvenue sur le gestionnaire d'utilisation ! Vous pouvez utiliser cette application pour définir des limites de temps d'utilisation, afficher les statistiques et passer en mode de mise au point. Cette application doit collecter des informations sur le temps d'écran (par exemple, le nombre de fois que vous déverrouillez votre téléphone et allumez l'écran, ainsi que le temps d'utilisation des applications) pour fonctionner normalement."</string>
   <string name="usage_home_premission_main_summary_new">"Bienvenue à Screen Time !
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran; Les paramètres du mode de mise au point sont requis pour générer des statistiques du mode de mise au point.
-Cette application doit également se connecter à Internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
+Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
   <string name="usage_home_premission_main_summary_new_o">"Bienvenue à Screen Time !
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
