@@ -4,7 +4,7 @@
   <string name="app_name">Écouteurs</string>
   <string name="apply_sound">Apply</string>
   <string name="can_you_here">Can you hear the sound?</string>
-  <string name="complete_dialog_button">Got it</string>
+  <string name="complete_dialog_button">"C'est compris"</string>
   <string name="complete_dialog_message">"You've completed the test successfully."</string>
   <string name="complete_dialog_title">Test results</string>
   <string name="customization_complete">Terminé</string>
@@ -45,6 +45,14 @@
   <string name="input_hint_prefix">Entrer %1$s</string>
   <string name="keep_sound">Save preset</string>
   <string name="low_pitch">Low pitch</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="music_add_my_sound">Add custom preset</string>
   <string name="music_app_unavailable">"Assurez-vous que l'application Mi Musique est disponible."</string>
   <string name="music_audio_effect_optimize">Paramètres audio</string>
@@ -55,7 +63,7 @@
   <string name="music_below_thirty_years">Up to 30 years old</string>
   <string name="music_customized_sound_summary">Customize volume according to your auditory perception</string>
   <string name="music_customized_sound_title">Volume adjustment</string>
-  <string name="music_delete">Delete</string>
+  <string name="music_delete">Supprimer</string>
   <string name="music_delete_sound_title">Deleting presets</string>
   <string name="music_dirac_control">Optimiser la qualité audio</string>
   <string name="music_dirac_mode_cancelling">Mi Anti-bruit 3.5mm</string>

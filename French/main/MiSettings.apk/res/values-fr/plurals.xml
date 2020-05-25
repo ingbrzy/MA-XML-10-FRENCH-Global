@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d mins</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Juste maintenant</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">il y a %d mins</item>
+        <item quantity="one">il y a 1 min</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juste maintenant</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">il y a %d minutes</item>
+        <item quantity="one">il y a 1 minute</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f fois par jour en moyenne</item>
+        <item quantity="one">%.2f fois par jour en moyenne</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
+    </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d jours</item>
         <item quantity="one">%d jour</item>
@@ -42,12 +106,12 @@
         <item quantity="one">≈%s min</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Débloqué %d fois</item>
-        <item quantity="one">Débloqué %d fois</item>
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Débloqué %d fois</item>
-        <item quantity="one">Débloqué %d fois</item>
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">%d notifications reçu</item>
@@ -99,7 +163,7 @@
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">Semaines: %d heures</item>
-        <item quantity="one">semaines: %d heures</item>
+        <item quantity="one">Semaines: %d heures</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
         <item quantity="other">"%s hrs "</item>
@@ -110,8 +174,8 @@
         <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Weekdays: %d minutes</item>
-        <item quantity="one">Weekdays: %d minute</item>
+        <item quantity="other">Semaines: %d minutes</item>
+        <item quantity="one">Semaines: %d minute</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" hrs "</item>

@@ -8,7 +8,7 @@
   <string name="text_optimizer">Télécharger le nom des dossiers</string>
   <string name="summary_optimizer">"Cette fonctionnalité télécharge le nom des dossiers pour mettre à jour la base de données en ligne de Cheetah Mobile et exige l'ID de votre appareil."</string>
   <string name="button_optimizer">OK</string>
-  <string name="name_optimizer">Politique de Confidentialité</string>
+  <string name="name_optimizer">Politique de confidentialité</string>
   <string name="title_optimizer">"Conditions d'utilisation"</string>
   <string name="header_optimizer">En utilisant cette fonctionnalité, vous acceptez de %s.</string>
   <string name="byteShort">o</string>
@@ -221,7 +221,7 @@
   <string name="summary_auto_cleaner">Recevoir des notifications chaque fois que la taille de la corbeille atteint 100 Mo ?</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="auto_cleaner_open">Activer</string>
-  <string name="btn_text_done">Terminer</string>
+  <string name="btn_text_done">Terminé</string>
   <string name="btn_text_stop">Arrêter</string>
   <string name="scanning">Analyse…</string>
   <string name="search_history">Historique des recherches</string>
@@ -652,7 +652,7 @@
   <string name="whatsapp_delete_confirm_cancel">Annuler</string>
   <string name="whatsapp_content_empty">Aucun élément ici.</string>
   <string name="whatsapp_delete_confirm_message">Supprimer maintenant?</string>
-  <string name="whatsapp_delete_done">Terminer</string>
+  <string name="whatsapp_delete_done">Terminé</string>
   <string name="whatsapp_title">Nettoyeur WhatsApp</string>
   <string name="whatsapp_function_title">Nettoyeur WhatsApp</string>
   <string name="whatsapp_function_summery">Effacer les pièces jointes WhatsApp</string>
@@ -677,7 +677,7 @@
   <string name="app_clean_group_document_send">Fichiers envoyés</string>
   <string name="app_clean_group_document_recv">Fichiers reçus</string>
   <string name="facebook_clean_exit_confirm_title">"Arrêter l'analyse ?"</string>
-  <string name="facebook_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner Facebook. Arrêtez l'analyse maintenant?"</string>
+  <string name="facebook_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner Facebook. Arrêtez l'analyse maintenant ?"</string>
   <string name="facebook_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
   <string name="facebook_clean_exit_confirm_ok">Arrêter</string>
   <string name="one_tap_clean_M">%d Mo</string>

@@ -52,9 +52,14 @@
         <item>"Pas de données de sommeil pour l'instant"</item>
         <item>Ouverture de Mi Santé</item>
     </string-array>
-    <string-array name="temperature_unit">
-        <item>℃</item>
-        <item>°F</item>
+    <string-array name="stand_guide_page_content1">
+        <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>
+        <item>"Cette fonction vous rappellera de passer au moins 1 minute de chaque heure debout. 12 heures avec des pauses debout tous les jours vous aideront à éviter les risques d'un mode de vie sédentaire."</item>
+        <item>Appuyez sur \"Continuer\" pour en savoir plus et activer cette fonctionnalité.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>"L'assistant permanent enregistre automatiquement la position debout en détectant l'état d'utilisation du téléphone mobile. Lorsqu'aucune activité debout n'est détectée dans l'heure qui suit, une notification sera envoyée pour vous rappeler de vous lever ou d'ajouter manuellement un enregistrement."</item>
+        <item>"La confirmation de l'activation permettra simultanément la détection et le rappel de position debout."</item>
     </string-array>
     <string-array name="week">
         <item>Dimanche</item>

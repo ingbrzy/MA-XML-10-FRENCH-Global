@@ -175,10 +175,10 @@
   <string name="comment_model_bg_deleted_comment">This comment was deleted</string>
   <string name="comment_model_comment">Comments</string>
   <string name="comment_model_confirm_delete">Delete comment now?</string>
-  <string name="comment_model_copy">Copy</string>
+  <string name="comment_model_copy">Copie</string>
   <string name="comment_model_copy_fail">"Couldn't copy"</string>
   <string name="comment_model_copy_success">Copied successfully</string>
-  <string name="comment_model_delete">Delete</string>
+  <string name="comment_model_delete">Supprimer</string>
   <string name="comment_model_delete_fail">"Couldn't delete"</string>
   <string name="comment_model_delete_success">Deleted successfully</string>
   <string name="comment_model_reply">Replies</string>
@@ -453,7 +453,7 @@ for videos"</string>
   <string name="lv_subtitle_no_subtitle">Les sous-titres ne sont pas disponibles</string>
   <string name="lv_subtitle_non_subtitle_file">Aucun fichier de sous-titres disponible</string>
   <string name="lv_subtitle_offset_normal">Ne pas déplacer les sous-titres</string>
-  <string name="lv_subtitle_onlinesub_language">Langue : %s</string>
+  <string name="lv_subtitle_onlinesub_language">Langue: %s</string>
   <string name="lv_subtitle_onlinesub_loading">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Avertissement</string>
@@ -462,7 +462,7 @@ for videos"</string>
   <string name="lv_subtitle_onlinesub_save_success">Sous-titres ajoutés avec succès</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Entrez les mots-clés à rechercher</string>
   <string name="lv_subtitle_onlinesub_search_notfound">Sous-titres introuvables</string>
-  <string name="lv_subtitle_onlinesub_size_string_b">Taille : %s o</string>
+  <string name="lv_subtitle_onlinesub_size_string_b">Taille: %s o</string>
   <string name="lv_subtitle_onlinesub_title">Sous-titres en ligne</string>
   <string name="lv_subtitle_open_subtitle_file_title">Trouver un fichier de sous-titres</string>
   <string name="lv_subtitle_preoffset_max">Impossible de faire avancer de plus de 5 s</string>
@@ -492,6 +492,7 @@ for videos"</string>
   <string name="mr_cast_button_connected">Icône Cast. Connecté</string>
   <string name="mr_cast_button_connecting">Icône Cast. Connexion…</string>
   <string name="mr_cast_button_disconnected">Icône Cast. Déconnecté</string>
+  <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
   <string name="mr_chooser_searching">"Recherche d'appareils en cours…"</string>
   <string name="mr_chooser_title">Diffuser sur</string>
   <string name="mr_controller_album_art">"Image de l'album"</string>
@@ -507,6 +508,8 @@ for videos"</string>
   <string name="mr_controller_stop">Arrêter</string>
   <string name="mr_controller_stop_casting">Arrêter la diffusion</string>
   <string name="mr_controller_volume_slider">Curseur de volume</string>
+  <string name="mr_dialog_device_header">Cast to a device</string>
+  <string name="mr_dialog_route_header">Play on a group</string>
   <string name="mr_system_route_name">Système</string>
   <string name="mr_user_route_category_name">Appareils</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
@@ -717,7 +720,7 @@ Update Mi Video to the latest version first."</string>
  
 Better customize its services for your device;
 Increase the security of your account."</string>
-  <string name="permission_info1">Vidéo doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes :</string>
+  <string name="permission_info1">Vidéo doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes:</string>
   <string name="permission_info2">Personnaliser mieux ses services pour votre appareil;</string>
   <string name="permission_info3">Augmentez la sécurité de votre compte</string>
   <string name="permission_phone">Phone</string>
@@ -755,7 +758,7 @@ Increase the security of your account."</string>
   <string name="plus_gallery_video_title_mediatype">Video categories</string>
   <string name="plus_gallery_video_title_othergallery">Autre vidéos</string>
   <string name="plus_loading_text">Chargement des fichiers…</string>
-  <string name="plus_menu_delete">Delete</string>
+  <string name="plus_menu_delete">Supprimer</string>
   <string name="plus_menu_delete_popup_text">Delete now?</string>
   <string name="plus_menu_properties">Properties</string>
   <string name="plus_menu_rename">Rename</string>
@@ -1026,12 +1029,12 @@ Increase the security of your account."</string>
   <string name="v_confirm_hide_videos">Hide selected items now?</string>
   <string name="v_confirm_unhide_videos">Unhide selected items now?</string>
   <string name="v_data_empty">No items here</string>
-  <string name="v_exit">Exit</string>
+  <string name="v_exit">Quitter</string>
   <string name="v_finish">Done</string>
   <string name="v_input_password">Enter password</string>
   <string name="v_login">Sign in</string>
   <string name="v_menu_hide">Hide</string>
-  <string name="v_more">More</string>
+  <string name="v_more">Plus</string>
   <string name="v_network_failed">A network error occurred.</string>
   <string name="v_next">Next</string>
   <string name="v_ok">OK</string>
@@ -1054,7 +1057,7 @@ Increase the security of your account."</string>
   <string name="vp_replay">Replay</string>
   <string name="vp_upcoming_auto_play">Autoplay</string>
   <string name="vp_upcoming_title">Up next</string>
-  <string name="wednesday">Wednesday</string>
+  <string name="wednesday">Mercredi</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
@@ -1066,5 +1069,5 @@ Taille de la mise à jour Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
   <string name="year">year</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yesterday">Hier</string>
 </resources>

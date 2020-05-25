@@ -70,6 +70,28 @@
   <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
   <string name="passport_confirm_recycle_account">Oui</string>
   <string name="passport_reject_recycle_account">Non</string>
+  <string name="account_user_id_show">Compte Mi: %s</string>
+  <string name="action_retry">Réessayer</string>
+  <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
+  <string name="cloud_description_normal">Occupé</string>
+  <string name="copy">Copie</string>
+  <string name="expand_button_title">Advanced</string>
+  <string name="health_action_activate">Activate</string>
+  <string name="health_action_install">Install</string>
+  <string name="health_action_update">Update</string>
+  <string name="health_description_normal">Steps</string>
+  <string name="health_state_not_activated">Not activated</string>
+  <string name="health_state_not_installed">Not installed</string>
+  <string name="health_state_not_support">Not supported in this version</string>
+  <string name="mi_health">Xiaomi Santé</string>
+  <string name="not_set">Non défini</string>
+  <string name="passport_google_login">Sign in with the previously used Google Account?</string>
+  <string name="passport_google_login_agree">Compte Google</string>
+  <string name="passport_google_login_disagree">Compte Mi</string>
+  <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="state_loading">Chargement…</string>
   <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
   <string name="passport_registered_phone_user_name">"Nom d'utilisateur: %s"</string>
@@ -141,7 +163,7 @@
   <string name="passport_back">Retour</string>
   <string name="passport_next">Suivant</string>
   <string name="passport_prev">Retour</string>
-  <string name="passport_completed">Terminer</string>
+  <string name="passport_completed">Terminé</string>
   <string name="passport_verify">Vérifier</string>
   <string name="passport_restart">Recomencer du début</string>
   <string name="passport_yes">Oui</string>
@@ -166,7 +188,7 @@
   <string name="passport_area_code_hot">UTILISÉ FRÉQUEMMENT</string>
   <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
   <string name="passport_privacy_policy">Politique de confidentialité</string>
-  <string name="passport_user_agreement">Accord Utilisateur</string>
+  <string name="passport_user_agreement">Accord utilisateur</string>
   <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
   <string name="passport_login_failed">Impossible de se connecter</string>
   <string name="passport_reg_failed">"Échec de l'inscription"</string>
@@ -196,11 +218,6 @@
   <string name="passport_relogin_notice">Reconnectez-vous</string>
   <string name="passport_copy_message_text_success">Copié avec succès</string>
   <string name="passport_copy_message_vcode">Copier le code</string>
-  <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
-  <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
-  <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
-  <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
-  <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
   <string name="passport_message_dialog_title">SMS avec code de vérification</string>
   <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
   <string name="passport_barcode_add_account_prompt">Pour connecter un compte, scannez le QR code à nouveau après vous être connecté.</string>
@@ -282,7 +299,7 @@
   <string name="bind_weixin">Connectez votre compte WeChat</string>
   <string name="bind_sns_description">Connectez-vous avec %s</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="agreement_and_privacy">"Politique de confidentialité et accord d'utilisation"</string>
+  <string name="agreement_and_privacy">Confidentialité</string>
   <string name="bind_facebook">Se connecter à votre compte Facebook</string>
   <string name="bind_google">Se connecter à votre compte Google</string>
   <string name="binded">Connecté</string>
@@ -303,7 +320,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_has_been_set">Changer</string>
   <string name="account_none_user_name">Aucun</string>
   <string name="account_user_avatar">Photo de profil</string>
-  <string name="account_user_gender">Genre</string>
+  <string name="account_user_gender">Sexe</string>
   <string name="account_user_birthday">Date de naissance</string>
   <string name="account_user_name_dialog_title">"Entrez un nom d'utilisateur"</string>
   <string name="account_empty_user_name">"Entrez le nom d'utilisateur de votre compte Mi"</string>
@@ -382,12 +399,12 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_mibi_charge">Recharger</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_xiaomi_service">Services</string>
-  <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service">Xiaomi Cloud</string>
   <string name="vip_account_settings">Paramètres VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
   <string name="mi_vip_info">Afficher les privilèges</string>
   <string name="vip_settings_info">Paramètres VIP</string>
-  <string name="used_cloud_storage_info">Espace de stockage utilisé %s</string>
+  <string name="used_cloud_storage_info">Stockage utilisé %s</string>
   <string name="mi_finance">Mes Finances</string>
   <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
   <string name="loading_micloud_sync_data">Chargement…</string>
@@ -421,14 +438,14 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="find_device_access_denied">"Impossible d'obtenir les états, accès rejeté"</string>
   <string name="find_device_account_error">"Impossible d'obtenir l'état dû à l'erreur du compte"</string>
   <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
-  <string name="find_device_open">On</string>
+  <string name="find_device_open">Activé</string>
   <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
   <string name="find_device_set_lost_model">Lost mode</string>
   <string name="find_device_title">Find device</string>
   <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_bad_response_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_clear_data">Erase data</string>
-  <string name="find_device_close">Off</string>
+  <string name="find_device_close">Désactivé</string>
   <string name="find_device_io_error">Impossible de se connecter au réseau</string>
   <string name="find_device_location">Locate</string>
   <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
@@ -462,7 +479,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="oauth_getting_scopes">Vérification du compte…</string>
   <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les autorisations suivantes:&lt;br> &lt;br> %3$s ;</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes:&lt;br> &lt;br> %3$s ;</string>
   <string name="guest_account_label">Compte invité</string>
   <string name="push_notification_title">Vous êtes connecté à votre compte Mi sur un appareil inconnu</string>
   <string name="push_notification_content">Obtenir le code de vérification</string>
@@ -484,7 +501,15 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="mipay">Payer</string>
   <string name="mipay_bank_card">Carte bancaire</string>
   <string name="mipay_transit_card">Carte de transport</string>
-  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mipay_balance">Solde</string>
   <string name="mipay_others">Autre</string>
   <string name="mipay_identity">"Vérification d'identité"</string>
@@ -569,4 +594,6 @@ Envoyez ce code au superviseur."</string>
   <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
   <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
 </resources>

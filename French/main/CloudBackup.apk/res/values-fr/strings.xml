@@ -3,7 +3,7 @@
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_action_mode_done">Terminé</string>
   <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -59,10 +59,10 @@
   <string name="cloud_back_up_subscribe_vip_title">Améliorer votre compte</string>
   <string name="cloud_back_up_subscribe_vip_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Mettre à niveau</string>
-  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Xiaomi Cloud lorsque votre appareil sera connecté à un Wi-Fi: 
-*  Applications, Écran d'accueil et fonds d'écran 
+  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Xiaomi Cloud lorsque votre appareil sera connecté à un réseaux Wi-Fi: 
+*  Applications, écran d'accueil et fonds d'écran 
 *  Alarmes et les paramètres de l'horloge 
-*  Paramètres des notifications 
+*  Paramètres de notification 
 *  MIUI et les paramètres système 
 Note: Les données des applications que vous avez installées ne seront pas sauvegardées dans Xiaomi Cloud."</string>
   <string name="cloud_app_no_data">Aucune sauvegarde</string>
@@ -98,6 +98,14 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="menu_item_sort">Trier par</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="menu_item_managespace">"Gérer l'espace de stockage"</string>
   <string name="total_space">Espace total: %s</string>
   <string name="managespace_delete_backup">Supprimer</string>
@@ -201,6 +209,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="download_meta_failed">Impossible de charger les données.</string>
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
   <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
+  <string name="help_and_feedback">Aide et commentaires</string>
   <string name="hint_restore_cross_space">"La disposition de l'écran d'accueil peut ne pas s'afficher correctement si vous transférez des éléments entre des espaces."</string>
   <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
   <string name="v7_preference_off">Désactiver</string>

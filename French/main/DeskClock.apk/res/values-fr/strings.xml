@@ -30,6 +30,7 @@
   <string name="search_menu_title">Rechercher</string>
   <string name="add_alarm">Ajouter une alarme</string>
   <string name="add_clock">Ajouter une horloge</string>
+  <string name="add_common_timer">Ajouter un timer</string>
   <string name="add_timezone_title">Ajouter un fuseau horaire</string>
   <string name="agree">Accepter</string>
   <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %1$s.</string>
@@ -93,7 +94,7 @@
   <string name="birthday_alarm_summary">"Jouer \"Joyeux anniversaire\" comme sonnerie d'alarme par défaut pour votre anniversaire"</string>
   <string name="cancel">Annuler</string>
   <string name="channel_name_alarm">Alarme</string>
-  <string name="channel_name_sleep">Sleep</string>
+  <string name="channel_name_sleep">Sommeil</string>
   <string name="channel_name_timer">Minuteur</string>
   <string name="check_theme_app_install">Assurez-vous que lapplication de thèmes est installée sur votre appareil.</string>
   <string name="check_voice_assist_app_version">Mettez à jour MI IA vers sa dernière version.</string>
@@ -103,6 +104,7 @@
   <string name="close">Fermer</string>
   <string name="close_alarm">Désactiver</string>
   <string name="common_settings">Paramètres</string>
+  <string name="common_timer_selector">Select timer</string>
   <string name="confirm">Confirmer</string>
   <string name="confirm_abort">Abandonner</string>
   <string name="content_desc_keep_screen">"Bouton \"Garder l'écran allumé\""</string>
@@ -121,7 +123,7 @@
   <string name="deskclock_sleep_no_disturbance">"Horloge - Gérer l'heure du coucher - Mode NPD"</string>
   <string name="dialog_confirm_abort">Annuler vos changements ?</string>
   <string name="dialog_message_agree">Accepter</string>
-  <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, l'horloge doit accéder à vos contacts. Acceptez-vous?"</string>
+  <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, l'horloge doit accéder à vos contacts. Acceptez-vous ?"</string>
   <string name="dialog_message_negative">Refuser</string>
   <string name="dialog_message_not_remind">Ne plus afficher</string>
   <string name="disagree">"Non pas d'accord"</string>
@@ -147,7 +149,7 @@
   <string name="invalid_time">Heure non valide: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">"La durée du minuteur n'est pas valide"</string>
   <string name="keep_screen_on">"Laisser l'écran allumé"</string>
-  <string name="korea_permission_calendar">Agenda</string>
+  <string name="korea_permission_calendar">Calendrier</string>
   <string name="korea_permission_calendar_desc">"Pour accéder aux informations de l'événement et envoyer des rappels"</string>
   <string name="korea_permission_phone">Téléphone</string>
   <string name="korea_permission_phone_desc">"Pour accéder à l'état de lappareil et à la désactivation des rappels pendant les appels"</string>
@@ -192,6 +194,14 @@
   <string name="menu_item_dock_settings">Paramètre du dock</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par date</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualisé</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="module_dialog_negative">"Je ne suis pas d'accord"</string>
   <string name="module_dialog_neutral">Compris</string>
   <string name="module_dialog_positive">Accepter</string>
@@ -201,7 +211,7 @@
   <string name="module_download_data_msg_replace">"Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
   <string name="module_download_data_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
   <string name="module_download_fail">Impossible de télécharger un module audio supplémentaire</string>
-  <string name="module_download_failure">"Couldn't download audio. Check your network settings and try again."</string>
+  <string name="module_download_failure">"Impossible de télécharger l'audio. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="module_download_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. Télécharger maintenant ?"</string>
   <string name="module_download_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. Télécharger maintenant ?"</string>
   <string name="module_download_msg_replace">Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. Télécharger maintenant ?</string>
@@ -240,7 +250,7 @@
   <string name="dialog_legal_workday_and_off_day_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les vacances. Les alarmes des jours de semaine se déclenchent du lundi au vendredi. Les alarmes des jours fériés se déclenchent le samedi et le dimanche."</string>
   <string name="dialog_legal_workday_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les jours ouvrables. Les alarmes des jours de semaine se déclenchent du lundi au vendredi."</string>
   <string name="dialog_net_permission_in_repeat_type">"&lt;Data&gt;Cette fonction doit se connecter à l'internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt ; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ?"</string>
-  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE, dd MMMM</string>
   <string name="monday_to_friday">Lundi au vendredi</string>
   <string name="more_alert_setting">"Paramètres d'alarme supplémentaires"</string>
   <string name="more_setting">Plus de paramètres</string>
@@ -287,7 +297,7 @@
   <string name="setting_alarm_arriving_subtitle">Afficher les notifications avant que les alarmes ne se déclenchent</string>
   <string name="setting_alarm_arriving_summary">"Envoyer une notification avant le déclenchement de l'alarme"</string>
   <string name="setting_alarm_arriving_title">"Notification avant le déclenchement de l'alarme"</string>
-  <string name="setting_complete">Terminer</string>
+  <string name="setting_complete">Terminé</string>
   <string name="settings">Paramètres</string>
   <string name="shortcut_new_alarm">"Régler l'alarme"</string>
   <string name="shortcut_start_timer">Démarrer la minuterie</string>
@@ -327,6 +337,8 @@
   <string name="start">Départ</string>
   <string name="start_up">Départ</string>
   <string name="stopwatch_lap_empty_text">Aucun tour</string>
+  <string name="stopwatch_reset_notification">Stopwatch was reset</string>
+  <string name="stopwatch_running_notification">Stopwatch</string>
   <string name="stopwatch_title">Chronomètre</string>
   <string name="system_permission_phone_desc">Pour identifier différents appareils</string>
   <string name="system_permission_purpose">Alarmes, chronomètre, minuteries, horloge mondiale</string>
@@ -366,7 +378,7 @@
   <string name="timer_new_item">Ajouter une minuterie</string>
   <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
   <string name="timer_pause_timer">Mettre en pause le minuteur</string>
-  <string name="timer_ringtone">Minuterie de la Sonnerie</string>
+  <string name="timer_ringtone">Minuterie de la sonnerie</string>
   <string name="timer_running">"Minuteur en cours d'exécution"</string>
   <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_start_timer">Démarrer le minuteur</string>
@@ -393,6 +405,7 @@
   <string name="wake_up_alert_desc">"Jouer le son de l'alarme au réveil"</string>
   <string name="wake_up_ringtone">"Sonnerie d'alarme"</string>
   <string name="wake_up_time">Réveillez-vous</string>
+  <string name="white_noise_selector">Select audio</string>
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
   <string name="worldclock_empty_text">"Pas d'horloge"</string>
   <string name="worldclock_input_hint_text">Recherche de pays ou de ville</string>
@@ -401,8 +414,8 @@
   <string name="worldclock_search_city">Sélectionnez une ville</string>
   <string name="worldclock_title">Horloges</string>
   <string name="worldclock_world_time">Fuseaux horaires</string>
-  <string name="worldcolock_date_display_prefix">Actuel: </string>
-  <string name="worldcolock_timezone_current">Actuel: %1$s</string>
+  <string name="worldcolock_date_display_prefix">"Actuel: "</string>
+  <string name="worldcolock_timezone_current">"Actuel: %1$s"</string>
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_date">dd MMMM</string>
   <string name="worldcolock_timezone_local">"Pareille que l'heure locale"</string>

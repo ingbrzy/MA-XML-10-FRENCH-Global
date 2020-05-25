@@ -3,7 +3,7 @@
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_action_mode_done">Terminé</string>
   <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -107,24 +107,15 @@
   <string name="extra_deduction_title">Déductions supplémentaires</string>
   <string name="factorialDesc">factoriel</string>
   <string name="float_window_guide_text">Appuyez ici pour minimiser la calculatrice</string>
-  <string name="fmt_date">J</string>
-  <string name="fmt_date_day">j</string>
-  <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_day">j</string>
-  <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">M-yyyy</string>
   <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="fmt_date_year">yyyy</string>
-  <string name="fmt_time">H</string>
   <string name="fmt_time_12hour">"h 'o''horloge'"</string>
   <string name="fmt_time_24hour">"H 'o''horloge'"</string>
   <string name="friday">Vendredi</string>
@@ -187,7 +178,6 @@
   <string name="label_date_difference">Différence</string>
   <string name="label_days">Jours</string>
   <string name="label_delete">Effacer</string>
-  <string name="label_emi">EMI</string>
   <string name="label_first_repayment">Premier remboursement</string>
   <string name="label_from_date">De</string>
   <string name="label_history">Historique</string>
@@ -227,7 +217,6 @@
   <string name="loan_payback_way">Remboursement</string>
   <string name="loan_repayment_detail_loading">Chargement de la modalité de remboursement…</string>
   <string name="loan_type_title">"Taux d'intérêt standard"</string>
-  <string name="loan_unit">(×10K)</string>
   <string name="lpr_ok">Compris</string>
   <string name="lpr_tips_msg">"À partir du 8 octobre 2019, le taux d'intérêt des prêts au logement commerciaux et personnels sera calculé en fonction du taux préférentiel du prêt (LPR) au lieu du taux de référence de 4,9% précédemment appliqué. Maintenant, le taux final sera confirmé en ajoutant un point de base LPR.
 
@@ -276,13 +265,12 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="month_september_short">Sept</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Plus</string>
-  <string name="morning">AM</string>
   <string name="mortgage_amount">Totale (×10K)</string>
   <string name="mortgage_average_repayment_first_month">Premier mois de rembousement</string>
   <string name="mortgage_average_repayment_monthly">Remboursement mensuel</string>
   <string name="mortgage_calculate">Calculer</string>
-  <string name="mortgage_descript_accumulation">"Taux d'intérêt : %s (fond)"</string>
-  <string name="mortgage_descript_commercial">"Taux d'intérêt : %s (commercial)"</string>
+  <string name="mortgage_descript_accumulation">"Taux d'intérêt: %s (fond)"</string>
+  <string name="mortgage_descript_commercial">"Taux d'intérêt: %s (commercial)"</string>
   <string name="mortgage_detail_month">Mois</string>
   <string name="mortgage_detail_monthly_interest">Intérêt</string>
   <string name="mortgage_detail_monthly_principal">Capital</string>
@@ -335,11 +323,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="preference_alert_follow_qq_group">Copier et coller dans QQ pour faire votre retour</string>
   <string name="preference_alert_follow_wechat">Copier / coller dans WeChat pour nous suivre</string>
   <string name="preference_alert_follow_wechat_button">Copier</string>
-  <string name="preference_check_update_summary_current_version">Version actuelle : %s</string>
-  <string name="preference_check_update_summary_new_version">Mise à jour disponible : %s</string>
+  <string name="preference_check_update_summary_current_version">Version actuelle: %s</string>
+  <string name="preference_check_update_summary_new_version">Mise à jour disponible: %s</string>
   <string name="preference_check_update_title">Vérifier les mises à jour</string>
   <string name="preference_feedback_title">F.A.Q</string>
-  <string name="preference_follow_qq_group">Groupe QQ : 523274279</string>
+  <string name="preference_follow_qq_group">Groupe QQ: 523274279</string>
   <string name="preference_follow_us">Suivez-nous</string>
   <string name="preference_follow_web_title">Site Web officiel</string>
   <string name="preference_help">Aider et commentaires</string>
@@ -421,7 +409,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="tax_bonus_error">Saisir le montant exact du bonus</string>
   <string name="tax_cal_method_annual">Calcul du bonus annuel</string>
   <string name="tax_cal_method_fixed_salary">"Calcul d'impôt sur le revenu"</string>
-  <string name="tax_cal_method_format">Entrée personnelle : %s</string>
+  <string name="tax_cal_method_format">Entrée personnelle: %s</string>
   <string name="tax_city_error">Saisir un nom de ville correct</string>
   <string name="tax_city_located">Localisation</string>
   <string name="tax_city_picker">Ville</string>
@@ -511,7 +499,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="thursday_short">Jeu</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="too_long_result">再玩就玩坏了</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>
@@ -711,7 +698,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="weight_prompt">Poids</string>
   <string name="wf_word_figure">Caractères financiers</string>
   <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
-  <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les autorisations requises dans Paramètres > Applications installées.</string>
+  <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les permissions requises dans Paramètres > Applications installées.</string>
   <string name="xiaomi_external_storage_unavailable">"Le stockage n'est pas disponible. Vérifiez votre carte SD."</string>
   <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
