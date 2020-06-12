@@ -104,7 +104,7 @@
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
   <string name="gallery_wallpaper">Wallpaper Carousel</string>
-  <string name="gallery_wallpaper_theme">Must-have wallpapers</string>
+  <string name="gallery_wallpaper_theme">"Fonds d'écran incontournables"</string>
   <string name="has_mamual_hide_aod">This item is hidden now</string>
   <string name="has_mamual_hide_icons">Hidden icons</string>
   <string name="hide_free_aod">"Don't show free themes"</string>
@@ -335,7 +335,7 @@ Tap here to sign in now."</string>
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">T</string>
   <string name="time_picker_dialog_title">Set time</string>
-  <string name="title_my_wallpaper">My wallpapers</string>
+  <string name="title_my_wallpaper">"Mes fonds d'écran"</string>
   <string name="title_system_audio_alarm_resource">System alarms</string>
   <string name="today">Today</string>
   <string name="tomorrow">Tomorrow</string>
@@ -1055,7 +1055,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="update_title">NOUVELLE MISE À JOUR DISPONIBLE</string>
   <string name="using_theme_has_update_tips">Une mise à jour de ce thème est disponible.</string>
   <string name="using_theme_next_automatic_update">Mises à jour automatiques</string>
-  <string name="using_theme_next_automatic_update_summary">"Mettre à jour les thèmes téléchargés à l'aide du Wi-Fi lorsque l'appareil est verrouillé"</string>
+  <string name="using_theme_next_automatic_update_summary">Update downloaded themes using WLAN when the device is locked</string>
   <string name="using_theme_show_ad">Recommandations</string>
   <string name="version_update">Vérifier les mises à jour</string>
   <string name="video_ad_click">Essayez maintenant</string>

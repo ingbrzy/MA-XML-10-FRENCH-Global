@@ -95,6 +95,7 @@
   <string name="cancel">Annuler</string>
   <string name="channel_name_alarm">Alarme</string>
   <string name="channel_name_sleep">Sommeil</string>
+  <string name="channel_name_stopwatch">Chronomètre</string>
   <string name="channel_name_timer">Minuteur</string>
   <string name="check_theme_app_install">Assurez-vous que lapplication de thèmes est installée sur votre appareil.</string>
   <string name="check_voice_assist_app_version">Mettez à jour MI IA vers sa dernière version.</string>
@@ -133,7 +134,7 @@
   <string name="edit_label">"Éditer l'étiquette d'alarme"</string>
   <string name="edit_systemtime">"Éditer l'heure du système"</string>
   <string name="edit_systemtime_setting_summary">Date, heure et double horloge</string>
-  <string name="every_day">Tous les jours</string>
+  <string name="every_day">Quotidien</string>
   <string name="expired_timers_dismissed">Minuteur retiré avec succès</string>
   <string name="force_touch_add_alarm">Ajouter une alarme</string>
   <string name="force_touch_enter_stopwatch">Chrono.</string>
