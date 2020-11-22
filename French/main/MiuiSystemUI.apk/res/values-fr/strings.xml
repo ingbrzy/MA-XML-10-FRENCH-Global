@@ -47,6 +47,11 @@
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Rechercher…</string>
+  <string name="ask_me_later_bubbles">Ask me later</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Auto Connection</string>
+  <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -69,7 +74,7 @@
   <string name="accessibility_airplane_mode">Mode avion</string>
   <string name="accessibility_ambient_display_charging">Chargement</string>
   <string name="accessibility_aspect_button">Mode plein écran</string>
-  <string name="accessibility_assistant">Quick ball</string>
+  <string name="accessibility_assistant">Assistant tactile</string>
   <string name="accessibility_back">Retour</string>
   <string name="accessibility_battery_details">Ouvrir les détails de la batterie</string>
   <string name="accessibility_battery_full">Batterie pleine.</string>
@@ -662,7 +667,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="empty_shade_text">Aucune notification</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Activer le mode Débogage lorsque le support USB est connecté</string>
-  <string name="enable_bluetooth_confirmation_ok">Activer</string>
+  <string name="enable_bluetooth_confirmation_ok">Activation</string>
   <string name="enable_bluetooth_message">"Pour connecter le clavier à votre tablette, activer d'abord le Bluetooth."</string>
   <string name="enable_bluetooth_title">Activer le Bluetooth ?</string>
   <string name="enable_demo_mode">Activer le mode Démo</string>
@@ -1114,10 +1119,10 @@ dd MMMM"</string>
   <string name="lockscreen_access_pattern_start">Schéma commencé</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="lockscreen_charging_msg">En charge</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Vous avez échoué à déverrouiller l'appareil %d fois. Après %d tentatives infructueuses, l'appareil sera remis au format usine et toutes les données utilisateur seront perdues."</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal saisi votre mot de passe %d fois. Après %d tentatives infructueuses supplémentaires, il vous sera demandé de déverrouiller votre téléphone en vous connectant avec votre compte Mi.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"You have incorrectly entered your password %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using your Mi Account sign-in.
 
- Réessayez dans %d secondes."</string>
+ Try again in %3$d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">"Vous avez incorrectement tenté de déverrouiller l'appareil à %d reprises. L'appareil va maintenant être remis au format usine par défaut."</string>
   <string name="lockscreen_none">Aucun</string>
   <string name="lockscreen_shortcut_left">Raccourci de gauche</string>
@@ -1163,12 +1168,12 @@ une capture d'écran de défilement"</string>
   <string name="miui_ringer_total">NPD</string>
   <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
   <string name="miui_screen_rotation_freeze_message">Rotation auto désactivée.</string>
-  <string name="miui_toast_zen_dnd_to_off">Mode NPD est désactiver. Les sons et les vibrations sont ramenés à la normale.</string>
-  <string name="miui_toast_zen_standard_to_off">Mode NPD est désactiver. Les sonneries sont rétablies dans la normale.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Mode NPD est désactiver. Les sonneries, ainsi que les notifications et des sons multimédias seront joués.</string>
-  <string name="miui_toast_zen_to_dnd">Basculer sur NPD. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
-  <string name="miui_toast_zen_to_standard">Basculer sur NPD. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Basculer sur NPD. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
+  <string name="miui_toast_zen_dnd_to_off">Mode NPD désactivé. Les sons et les vibrations sont ramenés à la normale.</string>
+  <string name="miui_toast_zen_standard_to_off">Mode NPD désactivé. Les sonneries et les notifications sont rétablies à la normale.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Mode NPD désactivé. Les sonneries, ainsi que les notifications et les sons de média, seront joués.</string>
+  <string name="miui_toast_zen_to_dnd">Mode NPD activé. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
+  <string name="miui_toast_zen_to_standard">Mode NPD activé. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Mode NPD activé. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -1475,15 +1480,15 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="qs_control_customize_other_tiles_title">Raccourcis disponibles</string>
   <string name="qs_control_customize_save_text">Terminé</string>
   <string name="qs_control_customize_sub_title">Faites glisser les raccourcis pour les réorganiser</string>
-  <string name="qs_control_customize_title">Ajoutés raccourcis</string>
+  <string name="qs_control_customize_title">Ajouter des raccourcis</string>
   <string name="qs_control_expand_detail_title">Mes données</string>
   <string name="qs_control_header_tiles_title">Centre de contrôle</string>
   <string name="screenshot_failed_in_landscape_mode">"Impossible de faire des captures d'écran de défilement en mode paysage"</string>
   <string name="small_window_guide_title">Fenêtre flottante</string>
   <string name="small_window_notification_text">Appuyez pour en savoir plus sur cette fonctionnalité de MIUI %d</string>
   <string name="small_window_notification_title">Fenêtre flottante</string>
-  <string name="status_bar_clock_date_weekday_format">EEEE dd/MM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEEE dd/MM</string>
+  <string name="status_bar_clock_date_weekday_format">EEE, dd MMMM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE, dd MMMM</string>
   <string name="qs_customize_title">Éditer</string>
   <string name="qs_dnd_keep">Garder</string>
   <string name="qs_dnd_prompt_app">NPD a été activé par une application (%s).</string>
@@ -1549,7 +1554,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_dual_location_label">Double GPS</string>
   <string name="quick_settings_edit_label">Éditer</string>
   <string name="quick_settings_extreme_batterysaver_label">Économiseur de batterie extrême</string>
-  <string name="quick_settings_flashlight_label">Flash</string>
+  <string name="quick_settings_flashlight_label">Lampe torche</string>
   <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">"Point d'accès Wi-Fi"</string>
   <string name="quick_settings_ime_label">Méthode de saisie</string>
@@ -1559,7 +1564,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_media_device_label">Périphérique média</string>
   <string name="quick_settings_midrop_label">Mi Drop</string>
   <string name="quick_settings_more_settings">Plus de paramètres</string>
-  <string name="quick_settings_mute_label">Silence</string>
+  <string name="quick_settings_mute_label">Silencieux</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="quick_settings_nfc_off">NFC désactivé</string>
   <string name="quick_settings_nfc_on">NFC activé</string>
@@ -1586,7 +1591,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_secondary_label_until">"Jusqu'à %s"</string>
   <string name="quick_settings_settings_label">Paramètres</string>
   <string name="quick_settings_sim_disabled">" (Désactivé)"</string>
-  <string name="quick_settings_sync_label">Synchro</string>
+  <string name="quick_settings_sync_label">Synchronisation</string>
   <string name="quick_settings_tethering_label">Partage de connexion</string>
   <string name="quick_settings_time_label">Durée</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez et maintenez-le, puis faites-le glisser dans la partie supérieure du panneau.</string>
@@ -1690,7 +1695,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="screenshot_edit">Éditer</string>
   <string name="screenshot_failed_title">"Impossible d'effectuer une capture d'écran."</string>
   <string name="screenshot_failed_to_capture_text">"Effectuer des captures d'écran n'est pas autorisé par l'application ou votre organisation"</string>
-  <string name="screenshot_failed_to_capture_title">"Cette application ne permet pas de prendre des captures d'écran"</string>
+  <string name="screenshot_failed_to_capture_title">"Impossible de prendre des captures d'écran ici"</string>
   <string name="screenshot_failed_to_save_text">"Impossible d'enregistrer la capture en raison de l'espace limité de stockage."</string>
   <string name="screenshot_failed_to_save_title">"Pas assez d'espace de stockage pour les nouvelles captures d'écran"</string>
   <string name="screenshot_failed_to_save_unknown_text">"Une erreur s'est produite lors de l'enregistrement de la capture d'écran."</string>
@@ -1740,6 +1745,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="show_silently">Afficher silencieusement les notifications</string>
   <string name="show_touches">"Afficher les pressions à l'écran"</string>
   <string name="show_touches_summary">"Afficher les commentaires visuels pour les pressions à l'écran"</string>
+  <string name="sim_state_locked_dialog_title">Carte SIM invalide</string>
+  <string name="sim_state_locked_puk_dialog_message">"Vous avez saisi au moins 10 fois un code PUK erroné. Votre carte SIM est désormais invalide. Remplacez cette carte SIM par une autre."</string>
   <string name="simulate_color_space">Simuler un espace de couleur</string>
   <string name="snooze_option_15_min">15 minutes</string>
   <string name="snooze_option_1_hour">1 heure</string>

@@ -25,8 +25,8 @@
         <item quantity="one">Supprimer %1$d brouillon ?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d sélections</item>
-        <item quantity="one">%d sélection</item>
+        <item quantity="other">Added %d contacts</item>
+        <item quantity="one">Added %d contact</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> archivés.</item>
@@ -115,6 +115,46 @@
     <plurals name="num_selected">
         <item quantity="other">%d sélectionnés</item>
         <item quantity="one">%d sélectionné</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d jours plus tard</item>
+        <item quantity="one">%1$d jour plus tard</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d jours plus tôt</item>
+        <item quantity="one">%1$d jour plus tôt</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d heures plus tard</item>
+        <item quantity="one">%1$d heure plus tard</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d heures plus tôt</item>
+        <item quantity="one">%1$d heure plus tôt</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minutes plus tard</item>
+        <item quantity="one">%1$d minute plus tard</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minutes plus tôt</item>
+        <item quantity="one">%1$d minute plus tôt</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d secondes plus tard</item>
+        <item quantity="one">%1$d seconde plus tard</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d secondes plus tôt</item>
+        <item quantity="one">%1$d seconde plus tôt</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d semaines plus tard</item>
+        <item quantity="one">%1$d semaine plus tard</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d semaines plus tôt</item>
+        <item quantity="one">%1$d semaine plus tôt</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Répondre à %1$d personnes</item>

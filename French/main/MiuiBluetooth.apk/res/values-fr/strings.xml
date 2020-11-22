@@ -23,6 +23,7 @@
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="apn_settings_not_available">"Cet utilisateur n'a pas accès aux paramètres Access Point Name"</string>
   <string name="app_process_limit_title">"Limite processus d'arrère-plan"</string>
+  <string name="audio_relay_default_device_name">XiaoAi Speakers</string>
   <string name="available_via_carrier">Disponible via %1$s</string>
   <string name="available_via_passpoint">Disponible via %1$s</string>
   <string name="band_24G">" (bande 2,4 GHz)"</string>
@@ -238,6 +239,11 @@ Selection"</string>
   <string name="managed_user_title">All work apps</string>
   <string name="media_category">Media</string>
   <string name="media_transfer_this_device_name">This device</string>
+  <string name="mi_audio_relay_cancel">ok</string>
+  <string name="mi_audio_relay_connect_failed">failed</string>
+  <string name="mi_audio_relay_localphone">phone</string>
+  <string name="mi_audio_relay_phone_name">xiaomi phone</string>
+  <string name="mi_audio_relay_title">select play devices</string>
   <string name="mobile_data_always_on">Mobile data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
   <string name="mock_location_app">Select mock location app</string>
@@ -457,8 +463,8 @@ Selection"</string>
   <string name="wifi_no_internet_no_reconnect">Connexion internet impossible</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_remembered">Enregistré</string>
-  <string name="wifi_scan_throttling">Puissance de la recherche de Wi‑Fi</string>
-  <string name="wifi_scan_throttling_summary">Reduces battery drain &amp; improves network performance</string>
+  <string name="wifi_scan_throttling">Puissance de la recherche de Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Reduces battery drain and improves network performance</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_none_owe">None/Enhanced Open</string>
   <string name="wifi_security_owe">Enhanced Open</string>
@@ -473,8 +479,10 @@ Selection"</string>
   <string name="wifi_status_no_internet">"Pas d'internet"</string>
   <string name="wifi_status_sign_in_required">Authentification requise</string>
   <string name="wifi_unmetered_label">Non mesuré</string>
-  <string name="wifi_verbose_logging">Turn on Wi‑Fi verbose logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Auto Connection</string>
+  <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
+  <string name="wifi_verbose_logging">Turn on Wi-Fi verbose logging</string>
+  <string name="wifi_verbose_logging_summary">Increase Wi-Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Sélectionner manuellement</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe réseau entré est incorrect.</string>
@@ -484,6 +492,8 @@ Make sure your certificates are valid."</string>
 Il semble que le stockage des accès soit désactivé."</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="zen_alarm_warning">"Vous n'entendrez pas votre prochaine alarme %1$s"</string>
   <string name="zen_alarm_warning_indef">"Vous n'entendrez pas votre prochaine alarme %1$s à moins de désactiver cette fonctionnalité d'ici-là"</string>
@@ -556,7 +566,7 @@ Il semble que le stockage des accès soit désactivé."</string>
   <string name="fast_connect_device_headset_reset">Appuyez et maintenez le bouton sur la boîte</string>
   <string name="fast_connect_device_title_connect_fail">Impossible de connecter %1$s</string>
   <string name="fast_connect_device_title_connecting">Connexion…</string>
-  <string name="fast_connect_device_title_find_headset">Trouver %1$s</string>
+  <string name="fast_connect_device_title_find_headset">%1$s trouvé</string>
   <string name="fast_connect_device_title_find_headset_others">"On dirait que cet appareil ne vous appartient pas: %1$s"</string>
   <string name="fast_connect_nzbt_reset">"Maintenez le bouton du haut enfoncé pendant %1$s secondes lorsque l'appareil est éteint"</string>
   <string name="fast_connect_reset_common">"Réinitialisez cet appareil pour pouvoir l'appairer"</string>

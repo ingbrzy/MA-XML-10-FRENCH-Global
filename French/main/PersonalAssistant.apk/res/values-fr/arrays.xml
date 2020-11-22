@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semaine 1</item>
+        <item>Semaine 2</item>
+        <item>Semaine 3</item>
+        <item>Semaine %1$d</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>Excellent</item>
         <item>Bon</item>
@@ -9,6 +15,8 @@
         <item>Sérieux</item>
     </string-array>
     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
         <item>%1$s pollution</item>
         <item>%1$s pollution</item>
         <item>%1$s pollution</item>
@@ -17,6 +25,19 @@
     <string-array name="aqi_title_prefix">
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Nuit</item>
+        <item>Nuit</item>
+        <item>Matin</item>
+        <item>Après-midi</item>
+        <item>Après-midi</item>
+        <item>Soirée</item>
+        <item>Soirée</item>
     </string-array>
     <string-array name="day_time_space">
         <item>Nuit</item>

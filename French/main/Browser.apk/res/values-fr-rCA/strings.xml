@@ -27,8 +27,10 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="copy">Copier</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode Plein écran</string>
+    <string name="exo_controls_hide">Masquer les commandes du lecteur</string>
     <string name="exo_controls_next_description">Chanson suivante</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Lire</string>
@@ -37,8 +39,11 @@
     <string name="exo_controls_repeat_off_description">Ne rien lire en boucle</string>
     <string name="exo_controls_repeat_one_description">Lire une chanson en boucle</string>
     <string name="exo_controls_rewind_description">Retour arrière</string>
-    <string name="exo_controls_shuffle_description">Lecture aléatoire</string>
+    <string name="exo_controls_show">Afficher les commandes du lecteur</string>
+    <string name="exo_controls_shuffle_off_description">Lecture aléatoire désactivée</string>
+    <string name="exo_controls_shuffle_on_description">Lecture aléatoire activée</string>
     <string name="exo_controls_stop_description">Arrêter</string>
+    <string name="exo_controls_vr_description">Mode RV</string>
     <string name="exo_download_completed">Téléchargement terminé</string>
     <string name="exo_download_description">Télécharger</string>
     <string name="exo_download_downloading">Téléchargement en cours…</string>
@@ -49,6 +54,10 @@
     <string name="exo_track_bitrate">%1$.2f Mb/s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Autre version</string>
+    <string name="exo_track_role_closed_captions">Sous-titres codés</string>
+    <string name="exo_track_role_commentary">Commentaires</string>
+    <string name="exo_track_role_supplementary">Supplémentaire</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Aucun</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -60,6 +69,8 @@
     <string name="exo_track_surround_7_point_1">Son ambiophonique 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
     <string name="expand_button_title">Avancé</string>
+    <string name="not_set">Non défini</string>
+    <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

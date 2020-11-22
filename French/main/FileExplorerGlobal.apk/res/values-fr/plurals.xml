@@ -17,8 +17,8 @@
         <item quantity="one">%d objet</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d éléments</item>
-        <item quantity="one"> %1$d élément</item>
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
     </plurals>
     <plurals name="files">
         <item quantity="other">%1$d fichiers</item>

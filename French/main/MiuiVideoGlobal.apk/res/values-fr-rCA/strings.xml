@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
-    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_bar_up_description">Revenir en arrière</string>
+    <string name="abc_action_menu_overflow_description">Autres options</string>
     <string name="abc_action_mode_done">Terminé</string>
-    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
-    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
-    <string name="abc_capital_off">DÉSACTIVÉ</string>
-    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVER</string>
+    <string name="abc_capital_on">ACTIVER</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">supprimer</string>
@@ -18,13 +18,13 @@
     <string name="abc_menu_space_shortcut_label">espace</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
     <string name="abc_searchview_description_submit">Envoyer la requête</string>
-    <string name="abc_searchview_description_voice">Recherche vocale</string>
-    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="cast_ad_label">Annonce</string>
@@ -36,6 +36,7 @@
     <string name="cast_expanded_controller_ad_image_description">Image affichée alors que le récepteur de diffusion présente une annonce</string>
     <string name="cast_expanded_controller_ad_in_progress">Annonce en cours…</string>
     <string name="cast_expanded_controller_background_image">"Image de l'album"</string>
+    <string name="cast_expanded_controller_live_head_description">La position actuelle est en tête de la diffusion en direct</string>
     <string name="cast_expanded_controller_live_stream_indicator">Diffusion en direct</string>
     <string name="cast_expanded_controller_loading">Chargement en cours…</string>
     <string name="cast_expanded_controller_skip_ad_label">"Ignorer l'annonce"</string>
@@ -44,6 +45,7 @@
     <string name="cast_forward_10">Avancer de 10 secondes</string>
     <string name="cast_forward_30">Avancer de 30 secondes</string>
     <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
+    <string name="cast_live_label">EN DIRECT</string>
     <string name="cast_mute">Désactiver le son</string>
     <string name="cast_notification_connected_message">Connecté à %1$s</string>
     <string name="cast_notification_connecting_message">Connexion à %1$s en cours…</string>

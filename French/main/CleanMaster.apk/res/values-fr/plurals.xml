@@ -137,11 +137,17 @@
         <item quantity="other">%1$d minutes</item>
         <item quantity="one">%1$d minute</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">"Supprimer %d paquets d'installation"</item>
+        <item quantity="one">"Supprimer %d paquet d'installation"</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un oeil."&lt;/Data>"</item>

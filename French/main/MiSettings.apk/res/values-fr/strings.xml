@@ -31,6 +31,8 @@
   <string name="afternoon">Après-midi</string>
   <string name="app_name">Paramètres</string>
   <string name="application_sound">"Notifications d'application"</string>
+  <string name="clearable_edittext_clear_description">Clear</string>
+  <string name="date_picker_lunar">Chinese Traditional Calendar</string>
   <string name="back">Retour</string>
   <string name="calendar_sound">"Rappels d'événements"</string>
   <string name="calendar_tip">"Le rappel d'événement semble fonctionner pour les rappels d'agenda, les notes et les tâches"</string>
@@ -48,6 +50,10 @@
   <string name="created">Créé</string>
   <string name="created_successfully">Créé avec succès</string>
   <string name="cu_confirm">Définir</string>
+  <string name="dc_light_hint_enable_title">Attention</string>
+  <string name="dc_light_hint_normal">"L'atténuation DC peut affecter la façon dont certains éléments sont affichés."</string>
+  <string name="dc_light_hint_other">"L'atténuation DC peut affecter la fréquence de rafraîchissement et la façon dont certains éléments sont affichés."</string>
+  <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
   <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
   <string name="display_title">Interface plus grande</string>
   <string name="early_morning">Matin</string>
@@ -89,17 +95,15 @@
   <string name="actionbar_button_up_description">Retour</string>
   <string name="anti_flicker_mode">Anti-scintillement</string>
   <string name="anti_flicker_mode_categroy">Modes</string>
-  <string name="anti_flicker_mode_summary">"Réduisez le scintillement dans des conditions de faible luminosité pour réduire la fatigue oculaire. Certains éléments peuvent ne pas s'afficher correctement."</string>
+  <string name="anti_flicker_mode_summary">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
   <string name="anti_flicker_title">Mode anti-scintillement</string>
   <string name="expand_button_title">Avancé</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd MMM</string>
-  <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="focus_mode_custom_time">Custom duration</string>
   <string name="focus_mode_timer_add_limit">"Vous pouvez ajouter jusqu'à %d minuteries personnalisées"</string>
@@ -107,6 +111,13 @@
   <string name="focus_mode_timer_exist">Cette session existe déjà</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d to %d minutes</string>
   <string name="focus_mode_timer_pick_dialog_title">Entrez la durée</string>
+  <string name="fps_nature_summary">Un taux de rafraîchissement élevé rend les choses nettes et claires</string>
+  <string name="fps_nature_title">Élevé</string>
+  <string name="fps_smooth_summary">Un taux de rafraîchissement moyen ajoute de la netteté aux détails</string>
+  <string name="fps_smooth_title">Moyen</string>
+  <string name="fps_standard_summary">Un taux de rafraîchissement standard économise la batterie</string>
+  <string name="fps_standard_title">Standard</string>
+  <string name="fps_user_tip">Ces animations de démonstrations sont jouées à vitesse faible en tant que référence. La performance réelle peut apparaître différente à cause de différents facteurs.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -261,7 +272,7 @@
   <string name="usage_new_home_dashboard">Tableau de bord</string>
   <string name="usage_new_home_date_day_title">"%s | Durée d'utilisation"</string>
   <string name="usage_new_home_day_category_title">"Catégories d'applications"</string>
-  <string name="usage_new_home_day_category_title_new">Screen time for app categories on %s</string>
+  <string name="usage_new_home_day_category_title_new">"Temps d'écran le %s"</string>
   <string name="usage_new_home_day_title">Jour</string>
   <string name="usage_new_home_day_usage_title">Applications individuelles</string>
   <string name="usage_new_home_day_usage_title_new">Screen time on %s</string>
@@ -370,6 +381,7 @@ This app needs to connect to the internet and requires the following permissions
   <string name="usage_device_limit_app_prolong_time2">Ajouter 40 minutes</string>
   <string name="usage_device_limit_app_prolong_time3">Ajouter 60 minutes</string>
   <string name="usage_device_limit_app_prolong_time4">"Aucune limite aujourd'hui"</string>
+  <string name="usage_device_limit_app_prolong_time5">Ajouter du temps une seule fois</string>
   <string name="usage_device_limit_notifation_summary_start">"Vous atteindrez votre limite dans %1$s"</string>
   <string name="usage_device_limit_notifation_title">"Temps restant aujourd'hui"</string>
   <string name="usage_device_limit_time_over">"Vous avez atteint la limite d'aujourd'hui (%1$s)"</string>
@@ -454,7 +466,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_state_focus_success">Défi complété</string>
   <string name="usage_state_focus_take_photo">Appareil photo</string>
   <string name="usage_state_focus_warning_text">"Concentrez-vous sur quelque chose d'important"</string>
-  <string name="usage_state_focus_weak_summary">Range ton téléphone</string>
+  <string name="usage_state_focus_weak_summary">Rangez votre téléphone</string>
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">"Plus d'applications"</string>
   <string name="usage_state_hour_minute">%1$d h %2$d m</string>
