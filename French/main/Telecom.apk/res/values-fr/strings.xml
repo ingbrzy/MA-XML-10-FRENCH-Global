@@ -113,7 +113,7 @@
   <string name="mr_dialog_transferable_header">Play on a group</string>
   <string name="mr_system_route_name">System</string>
   <string name="mr_user_route_category_name">Devices</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Non défini</string>
   <string name="osu_completing_sign_up">Completing sign-up…</string>
   <string name="osu_connect_failed">Couldn’t connect</string>
   <string name="osu_opening_provider">Opening %1$s</string>
@@ -121,7 +121,7 @@
   <string name="osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
   <string name="power_discharge_by_only_short">Until %1$s</string>
   <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="respond_via_sms_failure_format">Message failed to send to %s.</string>
   <string name="tap_to_sign_up">Tap to sign up</string>
   <string name="wifi_disconnected">Disconnected</string>
@@ -189,7 +189,7 @@
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
   <string name="bluetooth_profile_a2dp">Multimédia</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Audio HD : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
   <string name="bluetooth_profile_hearing_aid">Assistance auditive</string>
@@ -205,17 +205,17 @@
   <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Nombre de bits par échantillon pour l'audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Critère de sélection du codec audio
-Bluetooth: nombre de bits par échantillon"</string>
+Bluetooth : nombre de bits par échantillon"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">"Mode de chaîne de l'audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Critère de sélection du codec audio
-Bluetooth: mode de chaîne"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC: qualité de lecture</string>
+Bluetooth : mode de chaîne"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : qualité de lecture</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Critère de sélection du codec audio
-LDAC: qualité de lecture"</string>
+LDAC : qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Critère de sélection du codec audio
-Bluetooth: taux d'échantillonnage"</string>
-  <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion: %1$s</string>
+Bluetooth : taux d'échantillonnage"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion : %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Critère pour déclencher la sélection du codec audio
 Bluetooth"</string>
@@ -246,13 +246,13 @@ Bluetooth"</string>
   <string name="category_work">Professionnel</string>
   <string name="change_default_dialer_dialog_affirmative">"Définir comme application téléphonique par défaut"</string>
   <string name="change_default_dialer_dialog_negative">Annuler</string>
-  <string name="change_default_dialer_dialog_title">Faire de %s votre application de Téléphone par défaut ?</string>
+  <string name="change_default_dialer_dialog_title">Faire de %s votre application de Téléphone par défaut ?</string>
   <string name="change_default_dialer_warning_message">"%s sera en mesure d'effectuer et contrôler tous les aspects des appels. Seules les applications auxquelles vous faites confiance devraient être définies comme applications par défaut du téléphone."</string>
   <string name="charge_length_format">Il y a %1$s</string>
   <string name="choose_profile">Sélectionner un profil</string>
   <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
   <string name="close">Désactiver</string>
-  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
+  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="connected_via_carrier">Connecté via %1$s</string>
   <string name="connected_via_network_scorer">Connecté automatiquement via %1$s</string>
@@ -276,7 +276,7 @@ Bluetooth"</string>
   <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
   <string name="debug_app">Sélectionner une application à déboguer</string>
   <string name="debug_app_not_set">Aucune application à déboguer définie</string>
-  <string name="debug_app_set">Application à déboguer: %1$s</string>
+  <string name="debug_app_set">Application à déboguer : %1$s</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Tracé</string>
@@ -299,8 +299,8 @@ Bluetooth"</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
   <string name="dial_conference_fail_prompt">Impossible de lancer directement une conférence téléphonique car le réseau actuel ne prend pas en charge la technologie VoLTE.</string>
-  <string name="dial_vt_fail_prompt">Le réseau actuel ne prend pas en charge VoLTE. Basculer vers un appel ordinaire ?</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque: Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
+  <string name="dial_vt_fail_prompt">Le réseau actuel ne prend pas en charge VoLTE. Basculer vers un appel ordinaire ?</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
   <string name="disable_overlays">Désactiver superpos. matér.</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition écran</string>
   <string name="disabled">Désactivée</string>
@@ -337,7 +337,7 @@ Bluetooth"</string>
   <string name="hdcp_checking_title">Vérification HDCP</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="home">Paramètres</string>
-  <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
+  <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
   <string name="immediately_destroy_activities">Ne pas conserver activités</string>
   <string name="immediately_destroy_activities_summary">Supprimer immédiatement les activités abandonnées</string>
   <string name="ims_reg_status_not_registered">Non enregistré</string>
@@ -367,7 +367,7 @@ Bluetooth"</string>
   <string name="mobile_data_always_on_summary">"Maintenir les données cellulaires à l'état actif, même lorsque le Wi-Fi est actif (pour changer rapidement de réseau)"</string>
   <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
   <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
-  <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
+  <string name="mock_location_app_set">Application de position fictive : \"%1$s\"</string>
   <string name="no_application">Aucune</string>
   <string name="no_vm_number">Aucun numéro de messagerie vocale</string>
   <string name="no_vm_number_msg">Aucun numéro messagerie vocale présent sur la carte SIM.</string>
@@ -415,9 +415,9 @@ Bluetooth"</string>
   <string name="power_discharge_by_only">"Devrait durer jusqu'à environ %1$s"</string>
   <string name="power_discharge_by_only_enhanced">"Devrait durer jusqu'à environ %1$s en fonction de l'utilisation"</string>
   <string name="power_remaining_charging_duration_only">%1$s avant charge complète</string>
-  <string name="power_remaining_duration_only">Temps restant: environ %1$s</string>
-  <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation: environ %1$s</string>
-  <string name="power_remaining_duration_only_short">Temps restant: %1$s</string>
+  <string name="power_remaining_duration_only">Temps restant : environ %1$s</string>
+  <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation : environ %1$s</string>
+  <string name="power_remaining_duration_only_short">Temps restant : %1$s</string>
   <string name="power_remaining_duration_only_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt"</string>
   <string name="power_remaining_duration_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt (%1$s)"</string>
   <string name="power_remaining_less_than_duration">Il reste moins de %1$s (%2$s)</string>
@@ -430,10 +430,10 @@ Bluetooth"</string>
   <string name="private_dns_mode_provider_failure">Impossible de se connecter</string>
   <string name="private_dns_mode_provider_hostname_hint">"Saisissez le nom d'hôte du fournisseur DNS"</string>
   <string name="remaining_length_format">Il reste %1$s</string>
-  <string name="respond_via_sms_canned_response_1">Impossible de parler maintenant. Quoi de neuf ?</string>
+  <string name="respond_via_sms_canned_response_1">Impossible de parler maintenant. Quoi de neuf ?</string>
   <string name="respond_via_sms_canned_response_2">Je vous rappelle tout de suite.</string>
   <string name="respond_via_sms_canned_response_3">Je vous appellerai plus tard.</string>
-  <string name="respond_via_sms_canned_response_4">Peux pas parler. On se rappelle ?</string>
+  <string name="respond_via_sms_canned_response_4">Peux pas parler. On se rappelle ?</string>
   <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Réponses rapides</string>
   <string name="respond_via_sms_setting_title">Réponses rapides</string>
@@ -441,17 +441,17 @@ Bluetooth"</string>
   <string name="retail_demo_reset_message">"Saisir mot de passe pour rétablir conf. d'usine en mode démo."</string>
   <string name="retail_demo_reset_next">Suivant</string>
   <string name="retail_demo_reset_title">Veuillez saisir le mot de passe</string>
-  <string name="running_process_item_user_label">Utilisateur: %1$s</string>
+  <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
-  <string name="saved_network">Enregistré lors de: %1$s</string>
+  <string name="saved_network">Enregistré lors de : %1$s</string>
   <string name="screen_zoom_summary_custom">Personnalisé (%d)</string>
   <string name="screen_zoom_summary_default">Par défaut</string>
   <string name="screen_zoom_summary_extremely_large">Extrêmement grand</string>
   <string name="screen_zoom_summary_large">Grand</string>
   <string name="screen_zoom_summary_small">Petit</string>
   <string name="screen_zoom_summary_very_large">Très grand</string>
-  <string name="search_menu_title">Rechercher</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="select_application">Sélectionner une appli</string>
   <string name="select_logd_size_dialog_title">Tailles enreg. par tampon journal</string>
   <string name="select_logd_size_title">Tailles mémoires tampons enregistr.</string>
@@ -484,7 +484,7 @@ Bluetooth"</string>
   <string name="speed_label_slow">Lente</string>
   <string name="speed_label_very_fast">Très élevée</string>
   <string name="speed_label_very_slow">Très lente</string>
-  <string name="standby_bucket_summary">"État de mise en veille de l'application: %s"</string>
+  <string name="standby_bucket_summary">"État de mise en veille de l'application : %s"</string>
   <string name="status_unavailable">Non disponible</string>
   <string name="strict_mode">Mode Strict activé</string>
   <string name="strict_mode_summary">Afficher un cadre rouge si le thread principal reste occupé</string>
@@ -519,7 +519,7 @@ Bluetooth"</string>
   <string name="tts_default_sample_string">Voici un échantillon de synthèse vocale.</string>
   <string name="tts_engine_network_required">Une connexion réseau est nécessaire pour la synthèse vocale dans cette langue.</string>
   <string name="tts_engine_preference_section_title">Moteur préféré</string>
-  <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce qui sera lu, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
+  <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce qui sera lu, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
   <string name="tts_engine_settings_button">Lancer les paramètres du moteur</string>
   <string name="tts_engine_settings_title">Paramètres de %s</string>
   <string name="tts_general_section_title">Paramètres généraux</string>
@@ -539,7 +539,7 @@ Bluetooth"</string>
   <string name="tts_status_requires_network">Les paramètres régionaux %1$s nécessitent une connexion réseau.</string>
   <string name="tts_status_title">État de la langue par défaut</string>
   <string name="unblock_button">Débloquer</string>
-  <string name="unblock_dialog_body">Débloquer %1$s ?</string>
+  <string name="unblock_dialog_body">Débloquer %1$s ?</string>
   <string name="unknown">Inconnu</string>
   <string name="usb_audio_disable_routing">Désact. routage audio USB</string>
   <string name="usb_audio_disable_routing_summary">Désactiver routage auto vers périph. audio USB</string>
@@ -614,8 +614,8 @@ Bluetooth"</string>
   <string name="wapi_password_length_is_min_to_max">The password must be: 8-64 characters</string>
   <string name="wapi_yes">oui</string>
   <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
-  <string name="wifi_coverage_extend">Enable WLAN Coverage Extend Feature</string>
-  <string name="wifi_coverage_extend_summary">Enable extending WLAN coverage using Hotspot</string>
+  <string name="wifi_coverage_extend">Enable Wi-Fi Coverage Extend Feature</string>
+  <string name="wifi_coverage_extend_summary">Enable extending Wi-Fi coverage using Hotspot</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
   <string name="wifi_security_wapi_psk_hexadecimal">Hexadecimal</string>
   <string name="wifi_ssid_is_empty">Ssid field can not be left blank</string>

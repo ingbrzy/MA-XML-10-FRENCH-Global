@@ -13,8 +13,8 @@
     <item quantity="one">Masquer les notifications de %1$s &amp; %2$d application.</item>
   </plurals>
   <plurals name="disable_notification_confirm_title">
-    <item quantity="other">Masquer les notifications de %d applications ?</item>
-    <item quantity="one">Masquer les notifications de cette application ?</item>
+    <item quantity="other">Masquer les notifications de %d applications ?</item>
+    <item quantity="one">Masquer les notifications de cette application ?</item>
   </plurals>
   <plurals name="auto_disconnect_timer_tip">
     <item quantity="other">Raccrocher dans %1$d secondes</item>
@@ -85,8 +85,8 @@
     <item quantity="one">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable. Contactez le transporteur pour plus de détails.</item>
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
-    <item quantity="other">Code PIN SIM incorrect. Vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
-    <item quantity="one">Code PIN SIM incorrect. Vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+    <item quantity="other">Code PIN SIM incorrect, il vous reste %d tentatives restantes.</item>
+    <item quantity="one">Code PIN SIM incorrect, il vous reste %d tentative restante avant de devoir contacter votre opérateur pour déverrouiller votre appareil.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Code PUK SIM incorrect, vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable.</item>

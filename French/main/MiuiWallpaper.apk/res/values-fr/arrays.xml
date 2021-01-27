@@ -5,14 +5,29 @@
         <item>"Fond d'écran/Super fond d'écran/Accueil"</item>
         <item>"Terre;Super fonds d'écran;Édition Terre;Fond d'écran"</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Géométrie</item>
+        <item>"Fond d'écran/Super fond d'écran/ Géométrie"</item>
+        <item>"Géométrie; Abstrait; Super fond d'écran; Fond d'écran"</item>
+    </string-array>
     <string-array name="settings_search_mars">
         <item>La planète rouge</item>
         <item>"Fond d'écran/Super fond d'écrans/La planète rouge"</item>
         <item>"Mars;Édition Mars;Super fonds d'écran;Fond d'écran"</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>"Super fonds d'écran"</item>
         <item>"Fond d'écran/Super fond d'écran"</item>
         <item>"Super fond d'écran;Fond d'écran;Fond d'écran dynamique;Fond d'écran 3D"</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Météo</item>
+        <item>"Fond d'écran/Super fond d'écran/ Météo"</item>
+        <item>"Météo; Infos météo; Super fond d'écran; Fond d'écran"</item>
     </string-array>
 </resources>

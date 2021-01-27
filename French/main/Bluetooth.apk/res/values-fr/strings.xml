@@ -39,6 +39,8 @@
   <string name="bluetooth_sap_notif_message">Demander au client de se déconnecter ?</string>
   <string name="bluetooth_sap_notif_ticker">Accès SIM Bluetooth</string>
   <string name="bluetooth_sap_notif_title">Accès SIM Bluetooth</string>
+  <string name="bt_audio_share_notification_content">Appuyez pour afficher les options</string>
+  <string name="bt_audio_share_notification_title">Partage audio</string>
   <string name="bt_enable_cancel">Annuler</string>
   <string name="bt_enable_line1">Vous devez activer la fonction Bluetooth pour pouvoir utiliser les services Bluetooth.</string>
   <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
@@ -97,7 +99,7 @@
   <string name="not_exist_file">Aucun fichier</string>
   <string name="not_exist_file_desc">"Le fichier n'existe pas. 
 "</string>
-  <string name="noti_caption">%1$s réussies, %2$s non réussies.</string>
+  <string name="notice_audio_share_disconnected">"Ne plus partager l'audio en raison d'une connexion interrompue"</string>
   <string name="notification_received">Partage Bluetooth: %1$s reçu</string>
   <string name="notification_received_fail">Partage Bluetooth: fichier %1$s non reçu</string>
   <string name="notification_receiving">Partage Bluetooth: réception de %1$s</string>
@@ -165,12 +167,11 @@
   <string name="upload_fail_cancel">Fermer</string>
   <string name="upload_fail_line1">"Le fichier n'a pas été envoyé à %1$s."</string>
   <string name="upload_fail_line1_2">Fichier: %1$s</string>
-  <string name="upload_fail_ok">Réessayer</string>
   <string name="upload_line1">À: \"%1$s\"</string>
   <string name="upload_line3">Type de fichier: %1$s (%2$s)</string>
   <string name="upload_line5">Envoi de fichier en cours...</string>
   <string name="upload_succ_line5">Fichier envoyé</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>
-  <string name="switch_audio_notification_title">Device connectivity</string>
+  <string name="switch_audio_notification_title">"Connectivité d'appareil"</string>
 </resources>

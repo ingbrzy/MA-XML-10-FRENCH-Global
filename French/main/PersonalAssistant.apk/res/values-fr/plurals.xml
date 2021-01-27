@@ -19,8 +19,8 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d min</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d min</item>
+        <item quantity="one">Dans 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
@@ -81,8 +81,8 @@
         <item quantity="other">il y a %1$d j</item>
     </plurals>
     <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Supprimer %s éléments de express ?</item>
-        <item quantity="one">Supprimer %s élément de express?</item>
+        <item quantity="other">Supprimer %s éléments de express ?</item>
+        <item quantity="one">Supprimer %s élément de express ?</item>
     </plurals>
     <plurals name="express_history_menu_select_num">
         <item quantity="other">Sélectionné %s articles</item>
@@ -115,8 +115,8 @@
         <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="main_delete_desc">
-        <item quantity="other">Supprimer %s articles des favoris ?</item>
-        <item quantity="one">Supprimer %s article des favoris ?</item>
+        <item quantity="other">Supprimer %s articles des favoris ?</item>
+        <item quantity="one">Supprimer %s article des favoris ?</item>
     </plurals>
     <plurals name="main_mark_fav_num">
         <item quantity="other">Marqué %s points comme important</item>
@@ -134,16 +134,16 @@
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
-        <item quantity="other">Supprimer %s articles du paiement ?</item>
-        <item quantity="one">Supprimer %s article du paiement?</item>
+        <item quantity="other">Supprimer %s articles du paiement ?</item>
+        <item quantity="one">Supprimer %s article du paiement ?</item>
     </plurals>
     <plurals name="payment_record_menu_select_num">
         <item quantity="other">Sélectionné %s articles</item>
         <item quantity="one">Sélectionné %s article</item>
     </plurals>
     <plurals name="shopping_delete_num">
-        <item quantity="other">Supprimer %s selected items?</item>
-        <item quantity="one">Supprimer %s selected item?</item>
+        <item quantity="other">Supprimer %s éléments sélectionnés?</item>
+        <item quantity="one">Supprimer %s élément sélectionné?</item>
     </plurals>
     <plurals name="sms_day_suffix">
         <item quantity="other">Départ dans %d jours</item>

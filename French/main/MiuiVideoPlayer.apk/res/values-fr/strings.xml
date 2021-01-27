@@ -94,6 +94,7 @@
     <string name="auth_fail_warning">La session a expiré. Connectez-vous à nouveau.</string>
     <string name="auto_play_next_off">La lecture automatique est désactivée</string>
     <string name="auto_play_next_on">La lecture automatique est activée</string>
+    <string name="back_to_mainpage">Découvrir</string>
     <string name="before_yestoday">Il y a 2 jours</string>
     <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
     <string name="cancel">Annuler</string>
@@ -234,7 +235,7 @@
 ID:%s
 Envoyez ce code au superviseur."</string>
     <string name="dialog_privacy_info_new2">Pour pouvoir utiliser ses services, vous devez accepter que %1$s collectera, traitera, et utilisera vos informations personnelles. Vous devrez confirmer avoir lu et accepté notre &lt;a href=%2$s>Politique de Confidentialité&lt;/a> quand vous appuyez sur \"Accepter\" en dessous.</string>
-    <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la politique de confidentialité. En appuyant sur \"Accepter\" ci-dessous, vous acceptez la &lt;a href=%2$s> Politique de Confidentialité &lt;/a> de Xiaomi et &lt;a href=%3$s> l'Accord Utilisateur &lt;/a>."</string>
+    <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la Politique de Confidentialité. En appuyant sur J'accepte ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> et &lt;a href=%3$s>L'accord Utilisateurde Xiaomi&lt;/a>. &lt;br/>&lt;br/> Appuyer sur «Accepter» permet également à Mi Video d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Video pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
     <string name="dialog_privacy_title">Autorisation</string>
     <string name="dialog_revoke_privacy_info_new2">"Après avoir révoqué l'autorisation, l'application ne collectera plus de données, et toutes les données liées seront supprimés de nos serveurs. Il se peut que cela rende l'application virtuellement inutilisable. Révoquer l'autorisation quand même?"</string>
     <string name="dialog_revoke_privacy_title">"Révocation de l'autorisation en cours"</string>
@@ -304,6 +305,7 @@ Envoyez ce code au superviseur."</string>
     <string name="favorite_fail">"Impossible d'ajouter aux favoris. Réessayez plus tard."</string>
     <string name="favorite_success">Ajouté aux favoris avec succès</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
+    <string name="fcm_push_title">Vidéos populaires</string>
     <string name="feedback">Commentaires</string>
     <string name="feedback_activity_title">Commentaires</string>
     <string name="feedback_contact_empty">Entrez vos coordonnées</string>
@@ -650,6 +652,9 @@ Envoyez ce code au superviseur."</string>
     <string name="notification_bar_player_subtitle">Afficher le lecteur réduit dans le panneau de notification</string>
     <string name="notification_bar_player_title">Minimiser le lecteur</string>
     <string name="notification_open_tip">"Activer pour recevoir les notifications d'application"</string>
+    <string name="notification_recall_action">Activer</string>
+    <string name="notification_recall_desc">Mi Video peut vous informer des vidéos populaires et de vos abonnements.</string>
+    <string name="notification_recall_title">Activer les notifications </string>
     <string name="notify_apk_installed">Téléchargé avec succès</string>
     <string name="ok">OK </string>
     <string name="order_alphabet">A-Z</string>
@@ -848,6 +853,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="permission_storage">Stockage</string>
     <string name="permission_storage_desc">Pour accéder aux éléments, sauvegarder des fichiers, afficher et lire des vidéos locales</string>
     <string name="permission_title">Autorisations requises</string>
+    <string name="pgc_push_title">Abonnements</string>
     <string name="phone_bind_too_many">"Ce numéro téléphone a été associé à plusieurs Comptes Mi dans un court laps de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
     <string name="phone_hint">Numéro de téléphone</string>
     <string name="phone_num_use_for">Le numéro de téléphone est utilisé pour:</string>

@@ -34,10 +34,10 @@
   <string name="bmi_label_normal">Normal</string>
   <string name="bmi_label_overweight">En surpoids</string>
   <string name="bmi_label_underweight">Insuffisance pondérale</string>
-  <string name="date_time_picker_dialog_title">"Réglez la date et l'heure"</string>
+  <string name="date_time_picker_dialog_title">"Réglage de la date et l'heure"</string>
   <string name="from_unit_en">Kilomètre par heure</string>
   <string name="item_title_relationship">Conditions de parenté</string>
-  <string name="network_purpose">Bienvenue dans Calculatrice ! La calculatrice vous permet de convertir des devises, de calculer des remboursements hypothécaires, etc.</string>
+  <string name="network_purpose">Bienvenue dans Calculatrice ! La calculatrice vous permet de convertir des devises, de calculer des remboursements hypothécaires, etc.</string>
   <string name="title_bar">Convertisseur de longueur</string>
   <string name="xiaomi_bytes_unit">%1$s o</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
@@ -81,18 +81,22 @@
   <string name="currency_update_support">Taux de changes fournis par Webull.</string>
   <string name="currency_update_time_format">Taux de changes fournis par Webull (%s)</string>
   <string name="currency_update_updating">Mise à jour des taux…</string>
+  <string name="date_format">dd MMM yyyy</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">jour</string>
   <string name="degDesc">Angle</string>
   <string name="deleteDesc">supprimer</string>
   <string name="description_content">"Outre ses caractéristiques de base, la calculatrice fonctionne également comme un convertisseur multifonctionnel, calculateur d'impôts et de prêts hypothécaires. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
   <string name="description_title">À propos</string>
-  <string name="deselect_all">Deselect</string>
-  <string name="devided_by_zero_reminder_message">Impossible de diviser par zero</string>
-  <string name="dialog_privacy_title">"Conditions Générales d'Utilisation"</string>
-  <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
+  <string name="deselect_all">Désélectionner</string>
+  <string name="devided_by_zero_reminder_message">Impossible de diviser par zéro</string>
+  <string name="dialog_privacy_disagree_msg">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Calculatrice. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. La calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à sa politique de confidentialité sera considéré comme un refus d'accepter ses services sur la base des informations personnelles collectées."</string>
+  <string name="dialog_privacy_revoke_btn_ok">Retrait</string>
+  <string name="dialog_privacy_revoke_title">Retrait du consentement</string>
+  <string name="dialog_privacy_title">"Conditions générales d'utilisation"</string>
+  <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
   <string name="dialog_rating_desc_less">Pourriez-vous nous donner aussi vos avis ?</string>
-  <string name="dialog_rating_desc_perfect">Sympa ! Évaluer la Calculatrice aussi dans lApp Store ?</string>
+  <string name="dialog_rating_desc_perfect">"Sympa ! Évaluer la Calculatrice aussi dans l'App Store ?"</string>
   <string name="dialog_rating_title">Évaluez notre application</string>
   <string name="divDesc">diviser</string>
   <string name="dob_selection_error">"La date de naissance doit être antérieure à la date d'aujourd'hui"</string>
@@ -141,17 +145,17 @@
   <string name="hint_annual_rate">Enter annual rate</string>
   <string name="hint_enter_amount">Entrer le montant</string>
   <string name="hint_floatwindow_alpha_guide_text">"Appuyez sur pour ajuster l'opacité"</string>
-  <string name="history_delete_confirmation">"Effacer l'histoire maintenant ?"</string>
+  <string name="history_delete_confirmation">"Effacer l'histoire maintenant ?"</string>
   <string name="home_loan">Intérêts hypothécaires</string>
   <string name="home_title_calculator">Calculatrice</string>
   <string name="house_rent">Loyer</string>
   <string name="install">Installer</string>
-  <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
+  <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
   <string name="interest_rate_hint">"Entrer le taux d'intérêt"</string>
-  <string name="investment_invalid_duration">Investment duration must be greater than zero</string>
-  <string name="investment_type_once">One-time</string>
-  <string name="investment_type_recurring">Recurring</string>
-  <string name="item_page_title_investment">Investment calculator</string>
+  <string name="investment_invalid_duration">"La durée de l'investissement doit être supérieure à zéro"</string>
+  <string name="investment_type_once">Une fois</string>
+  <string name="investment_type_recurring">Récurrent</string>
+  <string name="item_page_title_investment">"Calculateur d'investissement"</string>
   <string name="item_title_aa_payment">Scinder la facture</string>
   <string name="item_title_age">Âge</string>
   <string name="item_title_area_conversion">Aire</string>
@@ -176,6 +180,7 @@
   <string name="item_title_vel_conversion">Vitesse</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Masse</string>
+  <string name="l_name_discount">Remise (moins %s)</string>
   <string name="label_about">À propos</string>
   <string name="label_clear_history">Tout effacer</string>
   <string name="label_date_difference">Différence</string>
@@ -279,8 +284,8 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="mortgage_average_repayment_first_month">Premier mois de rembousement</string>
   <string name="mortgage_average_repayment_monthly">Remboursement mensuel</string>
   <string name="mortgage_calculate">Calculer</string>
-  <string name="mortgage_descript_accumulation">"Taux d'intérêt: %s (fond)"</string>
-  <string name="mortgage_descript_commercial">"Taux d'intérêt: %s (commercial)"</string>
+  <string name="mortgage_descript_accumulation">"Taux d'intérêt : %s (fond)"</string>
+  <string name="mortgage_descript_commercial">"Taux d'intérêt : %s (commercial)"</string>
   <string name="mortgage_detail_month">Mois</string>
   <string name="mortgage_detail_monthly_interest">Intérêt</string>
   <string name="mortgage_detail_monthly_principal">Capital</string>
@@ -323,6 +328,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
+  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes :&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
@@ -333,11 +339,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="preference_alert_follow_qq_group">Copier et coller dans QQ pour faire votre retour</string>
   <string name="preference_alert_follow_wechat">Copier / coller dans WeChat pour nous suivre</string>
   <string name="preference_alert_follow_wechat_button">Copier</string>
-  <string name="preference_check_update_summary_current_version">Version actuelle: %s</string>
-  <string name="preference_check_update_summary_new_version">Mise à jour disponible: %s</string>
+  <string name="preference_check_update_summary_current_version">Version actuelle : %s</string>
+  <string name="preference_check_update_summary_new_version">Mise à jour disponible : %s</string>
   <string name="preference_check_update_title">Vérifier les mises à jour</string>
   <string name="preference_feedback_title">F.A.Q</string>
-  <string name="preference_follow_qq_group">Groupe QQ: 523274279</string>
+  <string name="preference_follow_qq_group">Groupe QQ : 523274279</string>
   <string name="preference_follow_us">Suivez-nous</string>
   <string name="preference_follow_web_title">Site Web officiel</string>
   <string name="preference_help">Aider et commentaires</string>
@@ -351,7 +357,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="preference_use_voice_summary">Activer pour utiliser la sortie vocale pendant les calculs</string>
   <string name="preference_use_voice_title">Speech output</string>
   <string name="preference_user_feedback_title">Feedback</string>
+  <string name="privacy_dialog_title">Confidentialité</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="privacy_revoke_error">"Retrait impossible. Veuillez réessayer."</string>
+  <string name="privacy_revoke_progress">Retrait en cours…</string>
+  <string name="privacy_switch">Retrait du consentement</string>
   <string name="radDesc">Radian</string>
   <string name="rate_data_provider">"Les taux d'intérêt sont fournis par hexun.com"</string>
   <string name="reciprocalDesc">Réciproque</string>
@@ -419,7 +429,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="tax_bonus_error">Saisir le montant exact du bonus</string>
   <string name="tax_cal_method_annual">Calcul du bonus annuel</string>
   <string name="tax_cal_method_fixed_salary">"Calcul d'impôt sur le revenu"</string>
-  <string name="tax_cal_method_format">Entrée personnelle: %s</string>
+  <string name="tax_cal_method_format">Entrée personnelle : %s</string>
   <string name="tax_city_error">Saisir un nom de ville correct</string>
   <string name="tax_city_located">Localisation</string>
   <string name="tax_city_picker">Ville</string>
@@ -511,7 +521,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="tomorrow">Demain</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
-  <string name="tuesday_shortest">M</string>
+  <string name="tuesday_shortest">Ma</string>
   <string name="tv_recurrence_monthly">Monthly</string>
   <string name="tv_recurrence_quaterly">Quarterly</string>
   <string name="tv_recurrence_yearly">Yearly</string>
@@ -742,15 +752,17 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="unit_year_format">Année %s</string>
   <string name="updating">Mise à jour de la Calculatrice…</string>
   <string name="user_agreement">"Accord de l'utilisateur"</string>
+  <string name="user_experience_program_title">"Programme d'expérience utilisateur"</string>
   <string name="view_float_window_move">Déplacer la calculatrice minimisée</string>
   <string name="voiceDesc">Contrôles vocaux</string>
   <string name="voice_guide_text">You can turn on speech output here</string>
   <string name="warn_locale_unsupport_for_voice">"Voice output for this language isn't supported yet."</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
-  <string name="wednesday_shortest">M</string>
+  <string name="wednesday_shortest">Me</string>
   <string name="weight_prompt">Poids</string>
   <string name="wf_word_figure">Caractères financiers</string>
+  <string name="withdraw_network_error">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
   <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les permissions requises dans Paramètres > Applications installées.</string>
   <string name="xiaomi_external_storage_unavailable">"Le stockage n'est pas disponible. Vérifiez votre carte SD."</string>
@@ -758,6 +770,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
 Taille %2$s"</string>
   <string name="yesterday">Hier</string>
   <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
-Taille de la mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
+Taille de la mise à jour Delta : %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
 </resources>
