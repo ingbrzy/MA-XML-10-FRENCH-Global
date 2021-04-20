@@ -110,7 +110,7 @@
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -122,11 +122,11 @@
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
   <string name="month_april">Avril</string>
-  <string name="month_april_short">Apr</string>
-  <string name="month_april_shortest">Apr</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aug</string>
-  <string name="month_august_shortest">Aug</string>
+  <string name="month_august_short">Aoû</string>
+  <string name="month_august_shortest">Aoû</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>

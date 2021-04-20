@@ -77,13 +77,6 @@
         <item>Avertissement</item>
         <item>Avertissement par Email</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_values">
-        <item>minuscule</item>
-        <item>petite</item>
-        <item>normal</item>
-        <item>grand</item>
-        <item>énorme</item>
-    </string-array>
     <string-array name="signature_special_string_array">
         <item>Avertissement:</item>
         <item>Avis de non responsabilité</item>

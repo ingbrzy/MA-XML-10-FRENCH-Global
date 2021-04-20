@@ -48,7 +48,7 @@
   <string name="cant_replace_or_remove_work_profile">Impossible de remplacer ni de supprimer le profil professionnel</string>
   <string name="cant_set_up_device">"Impossible de configurer l'appareil"</string>
   <string name="cant_set_up_profile">Impossible de configurer le profil</string>
-  <string name="character_counter_content_description">Caractères entrés %1$d sur %2$d</string>
+  <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="chip_text">Texte de puce</string>
   <string name="clear_text_end_icon_content_description">Effacer le texte</string>
@@ -145,8 +145,8 @@
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Enregistrer</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
-  <string name="mtrl_picker_header_prompt">Choisir une date</string>
-  <string name="mtrl_picker_range_header_prompt">Choisir une plage de dates</string>
+  <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
+  <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="next">Suivant</string>
   <string name="not_set">Non défini</string>
   <string name="now_lets_set_up_everything_else">"Maintenant, configurons tout le reste"</string>

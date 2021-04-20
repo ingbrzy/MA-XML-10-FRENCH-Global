@@ -157,8 +157,6 @@
   <string name="daily_forecast_no_data">"Impossible d'obtenir les données météo
 Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"</string>
   <string name="data_provided_by">Données fournies en partie par</string>
-  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
-  <string name="data_source_timezone">"GMT %1$s"</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="dialog_msg_score_midrop">How do you feel about Weather?</string>
   <string name="dialog_msg_score_not_good">Could you give us your feedback as well?</string>
@@ -294,7 +292,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -596,8 +594,10 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="widget_cta_not_agree">Appuyez pour obtenir des informations météo</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">"L'application météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
-  <string name="xiaomi_weather_description_title">À propos de météo</string>
+  <string name="xiaomi_weather_description_content">"Météo est une application système. Vous ne pourrez pas afficher les informations météo ou utiliser les widgets associés après avoir désinstallé l'application."</string>
+  <string name="xiaomi_weather_description_content_remove">"Météo est une application système. Vous ne pourrez pas afficher les informations météo ou utiliser les widgets associés après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="xiaomi_weather_description_title">Désinstaller \"Météo\"?</string>
+  <string name="xiaomi_weather_description_title_remove">"Supprimer \"Météo\" de l'écran d'accueil ?"</string>
   <string name="yes_vote_ratio">Pour %1$s%%</string>
   <string name="yesterday">Hier</string>
 </resources>

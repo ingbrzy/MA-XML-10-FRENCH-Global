@@ -102,7 +102,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="change_email_address">"Modifier l'adresse Email"</string>
   <string name="change_password">Modifier le mot de passe</string>
   <string name="change_phone_number">Modifier le numéro de téléphone</string>
-  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
   <string name="cloud_description_normal">Occupé</string>
   <string name="cloud_service">Xiaomi Cloud</string>
@@ -259,7 +259,7 @@ Envoyez ce code au superviseur."</string>
   <string name="mipay_indentity_done">Vérifié</string>
   <string name="mipay_others">Autre</string>
   <string name="mipay_transit_card">Carte de transport</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -622,8 +622,8 @@ Envoyez ce code au superviseur."</string>
   <string name="used_cloud_storage_info">Stockage utilisé %s</string>
   <string name="user_avatar_update_title">Modifier la photo de profil</string>
   <string name="user_avatar_uploading">Chargement…</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="vip_account_settings">Paramètres VIP</string>
   <string name="vip_settings_info">Paramètres VIP</string>
   <string name="weixin_login">"S'identifier avec WeChat"</string>

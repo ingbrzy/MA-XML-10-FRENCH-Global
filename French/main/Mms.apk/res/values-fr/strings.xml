@@ -285,7 +285,7 @@
   <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
   <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
   <string name="feature_mx">Mi Message</string>
-  <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Agrément utilisateur&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
+  <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Accord de l'utilisateur&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
   <string name="feature_smart_sms">Messagerie intelligente</string>
   <string name="feature_smart_sms_summary">"&lt;b&gt;La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b&gt;". La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les conditions de Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonction."</string>
   <string name="festival_sms_loading">Chargement…</string>
@@ -416,7 +416,7 @@
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Moi</string>
   <string name="messaging">Messages</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">tirer pour actualisé</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">actualisation terminé</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">actualisation</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualisé</string>
@@ -631,14 +631,14 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_summary_allow_si_sl_push">Autoriser les messager à charger du contenu depuis des sites Web</string>
   <string name="pref_summary_auto_delete">Supprimez les anciens message lorsque la limite est atteinte</string>
   <string name="pref_summary_delete_limit">%1$s messages par fil</string>
-  <string name="pref_summary_enable_ad_notification">Activez les notifications de groupe sur les messages promotionnels dans le panneau de notification</string>
+  <string name="pref_summary_enable_ad_notification">Activez les notifications de groupe sur les messages promotionnels dans le Panneau de notification</string>
   <string name="pref_summary_delivery_reports">"Afficher l'état de réception pour les messages envoyés"</string>
   <string name="pref_summary_delivery_ringtone">Recevoir des notifications sonores pour les messages reçus.</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages stockés sur la carte SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Télécharger automatiquement les photos et vidéos attachées aux MMS</string>
   <string name="pref_summary_mms_read_reports">Afficher les notifications en mode conversation lorsque le destinataire a téléchargé les contenus du MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Télécharger automatiquement les photos et vidéos des messages lorsque vous êtes en itinérance</string>
-  <string name="pref_summary_notification_body_enabled">"Afficher les messages sur l'écran de verrouillage et dans le panneau de notification"</string>
+  <string name="pref_summary_notification_body_enabled">"Afficher les messages sur l'écran de verrouillage et dans le Panneau de notification"</string>
   <string name="pref_summary_off_system_mms_priority">Utiliser une autre appli pour envoyer ou recevoir des MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Régler l'application de messagerie MIUI par défaut pour envoyer et recevoir des MMS."</string>
   <string name="pref_summary_privacy_authority">Actionnez cet interrupteur pour donner ou révoquer votre autorisation</string>
@@ -1186,8 +1186,8 @@ Dernière tentative : %s."</string>
   <string name="url_scanning">"Vérification de l'URL…"</string>
   <string name="user_agreement">Accord utilisateur</string>
   <string name="user_term">User Agreement</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="verification_code_list_title">Codes de vérification</string>
   <string name="verification_code_safety_warning">"Don't disclose these codes to other people"</string>
   <string name="view">Afficher</string>

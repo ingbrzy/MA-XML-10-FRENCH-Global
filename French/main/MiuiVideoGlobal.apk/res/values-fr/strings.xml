@@ -94,6 +94,8 @@
   <string name="alert_dialog_download_prepare">En préparation pour télécharger…</string>
   <string name="alert_dialog_download_progress">"Téléchargement de l'application "</string>
   <string name="all">Tout afficher</string>
+  <string name="app_description_content">"Mi Vidéo est une application système qui contient un lecteur vidéo local. Vous pourrez toujours lire les fichiers vidéo après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="app_description_title">"Supprimer \"Mi Vidéo\" de l'écran d'accueil ?"</string>
   <string name="app_name">Mi Vidéo</string>
   <string name="auth_again">Accepter</string>
   <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
@@ -102,6 +104,7 @@
   <string name="back_to_mainpage">Découvrir</string>
   <string name="before_yestoday">Il y a 2 jours</string>
   <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+  <string name="brvah_app_name">Médiathèque</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_choose">Désélectionner</string>
   <string name="cancel_subscribe_tips">Se désabonner maintenant ?</string>
@@ -253,10 +256,24 @@
   <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID: %s
 Envoyez ce code au superviseur."</string>
-  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que l'on %1$s collectera, traitera et utilisera vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité &lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
-  <string name="dialog_privacy_title">Permissions</string>
+  <string name="dialog_disagree_privacychange_info">"Vous ne pourrez pas utiliser les services de streaming en ligne Mi Vidéo si vous n'acceptez pas notre politique de confidentialité. Appuyez sur \"Annuler\" pour revenir en arrière ou sur \"Refuser\" pour continuer et utiliser Mi Vidéo comme lecteur local uniquement."</string>
+  <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
+  <string name="dialog_privacy_change_info">"Nous avons mis à jour la politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos &lt;a href=%1$s>Contrat utilisateur&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser l'application."</string>
+  <string name="dialog_privacy_change_title">Mise à jour Politique de confidentialité</string>
+  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
+  <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la politique de confidentialité. En appuyant sur \"J'accepte\" ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi et l'&lt;a href=%3$s>Accord utilisateur&lt;/a>.&lt;br />&lt;br />Appuyer sur \"Accepter\" permet également à Mi Vidéo d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Vidéo pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
+  <string name="dialog_privacy_info_new4">"Bienvenue sur Mi Vidéo ! Cette application fournit les services suivants : &lt;br>&lt;/ br> - Services de streaming en ligne&lt;br>&lt;/ br> - Un lecteur vidéo local&lt;br>&lt;/ br> Mi Vidéo doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre politique de confidentialité. Vous pourrez modifier les paramètres associés dans Paramètres > Mots de passe &amp;amp; sécurité.&lt;br>&lt;/ br>Lisez et acceptez notre &lt;a href=%1$s>Accord utilisateur&lt;/ a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/ a> avant en utilisant Mi Vidéo."</string>
+  <string name="dialog_privacy_revoke_cancel">Annuler</string>
+  <string name="dialog_privacy_revoke_count_down">Retrait (%1$ds)</string>
+  <string name="dialog_privacy_revoke_description">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Mi Vidéo. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois en vigueur. Le retrait de votre consentement à la politique de confidentialité sera considéré comme un refus d'accepter les services en ligne sur la base des informations personnelles collectées."</string>
+  <string name="dialog_privacy_revoke_fail">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="dialog_privacy_revoke_ok">Retrait</string>
+  <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
+  <string name="dialog_privacy_revoking">Retrait du consentement…</string>
+  <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
   <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
+  <string name="disagree">Refuser</string>
   <string name="diy_channels_tips">Vous pouvez désormais personnaliser la liste de vos chaînes.</string>
   <string name="do_not_show_again">Ne plus montrer</string>
   <string name="download">Télécharger</string>
@@ -448,7 +465,7 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_v_ok">OK</string>
   <string name="galleryplus_video_edit_save_video">Génération de la vidéo avec sous-titres…</string>
   <string name="galleryplus_vp_hardware_unsported">Cette vidéo ne peut pas être lue sur votre appareil.</string>
-  <string name="galleryplus_vp_videoview_error_button">"C'est compris"</string>
+  <string name="galleryplus_vp_videoview_error_button">Compris</string>
   <string name="galleryplus_vp_videoview_error_text_unknown">Une erreur de lecture est survenue</string>
   <string name="galleryplus_vp_videoview_error_title">Lecture de cette vidéo impossible</string>
   <string name="get_back_pwd">Réinitialisation du mot de passe</string>
@@ -464,7 +481,7 @@ Envoyez ce code au superviseur."</string>
   <string name="history_local_video">Locale</string>
   <string name="history_online_video">En ligne</string>
   <string name="hot">Populaire</string>
-  <string name="i_know">"C'est compris"</string>
+  <string name="i_know">Compris</string>
   <string name="id_namespace">hungama</string>
   <string name="identity">Identification</string>
   <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
@@ -530,7 +547,7 @@ pour les vidéos"</string>
   <string name="lv_audio_track">Son audio</string>
   <string name="lv_auto_update">Mettre à jour plus tard</string>
   <string name="lv_brightness">Luminosité</string>
-  <string name="lv_cast">Cast</string>
+  <string name="lv_cast">Diffusion</string>
   <string name="lv_check_delete_file">Sélectionner les éléments à supprimer</string>
   <string name="lv_check_send_file">"Vous ne pouvez envoyer qu'un seul fichier à la fois"</string>
   <string name="lv_confirm_delete_history">Supprimer les éléments sélectionnés ?</string>
@@ -669,6 +686,7 @@ pour les vidéos"</string>
   <string name="next">Suivant</string>
   <string name="nick_name">Surnom</string>
   <string name="no_account">Non connecté</string>
+  <string name="no_history">Aucun élément ici</string>
   <string name="no_longer_prompt">Ne plus afficher</string>
   <string name="no_more_content">"C'est tout pour le moment"</string>
   <string name="no_network_tips">"Impossible d'utiliser cette fonctionnalité pour le moment. L'accès au réseau est restreint."</string>
@@ -1033,6 +1051,8 @@ Augmenter la sécurité de votre compte."</string>
   <string name="plus_sort_type_time">Temps</string>
   <string name="plus_tab_gallery">Dossiers</string>
   <string name="plus_tab_time">Chronologie</string>
+  <string name="privacy_revoke_setting">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Mi Vidéo."</string>
+  <string name="privacy_revoke_title">Retrait du consentement</string>
   <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
   <string name="psw_hint">Mot de passe</string>
   <string name="psw_sign_in">Se connecter avec un mot de passe</string>
@@ -1098,6 +1118,8 @@ Augmenter la sécurité de votre compte."</string>
   <string name="screenrecord_cancel">Problèmes de compatibilité</string>
   <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
   <string name="search">Rechercher</string>
+  <string name="search_bar_hint">Recherche de vidéos</string>
+  <string name="search_bar_video_download_hint">"Cherchez ou entrez l'URL"</string>
   <string name="search_choose_language">Choisir la langue</string>
   <string name="search_choose_voice_language">Sélectionnez la langue utilisée pour la recherche vocale</string>
   <string name="search_hot_words">Populaire</string>
@@ -1258,7 +1280,19 @@ Augmenter la sécurité de votre compte."</string>
   <string name="v_txt_login">Connectez-vous pour synchroniser vos favoris</string>
   <string name="v_update">Mettre à jour</string>
   <string name="video_already_download_tip">Vous avez déjà téléchargé ce contenu</string>
+  <string name="video_download_btn">Télécharger</string>
   <string name="video_download_fail">Téléchargement de la vidéo impossible</string>
+  <string name="video_download_fail_hint">Téléchargement impossible</string>
+  <string name="video_download_floating_guide">Téléchargez des vidéos gratuitement</string>
+  <string name="video_download_forbidden">Impossible de télécharger à partir de ce site Web</string>
+  <string name="video_download_network_error">Erreur réseau</string>
+  <string name="video_download_play_video_guide">Commencez par lire la vidéo.</string>
+  <string name="video_download_play_video_guide2">Appuyez ensuite sur le bouton pour télécharger.</string>
+  <string name="video_download_site_search">URL</string>
+  <string name="video_download_source">Téléchargement web</string>
+  <string name="video_download_start">Téléchargement…</string>
+  <string name="video_download_storage_error">Espace de stockage insuffisant</string>
+  <string name="video_downloading">Téléchargement…</string>
   <string name="video_live_over">Cette session est terminée</string>
   <string name="video_noyet_download_tip">Cette vidéo est toujours en cours de téléchargement</string>
   <string name="video_offline">"Ce produit n'est plus disponible"</string>
@@ -1291,4 +1325,12 @@ Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
   <string name="year">année</string>
   <string name="yesterday">Hier</string>
+  <string name="ytb_account">Comptes</string>
+  <string name="ytb_author_video">Vidéos</string>
+  <string name="ytb_login">Identification</string>
+  <string name="ytb_login_btn">"S'identifier"</string>
+  <string name="ytb_login_hint">Connectez-vous pour afficher vos abonnements YouTube</string>
+  <string name="ytb_logout">Déconnexion</string>
+  <string name="ytb_play_next">Suivant</string>
+  <string name="ytb_subscribed">Abonnements</string>
 </resources>

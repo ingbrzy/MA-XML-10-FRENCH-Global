@@ -20,6 +20,11 @@
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Sommets enneigés</item>
+        <item>"Fond d'écran / Super papiers peints / Pics enneigés"</item>
+        <item>"Terre; Montagnes; Super fond d'écran; Fond d'écran"</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>"Super fonds d'écran"</item>
         <item>"Fond d'écran/Super fond d'écran"</item>

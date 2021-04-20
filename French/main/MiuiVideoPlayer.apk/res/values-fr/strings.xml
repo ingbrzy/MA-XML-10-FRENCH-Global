@@ -6,12 +6,12 @@
     <string name="Yesterday">Hier</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
-    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_menu_overflow_description">Autres options</string>
     <string name="abc_action_mode_done">OK</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
-    <string name="abc_capital_off">DÉSACTIVÉ</string>
-    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_capital_off">NON</string>
+    <string name="abc_capital_on">OUI</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">supprimer</string>
@@ -27,10 +27,11 @@
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
     <string name="abc_searchview_description_submit">Envoyer la requête</string>
-    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="access_denied_info">Trop de tentatives. Patientez une minute ou deux et réessayez.</string>
     <string name="account_bind_secure_email_title">Ajouter un e-mail de récupération</string>
     <string name="account_bind_secure_phone_title">Ajoutez un numéro de téléphone de récupération</string>
     <string name="account_crop_user_avatar">Retailler la photo</string>
@@ -50,7 +51,7 @@
     <string name="account_security_info_pref_title">Informations de sécurité</string>
     <string name="account_user_avatar">Photo de profil</string>
     <string name="account_user_avatar_from_album">Galerie</string>
-    <string name="account_user_avatar_from_camera">Caméra</string>
+    <string name="account_user_avatar_from_camera">Appareil photo</string>
     <string name="account_user_base_info">Informations de base</string>
     <string name="account_user_birthday">Anniversaire</string>
     <string name="account_user_details">Informations personnelles</string>
@@ -66,11 +67,17 @@
     <string name="action_update_phone">Changer de numéro de téléphone</string>
     <string name="activate_email_notice">"Soyez-sur d'activer votre compte dans les 24 heures"</string>
     <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
+    <string name="ad_bar_notification_setting_sub_title">Afficher les événements dans le Panneau de notification</string>
+    <string name="ad_bar_notification_setting_title">Événements</string>
     <string name="ad_buy">Acheter</string>
     <string name="ad_download">Télécharger</string>
     <string name="ad_join">Joindre la communauté</string>
     <string name="ad_more">Plus</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">Nom</string>
+    <string name="add_search_channel_tip">"Recherchez \"%s\" sur le site Web cible, puis copiez et collez l'URL ici."</string>
     <string name="add_to_trust_device">Ceci est un appareil de confiance</string>
+    <string name="add_website">Ajouter un site Web</string>
     <string name="agree">Accepter</string>
     <string name="agree_and_continue">Accepter</string>
     <string name="ai_animation_music_text">Bande son IA</string>
@@ -90,7 +97,10 @@
     <string name="alert_dialog_download_prepare">Préparation du téléchargement en cours…</string>
     <string name="alert_dialog_download_progress">"Téléchargement de l'application en cours: "</string>
     <string name="all">Tout afficher</string>
+    <string name="app_description_content">"Mi Video est une application système qui contient un lecteur vidéo local. Vous pourrez toujours lire les fichiers vidéo après avoir supprimé le raccourci de l'écran d'accueil."</string>
+    <string name="app_description_title">"Supprimer \"Mi vidéo\" de l'écran d'accueil?"</string>
     <string name="app_name">Mi Vidéo</string>
+    <string name="auth_again">"J'accepte"</string>
     <string name="auth_fail_warning">La session a expiré. Connectez-vous à nouveau.</string>
     <string name="auto_play_next_off">La lecture automatique est désactivée</string>
     <string name="auto_play_next_on">La lecture automatique est activée</string>
@@ -151,6 +161,8 @@
     <string name="choose_to_signup">"Non, j'en créerai un"</string>
     <string name="click_to_reload_more">Appuyez pour charger plus</string>
     <string name="click_to_retry">Réessayez</string>
+    <string name="cloud_auto_pip_play_switch">Utiliser automatiquement picture-in-picture</string>
+    <string name="cloud_online_player">Lecteur</string>
     <string name="cloud_online_switch">Recommandations personnalisées</string>
     <string name="cloud_online_switch_close_time">Vous pouvez activer des recommandations de contenu personnalisées dans %s</string>
     <string name="cloud_online_switch_open_time">Afficher les recommandations de contenu personnalisées</string>
@@ -223,22 +235,36 @@
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmez le numéro de téléphone associé</string>
-    <string name="confirm_new_pwd">Confirmez le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Le numéro de téléphone a été associé au Compte Mi %2$s sur le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer?</string>
+    <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone a été associé au Compte Mi %2$s sur le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer?</string>
     <string name="content">Contenu</string>
     <string name="content_can_not_null">"Impossible d'envoyer le commentaire sans description."</string>
     <string name="continue_play">Reprendre</string>
     <string name="data_empty">Aucun élément ici</string>
     <string name="description">Description</string>
+    <string name="detail_select_source">Sélectionnez la source de lecture</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journeaux. Réessayez."</string>
     <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID:%s
 Envoyez ce code au superviseur."</string>
+    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
+    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
+    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
+    <string name="dialog_privacy_change_title">Privacy Policy update</string>
     <string name="dialog_privacy_info_new2">Pour pouvoir utiliser ses services, vous devez accepter que %1$s collectera, traitera, et utilisera vos informations personnelles. Vous devrez confirmer avoir lu et accepté notre &lt;a href=%2$s>Politique de Confidentialité&lt;/a> quand vous appuyez sur \"Accepter\" en dessous.</string>
     <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la Politique de Confidentialité. En appuyant sur J'accepte ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> et &lt;a href=%3$s>L'accord Utilisateurde Xiaomi&lt;/a>. &lt;br/>&lt;br/> Appuyer sur «Accepter» permet également à Mi Video d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Video pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
-    <string name="dialog_privacy_title">Autorisation</string>
+    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_revoke_cancel">Annuler</string>
+    <string name="dialog_privacy_revoke_count_down">Retraits (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">"En désactivant le commutateur, vous retirez votre consentement à la politique de confidentialité de Mi vidéo. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. Votre retrait de votre consentement à la politique de confidentialité sera considéré comme un refus d'accepter les services en ligne sur la base des informations personnelles collectées."</string>
+    <string name="dialog_privacy_revoke_fail">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="dialog_privacy_revoke_ok">Retirer</string>
+    <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
+    <string name="dialog_privacy_revoking">Retrait du consentement…</string>
+    <string name="dialog_privacy_title">Terms and conditions</string>
     <string name="dialog_revoke_privacy_info_new2">"Après avoir révoqué l'autorisation, l'application ne collectera plus de données, et toutes les données liées seront supprimés de nos serveurs. Il se peut que cela rende l'application virtuellement inutilisable. Révoquer l'autorisation quand même?"</string>
     <string name="dialog_revoke_privacy_title">"Révocation de l'autorisation en cours"</string>
+    <string name="disagree">"Don't agree"</string>
     <string name="diy_channels_tips">Vous pouvez personnaliser la liste de vos chaînes maintenant.</string>
     <string name="do_not_show_again">Ne plus afficher</string>
     <string name="download">Télécharger</string>
@@ -322,8 +348,10 @@ Envoyez ce code au superviseur."</string>
     <string name="feedback_tag_title">Catégorie</string>
     <string name="feedback_text_empty_toast">Entrez vos commentaires en premier.</string>
     <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">"Pas assez d'espace de stockage. Libérez au moins %d MB et relancez l'application."</string>
     <string name="find_psw">Mot de passe oublié</string>
     <string name="finish">Terminé</string>
+    <string name="firework_privacy">Politique de Confidentialité de Firework</string>
     <string name="for_diagnosis_usage_only">Les journeaux sont utilisés seulement pour les diagnostics.</string>
     <string name="for_you">POUR VOUS</string>
     <string name="friday">Vendredi</string>
@@ -351,6 +379,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">Paramètres</string>
     <string name="galleryplus_chose_play_speed">Lecture à la vitesse de %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">Lecture à la vitesse de %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">Impossible de régler la vitesse de lecture</string>
     <string name="galleryplus_click_to_higher_definition">"Double-appuyez pour ouvrir l'aperçu HD"</string>
     <string name="galleryplus_copyright_unsported_audio">"Impossible de lire la vidéo de la piste audio en raison des restrictions de droits d'auteur"</string>
@@ -374,7 +403,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_gallery_video_save_video">Création de la vidéo en cours…</string>
     <string name="galleryplus_gallery_video_slow_edit">Ralenti</string>
     <string name="galleryplus_gallery_view_tags">Afficher les marques</string>
-    <string name="galleryplus_is_higher_definition">Aperçu HD ouvert</string>
+    <string name="galleryplus_is_higher_definition">Prévisualisation HD</string>
     <string name="galleryplus_network_connect_check">Impossible de se connecter au réseau</string>
     <string name="galleryplus_network_connect_confirm">Connectez-vous au Wi-Fi ou activez les données mobiles dans les paramètres réseau.</string>
     <string name="galleryplus_network_error">Impossible de se connecter au réseau</string>
@@ -384,6 +413,8 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_online_cta_disagree">Refuser</string>
     <string name="galleryplus_online_cta_title">"Conditions générales d'utilisations"</string>
     <string name="galleryplus_online_video_loading">Juste un instant…</string>
+    <string name="galleryplus_orientation_lock">Orientation verrouillée avec succès</string>
+    <string name="galleryplus_orientation_unlock">"L'orientation de l'écran est déverrouillée"</string>
     <string name="galleryplus_permission_content">Accordez à Mi Vidéo les autorisations requises pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres > Applications > Mi Vidéo > Autorisations des applications et autoriser Mi Vidéo a effectuer les opérations suivantes:
 
@@ -405,6 +436,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_subtitle_edit_edit">Modifier les sous-titres</string>
     <string name="galleryplus_subtitle_edit_hide">Masquer les sous-titres</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Modifier le texte</string>
+    <string name="galleryplus_subtitle_edit_reminder">Le texte que vous avez entré est trop long</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Impossible de reconnaître le discours pendant que vous enregistriez</string>
     <string name="galleryplus_v_agree">Accepter</string>
     <string name="galleryplus_v_cancel">Annuler</string>
@@ -436,14 +468,21 @@ Envoyez ce code au superviseur."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">En ligne</string>
     <string name="hot">Populaire</string>
+    <string name="i_know">"C'est compris"</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="init_channels">Rétablir les paramètres par défaut</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
-    <string name="input_new_pwd">Saisissez le nouveau mot de passe</string>
+    <string name="input_new_pwd">Saisir le nouveau mot de passe</string>
     <string name="input_size_tips">"Vous pouvez saisir jusqu'à 1000 caractères"</string>
     <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
     <string name="issue">Problème</string>
+    <string name="item_card_all_replies">Toutes les réponses</string>
+    <string name="item_card_continue_play">Lecture automatique</string>
+    <string name="item_card_more_trailers">Plus de publicités</string>
+    <string name="item_card_open_in">"Ouvrir dans "</string>
+    <string name="item_card_related">Liés</string>
+    <string name="item_setting_go_back">Retrait du consentement</string>
     <string name="just_a_second">Juste un instant…</string>
     <string name="language_later_setting_tips">Vous pouvez changer vos préférences de langue dans Profile > Langue.</string>
     <string name="language_select_tips">"Sélectionnez votre langue préférée
@@ -472,7 +511,7 @@ Envoyez ce code au superviseur."</string>
     <string name="lp_play_mode_single_loop">Boucler une</string>
     <string name="lp_play_mode_title">Mode lecture</string>
     <string name="lp_speed_title">Vitesse de lecture</string>
-    <string name="lp_speed_toast">Joué à la vitesse %sX …</string>
+    <string name="lp_speed_toast">Joué à la vitesse %sX…</string>
     <string name="lp_videoView_error_button">"C'est compris"</string>
     <string name="lp_videoView_error_text_unknown">Impossible de lire cette vidéo.</string>
     <string name="lp_videoView_error_title">Lecture impossible</string>
@@ -626,13 +665,16 @@ Envoyez ce code au superviseur."</string>
     <string name="my_favorite_channels">Mes chaînes favorites</string>
     <string name="my_feedback_title">Mes commentaires</string>
     <string name="need_update_app">Mettre Mi Video à jour pour utiliser toutes ses fonctionnnalités</string>
-    <string name="network_connect_info">Impossible de se connecter au réseau. Vérifiez vos paramètres de réseau et réessayez.</string>
+    <string name="network_connect_info">Impossible de se connecter au réseau.</string>
+    <string name="network_error_info">"Une erreur de réseau s'est produite. Vérifiez vos paramètres de réseau et réessayez."</string>
     <string name="network_failed">Impossible de se connecter au réseau</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="new_channel_tip">Jetez un œil à de nouvelles chaînes!</string>
     <string name="next">Suivant</string>
     <string name="next_step">Suivant</string>
     <string name="nick_name">Surnom</string>
     <string name="no_account">Pas connecté</string>
+    <string name="no_history">Aucun élément ici</string>
     <string name="no_longer_prompt">Ne plus afficher</string>
     <string name="no_more_content">"C'est tout pour l'instant"</string>
     <string name="no_network_tips">"Impossible d'utiliser cette fonctionnalité maintenant. Accés au réseau restraint."</string>
@@ -656,7 +698,10 @@ Envoyez ce code au superviseur."</string>
     <string name="notification_recall_desc">Mi Video peut vous informer des vidéos populaires et de vos abonnements.</string>
     <string name="notification_recall_title">Activer les notifications </string>
     <string name="notify_apk_installed">Téléchargé avec succès</string>
+    <string name="off_tip_firework_recommend">Vous ne recevrez pas de recommandations de contenu personnalisées de Firework</string>
     <string name="ok">OK </string>
+    <string name="on_tip_firework_recommend">Vous recevrez des recommandations de contenu personnalisées de Firework</string>
+    <string name="open_settings">Paramètres</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonnements récent</string>
     <string name="order_recently_updated">Récemment mis à jour</string>
@@ -758,6 +803,7 @@ Mettez à jour Mi Vidéo à la dernière version en premier."</string>
     <string name="passport_area_code_title">Indicatif régional</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
     <string name="passport_barcode_add_account_prompt">Pour ajouter un compte, rescannez le code QR après vous être connecté.</string>
+    <string name="passport_can_not_receive_verification_code">Impossible de recevoir le code de vérification?</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Vérification du mot de passe en cours…</string>
     <string name="passport_close">Fermer</string>
@@ -787,13 +833,13 @@ Mettez à jour Mi Vidéo à la dernière version en premier."</string>
     <string name="passport_getting_verify_code">Juste un instant…</string>
     <string name="passport_identification_expired">Le code de vérification a expiré. Recommencez.</string>
     <string name="passport_input_captcha_hint">Saisir le code</string>
-    <string name="passport_input_password_hint">Saisissez le mot de passe</string>
+    <string name="passport_input_password_hint">Saisir le mot de passe</string>
     <string name="passport_input_phone_hint">Entrez un numéro de téléphone</string>
     <string name="passport_input_vcode_hint">Saisissez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Entrez votre code de vérification vocal</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
     <string name="passport_international_phone_password_login_tip">(Les utilisateurs qui ne sont pas en Chine doivent saisir le nuùéro de téléphone dans le format suivant: +[indicatif régional][numéro de téléphone], ex.: +91 817282982)</string>
-    <string name="passport_log_detail">Voir les détails</string>
+    <string name="passport_log_detail">Afficher les détails</string>
     <string name="passport_login_failed">Impossible de se connecter</string>
     <string name="passport_next">Suivant</string>
     <string name="passport_next_step">Suivant</string>
@@ -808,8 +854,8 @@ Mettez à jour Mi Vidéo à la dernière version en premier."</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro. Essayez avec un numéro différent.</string>
     <string name="passport_reload_ph_ticket">Renvoyer</string>
     <string name="passport_relogin_notice">Vous devez de nouveau vous connecter</string>
-    <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
-    <string name="passport_send_too_many_sms">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
+    <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
+    <string name="passport_send_too_many_sms">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_sending_vcode">Envoi du code en cours…</string>
     <string name="passport_set_password">Définir un mot de passe</string>
     <string name="passport_set_password_no_phone_msg">Ajoutez votre numéro de téléphone pour protéger votre compte.</string>
@@ -823,11 +869,11 @@ Mettez à jour Mi Vidéo à la dernière version en premier."</string>
     <string name="passport_timeout_network_error">Délai de connexion a expiré</string>
     <string name="passport_trust_device">Ceci est un appareil de confiance</string>
     <string name="passport_trying_read_verify_code_sms">Obtention du code de vérification en cours…</string>
-    <string name="passport_unknow_error">"Une erreur réseau s'est produite"</string>
+    <string name="passport_unknow_error">"Une erreur inconnue s'est produite"</string>
     <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_user_agreement_link">"&lt;Data>J'ai lu et accepté &lt;a href=%1$s>l'Accord Utilisateur&lt;/a> et &lt;a href=%2$s>la Politique de Confidentialité&lt;/a> de Xiaomi.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>J'ai lu et accepté les documents suivant: &lt;a href=%1$s>l'Accord Utilisateur&lt;/a> et &lt;a href=&lt;a href=%4$s>la Politique de Confidentialité&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a> de Xiaomi.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>J'ai lu et accepté les documents suivant: &lt;a href=%1$s>l'Accord Utilisateur&lt;/a> et &lt;a href=%4$s>la Politique de Confidentialité&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a> de Xiaomi.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Entrez le mot de passe de %1$s</string>
     <string name="passport_v_code_error">Le code de vérification est incorrect</string>
     <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
@@ -860,11 +906,16 @@ Améliorer la sécurité de votre compte."</string>
     <string name="phone_number">Numéro de téléphone</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pip">"Image dans l'image:"</string>
+    <string name="playlist_create">Créer</string>
     <string name="playlist_detail_recomm_title">Pistes de lecture recommendées</string>
+    <string name="playlist_finish">Terminé</string>
     <string name="playlist_hot">Populaire</string>
+    <string name="playlist_name">Entrer le titre de la piste de lecture</string>
     <string name="playlist_new">Nouveau</string>
     <string name="playlist_no_more">Plus de vidéos ici</string>
+    <string name="playlist_no_videos">Aucune vidéo</string>
     <string name="playlist_offline">"Cette piste de lecture n'est plus disponible."</string>
+    <string name="playlist_remove">Supprimer</string>
     <string name="playlist_title">Piste de lecture</string>
     <string name="playlist_view_more">Plus de pistes de lectures</string>
     <string name="plus_add_shortcut">"Crééez un raccourci vers l'Écran d'accueil"</string>
@@ -892,6 +943,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="plus_menu_delete_popup_text">Supprimer maintenant?</string>
     <string name="plus_menu_properties">Propriétés</string>
     <string name="plus_menu_rename">Renommer</string>
+    <string name="plus_menu_rename_cant_empty">Le nom du fichier ne peut être vide</string>
     <string name="plus_menu_rename_fail">Le nom du fichier ne peut pas contenir \"/\"</string>
     <string name="plus_menu_share">Partager</string>
     <string name="plus_mine_gallery">Mes albums</string>
@@ -978,7 +1030,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="plus_share_channel_wechat_moments">Moments WeChat</string>
     <string name="plus_share_channel_weibo">Weibo</string>
     <string name="plus_shortcut">Vidéos locales</string>
-    <string name="plus_shortcut_created_succ">Raccourci vers lÉcran d’accueil créé avec succès</string>
+    <string name="plus_shortcut_created_succ">"Raccourci vers l'Écran d'accueil créé avec succès"</string>
     <string name="plus_shortcut_existed">Ce raccourci existe déjà</string>
     <string name="plus_sort_title">Trier</string>
     <string name="plus_sort_type_default">Par défaut</string>
@@ -987,6 +1039,9 @@ Améliorer la sécurité de votre compte."</string>
     <string name="plus_sort_type_time">Durée</string>
     <string name="plus_tab_gallery">Dossiers</string>
     <string name="plus_tab_time">Chronologie</string>
+    <string name="privacy_revoke_setting">En désactivant le commutateur, vous retirez votre consentement à la Politique de Confidentialité de Mi vidéo .</string>
+    <string name="privacy_revoke_title">Retrait du consentement</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="psw_hint">Mot de passe</string>
     <string name="psw_sign_in">Se connecter avec un mot de passe</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Tirez vers le haut pour actualiser…</string>
@@ -1024,6 +1079,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="report_content_violence">Discours de haine</string>
     <string name="report_fail">Impossible de signaler. Réessayez.</string>
     <string name="report_success">Signalé avec succès</string>
+    <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application nécessite les autorisations suivantes pour fonctionner normalement: &lt;br> &lt;br> &lt;b> L'utilisation de l'appareil photo (pour définir votre photo de profil) &lt;/b> &lt;br> &lt;br> Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les Paramètres."</string>
     <string name="resend_active_email">Renvoyer</string>
     <string name="resend_email_reach_limit_message">"Vous avez envoyé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification n'est pas dans le dossier de courriers indésirables de votre boîte de réception."</string>
     <string name="resend_email_reach_limit_title">Trop de tentatives</string>
@@ -1050,11 +1106,14 @@ Améliorer la sécurité de votre compte."</string>
     <string name="screenrecord_cancel">Problèmes de compatibilité</string>
     <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
     <string name="search">Rechercher</string>
+    <string name="search_bar_hint">Rechercher des vidéos</string>
     <string name="search_choose_language">Sélectionnez la langue</string>
     <string name="search_choose_voice_language">Sélectionnez la langue utilisée pour la recherche vocale</string>
     <string name="search_hot_words">Populaire</string>
     <string name="search_key_not_null">Les demandes de recherche ne peuvent pas être vide</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="search_result_download_error">Échec du téléchargement</string>
+    <string name="search_result_startdownload">Téléchargement en cours…</string>
     <string name="selectall">Tout sélectionner</string>
     <string name="selectnull">Tout déselectionner</string>
     <string name="send_diagnosis_log">Envoyer des journeaux</string>
@@ -1097,6 +1156,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="sync_favorites_limit">Il y a plus de 500 vidéos dans vos favoris. Nous devrons supprimer certaines vidéos plus anciennes pour continuer la synchronisation.</string>
     <string name="sync_favorites_message">Synchroniser les favoris depuis cet appareil vers votre compte? Les éléments qui ne sont plus disponibles seront retirés.</string>
     <string name="sync_favorites_title">Synchroniser les favoris</string>
+    <string name="system_error_info">Le système est occupé. Patientez une ou deux minutes et réesssayez.</string>
     <string name="t_check_hide_file">Sélectionner les éléments à masquer</string>
     <string name="t_check_unhide_file">Sélectionner les éléments à démasquer</string>
     <string name="t_downloading">Téléchargement en cours:</string>
@@ -1127,14 +1187,19 @@ Améliorer la sécurité de votre compte."</string>
     <string name="ticket_hint">Code de vérification</string>
     <string name="ticket_invalid">Le code que vous avez entré est incorrect</string>
     <string name="ticket_sign_in">Se connecter via SMS</string>
+    <string name="tip_auth_again">"Étant donné que vous n'avez pas préalablement accepté les termes de la politique de confidentialité correspondante du fournisseur de contenu tiers, nous ne pouvons pas afficher de contenu vidéo dans Moments. Appuyez sur le bouton ci-dessous pour accepter la Politique de Confidentialité et accéder à cette fonctionnalité."</string>
     <string name="tip_author_click">Appuyez pour voir plus de vidéos de ce compte</string>
+    <string name="tip_pop">"&lt;Data>Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de Confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de Confidentialité de Firework&lt;/a> avant d'utiliser ses services.&lt;/Data>"</string>
     <string name="tip_topic_click">Appuyez pour trouver plus de vidéos sur ce sujet</string>
+    <string name="title_firework_recommend">Les recommandations de Firework</string>
     <string name="title_publisher">Créateurs</string>
     <string name="title_subscribe">Abonnements</string>
     <string name="toast_no_data">"Cet élément n'est pas disponible maintenant. Revenez plus tard."</string>
     <string name="toast_request_too_frequently">Pas si vite!</string>
     <string name="toast_share_failed">Impossible de partager. Attendez une minute ou deux et réessayez.</string>
     <string name="today">"Aujourd'hui"</string>
+    <string name="tool_bar_notification_setting_sub_title">"Afficher la barre d'outils dans le Panneau de notification"</string>
+    <string name="tool_bar_notification_setting_title">"Barre d'outils de l'ombre de notification"</string>
     <string name="top_bar_game_desc">Découvrez de nombreux nouveaux jeux ici</string>
     <string name="top_bar_game_title">Chaîne de jeu</string>
     <string name="tuesday">Mardi</string>
@@ -1144,6 +1209,7 @@ Améliorer la sécurité de votre compte."</string>
     <string name="ugc_no_net">Impossible de se connecter au réseau. Vérifiez vos paramètres de réseau et réessayez.</string>
     <string name="ui_log_tip">Appuyez sur cette zone pour masquer, appuyez et maintenez pour effacer les anciens journaux. Déplacez manuellement les journaux.</string>
     <string name="unknow">Inconnu</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="update">Mettre à Jour</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de pouvoir mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
@@ -1204,4 +1270,12 @@ Améliorer la sécurité de votre compte."</string>
     <string name="vp_upcoming_title">Passer au suivant</string>
     <string name="wednesday">Mercredi</string>
     <string name="yesterday">Hier</string>
+    <string name="ytb_account">Comptes</string>
+    <string name="ytb_author_video">Vidéos</string>
+    <string name="ytb_login">Se connecter</string>
+    <string name="ytb_login_btn">Se connecter</string>
+    <string name="ytb_login_hint">Connectez-vous pour voir vos abonnements YouTube</string>
+    <string name="ytb_logout">Déconnexion</string>
+    <string name="ytb_play_next">Passer au suivant</string>
+    <string name="ytb_subscribed">Inscriptions</string>
 </resources>
