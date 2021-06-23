@@ -31,9 +31,9 @@
   <string name="action_back">Retour</string>
   <string name="action_settings">Paramètres</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="ad">AD</string>
+  <string name="ad">Publicité</string>
   <string name="ad_download">Installer</string>
-  <string name="ad_mark">AD</string>
+  <string name="ad_mark">Publicité</string>
   <string name="ad_title">Les gens téléchargent aussi ceci avec %1$s</string>
   <string name="ad_title_other">Avec cette image les gens téléchargent aussi</string>
   <string name="add_flow_fail_haveget_msg">"La période d'essai a expiré."</string>
@@ -65,13 +65,16 @@
   <string name="cancel">Annuler</string>
   <string name="cancel_running_download">Annuler</string>
   <string name="cancle">Annuler</string>
+  <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_open_picture">"Sélectionnez l'action"</string>
   <string name="choose_open_time">"Choisissez quand vous voulez commencer"</string>
   <string name="clear_data">Effacer</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Quitter</string>
   <string name="close_ad">Quitter AD</string>
-  <string name="complete_time">Terminé:</string>
+  <string name="collect_diagnosis_log">Collecter les journaux</string>
+  <string name="complete_time">Terminé :</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">Les %d téléchargements seront supprimés.</string>
   <string name="confirm_delete_the_download_item_message">Supprimer ces téléchargements ?</string>
@@ -86,9 +89,13 @@
   <string name="delete_download">Supprimer</string>
   <string name="delete_downloads_records">Supprimer des téléchargements</string>
   <string name="delete_the_downloaded_file">Les fichiers téléchargés seront supprimés.</string>
-  <string name="deselect_all">Tout déselectionner</string>
-  <string name="deselect_subfile_all">Tout déselectionner</string>
+  <string name="deselect_all">Tout désélectionner</string>
+  <string name="deselect_subfile_all">Tout désélectionner</string>
   <string name="determine">OK</string>
+  <string name="diagnosis_log_send_failed">"L'envoi du journal de diagnostic a échoué."</string>
+  <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
+ID :%s
+Veuillez envoyer ce code au technicien."</string>
   <string name="dialog_btn_cancel">Annuler</string>
   <string name="dialog_btn_ok">OK</string>
   <string name="dialog_btn_ok_disabled_net">Paramètres réseau</string>
@@ -199,12 +206,13 @@
   <string name="file_picker">Choisissez un emplacement</string>
   <string name="file_size">Taille :</string>
   <string name="flow_consume">Traffic</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="for_diagnosis_usage_only">Utilisez cette information uniquement à des fins de diagnostic.</string>
   <string name="force_touch_newdownload">Nouveau téléchargement</string>
   <string name="force_touch_rank">Classements</string>
   <string name="force_touch_search">Rechercher sur le Web</string>
@@ -328,6 +336,7 @@
   <string name="month_september_shortest">Sep</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="net_error">Connectez-vous à internet et réessayez</string>
   <string name="network_error">Impossible de se connecter au réseau</string>
   <string name="new_add">Nouveau téléchargement</string>
@@ -353,6 +362,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="notify_install_guide_title">Installé %s avec succès</string>
   <string name="notify_not_support">Ces notifications ne sont pas gérées, mettez à jour maintenant</string>
   <string name="notify_only_wifi_download">En attente du Wi-Fi</string>
+  <string name="ok">OK</string>
   <string name="one_month">1 mois</string>
   <string name="only_support_torrent">Seuls les fichiers torrent sont pris en charge</string>
   <string name="Only_the_wifi">Utiliser uniquement le Wi-Fi</string>
@@ -366,6 +376,9 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="other">Autre</string>
   <string name="other_filter">Autre</string>
   <string name="package_filter">Packages</string>
+  <string name="passport_oauth_actionbar_title">Compte Mi</string>
+  <string name="passport_oauth_sucess_tip">"Succès de l'authentification"</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="path_no_available">"Ce chemin n'est pas disponible"</string>
   <string name="path_not_available">"Ce chemin n'est pas disponible"</string>
   <string name="pause_download">En pause</string>
@@ -475,6 +488,8 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="select_subfile_all">Tout sélectionner</string>
   <string name="selected_count">Sélectionné %1$d sur %2$d</string>
   <string name="send">Envoyer</string>
+  <string name="send_diagnosis_log">Envoyer le journal de diagnostic</string>
+  <string name="sending">Envoi…</string>
   <string name="setting_close_debug">Désactiver le mode Débogage</string>
   <string name="setting_debug_fail">"Impossible d'entrer en mode Débogage"</string>
   <string name="setting_open_debug">Le mode Débogage est activé. Appuyez 6 fois ici pour le désactiver.</string>
@@ -518,7 +533,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="sniff_sniffing_btn_text">Looking for source…</string>
   <string name="sniff_terms_agree">Accepter</string>
   <string name="sniff_terms_agree_new">Accepter</string>
-  <string name="sniff_terms_check_text">"Accepter les conditions d'utilisation"</string>
+  <string name="sniff_terms_check_text">"Accepter les Conditions d'utilisation"</string>
   <string name="sniff_terms_msg">You should accept \"Terms of Use\" to start using a third party search engine.</string>
   <string name="sniff_terms_msg_a">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it.</string>
   <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree to the Terms, tap the check mark below.</string>
@@ -586,6 +601,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="task_detail_notfound_confirm">OK</string>
   <string name="task_fail">"Impossible de terminer l'opération"</string>
   <string name="terabyteShort">" To"</string>
+  <string name="temporary_not_available">temporairement indisponible</string>
   <string name="test_speed">Test</string>
   <string name="test_speed_detail">Dé"tails</string>
   <string name="test_speed_please">Appuyez pour tester la vitesse…</string>

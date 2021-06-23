@@ -92,6 +92,8 @@
     <string name="expand_button_title">Avancé</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>
+    <string name="nav_app_bar_navigate_up_description">Revenir en arrière</string>
+    <string name="nav_app_bar_open_drawer_description">Ouvrir le panneau de navigation</string>
     <string name="not_set">Non défini</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
     <string name="s1">"Enregistrer l'image"</string>

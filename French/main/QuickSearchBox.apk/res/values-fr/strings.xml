@@ -24,7 +24,7 @@ Pour effacer l’historique de votre navigateur, utilisez les paramètres de ce 
   <string name="common_setting">Paramètres généraux</string>
   <string name="connect_and_retry">Connectez-vous à internet et réessayez.</string>
   <string name="corpus_description_apps">Applications installées</string>
-  <string name="corpus_description_web">Signets</string>
+  <string name="corpus_description_web">Favoris</string>
   <string name="corpus_hint_apps">Rechercher des applications</string>
   <string name="corpus_label_apps">Applications</string>
   <string name="corpus_label_global">Tout</string>
@@ -85,7 +85,7 @@ Vous pouvez changer cela dans les paramètres &gt; Applications installées &gt;
   <string name="search_in_web">Rechercher sur le Web</string>
   <string name="search_keyword_quicksearchbox">Rechercher</string>
   <string name="search_path_quicksearchbox">Paramètres/Applications installées/Recherche</string>
-  <string name="search_settings">Paramètres de recherche</string>
+  <string name="search_settings">Rechercher des paramètres</string>
   <string name="search_sources">Articles consultables</string>
   <string name="search_sources_summary">Choisissez quoi chercher sur le téléphone</string>
   <string name="search_suggestion">Suggestions</string>

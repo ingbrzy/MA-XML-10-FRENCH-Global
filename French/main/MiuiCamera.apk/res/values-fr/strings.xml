@@ -78,9 +78,9 @@
   <string name="accessibility_description_dolly_zoom_button">Zoom magique</string>
   <string name="accessibility_deselect_all">Tout désélectionner</string>
   <string name="accessibility_deselect_all_end">Tout est désélectionné</string>
-  <string name="accessibility_document_blackwhite_button">Numérisation de documents. Noir et blanc.</string>
-  <string name="accessibility_document_origin_button">Numérisation de documents. Originaux.</string>
-  <string name="accessibility_document_strengthen_button">Numérisation de documents. Amélioré.</string>
+  <string name="accessibility_document_blackwhite_button">Scan de documents. Noir et blanc.</string>
+  <string name="accessibility_document_origin_button">Scan de documents. Originaux.</string>
+  <string name="accessibility_document_strengthen_button">Scan de documents. Amélioré.</string>
   <string name="accessibility_double_click_to_exit">Appuyez 2 fois pour quitter</string>
   <string name="accessibility_dual_preview_change">Afficher les modifications</string>
   <string name="accessibility_dual_preview_change_finish">Modifications affichées avec succès</string>
@@ -136,6 +136,7 @@
   <string name="accessibility_mode_dismiss_button">Bouton de sélection du mode de fermeture</string>
   <string name="accessibility_module_picker_finish">Basculé vers %s</string>
   <string name="accessibility_more">Plus</string>
+  <string name="accessibility_multi_cam_reselect_button">Sélectionnez à nouveau les capteurs photos</string>
   <string name="accessibility_open">Activé</string>
   <string name="accessibility_pano_moving_left">"Déplacez l'appareil vers la gauche"</string>
   <string name="accessibility_pano_moving_right">"Déplacez l'appareil vers la droite"</string>
@@ -155,6 +156,7 @@
   <string name="accessibility_preview_selected">Selectionné</string>
   <string name="accessibility_preview_shrink">Zoom arrière</string>
   <string name="accessibility_preview_zoom_tip">Prévisualisation zoom %1$.1fX</string>
+  <string name="accessibility_pro_parameters_panel_on">Ouvrez le menu avec les paramètres PRO</string>
   <string name="accessibility_pro_video_simple_mode">Mode léger</string>
   <string name="accessibility_protrait">Portrait</string>
   <string name="accessibility_pull_down_to_open_camera">"Glissez vers le bas pour ouvrir l'appareil photo"</string>
@@ -337,7 +339,6 @@ et ajustez les préférences automatiquement"</string>
   <string name="ambilight_tips_for_using_tripod">Utilisez un trépied</string>
   <string name="apollo_module_name_pixel">64 MPX</string>
   <string name="apollo_pro_module_name_pixel">108 MPX</string>
-  <string name="app_name">InterfaceProtocol</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="audio_map_summary_tip">"Surveillez le volume des canaux gauche et droit en temps réel et ajustez-le à l'aide du curseur"</string>
   <string name="auto_hibernation_enter_tip">"Extinction de l'écran imminente…"</string>
@@ -454,6 +455,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="clone_too_much_movement_stop">"Vous avez déplacé l'appareil trop loin. Arrêt de la capture pour l'instant."</string>
   <string name="clone_video_mode">Mode vidéo</string>
   <string name="clone_video_mode_start_hint">"Veuillez appuyer sur le déclencheur pour commencer l'enregistrement"</string>
+  <string name="close">Fermer</string>
   <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_night_algo_toast_low_power">"Chargez votre appareil pour pouvoir régler l'exposition"</string>
@@ -509,8 +511,8 @@ et ajustez les préférences automatiquement"</string>
   <string name="config_name_super_resolution">Super définition</string>
   <string name="config_name_tilt">Tilt-shift</string>
   <string name="config_name_timer">Minuteur</string>
-  <string name="confirm_install_scanner_message">"Le scanner vous permet de numériser des QR codes, des codes à barres et plus encore. Vous n'avez pas besoin de vous connecter à internet pour l'installer."</string>
-  <string name="confirm_install_scanner_title">Installer le scanner</string>
+  <string name="confirm_install_scanner_message">"Scanner vous permet de scanner des QR codes, des codes à barres et plus encore. Vous n'avez pas besoin de vous connecter à internet pour l'installer."</string>
+  <string name="confirm_install_scanner_title">Installer Scanner</string>
   <string name="confirm_location_alert">"N'oubliez pas les emplacements de photo"</string>
   <string name="confirm_location_message">"Marquez vos photos et vidéos avec les emplacements où elles ont été prises. D'autres applications peuvent accéder à ces informations avec vos images enregistrées."</string>
   <string name="confirm_location_title">Memoriser la localisation des photos ?</string>
@@ -523,7 +525,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="copy">Copie</string>
   <string name="cta_mimoji_msg">Bienvenue dans Fun Cam ! Vous pouvez utiliser cette application pour prendre des photos et enregistrer des vidéos. Pour pouvoir fonctionner normalement, cette application doit se connecter à Internet et requiert les autorisations suivantes afin de collecter vos informations personnelles :</string>
   <string name="cta_mimoji_perm_type">Autorisations obligatoires (utilisées pour les fonctionnalités et services de base de cette application)</string>
-  <string name="cta_mimoji_user_links"><Data>"Lisez et acceptez notre &lt;a href =%1$s>Accord de l'utilisateur&lt;/a> et notre &lt;a href =%2$s>Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>
+  <string name="cta_mimoji_user_links"><Data>"Lisez et acceptez notre &lt;a href =%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href =%2$s>Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>
   <string name="cta_mimoji_user_tips">"Si vous n'acceptez pas d'accorder les autorisations obligatoires ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Si vous n'accordez pas d'autorisations facultatives, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. Vous pouvez toujours restreindre les autorisations ou retirer votre consentement dans les Paramètres."</string>
   <string name="cta_msg">"Bienvenue dans Appareil photo! Vous pouvez utiliser cette application pour prendre des photos et filmer des vidéos. Cette application doit se connecter à Internet et requiert les autorisations facultatives suivantes:"</string>
   <string name="cta_perm_cam">"Utiliser l'appareil photo"</string>
@@ -536,7 +538,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="cta_perm_voice">Utiliser le microphone</string>
   <string name="cta_perm_voice_desc">"Pour enregistrer de l'audio lors de l'enregistrement de vidéos"</string>
   <string name="cta_user_tips">
-    <Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data>
+    <Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href =%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et notre &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data>
   </string>
   <string name="custom_sound_art">Rétro</string>
   <string name="custom_sound_default">Défaut</string>
@@ -560,6 +562,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
+  <string name="dd_frn_f_t">Repliez votre appareil pour utiliser le capteur photo frontal</string>
   <string name="dialog_google_lens_option_0">Google Lens (recommandé)</string>
   <string name="dialog_button_accept">Accepter</string>
   <string name="dialog_button_back">Retour</string>
@@ -579,15 +582,16 @@ et ajustez les préférences automatiquement"</string>
   <string name="document_blackwhite">Noir et blanc</string>
   <string name="document_blur_warn">Le texte est flou</string>
   <string name="document_mode_use_hint_text_body">"Activez la prise de vue en mode document, la correction intelligente et l'amélioration
-Numérisez des documents en un clic"</string>
+Scannez des documents en un clic"</string>
   <string name="document_mode_use_hint_text_title">Mode document</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
-  <string name="dolly_zoom_capture_tip1">"Placez votre sujet dans le cadre et tenez l'appareil à au moins %d mètres"</string>
-  <string name="dolly_zoom_capture_tip2">"Éloignez régulièrement l'appareil de votre sujet"</string>
+  <string name="dolly_zoom_capture_tip1">Placez votre sujet dans le cadre</string>
+  <string name="dolly_zoom_capture_tip2">"Gardez votre sujet au centre et éloignez régulièrement l'appareil"</string>
   <string name="dolly_zoom_capture_tip3">Perte de trace du sujet. Recommencez.</string>
   <string name="dolly_zoom_capture_tip4">"Vous avez trop éloigné l'appareil. Recommencez."</string>
   <string name="dolly_zoom_capture_tip5">"Impossible d'enregistrer la vidéo"</string>
+  <string name="dolly_zoom_capture_tip6">Déplacez votre sujet au centre du cadre</string>
   <string name="dolly_zoom_guide_tip1">"Assurez-vous qu'il y a suffisamment d'espace entre votre sujet et l'arrière-plan."</string>
   <string name="dolly_zoom_guide_tip10">Et plus !</string>
   <string name="dolly_zoom_guide_tip2">"Essayez d'éviter les grandes zones de couleur unie."</string>
@@ -602,7 +606,7 @@ Numérisez des documents en un clic"</string>
   <string name="dolly_zoom_guide_video_title2">Scènes</string>
   <string name="download_cancel_hint">Annuler le téléchargement %1$s ?</string>
   <string name="download_confirm">Télécharger</string>
-  <string name="download_hint">%1$s Mo des données cellulaires seront utilisées pour télécharger des éléments. Télécharger quand même ?</string>
+  <string name="download_hint">%1$s Mo des données mobiles seront utilisées pour télécharger des éléments. Télécharger quand même ?</string>
   <string name="download_in_progress">Téléchargement…</string>
   <string name="download_title">Avertissement utilisation des données</string>
   <string name="draco_module_name_pixel">108 MPX</string>
@@ -644,8 +648,9 @@ Numérisez des documents en un clic"</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="error_fail_to_start_audio_capture">"Impossible de démarrer la capture audio"</string>
-  <string name="excalibur_module_name_pixel">64 MPX</string>
+  <string name="esp_tip">"Prévisualisation sur l'écran extérieur"</string>
   <string name="evening">Après-midi</string>
+  <string name="excalibur_module_name_pixel">64 MPX</string>
   <string name="expand_button_title">Avancé</string>
   <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
   <string name="eye_light">Éclat des yeux</string>
@@ -695,8 +700,8 @@ Numérisez des documents en un clic"</string>
   <string name="film_video_d">Time-lapse nocturne</string>
   <string name="film_video_e">Monde parallèle</string>
   <string name="film_video_tip">Utilisez un trépied</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -805,8 +810,7 @@ en mode portrait"</string>
   <string name="live_sticker_updating">Mise à jour…</string>
   <string name="live_workspace_title">Brouillons</string>
   <string name="live_workspace_title_edit">Sélectionnez les éléments à supprimer</string>
-  <string name="lmi_module_name_pixel">64 MPX</string>
-  <string name="location_access_allow">Permettre</string>
+  <string name="location_access_allow">Accepter</string>
   <string name="location_permission_des">Mémoriser les emplacements pour les photos et les vidéos</string>
   <string name="location_permission_not_ask_again">"Autoriser l'appareil photo à accéder à votre position dans les paramètres."</string>
   <string name="location_permission_not_ask_again_go_to_settings">Autoriser</string>
@@ -1039,10 +1043,10 @@ regarder plus grand sur les photos"</string>
   <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas dans plusieurs fenêtres"</string>
   <string name="music_hint_tt">Source de services</string>
   <string name="network_access_user_notice_agree">Accepter</string>
-  <string name="network_access_user_notice_message_live_video"><Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_mi_live_video"><Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_sticker"><Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_voice_caption"><Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_live_video"><Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_mi_live_video"><Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data></string>
   <string name="network_access_user_notice_title">Connexion à internet</string>
   <string name="network_connection_failed">Connexion impossible</string>
   <string name="network_connection_ongoing">Connexion…</string>
@@ -1228,13 +1232,13 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
   <string name="pref_camera_dual_enable_title">Activé le double appareil photo</string>
   <string name="pref_camera_dual_sat_enable_title">Activé le double appareil photo SAT</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage pour améliorer la qualité vidéo"</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage ou de haute température pour améliorer la qualité vidéo"</string>
   <string name="pref_camera_dynamic_frame_rate_title">"Ajuster la fréquence d'images à une faible luminosité"</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Off</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
   <string name="pref_camera_eis_title">EIS</string>
-  <string name="pref_camera_esp">preview</string>
+  <string name="pref_camera_esp">"Prévisualisation sur l'affichage arrière"</string>
   <string name="pref_camera_face_info_watermark_title">"Ajouter un timbre d'âge sur les photos"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
   <string name="pref_camera_facedetection_title">Détection faciale</string>
@@ -1387,11 +1391,13 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallèle</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-  <string name="pref_camera_tip_doc">Scanneur de document</string>
-  <string name="pref_camera_tip_id_card">"Scanneur de pièce d'identité"</string>
+  <string name="pref_camera_tip_doc">Scanner de document</string>
+  <string name="pref_camera_tip_id_card">"Scanner de pièce d'identité"</string>
   <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
+  <string name="pref_camera_track_focus_preferred_description">"Activez pour faire automatiquement la mise au point sur les personnes et les animaux. Vous pourrez également sélectionner des sujets à suivre manuellement."</string>
+  <string name="pref_camera_track_focus_preferred_title">Suivi de la mise au point</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion lors de prises de vue ultra larges</string>
@@ -1496,7 +1502,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>
   <string name="pref_retain_camera_mode_title">Conserver le mode précédent</string>
   <string name="pref_s_n_r_s_c">Réduisez le bruit dans les vidéos en fonction de la scène</string>
-  <string name="pref_scan_qrcode_summary">"Seul l'appareil photo arrière peut numériser les QR codes en mode \"Photo\"."</string>
+  <string name="pref_scan_qrcode_summary">"Seul l'appareil photo arrière peut scanner les QR codes en mode \"Photo\"."</string>
   <string name="pref_scan_qrcode_title">Scanner les QR codes</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="pref_simple_hdr_entry_off">Désactivé</string>
@@ -1564,11 +1570,15 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="prek_b_j_o">Recréez un effet surround stéréo</string>
   <string name="prek_b_j_p">"Réduit l'impact du vent sur l'enregistrement sonore"</string>
   <string name="prep_video_ai_audio_new_desc_tip">Les sons du sujet visé sont améliorés</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Les sons du sujet visé sont améliorés en mode paysage</string>
   <string name="prep_video_ai_audio_single_desc_tip">"Les sons de l'arrière de l'écran sont filtrés"</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">"Les sons de l'arrière de l'écran sont filtrés en mode paysage"</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Le zoom audio ne fonctionne pas avec un moniteur intra-auriculaire en direct et le micro externe"</string>
   <string name="preparing_sd">Vérification carte SD…</string>
   <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
   <string name="pro_color_mode">Couleur pro</string>
+  <string name="process_tips_1">"Ne repliez pas l'appareil tant que la vidéo n'est pas enregistrée"</string>
+  <string name="process_tips_2">"Ne dépliez pas l'appareil tant que la vidéo n'est pas enregistrée"</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="recommend_macro_mode">Essayez le mode macro</string>
   <string name="recommend_portrait">Essayez le mode portrait</string>
@@ -1601,6 +1611,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="search_menu_title">Recherche</string>
   <string name="search_settings">"Paramètres appareil photo;Qualité;Qualité de l'image;Localisation de l'image;Détection de visage;Son de l'appareil photo"</string>
   <string name="see_qrcode_detals">Afficher les détails du QR code</string>
+  <string name="send">Envoyer</string>
   <string name="settings_camera_detect_card_description">"Afficher un raccourci chaque fois que l'appareil photo AI détecte une carte d'identité"</string>
   <string name="settings_camera_detect_description_doc">"Afficher un raccourci chaque fois que l'appareil photo AI détecte un document ou une diapositive de présentation"</string>
   <string name="settings_camera_near_range_description">Élimine le flou lors de la mise au point sur des surfaces planes très proches</string>
@@ -1809,8 +1820,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="user_define_watermark_cancel">Annuler</string>
   <string name="user_define_watermark_save">Enregistrer</string>
   <string name="user_disagree">Je refuse</string>
-  <string name="user_notice_identify_summary_format">"Avant d'utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Vous acceptez ?"</string>
-  <string name="user_notice_title">Termes et conditions</string>
+  <string name="user_notice_identify_summary_format">"Avant d'utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord d'utilisation&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Vous acceptez ?"</string>
+  <string name="user_notice_title">Termes et Conditions</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="video_beauty_tip">Embellir les vidéos</string>

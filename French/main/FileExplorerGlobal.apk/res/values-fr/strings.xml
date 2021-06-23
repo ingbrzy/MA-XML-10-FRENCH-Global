@@ -81,7 +81,7 @@
     <string name="category_file">Fichiers</string>
     <string name="category_folder">Dossiers</string>
     <string name="category_installed_app">Applications installées</string>
-    <string name="category_midrive">MiDrive</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">"Vous pouvez déplacer de 3 à 7 éléments dans la partie supérieure de l'écran"</string>
     <string name="category_music">Musique</string>
     <string name="category_other">Autres</string>
@@ -167,6 +167,7 @@
     <string name="display_name">Afficher le nom</string>
     <string name="domain">Domaine</string>
     <string name="download_success">Téléchargé avec succès</string>
+    <string name="empty_by_forbid_access">"Le contenu de ce dossier ne peut pas être affiché ici en raison des restrictions d'Android 11."</string>
     <string name="enable_documentsui">"Activer d'abord %s dans Paramètres > Applications installées"</string>
     <string name="enable_sd_card">Insérez une carte SD ou désactivez la fonction USB mass storage.</string>
     <string name="enable_usb">Connecter un appareil en USB</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">Impossible de créer le dossier</string>
     <string name="error_create_file">Impossible de créer le fichier</string>
     <string name="error_delete_failed">Impossible de supprimer le fichier</string>
+    <string name="error_file_already_exists">Ce fichier existe déjà.</string>
     <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
     <string name="error_folder_already_exists">Ce fichier existe déjà</string>
     <string name="error_info_cant_send_folder">"Impossible d'envoyer les dossiers."</string>
@@ -238,6 +240,7 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="favorite_photo">Photos</string>
     <string name="favorite_ringtone">Sonneries</string>
     <string name="favorite_screen_cap">"Captures d'écran"</string>
+    <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="feedback_desc">Décrivez le problème que vous avez rencontré</string>
     <string name="feedback_send_email_body_extra_info">Ne supprimez pas les informations suivantes. Elles nous aident à localiser le problème.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="homepage_tab_recent">Récent</string>
     <string name="host">Hôte</string>
     <string name="hot_sticker">Autocollants</string>
+    <string name="ic_remove_desc">"Gestionnaire de fichiers est une application système qui vous permet d'afficher et de gérer des fichiers sur votre appareil. Supprimer quand même ?"</string>
+    <string name="ic_remove_title">"Supprimer «Gestionnaire de fichiers» de l'écran d'accueil ?"</string>
     <string name="if_cancel">Annuler cette opération ?</string>
     <string name="image_loading_error">Impossible de charger cette image</string>
     <string name="implicit">Implicite</string>
@@ -280,7 +285,7 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="info_system">Système :</string>
     <string name="info_system_version">Version du système :</string>
     <string name="invalid_name_or_password">Identifiant ou mot de passe incorrect</string>
-    <string name="just_now">"à l'instant"</string>
+    <string name="just_now">"À l'instant"</string>
     <string name="kilobyteShort">Ko</string>
     <string name="list_order">Affichage liste</string>
     <string name="load_more">Afficher plus</string>
@@ -297,6 +302,7 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="menu_item_deep_clean">Nettoyage en profondeur</string>
     <string name="menu_item_ftp">"Se connecter à l'ordinateur"</string>
     <string name="menu_item_midrop">Transférer des fichiers</string>
+    <string name="menu_item_midrop_desc">"Plus d'applications"</string>
     <string name="menu_item_router">Routeur</string>
     <string name="menu_item_sort">Trier par</string>
     <string name="menu_item_sort_add_time">Créé</string>
@@ -339,6 +345,13 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="notif_server_starting">Démarrage du serveur FTP…</string>
     <string name="notif_title">"Serveur FTP en cours d'exécution"</string>
     <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
+    <string name="offline_notification_text">"Appuyez pour ouvrir l'annonce"</string>
+    <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous n'aviez pas accès à Internet"</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vous recevrez une notification contenant le lien lorsque vous serez à nouveau connecté à Internet</string>
+    <string name="offline_opt_in_decline">Non, merci</string>
+    <string name="offline_opt_in_message">"Nous vous enverrons une notification contenant un lien vers le site de l'annonceur."</string>
+    <string name="offline_opt_in_title">"Ouvrez l'annonce lorsque vous serez à nouveau connecté à Internet."</string>
     <string name="ok">OK</string>
     <string name="online_not_support">Impossible de voir ce fichier en ligne pour le moment.</string>
     <string name="open">Ouvrir</string>
@@ -417,7 +430,12 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="port_range">Le numéro de port doit être compris entre 1024 - 65535</string>
     <string name="possible_permissions">Autorisations optionnelles</string>
     <string name="privacy_accept">Accepter &amp; continuer</string>
-    <string name="privacy_message">"Avant d'utiliser le Gestionnaire de fichiers, vous devez accepté notre &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">Accord Utilisateur&lt;/a>&lt;/font> et &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">Politique de Confidentialité&lt;/a>&lt;/font>."</string>
+    <string name="privacy_cancel"><u>Refuser</u></string>
+    <string name="privacy_desc">Bienvenue dans Le Gestionnaire de fichiers! Outre les fonctionnalités de base, cette application fournit également les services suivants:</string>
+    <string name="privacy_experience_statement">"Rejoignez notre programme d'expérience utilisateur pour partager les données utilisateur avec nous afin de nous aider à améliorer nos produits et services."</string>
+    <string name="privacy_item1">Catégorisation des éléments récemment utilisés</string>
+    <string name="privacy_item2">Affichage et modification de fichiers</string>
+    <string name="privacy_message">"&lt;Data>Le Gestionnaire de fichiers doit collecter les informations personnelles nécessaires pour vous fournir les services de base qui génèrent des statistiques d'utilisation. Vous pouvez découvrir comment nous traitons les informations que nous recueillons dans notre &lt;a href=\"%1$s\">Politique de Confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord Utilisateur&lt;/a> et notre &lt;a href=\"%1$s\">Politique de Confidentialité &lt;/a> avant d'utiliser le Gestionnaire de fichiers. Vous pouvez à tout moment retirer votre consentement à la politique de confidentialité du gestionnaire de fichiers dans les paramètres. Si vous n'acceptez pas d'utiliser les services susmentionnés, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. &lt;/Data>"</string>
     <string name="privacy_title">Bienvenue dans le Gestionnaire de fichiers</string>
     <string name="private_files">Privé</string>
     <string name="private_folder">Fichiers privés</string>
@@ -430,7 +448,7 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="recommended_content">Recommandations</string>
     <string name="remind_no_notice">Se souvenir de mon choix</string>
     <string name="rename_alert">"Si vous changez cette extension de fichier, vous ne pourrez plus l'ouvrir."</string>
-    <string name="rename_alert2">Le fichier sera masqué une fois que vous modifierez son extension.</string>
+    <string name="rename_alert2">Fichiers dont le nom commence par «. » sont automatiquement masqués par le système. Utiliser ce nom quand même ?</string>
     <string name="rename_failed">Impossible de renommer %1$s</string>
     <string name="repair_done">Restauration réussie</string>
     <string name="repair_error">Impossible de restaurer. Réessayez.</string>
@@ -440,9 +458,16 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="restoring">Restauration en cours…</string>
     <string name="revoke">Révoquer</string>
     <string name="revoke_authorization">"Révoquer l'autorisation"</string>
+    <string name="revoke_confirm_dialog_cancel">Annuler</string>
+    <string name="revoke_confirm_dialog_content">"En désactivant le commutateur, vous retirez votre consentement à la Politique de Confidentialité de L'agenda. Nous cesserons de collecter vos informations personnelles. Les données personnelles déjà collectées et conservées seront supprimées dans un délai spécifique tel que requis par les lois applicables. L'agenda doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à sa Politique de Confidentialité sera considéré comme un refus d'accepter ses services sur la base des données personnelles collectées."</string>
+    <string name="revoke_desc">En désactivant le commutateur, vous retirez votre consentement à la Politique de Confidentialité du Gestionnaire de fichiers.</string>
+    <string name="revoke_net_dialog_content">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="revoke_net_dialog_ok">"C'est compris"</string>
+    <string name="revoke_net_dialog_title">Impossible de se connecter au réseau</string>
     <string name="revoke_success">Autorisation révoquée avec succès</string>
     <string name="revoke_timer">(%1$ds)</string>
     <string name="revoke_tips">"Après avoir révoqué l'autorisation, le Gestionnaire de fichiers cessera de collecter des données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre le Gestionnaire de fichiers pratiquement inutilisable. Révoquer l'autorisation quand même?"</string>
+    <string name="revoke_title">Retrait du consentement</string>
     <string name="revoking">"Révocation de l'autorisation en cours…"</string>
     <string name="rlv_last_refreshing_time">Mis à jour %1$s</string>
     <string name="rlv_loading_more">Juste un instant…</string>
@@ -522,6 +547,7 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="time_pm">PM</string>
     <string name="time_to_upgrade">Une mise à jour est disponible</string>
     <string name="tip">Attention</string>
+    <string name="tips_by_forbid_access">Le contenu de ce dossier ne sera plus accessible en raison des restrictions système introduites dans Android R. Supprimez vos fichiers personnels de ce dossier dès que possible.</string>
     <string name="title_app_tags">Applications</string>
     <string name="title_enable_documentsui">Activer Documents UI</string>
     <string name="title_expire_video">À expiration</string>
@@ -541,12 +567,15 @@ Appuyez sur un dossier, maintenez-le enfoncé et appuyez sur \"Plus\" pour ajout
     <string name="update_use_mobile_data">Mettre à jour automatiquement avec les données mobiles</string>
     <string name="usb_has_removed">Le périphérique USB a été supprimé</string>
     <string name="used">Utilisé</string>
+    <string name="user_experience_desc">Partagez les données des utilisateurs avec nous pour nous aider à améliorer nos produits et services</string>
+    <string name="user_experience_title">"Programme d'expérience utilisateur"</string>
     <string name="user_not_login">"Connectez-vous d'abord"</string>
     <string name="user_notice_privacy_policy">Politique de Confidentialité</string>
     <string name="user_notice_term_of_service">Accord Utilisateur</string>
     <string name="utf8_summary">Encodage par défaut du système FTP</string>
     <string name="version_name">Version</string>
     <string name="video_replay_btn">Rejouer</string>
+    <string name="view_by_document">Afficher dans Fichiers</string>
     <string name="wechat_video">Vidéo à %s</string>
     <string name="wifi_state">Statut de la connexion Wi-Fi</string>
     <string name="year_month_day_format">dd MMM yyyy</string>

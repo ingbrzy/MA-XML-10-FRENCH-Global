@@ -34,7 +34,7 @@
   <string name="ag">Version %s</string>
   <string name="app_name">Mi Drop</string>
   <string name="ai">Mise à jour automatique</string>
-  <string name="aj">"L'utilisation de données cellulaires pour mettre à jour des applications automatiquement peut entraîner des frais supplémentaires"</string>
+  <string name="aj">"L'utilisation de données mobiles pour mettre à jour des applications automatiquement peut entraîner des frais supplémentaires"</string>
   <string name="ak">Mise à jour en arrière-plan…</string>
   <string name="al">Chinois traditionnel</string>
   <string name="am">BIG5</string>
@@ -308,7 +308,7 @@ Vérifiez les paramètres réseau et réessayez."</string>
   <string name="i4">Réessayer</string>
   <string name="i5">"Mi Drop a besoin d'un peu plus d'autorisations pour fonctionner correctement."</string>
   <string name="i6">"Appuyez sur la photo de profil d'autres personnes pour vous connecter"</string>
-  <string name="i7">Numérisez ce QR code pour télécharger Mi Drop depuis Google Play</string>
+  <string name="i7">Scannez ce QR code pour télécharger Mi Drop depuis Google Play</string>
   <string name="i8">Autoriser</string>
   <string name="i9">"L'autre appareil supporte les transferts rapides"</string>
   <string name="i_">"Demandez à l'autre personne d'appuyer sur \"Recevoir\" et attendre jusqu'à ce que vos appareils soient connectés."</string>

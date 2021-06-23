@@ -67,7 +67,9 @@
   <string name="add_data_source_support_step">"Cet appareil ne génère pas de données de nombre de pas. Vous pouvez essayer de passer à d'autres sources de données."</string>
   <string name="add_data_type_datasource">Ajouter source de données (%1$s)</string>
   <string name="add_model_card">"Appuyez sur le bouton dans le coin supérieur gauche
-    ajouter des cartes"</string>
+pour ajouter des cartes"</string>
+  <string name="add_model_card2">"Appuyez sur le bouton ci-dessus pour ajouter des cartes.
+Vous pourrez suivre vos entraînements et votre activité."</string>
   <string name="add_owned_device">Appareils disponibles</string>
   <string name="add_record">Ajouter</string>
   <string name="added_data_source">Sources ajoutées</string>
@@ -93,7 +95,7 @@ Pour vous fournir des recommandations, nous partagerons vos données de santé a
 Nous rendrons anonymes ces éléments avant de les partager afin d'empêcher les fournisseurs de services tiers de vous identifier personnellement sur la base des données qu'ils reçoivent.
 
 Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours utiliser les entraînements réguliers."</string>
-  <string name="auth_dialog_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Accord de l'utilisateur&lt;/a>&lt;/font> et notre &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politique de confidentialité&lt;/a>&lt;/font>."</string>
+  <string name="auth_dialog_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Accord d'utilisation&lt;/a>&lt;/font> et notre &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politique de confidentialité&lt;/a>&lt;/font>."</string>
   <string name="auth_dialog_title">Cours recommandés</string>
   <string name="auto_start_fail">"Impossible d'accorder les permissions"</string>
   <string name="auto_start_success">Permission accordée avec succès</string>
@@ -247,12 +249,12 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
   <string name="date_format_m_d_h_m">dd/MM HH:mm</string>
-  <string name="date_format_mm_dd">dd MMM</string>
+  <string name="date_format_mm_dd">d MMM</string>
   <string name="date_format_mm_dd_2">dd/MM</string>
   <string name="date_format_y_m_d">dd/MM/yyyy</string>
-  <string name="date_format_y_m_d_2">dd MMM, yyyy</string>
+  <string name="date_format_y_m_d_2">d MMM, yyyy</string>
   <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
-  <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
+  <string name="date_format_y_m_d_h_m_2">d MMM, yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_3">dd/MM/yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_4">dd/MM/yyyy HH:mm:ss</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
@@ -327,12 +329,13 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_delete_record_confirm">Supprimer cet enregistrement ?</string>
   <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_exit">Quitter</string>
+  <string name="dialog_exit_use">Quitter</string>
   <string name="dialog_feedback_content">"Si vous refusez d'accorder ces permissions, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles . Vous pouvez restreindre ou révoquer les permissions dans les Réglages."</string>
   <string name="dialog_feedback_purpose">Mi Santé doit accéder au stockage afin de soumettre des commentaires.</string>
   <string name="dialog_feedback_purpose2">Pour envoyer vos commentaires</string>
   <string name="dialog_feedback_title">Commentaires</string>
   <string name="dialog_health_applicator">Mi Santé fournit actuellement des services uniquement aux adultes.</string>
-  <string name="dialog_juveniles_details">"Selon notre politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
+  <string name="dialog_juveniles_details">"Selon notre Politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_juveniles_link">"Selon nos &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">Compris</string>
@@ -344,7 +347,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_permission_loading_msg">Vérification…</string>
   <string name="dialog_permission_title">Permissions requises</string>
   <string name="dialog_privacy_policy_statement">Déclaration de confidentialité</string>
-  <string name="dialog_privacy_title">Termes et conditions</string>
+  <string name="dialog_privacy_title">Termes et Conditions</string>
   <string name="dialog_read_phone_perm_desc">"Pour identifier les fonctionnalités de l'appareil en utilisant OAID ou Android ID"</string>
   <string name="dialog_reject">Refuser</string>
   <string name="dialog_request_network">Autorisez cette application à se connecter à Internet.</string>
@@ -358,6 +361,8 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="diastolic_pressure">Diastolique</string>
   <string name="disable">Désactivé</string>
   <string name="discard_update">Non merci</string>
+  <string name="download_apk">Téléchargement de %s…</string>
+  <string name="download_background">Télécharger</string>
   <string name="drag_sort">Réorganiser</string>
   <string name="dream_talk">Discussion %1$s</string>
   <string name="dream_talk_record">Vous avez parlé durant votre sommeil et nous vous avons enregistré</string>
@@ -469,13 +474,13 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="finish_stand">finish stand</string>
   <string name="finish_stand2">Standing up</string>
   <string name="finished_rate">Terminé %1$d%%</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd-M</string>
   <string name="fmt_date_numeric_year_month">MM-yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd-M-yyyy</string>
-  <string name="fmt_date_short_month_day">dd MMM</string>
-  <string name="fmt_date_short_year_month_day">dd MMM, yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="for_diagnosis_usage_only">Utilisez ces informations pour le diagnostic uniquement.</string>
   <string name="free_training">Entraînement Freestyle</string>
   <string name="freestyle">Freestyle</string>
@@ -566,7 +571,7 @@ Attendez que le cercle devienne rouge."</string>
   <string name="hr_detect_state_reseting_desc">Au réveil ou complètement détendu</string>
   <string name="hr_disable_in_split_screen">"Impossible de mesurer la fréquence cardiaque lors de l'utilisation de l'écran divisé"</string>
   <string name="hr_disturb_detect">Détection interrompue</string>
-  <string name="hr_finger_permission_desc">"Pour mesurer votre fréquence cardiaque, cette fonction doit accéder au lecteur d'empreinte digitale pour pouvoir détecter les changements dans votre flux sanguin. Autoriser ?"</string>
+  <string name="hr_finger_permission_desc">"Pour mesurer votre fréquence cardiaque, cette fonction doit accéder au lecteur d'empreintes digitales pour pouvoir détecter les changements dans votre flux sanguin. Autoriser ?"</string>
   <string name="hr_fp_area">"Capteur d'empreinte digitale"</string>
   <string name="hr_fp_detect_desc">"Le sang coule vers vos doigts à chaque battement de cœur. Une lumière vive dans la zone du lecteur d'empreintes digitales sous l'écran nous permet de suivre les changements de votre flux sanguin, d'analyser les schémas et de les convertir en valeurs de fréquence cardiaque."</string>
   <string name="hr_fp_detect_principle_desc">"Le sang n'est pas complètement opaque; par conséquent, la lumière peut le traverser. À chaque battement de cœur, le sang coule vers vos doigts, bloquant plus de lumière qu'entre les battements de cœur. Une lumière vive dans la zone du lecteur d'empreintes digitales sous l'écran nous permet de suivre les changements de votre flux sanguin, d'analyser les schémas et de les convertir en valeurs de fréquence cardiaque."</string>
@@ -883,10 +888,10 @@ Recommencer."</string>
   <string name="more_questions">Plus</string>
   <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+  <string name="mtrl_picker_date_format">d MMM, yyyy</string>
   <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
   <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
-  <string name="mtrl_picker_range_header_title">Sélectionnez une plage de dates</string>
+  <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
   <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
   <string name="muscle_rate">Muscle</string>
   <string name="muscle_rate_descripe_content">"Le pourcentage musculaire est calculé en fonction de la masse musculaire, du poids corporel et de la taille, etc. Il est utile pour déterminer votre santé et votre force. L'exercice régulier est essentiel pour maintenir une bonne quantité de muscle dans votre corps."</string>
@@ -1083,7 +1088,7 @@ Recommencer."</string>
   <string name="select_swim_posture">Select style</string>
   <string name="select_target">Select Target</string>
   <string name="send">Envoyer</string>
-  <string name="send_diagnosis_log">Envoyer un journal de diagnostic</string>
+  <string name="send_diagnosis_log">Envoyer les journaux</string>
   <string name="sending">Envoi en cours…</string>
   <string name="set_emergency_contact">"Contact en cas d'urgence"</string>
   <string name="setting">Paramètres</string>
@@ -1573,7 +1578,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_weight_no_record">Aucune pesée</string>
   <string name="tb_weight_pre_time">Pesée précédente</string>
   <string name="tb_weight_result">Résultat estimé: %s</string>
-  <string name="temporary_not_available">temporairement indisponible</string>
+  <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
   <string name="test">Par défaut 360ppp</string>
   <string name="text_edit_exercise_goal">"Modifier l'objectif"</string>
   <string name="text_save_exercise_goal">Effectué</string>
@@ -1696,7 +1701,7 @@ Mettre à jour maintenant ?"</string>
   <string name="update_notify_no_update_log">Rien encore ici.</string>
   <string name="upgrade_suggestion">Mettez à jour Xiaomi Santé avec la dernière version et réessayez.</string>
   <string name="user_age_unit">ans</string>
-  <string name="user_agreement">Accord utilisateur</string>
+  <string name="user_agreement">"Accord d'utilisation"</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_center">"Centre de l'utilisateur"</string>
   <string name="user_invalid_value">--</string>

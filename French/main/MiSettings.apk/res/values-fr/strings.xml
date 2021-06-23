@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="adaptive_fps_tip">2. Obtenez le meilleur équilibre entre douceur et durée de vie de la batterie en ajustant dynamiquement le taux de rafraîchissement.</string>
+  <string name="adaptive_fps_tip">- Obtenez le meilleur équilibre entre douceur et durée de vie de la batterie en ajustant dynamiquement le taux de rafraîchissement.</string>
   <string name="advanced_mode">Paramètres additionnels</string>
   <string name="africa_introduction">"La faune prospère en Afrique, qui abrite de nombreux animaux parmi les plus célèbres du monde."</string>
   <string name="african_bush_elephant">Éléphant de brousse africaine</string>
@@ -61,6 +61,8 @@
   <string name="atarctic_shag">Cormoran antarctique</string>
   <string name="australia_introduction">Le continent australien est un paradis pour les espèces endémiques rares.</string>
   <string name="australian_magpie">Cassican flûteur</string>
+  <string name="authorization_btn_text">Démarrer</string>
+  <string name="authorization_tips">Autorisations requises</string>
   <string name="baboon_info">Le babouin olive vit en groupes avec un classement social développé en fonction de la domination de chaque individu.</string>
   <string name="back">Retour</string>
   <string name="bear_info">"Les ours sont les plus grands carnivores terrestres. Ils vivent dans des régions froides et sont connus pour leur sens aigu de l'odorat."</string>
@@ -211,12 +213,12 @@
   <string name="exo_track_unknown">Inconnu</string>
   <string name="expand_button_title">Avancé</string>
   <string name="first_unlock_time">Premier déverrouillage : </string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="focus_mode_custom_time">Custom duration</string>
   <string name="focus_mode_timer_add_limit">"Vous pouvez ajouter jusqu'à %d minuteries personnalisées"</string>
@@ -232,7 +234,7 @@
   <string name="fps_smooth_title">Élevé</string>
   <string name="fps_standard_summary">Un taux de rafraîchissement standard économise la batterie</string>
   <string name="fps_standard_title">Standard</string>
-  <string name="fps_user_tip">1. Ces animations de démonstrations sont jouées à vitesse faible en tant que référence. La performance réelle peut apparaître différente à cause de différents facteurs.</string>
+  <string name="fps_user_tip">- Ces animations de démonstrations sont jouées à vitesse faible en tant que référence. La performance réelle peut apparaître différente à cause de différents facteurs.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -423,8 +425,8 @@
   <string name="plains_zebra">Zèbre</string>
   <string name="platpus_info">"L'ornithorynque est un sujet important dans l'étude de la biologie évolutive. C'est aussi l'une des rares espèces de mammifères venimeux."</string>
   <string name="platypus">Ornithorynque</string>
-  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
-  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
+  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
   <string name="polar_bear">Ours polaire</string>
   <string name="pomarine_jaeger">Labbe pomarin</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -471,6 +473,7 @@
   <string name="search_empty">Aucune applications trouvées</string>
   <string name="search_menu_title">Recherche</string>
   <string name="send">Envoyer</string>
+  <string name="service_ringtone_title">Sonnerie de service</string>
   <string name="several_days_use_time">"Temps d'utilisation: %2$s"</string>
   <string name="short_eared_owl">hibou des marais</string>
   <string name="shortcut_created">Ce raccourci existe déjà</string>
@@ -661,10 +664,10 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_home_premission_main_summary_new_o">"Bienvenue à Screen Time !
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran : le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles :"</string>
-  <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
-  <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran &gt; Paramètres &gt; Désactiver le temps d'écran."</string>
-  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;"Avant d'utiliser cette application, vous devez lire et accepter notre &amp;lt;a href='%1s'&amp;gt;Accord utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
-  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations &gt; Paramètres &gt; Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
+  <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur."</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran &gt; Paramètres &gt; Désactiver le temps d'écran."</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;"Avant d'utiliser cette application, vous devez lire et accepter notre &amp;lt;a href='%1s'&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations &gt; Paramètres &gt; Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_new_home_app_limit_summary">"Définir une limite quotidienne de temps d'écran pour cette application"</string>
   <string name="usage_new_home_app_limit_title">"Limiter le temps d'écran"</string>
   <string name="usage_new_home_average">"Moy. "</string>
@@ -709,7 +712,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_optional_title">Permissions optionnelles</string>
   <string name="usage_permisison_agree_desc_o">"Pour vous fournir des statistiques de temps d'écran, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications ainsi que la durée d'utilisation correspondante."</string>
   <string name="usage_permisison_agree_desc_p">"Pour vous fournir les statistiques de temps d'écran et de mode de mise au point, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications avec la durée d'utilisation correspondante, le nombre de fois où votre écran s'allume, et les paramètres du mode de mise au point."</string>
-  <string name="usage_permission_double_link" formatted="false"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href='%1s'&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="usage_permission_double_link" formatted="false"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href='%1s'&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
   <string name="usage_permission_main_desc">"Bienvenue à Temps d'écran !
 Cette application doit se connecter à Internet et requiert les autorisations suivantes pour pouvoir fonctionner normalement :"</string>
   <string name="usage_permission_title">Attention</string>
@@ -723,7 +726,7 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_runtime_summary">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
   <string name="usage_runtime_title">Permissions obligatoires</string>
   <string name="usage_special_feature">Particularités</string>
-  <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
+  <string name="usage_state_accurate_date">d MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
   <string name="usage_state_add_up_days">Jours</string>
   <string name="usage_state_add_up_time">Temps total</string>

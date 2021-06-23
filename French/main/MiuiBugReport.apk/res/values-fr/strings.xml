@@ -27,32 +27,32 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="account_bind_secure_email_title">Ajouter e-mail de secours</string>
-    <string name="account_bind_secure_phone_title">Ajouter téléphone de secours</string>
-    <string name="account_crop_user_avatar">Rogner la photo</string>
+    <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
+    <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
+    <string name="account_crop_user_avatar">Recadrer la photo</string>
     <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
-    <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir d'espaces"</string>
-    <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir &lt;, &gt;, ou /"</string>
+    <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
+    <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
     <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
-    <string name="account_error_user_birthday">La date de naissance est invalide</string>
+    <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
     <string name="account_error_user_name">Ce surnom est invalide. Essayez-en un autre.</string>
     <string name="account_invalid_user_avatar">Cette photo est invalide. Essayez-en une autre.</string>
-    <string name="account_limit_update_birthday">Impossible de mettre à jour la date de naissance pour le moment</string>
+    <string name="account_limit_update_birthday">Impossible de mettre à jour votre date de naissance pour le moment</string>
     <string name="account_no_set">Aucun</string>
     <string name="account_none_bind_info">Aucune</string>
     <string name="account_none_user_name">Aucun</string>
     <string name="account_secure_info_pref_title">Informations du compte</string>
     <string name="account_security_info_pref_title">Informations de sécurité</string>
-    <string name="account_user_avatar">Profil photo</string>
+    <string name="account_user_avatar">Photo du profil</string>
     <string name="account_user_avatar_from_album">Galerie</string>
-    <string name="account_user_avatar_from_camera">Appareil photo</string>
+    <string name="account_user_avatar_from_camera">Prendre une photo</string>
     <string name="account_user_base_info">Informations de base</string>
     <string name="account_user_birthday">Date de naissance</string>
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID Compte Mi</string>
+    <string name="account_user_id">ID du Compte Mi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">Entrez un surnom</string>
     <string name="account_user_other_info">Détails</string>
@@ -61,9 +61,9 @@
     <string name="action_add_phone">Ajouter numéro de téléphone</string>
     <string name="action_cancel">Annuler</string>
     <string name="action_submit">Envoyer</string>
-    <string name="action_update_phone">Modifier numéro de téléphone</string>
+    <string name="action_update_phone">Modifier le numéro de téléphone</string>
     <string name="actionbar_button_up_description">Retour</string>
-    <string name="activate_email_notice">Activez votre compte dans les prochaines 24 heures</string>
+    <string name="activate_email_notice">Veillez à activer votre compte dans les 24 heures</string>
     <string name="activity_not_found_notice">Application introuvable</string>
     <string name="add_to_trust_device">"Il s'agit d'un appareil sécurisé"</string>
     <string name="afternoon">Après-midi</string>
@@ -75,7 +75,7 @@
     <string name="bind_sign_in_title">Ajouter Compte Mi</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Accord utilisateur&lt;/a&gt;."</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Accord d'utilisation&lt;/a&gt;."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Appuyez pour afficher.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
@@ -88,6 +88,7 @@
     <string name="catch_full_log_add_original_photo">Ajouter une image originale ou une vidéo courte</string>
     <string name="catch_full_log_add_photo">Ajouter une photo</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant?"</string>
+    <string name="catch_full_log_category">Catégorie</string>
     <string name="catch_full_log_dialog_confirm_text">"Aller à l'écran d'accueil"</string>
     <string name="catch_full_log_dialog_content">MIUI génère un journal. Cela pourrait affecter la performance globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
     <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
@@ -102,7 +103,7 @@
     <string name="catch_full_log_item_title_dump_heap">Décalage</string>
     <string name="catch_full_log_item_title_gps">Services de localisation</string>
     <string name="catch_full_log_item_title_sensor">Capteurs</string>
-    <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux cellulaires</string>
+    <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux mobiles</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi et ShareMe</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
@@ -117,7 +118,7 @@
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="close_feedback_main">Masquer</string>
-    <string name="collect_diagnosis_log">Récupérer les journaux</string>
+    <string name="collect_diagnosis_log">Collecter les journaux</string>
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
@@ -175,7 +176,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_choose_app_tag">Sélectionner un problème</string>
     <string name="feedback_choose_module">Sélectionner un élément</string>
     <string name="feedback_choose_module_hint">Requis</string>
-    <string name="feedback_choose_occurrence_time">Temps</string>
+    <string name="feedback_choose_occurrence_time">Heure</string>
     <string name="feedback_choose_reproductivity">Reproductivité</string>
     <string name="feedback_choose_third_app_name">"Sélectionner le nom de l'application"</string>
     <string name="feedback_collect_log_failed">"Impossible d'obtenir les journaux"</string>
@@ -183,10 +184,10 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_continue">Envoyer votre retour</string>
     <string name="feedback_delete_images">Supprimer des messages</string>
     <string name="feedback_description">Description</string>
-    <string name="feedback_description_hint">"Describe the issue you've encountered here.
-%1$d. In what app or on what page have you encountered the issue?
-%2$d. After what actions that you performed did the issue appear?
-%3$d. Give us the additional information that might help us fix the issue."</string>
+    <string name="feedback_description_hint">"Décrivez ici le problème que vous avez rencontré.
+%1$d. Dans quelle application ou sur quelle page avez-vous rencontré le problème ?
+%2$d. Après quelles actions, que vous avez effectuées, le problème est-il survenu ?
+%3$d. Donnez-nous des informations supplémentaires qui pourraient nous aider à résoudre le problème."</string>
     <string name="feedback_description_hint_suggestion">"Dites-nous comment vous souhaitez améliorer MIUI."</string>
     <string name="feedback_description_suggest_hint">"J'aimerais ajouter une nouvelle fonctionnalité () parce que je voudrais ()."</string>
     <string name="feedback_detail_copy_toast">Copié dans le presse-papiers</string>
@@ -218,7 +219,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_reproductivity_occasionally">Occasionnellement</string>
     <string name="feedback_reproductivity_often">Souvent</string>
     <string name="feedback_reproductivity_once">Une fois</string>
-    <string name="feedback_select_images">Ajouter une image ou une vidéo courte</string>
+    <string name="feedback_select_images">Ajouter une image ou une courte vidéo</string>
     <string name="feedback_select_modem_log">Ajouter les journaux du modem</string>
     <string name="feedback_select_modem_log_not_select_desc">"Vous n'avez pas sélectionné \"Ajouter des journaux de modem\""</string>
     <string name="feedback_select_modem_log_select_desc">Vous avez ajouté \"Ajouter des journaux de modem\"</string>
@@ -266,7 +267,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
     <string name="feedback_title">Titre</string>
     <string name="feedback_title_hint">Décrivez brièvement le problème</string>
-    <string name="feedback_title_occurrence_time">"Sélectionnez l'heure"</string>
+    <string name="feedback_title_occurrence_time">"Sélectionner l'heure"</string>
     <string name="feedback_title_reproductivity">Sélectionner la reproductivité</string>
     <string name="feedback_tracking">Suivi des problèmes</string>
     <string name="feesback_list">Rapports</string>
@@ -309,7 +310,7 @@ Envoyer ce code au superviseur."</string>
     <string name="kr_authorization_storage">Stockage</string>
     <string name="kr_authorization_storage_desc">"Pour accéder au stockage et enregistrer des éléments, notamment des journaux, des images et des vidéos"</string>
     <string name="kr_authorization_summary">Documents légaux</string>
-    <string name="kr_authorization_user_protocol">"Accord de l'utilisateur (obligatoire)"</string>
+    <string name="kr_authorization_user_protocol">"Accord d'utilisation (obligatoire)"</string>
     <string name="loading">Un instant…</string>
     <string name="loading_apps">Chargement de la liste…</string>
     <string name="login_system_failed">"Je n'ai pas pu me connecter, essayez encore"</string>
@@ -401,7 +402,7 @@ Envoyer ce code au superviseur."</string>
     <string name="mobile_data_note_dialog_cancel_china">En attente du WLAN</string>
     <string name="mobile_data_note_dialog_confirm">Ajouter</string>
     <string name="mobile_data_note_dialog_content">On dirait que vous êtes connecté à un réseau payant. Le téléchargement de journaux peut générer des frais supplémentaires.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données cellulaires."</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données mobiles."</string>
     <string name="mobile_data_note_dialog_title">"Alerte d'utilisation des données"</string>
     <string name="modem_tool_log_dumping_desc">"Appuyez sur l'icône pour arrêter"</string>
     <string name="modem_tool_log_dumping_title">Capturer des journaux de modem</string>
@@ -487,7 +488,7 @@ Envoyer ce code au superviseur."</string>
     <string name="network_unavailable_dialog_title">Impossible de se connecter au réseau</string>
     <string name="nick_name">Surnom</string>
     <string name="night">Soirée</string>
-    <string name="no_account">Non authentifié</string>
+    <string name="no_account">Non connecté</string>
     <string name="no_phone">Aucun numéro de téléphone</string>
     <string name="non_system_app_select">Applications téléchargées</string>
     <string name="noon">Midi</string>
@@ -524,7 +525,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_error_phone_error">Numéro de téléphone invalide</string>
     <string name="passport_error_server">Erreur du serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les Termes et Conditions"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_forget_password">Mot de passe oublié</string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -628,19 +629,19 @@ Envoyer ce code au superviseur."</string>
     <string name="section_description">Description</string>
     <string name="section_screenshot">"Capture d'écran"</string>
     <string name="send">Envoyer</string>
-    <string name="send_diagnosis_log">Send logs</string>
-    <string name="send_email_activate_message">Sent verification email successfully</string>
+    <string name="send_diagnosis_log">Envoyer les journaux</string>
+    <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="service_unavailiable">"Couldn't get info, try again later"</string>
-    <string name="set_success">Changed successfully</string>
-    <string name="sign_in">Signing in</string>
-    <string name="sign_in_progress">Signing in…</string>
-    <string name="sign_in_title">Sign in with your Mi Account</string>
-    <string name="sms_send_success">Sent successfully</string>
-    <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
-    <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
-    <string name="sns_sign_in">Other ways to sign in</string>
+    <string name="set_success">Modifié avec succès</string>
+    <string name="sign_in">Connexion</string>
+    <string name="sign_in_progress">Connexion…</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sms_send_success">Envoyé avec succès</string>
+    <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
+    <string name="sns_bind_limit">"Trop d'essais. Essayez d'autres moyens de vous connecter."</string>
+    <string name="sns_sign_in">Autres moyens de se connecter</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -671,8 +672,8 @@ Envoyer ce code au superviseur."</string>
     <string name="stop_full_log_dialog_title">Création des journaux…</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
-    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et notre &amp;lt;a href=\"%2$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."</Data></string>
-    <string name="submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord de l'utilisateur&lt;/a>."</Data></string>
+    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et notre &amp;lt;a href=\"%2$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."</Data></string>
+    <string name="submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."</Data></string>
     <string name="submit_dialog_not_show_again">Ne plus montrer</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
     <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>
@@ -689,7 +690,7 @@ Envoyer ce code au superviseur."</string>
     <string name="tab_title_my_reports">Mes rapports</string>
     <string name="tab_title_preferences">Paramètres</string>
     <string name="tab_title_report">Rapports</string>
-    <string name="temporary_not_available">"This feature isn't available yet"</string>
+    <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -734,8 +735,8 @@ Envoyer ce code au superviseur."</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
     <string name="ticket_hint">Code de vérification</string>
-    <string name="ticket_invalid">The code you entered is incorrect</string>
-    <string name="ticket_sign_in">Sign in via SMS</string>
+    <string name="ticket_invalid">Le code que vous avez entré est incorrect</string>
+    <string name="ticket_sign_in">Se connecter via SMS</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="title_answer_feedback_main">Nous avons trouvé des réponses !</string>
     <string name="title_catch_full_log">Journaux</string>
@@ -783,12 +784,12 @@ Envoyer ce code au superviseur."</string>
 Taille : %2$s"</string>
     <string name="update_dialog_content_version">Vous pouvez à présent mettre à jour vers la version %1$s.</string>
     <string name="update_dialog_title">Une mise à jour est disponible</string>
-    <string name="update_email_address_dialog_message">"Vous devez confirmer votre identité avant de mettre à jour l'e-mail de secours."</string>
-    <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de secours"</string>
-    <string name="update_phone_notice">Changer les paramètres de sécurité</string>
-    <string name="upload_error_log">"Journal d'envoi"</string>
+    <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
+    <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
+    <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
+    <string name="upload_error_log">Envoyer le journal</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
-    <string name="user_avatar_update_title">Modifier la photo du profil</string>
+    <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
     <string name="v7_preference_off">Actif</string>

@@ -79,6 +79,7 @@
   <string name="error_receive_user_cancel">Canceled transfer</string>
   <string name="error_receive_user_interrupted">The other person canceled the transfer</string>
   <string name="error_refuse_receive">Canceled transfer</string>
+  <string name="error_remote_ap_working">Ask the other person to turn off portable hotspot</string>
   <string name="error_remote_busy">Looks like the other device is busy. Wait a minute or two and try again.</string>
   <string name="error_remote_mirror_working">"The other device can't accept items while sharing screen"</string>
   <string name="error_self_busy">The device is busy. Wait a minute or two and try again.</string>
@@ -104,8 +105,8 @@
   <string name="file_sending">Transferring files…</string>
   <string name="file_transfer_progress">Progress: %1$d%%</string>
   <string name="file_transfer_progress_title">Progress</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -124,6 +125,7 @@
   <string name="hide">Masquer</string>
   <string name="i_know">Compris</string>
   <string name="location_enabled">Mi Share a activé les services de localisation pour trouver des appareils à proximité</string>
+  <string name="menu_item_privacy_title">Politique de confidentialité</string>
   <string name="midnight">Nuit</string>
   <string name="mishare_folder_in_file_explorer">Gestionnaire de fichiers &gt; MiShare</string>
   <string name="mishare_service_channel_desc">Notifications sur les processus Mi Share</string>

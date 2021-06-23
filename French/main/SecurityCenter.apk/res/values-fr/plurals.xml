@@ -33,6 +33,14 @@
         <item quantity="other">%d jeux ajoutés</item>
         <item quantity="one">%d jeu ajouté</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d applications</item>
+        <item quantity="one">%d application</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d applicationss</item>
+        <item quantity="one">%d applications</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Autorisé %3$d fois entre %1$s et %2$s</item>
         <item quantity="one">Autorisé %3$d fois entre %1$s et %2$s</item>
@@ -100,10 +108,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">Désinstaller %d applications</item>
         <item quantity="one">Désinstaller %d application</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Des mises à jour pour %d applications sont disponibles</item>
-        <item quantity="one">Des mises à jour pour %d application sont disponibles</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Utilisé il y a %d jours</item>
@@ -177,9 +181,25 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
             <Data>"Fermer l'application &lt;font color=#0099ff&gt;%d&lt;/font&gt; pour accélérer votre appareil ?"</Data>
         </item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Le score de performance de votre appareil est inférieur à %d points. Optimiser maintenant ?</item>
+        <item quantity="one">Le score de performance de votre appareil est inférieur à %d point. Optimiser maintenant ?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avancer de %d secondes</item>
+        <item quantity="one">Avancer de %d seconde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Reculer de %d secondes</item>
+        <item quantity="one">Reculer de %d seconde</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Rechercher parmi %d applications</item>
         <item quantity="one">Rechercher parmi %d application</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d risques liés à la vie privée</item>
+        <item quantity="one">%d risque lié à la vie privée</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>
@@ -596,12 +616,12 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">" %d élément peut être optimisé"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Optimiser %d éléments pour sauvegarder la batterie</item>
-        <item quantity="one">Optimiser %d élément pour sauvegarder la batterie</item>
+        <item quantity="other">Optimiser %d éléments pour économiser la batterie</item>
+        <item quantity="one">Optimiser %d élément pour économiser la batterie</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
-        <item quantity="other">Vous pouvez optimiser %d éléments pour sauvegarder la batterie</item>
-        <item quantity="one">Vous pouvez optimiser %d élément pour sauvegarder la batterie</item>
+        <item quantity="other">Vous pouvez optimiser %d éléments pour économiser la batterie</item>
+        <item quantity="one">Vous pouvez optimiser %d élément pour économiser la batterie</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>

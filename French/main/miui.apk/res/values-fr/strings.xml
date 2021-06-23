@@ -44,7 +44,7 @@
   <string name="date_time_picker_dialog_title">"Réglez la date et l'heure"</string>
   <string name="delete_description">Supprimer</string>
   <string name="deselect_all">Désélectionner</string>
-  <string name="deselect_all_description">Tout déselectionner</string>
+  <string name="deselect_all_description">Tout désélectionner</string>
   <string name="do_not_restore_temporarily">Pas maintenant</string>
   <string name="download_right_now">Télécharger</string>
   <string name="email">Email</string>
@@ -68,7 +68,7 @@
   <string name="im">Messagerie instantanée</string>
   <string name="immersion_button_close_description">Fermer</string>
   <string name="instruction">Information importante sur la sécurité</string>
-  <string name="mobile_data_consume">"Le téléchargement d'éléments nécessite désormais %1$s Mo de données cellulaires. Télécharger quand même ?"</string>
+  <string name="mobile_data_consume">"Le téléchargement d'éléments nécessite désormais %1$s Mo de données mobiles. Télécharger quand même ?"</string>
   <string name="mobile_data_remind">"Avertissement d'utilisation des données"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
@@ -112,7 +112,7 @@
   <string name="more">Plus</string>
   <string name="name">Nom</string>
   <string name="nickname">Pseudo</string>
-  <string name="no_network">Impossible de se connecter au réseau</string>
+  <string name="no_network">Connexion au réseau impossible</string>
   <string name="no_sim">Aucune carte SIM détectée</string>
   <string name="note">Note</string>
   <string name="organization">Organisation</string>

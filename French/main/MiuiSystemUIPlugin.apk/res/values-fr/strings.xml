@@ -96,8 +96,8 @@
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -105,13 +105,22 @@
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
+  <string name="hearing_assist_bluetooth_enable_tips_cancle">Annuler</string>
+  <string name="hearing_assist_bluetooth_enable_tips_start">Activer</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">Le moniteur intra-auriculaire en direct fonctionne lorsque Bluetooth est activé. Activer Bluetooth maintenant ?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_title">Activer le Bluetooth</string>
+  <string name="hearing_assist_transmission_label">Moniteur intra-auriculaire en direct</string>
+  <string name="hearing_assist_transmission_tips_cancel">Annuler</string>
+  <string name="hearing_assist_transmission_tips_continue">Activer</string>
+  <string name="hearing_assist_transmission_tips_summary">"Le moniteur intra-auriculaire en direct transmet l'alimentation micro de votre téléphone aux écouteurs Bluetooth connectés. Activer maintenant ?"</string>
+  <string name="hearing_assist_transmission_tips_title">Moniteur intra-auriculaire en direct</string>
   <string name="icon_content_description">Icône de dialogue</string>
   <string name="item_view_role_description">Onglet</string>
   <string name="loading">Statut inconnu</string>
   <string name="material_slider_range_end">"Fin d'intervalle,"</string>
   <string name="material_slider_range_start">"Début d'intervalle,"</string>
   <string name="midnight">Nuit</string>
-  <string name="miui_dnd_count_down">Faites glisser pour régler la minuterie</string>
+  <string name="miui_dnd_count_down">Coulissez pour régler la minuterie</string>
   <string name="miui_dnd_count_down_time">"Minuterie NPD
 %s"</string>
   <string name="miui_guide_dialog_button_negative_text">Paramètres</string>
@@ -198,7 +207,7 @@
   <string name="mtrl_picker_invalid_format_use">Utilisation : %1$s</string>
   <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
   <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>
-  <string name="mtrl_picker_out_of_range">Hors de portée : %1$s</string>
+  <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
   <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
   <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
@@ -208,7 +217,7 @@
   <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
   <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
-  <string name="mtrl_picker_toggle_to_day_selection">"Appuyez pour passer à la sélection d'un jour"</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
   <string name="night">Soirée</string>
@@ -233,8 +242,8 @@
   <string name="quick_settings_pcmode_turn_on_description">"L'écran de votre ordinateur s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
   <string name="quick_settings_scanner_label">Scanner</string>
   <string name="quick_settings_wireless_label">Inverser la charge sans fil</string>
-  <string name="reboot_info_auto_boot">"Prochaine alarme : %s"</string>
-  <string name="reboot_info_shutdown_alarm">"Alarme d'extinction : %s"</string>
+  <string name="reboot_info_auto_boot">Prochain démarrage : %s</string>
+  <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
   <string name="reset">Réinitialiser</string>
   <string name="restart">Redémarrer</string>
   <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?

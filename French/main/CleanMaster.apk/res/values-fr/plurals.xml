@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">Il y a 1 min</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">"Non utilisé depuis %d jours"</item>
         <item quantity="one">"Non utilisé depuis %d jour"</item>
@@ -31,8 +60,8 @@
         <item quantity="many">il y a %1$d jours</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Take %1$d steps to free up %2$s</item>
-        <item quantity="one">Take %1$d step to free up %2$s</item>
+        <item quantity="other">Libérez %2$s en prenant ces %1$d mesures</item>
+        <item quantity="one">Libérez %2$s en prenant cette mesure</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">"&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; paquets d'installation&lt;/Data&gt;"</item>
@@ -47,8 +76,8 @@
         <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; photo inutile&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; gros fichiers&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; gros fichier&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichiers volumineux&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichier volumineux&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
         <item quantity="other">&lt;Data&gt;Vous pouvez désinstaller &lt;font color=#0097FF&gt;%d&lt;/font&gt; applications rarement utilisées&lt;/Data&gt;</item>
@@ -75,8 +104,8 @@
         <item quantity="one">%d applications installées</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">%d gros fichiers trouvés, vous pouvez supprimer ceux qui sont sans importance</item>
-        <item quantity="one">%d gros fichier trouvé, vous pouvez le supprimer</item>
+        <item quantity="other">%d fichiers volumineux trouvés, vous pouvez supprimer ceux qui sont sans importance</item>
+        <item quantity="one">%d fichier volumineux trouvé, vous pouvez le supprimer</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
         <item quantity="other">%d photo trouvées, vous pouvez supprimer les doublons</item>
@@ -114,6 +143,9 @@
         <item quantity="other">&lt;Data&gt;Trouvées &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; messages vocaux&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Trouvé &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; message vocal&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groupes</item>
         <item quantity="one">%d groupe</item>
@@ -122,32 +154,48 @@
         <item quantity="other">%1$d heures</item>
         <item quantity="one">%1$d heure</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">il y a %1$d heures</item>
-        <item quantity="zero">il y a %1$d heures</item>
-        <item quantity="one">il y a %1$d heure</item>
-        <item quantity="two">il y a %1$d heures</item>
-        <item quantity="few">il y a %1$d heures</item>
-        <item quantity="many">il y a %1$d heures</item>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Rechercher parmi %d applications</item>
+        <item quantity="one">Rechercher parmi %d application</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">%d applications trouvées</item>
+        <item quantity="one">%d application trouvée</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Téléchargé par %1$d personnes</item>
     </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">il y a %1$d minutes</item>
-        <item quantity="zero">il y a %1$d minutes</item>
-        <item quantity="one">il y a %1$d minute</item>
-        <item quantity="two">il y a %1$d minutes</item>
-        <item quantity="few">il y a %1$d minutes</item>
-        <item quantity="many">il y a %1$d minutes</item>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d minutes</item>
         <item quantity="one">%1$d minute</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
+    </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">"Supprimer %d paquets d'installation"</item>
         <item quantity="one">"Supprimer %d paquet d'installation"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
@@ -159,10 +207,10 @@
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">
-            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; les applications n'ont pas été utilisées depuis longtemps, jetez un oeil."</Data>
+            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; les applications n'ont pas été utilisées depuis longtemps, jetez un œil."</Data>
         </item>
         <item quantity="one">
-            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; l'application n'a pas été utilisée depuis longtemps, jetez un oeil."</Data>
+            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; l'application n'a pas été utilisée depuis longtemps, jetez un œil."</Data>
         </item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">

@@ -102,6 +102,7 @@ Séparez et sécurisez vos données."</string>
   <string name="xspace_label">Applications clônées</string>
   <string name="xspace_setting_label">Paramètres des applications clônées</string>
   <string name="xspace_settins">Set</string>
+  <string name="xspace_start">Créer</string>
   <string name="xspace_account">Comptes des applications clônées</string>
   <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
   <string name="declare_dialog_title">À propos des applications clônées</string>
@@ -336,7 +337,10 @@ pour y accéder depuis l'Écran de verrouillage"</string>
 pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="xspace_guide_title">Créer une application clônée</string>
   <string name="xspace_guide_des">Utiliser 2 comptes sans basculer</string>
+  <string name="xspace_guide_description">"Chaque compte
+mérite sa propre application"</string>
   <string name="xpsace_guide_button">Créer</string>
+  <string name="xspace_guide_button">Créer</string>
   <string name="search_result_text">Impossible de trouver une application</string>
   <string name="confirm_close_password_title">Désactivation du mot de passe</string>
   <string name="confirm_close_password_desc">"Vous ne serez plus en mesure d'accéder au deuxième espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe. Désactiver de toute manière ?"</string>
@@ -436,7 +440,7 @@ Deux espaces. Un appareil."</string>
   <string name="facebook_login">Connectez-vous en utilisant Facebook</string>
   <string name="facebook_send">Partager sur Facebook</string>
   <string name="can_not_switch_when_green_kid_active">Le basculement vers le deuxième espace est restreint par le contrôle parental</string>
-  <string name="can_not_switch_when_super_power_active">"Impossible de basculer entre les espaces lorsque l'économiseur de batterie ultra est activé"</string>
+  <string name="can_not_switch_when_super_power_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
   <string name="need_network_when_bind">"Connectez-vous au réseau avant d'ajouter des appareils"</string>
   <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
   <string name="enterprise_mode">Mode entreprise</string>
@@ -446,7 +450,7 @@ Deux espaces. Un appareil."</string>
   <string name="ent_mode_activated">Le mode Entreprise est activé</string>
   <string name="ent_activation_hint">"Saisissez votre code d'entreprise avec le code de licence pour activer le mode Entreprise. Après cela, les services d'entreprise personnalisés seront activés."</string>
   <string name="ent_activation_hint_whit_licence">"Activez le mode Entreprise pour activer les services d'entreprise personnalisés.
-Assurez-vous que le nom de votre société est correct. Lisez et acceptez les politiques de confidentialité associées avant l'activation."</string>
+Assurez-vous que le nom de votre société est correct. Lisez et acceptez les Politiques de confidentialité associées avant l'activation."</string>
   <string name="ent_agency_code">Code entreprise</string>
   <string name="ent_agency_code_hint">Saisir le code entreprise</string>
   <string name="ent_agency_code_invalid">"Le code entreprise que vous avez saisi n'est pas valide."</string>

@@ -424,7 +424,7 @@
   <string name="downlaod_cancel_confirm_download">Arrêter</string>
   <string name="downlaod_cancel_continue_download">Ne pas arrêter</string>
   <string name="downlaod_confirm_download">Télécharger</string>
-  <string name="downlaod_nonWifi_confirm_message">Utiliser votre connexion de données mobile pour télécharger cette pièce jointe ?</string>
+  <string name="downlaod_nonWifi_confirm_message">Utiliser votre connexion de données mobiles pour télécharger cette pièce jointe ?</string>
   <string name="downlaod_nonWifi_confirm_title">Télécharger ce pièce jointe ?</string>
   <string name="download_before_sharing">" n'a pas encore fini de télécharger"</string>
   <string name="download_cancel_confirm_message">Le téléchargement va être arrêté</string>
@@ -507,7 +507,7 @@
   <string name="folder_junk_name_en1">Courrier en vrac</string>
   <string name="folder_junk_name_en2">Courrier indésirable</string>
   <string name="folder_junk_name_en3">Courrier électronique indésirable</string>
-  <string name="folder_junk_name_en4">Poubelle</string>
+  <string name="folder_junk_name_en4">Corbeille</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
   <string name="folder_no_mails">"Pas d'e-mails dans ce dossier."</string>
@@ -744,7 +744,7 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
   <string name="menu_settings">Paramètres</string>
   <string name="merged_mailbox_compose_select_account">Sélectionnez un compte</string>
   <string name="message_all_body">Corps entier du message</string>
-  <string name="message_body_load_set_description">"Charger les e-mails via les données cellulaires"</string>
+  <string name="message_body_load_set_description">"Charger les e-mails via les données mobiles"</string>
   <string name="message_compose_insert_quick_response_list_title">Insérez une réponse rapide</string>
   <string name="message_decode_error">Impossible de décoder le message</string>
   <string name="message_discarded">Brouillon supprimé.</string>
@@ -1128,7 +1128,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="special_text_sender_en">expéditeur</string>
   <string name="storage">Stockage</string>
   <string name="str_select_all">Tout sélectionner</string>
-  <string name="str_select_none">Tout déselectionner</string>
+  <string name="str_select_none">Tout désélectionner</string>
   <string name="subject_hint">Objet</string>
   <string name="successfully_obtained_authorization_code">Code de vérification</string>
   <string name="sync_calendra_fail_per_content">Appuyez pour autoriser</string>
@@ -1209,7 +1209,7 @@ Supprimer le compte ?"</string>
   <string name="unknow">Inconnu</string>
   <string name="unread_string">Conversation non lue</string>
   <string name="unzip_file_failed">Impossible de décompresser le fichier</string>
-  <string name="update_date_format_templete">HH:mm dd MMMM aa</string>
+  <string name="update_date_format_templete">HH:mm d MMMM aa</string>
   <string name="update_domain_summary">Mettre à jour la liste des domaines et des configurations disponibles</string>
   <string name="update_domain_title">Mettre à jour les paramètres du domaine</string>
   <string name="update_to_wps_mail">Profitez de plus de fonctionnalités avec WPS Mail</string>
@@ -1225,7 +1225,7 @@ Supprimer le compte ?"</string>
   <string name="user_experience_login">Rejoindre</string>
   <string name="user_experience_logout">"Quitter le Programme d'expérience"</string>
   <string name="user_experience_positive">Accepter et continuer</string>
-  <string name="user_experience_title">Déclaration et conditions</string>
+  <string name="user_experience_title">Déclaration et Conditions</string>
   <string name="user_new_auth_code">Utilisez un nouveau code pour vous connecter</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
   <string name="user_privacy_settings_agreement_authorization">"(En appuyant sur « J'accepte », vous accordez à E-mail toutes les autorisations requises)"</string>
