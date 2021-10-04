@@ -102,7 +102,7 @@
   <string name="accessibility_desc_connected">Connecté.</string>
   <string name="accessibility_desc_connecting">Connexion.</string>
   <string name="accessibility_desc_lock_screen">Écran de verrouillage.</string>
-  <string name="accessibility_desc_notification_icon">Notification de %1$s: %2$s</string>
+  <string name="accessibility_desc_notification_icon">Notification de %1$s : %2$s</string>
   <string name="accessibility_desc_notification_shade">Panneau de notification.</string>
   <string name="accessibility_desc_off">Désactivé.</string>
   <string name="accessibility_desc_on">Activé.</string>
@@ -242,7 +242,7 @@
   <string name="accessibility_quick_settings_sensor_privacy_changed_off">Confidentialité du capteur désactivée.</string>
   <string name="accessibility_quick_settings_sensor_privacy_changed_on">Confidentialité du capteur activée.</string>
   <string name="accessibility_quick_settings_settings">Ouvrir les paramètres.</string>
-  <string name="accessibility_quick_settings_user">Connecté en tant que %s</string>
+  <string name="accessibility_quick_settings_user">Connecté(e) en tant que %s</string>
   <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi désactivé.</string>
   <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi activé.</string>
   <string name="accessibility_quick_settings_work_mode_changed_off">Mode travail désactivé.</string>
@@ -253,7 +253,7 @@
   <string name="accessibility_recent_task_exit">Fermés récemments</string>
   <string name="accessibility_recent_task_locked">Verrouillé, balayer vers le bas pour déverrouiller.</string>
   <string name="accessibility_recent_task_locked_state">Verrouillé</string>
-  <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponible: %1$s. Appuyer rapidement 2 fois pour vider.</string>
+  <string name="accessibility_recent_task_memory_info">RAM totale : %2$s | RAM disponible : %1$s. Appuyer rapidement 2 fois pour vider.</string>
   <string name="accessibility_recent_task_unlocked">Déverrouillé</string>
   <string name="accessibility_recent_task_unlocked_state">Déverrouillé</string>
   <string name="accessibility_recents_all_items_dismissed">Toutes les applications récentes ont été retirées.</string>
@@ -322,8 +322,8 @@
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
   <string name="adb_device_forget">Oublier</string>
-  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous ’avez précédemment autorisés ?"</string>
-  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à six chiffres"</string>
+  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous 'avez précédemment autorisés ?"</string>
+  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à 6 chiffres"</string>
   <string name="adb_pair_method_code_title">"Associer l'appareil avec le code d'association"</string>
   <string name="adb_pair_method_qrcode_summary">"Associer de nouveaux appareils à l'aide du scanner de QR code"</string>
   <string name="adb_pair_method_qrcode_title">"Associer l'appareil avec le QR code"</string>
@@ -379,7 +379,7 @@
   <string name="as_unimportant">Sans importance</string>
   <string name="ask_me_later_bubbles">Ask me later</string>
   <string name="aspect_cancel">Annuler</string>
-  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans les paramètres &gt; Affichage plein écran &gt; Mode plein écran.</string>
+  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans Paramètres > Affichage plein écran > Mode plein écran.</string>
   <string name="aspect_ok">OK </string>
   <string name="aspect_title">Mode plein écran</string>
   <string name="audio_effect_custom">Configurer</string>
@@ -472,23 +472,23 @@ Réessayez dans %d secondes."</string>
   <string name="block_record_notification_title">Notifications cachées</string>
   <string name="bluetooth_a2dp_profile_summary_connected">"Connecté à l'audio média"</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour audio média</string>
-  <string name="bluetooth_active_battery_level">Actif, batterie %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Actif, L: %1$s batterie, R: %2$s batterie</string>
+  <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
+  <string name="bluetooth_active_battery_level_untethered">Actif, G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_active_no_battery_level">Actif</string>
-  <string name="bluetooth_battery_level">Batterie %1$s</string>
-  <string name="bluetooth_battery_level_untethered">L: %1$s batterie, R: %2$s batterie</string>
+  <string name="bluetooth_battery_level">%1$s de batterie</string>
+  <string name="bluetooth_battery_level_untethered">G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
-  <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_a2dp">Connecté (sans média) %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">"Connecté (sans média) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset">Connecté (sans téléphone) %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">"Connecté (sans téléphone) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans téléphone ou média) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"Connecté (sans téléphone ou média) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_map">"Connecté (pas d'accès au messages) %1$s"</string>
+  <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (sans audio contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset">Connecté (sans audio appels tél.) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Connecté (sans audio appels tél.) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio appels tél./contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (sans audio appels tél./contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages) %1$s</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
-  <string name="bluetooth_disable_absolute_volume_summary">"Désactivez la fonction de volume absolu Bluetooth en cas de problèmes de volume avec des périphériques distants tels qu'un volume trop élevé ou un manque de contrôle."</string>
+  <string name="bluetooth_disable_absolute_volume_summary">"Désactivez le volume absolu pour les périphériques Bluetooth si le volume sonore est trop élevé ou s'il ne peut pas être contrôlé"</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_dun_profile_summary_connected">Connecté au serveur DUN</string>
@@ -528,7 +528,7 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
   <string name="bluetooth_profile_a2dp">Audio média</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Audio haut qualité: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Audio haut qualité : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio haut qualité</string>
   <string name="bluetooth_profile_dun">Accéder au réseau téléphonique</string>
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
@@ -548,15 +548,15 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sélectionner Bluetooth Audio Codec
     Bits par échantillon"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Mode channel bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sélectionner Bluetooth Audio Codec:
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sélectionner Bluetooth Audio Codec :
     Mode de canal"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec:
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec : Qualité de lecture</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec :
     Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillon d'audio bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sélectionner Bluetooth Audio Coded
     Échantillon"</string>
-  <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming : %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Déclencher la sélection du codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_help_info">Le grisé signifie non pris en charge par le téléphone ou le casque</string>
@@ -662,7 +662,7 @@ Réessayez dans %d secondes."</string>
   <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
   <string name="confirm">Confirmer</string>
-  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
+  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_pin_msg">Répétez le code PIN</string>
   <string name="connected_via_app">Connecté via %1$s</string>
@@ -749,7 +749,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
-  <string name="debug_app_set">Application de débogage: %1$s</string>
+  <string name="debug_app_set">Application de débogage : %1$s</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Dessin</string>
@@ -784,8 +784,9 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="development_settings_not_available">Les options développeur ne sont pas disponibles pour cet utilisateur</string>
   <string name="development_settings_summary">"Définir les options pour le développement d'appplication"</string>
   <string name="development_settings_title">Options développeur</string>
+  <string name="device_locked_without_biometric">"La détection biométrique ne peut pas être effectuée en raison de l'utilisation de la fonction de verrouillage d'écran à une touche, trois parties"</string>
   <string name="device_services">"Services de l'appareil"</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : Vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
   <string name="disable_carrier_button_text">Désactiver eSIM</string>
   <string name="disable_notification_title">Masquer les notifications</string>
   <string name="disable_overlays">Désactiver les superpostions HW</string>
@@ -903,7 +904,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%d sec)</string>
-  <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
+  <string name="face_data_suggesstion_first">"Problèmes de sécurité : Le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
   <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes d'objets et sont clairement visibles. Votre visage devrait être bien éclairé également."</string>
   <string name="face_dialog_looking_for_face">Je te cherchais...</string>
   <string name="face_unlock_adjust_distance">"Assurez-vous que la distance entre votre visage et l'écran est optimale."</string>
@@ -951,7 +952,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_unlock_success_show_message_toast">"Les notifications seront affichées sur l'écran de verrouillage"</string>
   <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
   <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
-  <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
+  <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres pour %1$s"</string>
   <string name="finger_error_single_mode">"Impossible d'utiliser le lecteur d'empreintes digitales en mode Une main. Quittez le mode Une main et réessayez."</string>
   <string name="fingerprint_add_text">"L'interface d'empreinte digitale a été mise à jour. Ajoutez de nouveau votre empreinte digitale."</string>
   <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
@@ -966,15 +967,17 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fingerprint_not_recognized">Non reconnu</string>
   <string name="fingerprint_try_again_msg">"Impossible de vérifier l'empreinte digitale, veuillez réessayer."</string>
   <string name="fingerprint_try_again_text">Réessayer</string>
+  <string name="fiveg_sa_switch_summary">Utiliser le réseau SA sur la SIM secondaire (uniquement pour les tests)</string>
+  <string name="fiveg_sa_vice_switch_title">SA sur la SIM secondaire</string>
   <string name="float_incall_ignore">Ignorer</string>
   <string name="float_incall_message">Message</string>
   <string name="float_notification_snooze_strategy">Masquer temporairement les notifications flottantes</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="force_allow_on_external">"Force permet aux applications d'écrire sur le stockage externe"</string>
   <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
@@ -994,7 +997,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fs_gesture_back_ready_title">Retour</string>
   <string name="fs_gesture_final_over">"J'ai terminé"</string>
   <string name="fs_gesture_final_restart">Une fois de plus</string>
-  <string name="fs_gesture_final_summary">Vous pouvez basculer en utilisant les boutons dans Paramètres &gt; Affichage en plein écran</string>
+  <string name="fs_gesture_final_summary">Vous pouvez basculer en utilisant les boutons dans Paramètres > Affichage en plein écran</string>
   <string name="fs_gesture_final_title">Vous êtes prêt à faire sensation !</string>
   <string name="fs_gesture_finish">Super !</string>
   <string name="fs_gesture_left_back_ready_summary">Balayer vers la droite depuis le bord</string>
@@ -1090,7 +1093,7 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
   <string name="ims_reg_status_not_registered">Non enregisté</string>
   <string name="ims_reg_status_registered">Enregistré</string>
   <string name="ims_reg_title">"État d'enregistrement d'IMS"</string>
-  <string name="imsi_protection_warning">"Ce réseau reçoit un identifiant unique qui peut être utilisé pour suivre l'emplacement de l'appareil." <annotation id="url">En savoir plus</annotation></string>
+  <string name="imsi_protection_warning">"Ce réseau reçoit un identifiant unique qui peut être utilisé pour suivre l'emplacement de l'appareil." &lt;annotation id="url">En savoir plus&lt;/annotation></string>
   <string name="inactive_app_active_summary">Active. Appuyer pour basculer.</string>
   <string name="inactive_app_inactive_summary">Inactive. Appuyer pour basculer.</string>
   <string name="inactive_apps_title">Applications inactives</string>
@@ -1116,13 +1119,13 @@ Continuer de les afficher ?"</string>
   <string name="input_lockscreen_password_hint_text">Entrer le mot de passe</string>
   <string name="input_lockscreen_pattern_hint_text">Dessiner le schéma</string>
   <string name="input_lockscreen_pin_hint_text">Entrer le code PIN</string>
-  <string name="input_password_after_boot_msg">Pour déverrouiller votre appareil, saisissez votre mot de passe</string>
+  <string name="input_password_after_boot_msg">"La confirmation de votre verrouillage d'écran est requise après un redémarrage de l'appareil"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossible de basculer entre les espaces lorsque les contrôles parentaux sont activés</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"Vous devez entrer dans le Premier espace suite à un redémarrage de l'appareil"</string>
   <string name="input_password_hint_text">Saisir le mot de passe</string>
-  <string name="input_pattern_hint_text">Dessinez un schéma de déverrouillage</string>
+  <string name="input_pattern_hint_text">Dessiner un schéma de déverrouillage</string>
   <string name="input_pin_code">Saisir le code PIN</string>
   <string name="input_puk_code">Saisir le code PUK</string>
   <string name="install_other_apps">Installer des applications inconnues</string>
@@ -1200,7 +1203,8 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_carrier_default">Aucun service.</string>
   <string name="keyguard_charged">Chargée</string>
   <string name="keyguard_charging_back_to_lockscreen">"Retour à l'écran de verrouillage"</string>
-  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_double_fast_and_level_tip">Augmentation de la vitesse de charge %s</string>
+  <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Hier %s</string>
   <string name="keyguard_charging_normal_and_level_tip">Charge %d%%</string>
@@ -1233,8 +1237,8 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_password_enter_puk_prompt">Code PUK de la SIM</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Touchez pour saisir le mot de passe</font></string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect.</string>
-  <string name="keyguard_permanent_disabled_sim_instructions">"Votre Carte SIM a été désactivée de manière permanente.
-Contactez votre opérateur pour une autre Carte SIM."</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Votre carte SIM a été désactivée de manière permanente.
+Contactez votre opérateur pour en obtenir une nouvelle."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
   <string name="keyguard_plugged_in">%s • En charge</string>
   <string name="keyguard_plugged_in_charging_fast">%s • Charge rapide</string>
@@ -1267,10 +1271,10 @@ Réessayer dans %3$d secondes."</string>
   <string name="kg_invalid_sim_puk_hint">Le code PUK doit être de 8 chiffres.</string>
   <string name="kg_login_too_many_attempts">Trop de tentatives de schéma</string>
   <string name="kg_password_instructions">Saisir le mot de passe</string>
-  <string name="kg_password_pin_failed">"Échec de l'opération SIM PIN !"</string>
-  <string name="kg_password_puk_failed">"Échec de l'opération SIM PUK !"</string>
-  <string name="kg_password_wrong_pin_code_pukked">Code SIM PIN incorrect. Contactez votre opérateur pour déverrouiller votre appareil.</string>
-  <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre transporteur.</string>
+  <string name="kg_password_pin_failed">"Échec de l'opération !"</string>
+  <string name="kg_password_puk_failed">"Échec de l'opération !"</string>
+  <string name="kg_password_wrong_pin_code_pukked">Code PIN incorrect. Contactez votre opérateur si vous ne possédez pas le code PUK de la carte SIM.</string>
+  <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre opérateur pour en obtenir une nouvelle.</string>
   <string name="kg_pattern_instructions">Dessiner votre schéma</string>
   <string name="kg_pin_accepted">Code accepté !</string>
   <string name="kg_pin_instructions">Saisir le code PIN</string>
@@ -1352,7 +1356,7 @@ Réessayez dans %2$d secondes."</string>
   <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
   <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont pas actuellement protégées"</string>
   <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne correspondent pas</string>
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
   <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode avion</string>
@@ -1442,14 +1446,17 @@ une capture d'écran de défilement"</string>
   <string name="miui_notification_menu_more_setting">Plus</string>
   <string name="miui_notification_menu_msg_fold">Regrouper toutes les notifications de %1$s ensemble ?</string>
   <string name="miui_notification_menu_msg_not_allow">Restreindre toutes les notifications de %1$s ?</string>
+  <string name="miui_notification_menu_msg_unfold">Afficher les notifications de %1$s séparément ?</string>
   <string name="miui_notification_menu_setting_success">Effectué</string>
   <string name="miui_notification_menu_snooze">Reporter</string>
+  <string name="miui_notification_menu_title_not_allow">Restreindre</string>
+  <string name="miui_notification_menu_unfold">Marquer comme important</string>
   <string name="miui_ringer_count_down">Compte à rebours</string>
   <string name="miui_ringer_standard">Silencieux</string>
   <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
   <string name="miui_ringer_total">NPD</string>
   <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
-  <string name="miui_screen_rotation_freeze_message">Rotation auto désactivée.</string>
+  <string name="miui_screen_rotation_freeze_message">"La rotation de l'écran est verrouillée"</string>
   <string name="miui_snooze_always_float">Ne pas masquer</string>
   <string name="miui_snooze_cancel">Annuler</string>
   <string name="miui_snooze_default_time">Pendant %d minute(s)</string>
@@ -1465,6 +1472,7 @@ une capture d'écran de défilement"</string>
   <string name="miui_toast_zen_to_dnd">Mode NPD activé. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
   <string name="miui_toast_zen_to_standard">Mode NPD activé. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Mode NPD activé. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
+  <string name="miui_unimportant_notifications">Notifications non importantes</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -1490,9 +1498,12 @@ une capture d'écran de défilement"</string>
   <string name="mobile_data">Données mobiles</string>
   <string name="mobile_data_always_on">Données mobiles toujours actives</string>
   <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
+  <string name="mobile_data_disable_message">"Vous n'aurez pas accès aux données ou à Internet via %s. Internet ne sera disponible que via Wi-Fi."</string>
+  <string name="mobile_data_disable_message_default_carrier">votre opérateur</string>
+  <string name="mobile_data_disable_title">Désactiver les données mobiles ?</string>
   <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
-  <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
+  <string name="mock_location_app_set">"Simulation de l'appli de localisation : %1$s"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -1554,26 +1565,26 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="month_april_short">Avr</string>
   <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aoû</string>
-  <string name="month_august_shortest">Aoû</string>
+  <string name="month_august_short">Août</string>
+  <string name="month_august_shortest">Août</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
-  <string name="month_march_short">Mar</string>
-  <string name="month_march_shortest">Mar</string>
+  <string name="month_march_short">Mars</string>
+  <string name="month_march_shortest">Mars</string>
   <string name="month_may">Mai</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
@@ -1584,8 +1595,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
   <string name="mr_button_content_description">Bouton diffusion</string>
@@ -1612,10 +1623,11 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="mr_dialog_transferable_header">Jouer sur un groupe</string>
   <string name="mr_system_route_name">Système</string>
   <string name="mr_user_route_category_name">Appareils</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">"Impossible de régler pendant l'appel"</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Sauvegarder</string>
-  <string name="mtrl_picker_date_format">d MMM, yyyy</string>
+  <string name="mtrl_picker_date_format">d MMM yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="multi_face_delete_message">Attention</string>
@@ -1644,7 +1656,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="no_multi_window_app">Aucune application ne prend en charge le mode Écran divisé</string>
   <string name="no_notification_tips">Aucune notification</string>
   <string name="no_tiles_add">Pas de tuiles à ajouter</string>
-  <string name="no_weather_description">Obtenir les informations de la météo &gt;</string>
+  <string name="no_weather_description">Obtenir les informations de la météo ></string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
   <string name="not_support_multi_window">Les applications actuelles ne prennent pas en charge le mode Écran divisé</string>
@@ -1740,11 +1752,11 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_foget_password">Mot de passe oublié ?</string>
   <string name="phone_locked_foget_password_mehod_back">Retour</string>
   <string name="phone_locked_foget_password_method">Mot de passe oublié ?</string>
-  <string name="phone_locked_foget_password_method_content">"&lt;Data&gt;Vous devez &amp;lt;font color=#a5220e&amp;gt;effacer toutes les données &amp;lt;/font&amp;gt;sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage.&lt;/Data&gt;"</string>
+  <string name="phone_locked_foget_password_method_content"><Data>"Vous devez &lt;font color=#a5220e>effacer toutes les données &lt;/font>sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage."</Data></string>
   <string name="phone_locked_foget_password_method_next">Suivant</string>
   <string name="phone_locked_foget_password_ok">Compris</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">"&lt;Data&gt;Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e&gt;bouton d'alimentation&lt;/font&gt; et le &lt;font color=#a5220e&gt; bouton Volume haut&lt;/font&gt; simultanément jusqu'à ce que voyez le logo Mi.;&lt;/Data&gt;"</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data&gt;sélectionner&lt;font color=#a5220e&gt;\"Effacer &amp;amp; Réinitialiser\"&lt;/font&gt; et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data&gt;"</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>"Mettez votre appareil hors tension, puis appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi."</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>"Sélectionner&lt;font color=#a5220e>\"Effacer &amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre."</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="picture_color_mode">Mode image couleur</string>
@@ -1776,32 +1788,32 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="power_discharge_by_only_short">"Jusqu'au %1$s"</string>
   <string name="power_notification_controls_description">"Avec les commandes de notification d'alimentation, vous pouvez définir un niveau d'importance de 0 à 5 pour les notifications d'une application.
 
-<b>Niveau 5</b>
+&lt;b>Niveau 5&lt;/b>
 - Afficher en haut de la liste de notifications
 - Autoriser l'interruption en plein écran
 - Toujours regarder
 
-<b>Niveau 4</b>
+&lt;b>Niveau 4&lt;/b>
 - Empêcher l'interruption en plein écran
 - Toujours regarder
 
-<b>Niveau 3</b>
+&lt;b>Niveau 3&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 
-<b>Niveau 2</b>
+&lt;b>Niveau 2&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 - Ne jamais sonner ou vibrer
 
-<b>Niveau 1</b>
+&lt;b>Niveau 1&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 - Ne jamais sonner ou vibrer
 - Masquer depuis l'écran de verrouillage et la barre d'état
 - Afficher en bas de la liste de notification
 
-<b>Niveau 0</b>"
+&lt;b>Niveau 0&lt;/b>"
 - Bloquer toutes les notifications de l'application"</string>
   <string name="power_remaining_charging_duration_only">"%1$s- Jusqu'à être complètement chargé"</string>
   <string name="power_remaining_duration_only">Environ %1$s min restantes</string>
@@ -1821,14 +1833,14 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="pref_show_lunar_calendar_title">"Afficher le calendrier chinois traditionnel sur l'écran de verrouillage"</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="priority_onboarding_appear_as_bubble_text">Apparaissent comme une bulle flottante au-dessus des applications</string>
-  <string name="priority_onboarding_behavior">Les conversations prioritaires:</string>
+  <string name="priority_onboarding_behavior">Les conversations prioritaires :</string>
   <string name="priority_onboarding_done_button_title">Compris</string>
+  <string name="private_dns_broken">"Le serveur DNS privé n'est pas accessible"</string>
   <string name="private_dns_mode_off">Désactivé</string>
   <string name="private_dns_mode_opportunistic">Automatique</string>
   <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
   <string name="private_dns_mode_provider_failure">Connexion impossible</string>
   <string name="private_dns_mode_provider_hostname_hint">Saisissez le nom du fournisseur du DNS</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="profile_connect_timeout_subtext">"Problème de connexion. Éteignez puis rallumez l'appareil"</string>
   <string name="profile_info_settings_title">Info profil</string>
   <string name="profile_owned_footer">Le profil peut être surveillé</string>
@@ -1874,7 +1886,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings">Paramètres rapides</string>
   <string name="quick_settings_autobrightness_label">Luminosité auto</string>
   <string name="quick_settings_batterysaver_label">Économiseur de batterie</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">Aucun appareil associé à proximité</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Aucun périphérique associé à proximité</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d appareils)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth désactivé</string>
@@ -1973,7 +1985,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_rotation_locked_landscape_label">Paysage</string>
   <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
   <string name="quick_settings_rotation_unlocked_label">Rotation auto</string>
-  <string name="quick_settings_rotationlock_label">Rotation désactivée</string>
+  <string name="quick_settings_rotationlock_label">Verrouiller la rotation</string>
   <string name="quick_settings_rssi_emergency_only">"Appel d'urgence uniquement"</string>
   <string name="quick_settings_screen_record_label">"Enregistreur d'écran"</string>
   <string name="quick_settings_screen_record_start">Démarrer</string>
@@ -1993,6 +2005,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_user_new_user">Nouvel utilisateur</string>
   <string name="quick_settings_user_title">Utilisateur</string>
   <string name="quick_settings_vibrate_label">Vibreur</string>
+  <string name="quick_settings_vowifi_label">Appel Wi-Fi</string>
+  <string name="quick_settings_vowifi_sim1_label">Appel Wi-Fi SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">Appel Wi-Fi SIM2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmenter la vitesse</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Annuler</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmer</string>
@@ -2010,7 +2025,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_work_mode_label">Mode travail</string>
   <string name="quick_step_accessibility_toggle_overview">Basculer aperçu</string>
   <string name="rapid_charge_mode_tip">Charge rapide</string>
-  <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le deuxième espace"</string>
+  <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le Deuxième espace"</string>
   <string name="recent_dock_tip">Appuyez pour sélectionner les applications</string>
   <string name="recent_menu_item_info">Infos</string>
   <string name="recent_menu_item_lock">Verrou</string>
@@ -2068,7 +2083,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="right_nav_bar_button_type">Appuyer une fois de plus sur le bouton droit</string>
   <string name="running_foreground_services_msg">"Appuyer pour les détails sur la batterie ou l'utilisation des données"</string>
   <string name="running_foreground_services_title">Applications fonctionnant en arrière-plan</string>
-  <string name="running_process_item_user_label">Utilisateur: %1$s</string>
+  <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="runningservices_settings_summary">Voir et contrôler les services actuellement en exécution</string>
   <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
   <string name="saturday">Samedi</string>
@@ -2157,6 +2172,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="show_silently">Afficher silencieusement les notifications</string>
   <string name="show_touches">"Afficher les pressions à l'écran"</string>
   <string name="show_touches_summary">"Afficher les commentaires visuels pour les pressions à l'écran"</string>
+  <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>"Appuyez et maintenez les boutons &lt;font color=#e6e6e6>[Power]&lt;/font> et &lt;font color=#e6e6e6>[Volume +]&lt;/font> jusqu'à ce que vous voyiez &lt;img src=\"\">."</Data></string>
+  <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Sélectionnez &lt;font color=#e6e6e6>[Effacer les données]&lt;/font> et appuyez ensuite sur &lt;font color=#e6e6e6>[Redémarrer]&lt;/font>.</Data></string>
   <string name="sim_state_locked_dialog_title">Carte SIM invalide</string>
   <string name="sim_state_locked_puk_dialog_message">"Vous avez saisi au moins 10 fois un code PUK erroné. Votre carte SIM est désormais invalide. Remplacez cette carte SIM par une autre."</string>
   <string name="simulate_color_space">Simuler un espace de couleur</string>
@@ -2222,8 +2239,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="status_bar_clock_date_format_12">EEEE d MMMM</string>
   <string name="status_bar_clock_date_time_format">EEEE d MMMM HH:mm</string>
   <string name="status_bar_clock_date_time_format_12">EEEE d MMMM hh:mm aa</string>
-  <string name="status_bar_clock_date_weekday_format">EEE, d MMMM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE, d MMMM</string>
+  <string name="status_bar_clock_date_weekday_format">EEE. d MMMM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE. d MMMM</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -2231,11 +2248,11 @@ d MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer des méthodes de saisie</string>
   <string name="status_bar_latest_events_title">Notifications</string>
-  <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s   Restant: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;"</string>
-  <string name="status_bar_network_flow_limit">"   Limite mensuelle: %1$s   "</string>
-  <string name="status_bar_network_flow_purchase">"   Acheter &gt;"</string>
-  <string name="status_bar_network_flow_today">"Aujourd'hui: %1$s"</string>
+  <string name="status_bar_network_flow_content">"Aujourd'hui : %1$s   Restant : %2$s"</string>
+  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui : %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé : &lt;font color=%2$s>%3$s&lt;/font>"</string>
+  <string name="status_bar_network_flow_limit">"   Limite mensuelle : %1$s   "</string>
+  <string name="status_bar_network_flow_purchase">"   Acheter >"</string>
+  <string name="status_bar_network_flow_today">"Aujourd'hui : %1$s"</string>
   <string name="status_bar_no_notifications_title">Aucune notification</string>
   <string name="status_bar_no_recent_apps">Vos écrans récents apparaissent ici</string>
   <string name="status_bar_notification_app_settings_title">%s paramètres</string>
@@ -2309,7 +2326,7 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="structure_face_data_open_cameraing">"Lancement de l'appareil photo…"</string>
   <string name="structure_face_data_rgb_input_face">Placez votre visage dans le cadre</string>
   <string name="structure_face_data_suggestion_text">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas de chapeaux, de lunettes de soleil ou d'autres accessoires qui pourraient couvrir votre visage pendant l'enregistrement de données de visages en 3D. Assurez-vous que votre visage est également allumé."</string>
-  <string name="structure_face_data_suggestion_warning_text">"Remarque : l'utilisation de données de visage 3D est légèrement moins sûre que l'utilisation d'un mot de passe. Les personnes ou les objets qui vous ressemblent pourraient être en mesure de déverrouiller votre appareil."</string>
+  <string name="structure_face_data_suggestion_warning_text">"Remarque : L'utilisation de données de visage 3D est légèrement moins sûre que l'utilisation d'un mot de passe. Les personnes ou les objets qui vous ressemblent pourraient être en mesure de déverrouiller votre appareil."</string>
   <string name="structure_face_delete_data_dialog_msg">"Impossible de lancer la l'appareil photo et obtenir un aperçu. Réessayez."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Veuillez réessayer</string>
   <string name="structure_face_delete_data_dialog_title">"Impossible de lancer l'appareil photo"</string>
@@ -2495,7 +2512,7 @@ Vous serez averti lorsque vous pourrez à nouveau utiliser le port USB."</string
   <string name="usb_contaminant_title">Port USB Désactivé</string>
   <string name="usb_debugging_allow">Allow</string>
   <string name="usb_debugging_always">Toujours autoriser depuis cet ordinateur</string>
-  <string name="usb_debugging_message">"L'empreinte digitale de la clé RSA de cet ordinateur est:
+  <string name="usb_debugging_message">"L'empreinte digitale de la clé RSA de cet ordinateur est :
 %1$s"</string>
   <string name="usb_debugging_secondary_user_message">"L'utilisateur actuellement connecté à cet appareil ne peut pas activer le débogage USB. Pour utiliser cette fonctionnalité, passez à un utilisateur administrateur."</string>
   <string name="usb_debugging_secondary_user_title">Débogage USB non autorisé</string>
@@ -2594,7 +2611,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wapi_all_sel_mode">Sélectionner</string>
   <string name="wapi_auto_sel_cert">Sélectionner automatiquement</string>
   <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner les certificats automatiquement. Sélectionnez un certificat dans la liste, puis essayez de vous connecter.</string>
-  <string name="wapi_cert_is_not_exist">Aucun certificat disponible. Ajoutez d’abord un.</string>
+  <string name="wapi_cert_is_not_exist">"Aucun certificat disponible. Ajoutez-en un d'abord."</string>
   <string name="wapi_cert_is_not_selected">"Sélectionnez d'abord le certificat"</string>
   <string name="wapi_cert_manage_error">Impossible de définir le certificat WAPI.</string>
   <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
@@ -2610,7 +2627,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wapi_password_is_empty">Le mot de passe ne peut être vide</string>
   <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
   <string name="wapi_password_length_invalid">Le mot de passe doit contenir entre 8 et 64 caractères</string>
-  <string name="wapi_password_length_is_max">Le mot de passe peut contenir jusqu’à 64 caractères</string>
+  <string name="wapi_password_length_is_max">"Le mot de passe peut contenir jusqu'à 64 caractères"</string>
   <string name="wapi_password_length_is_min">Le mot de passe doit contenir au moins 8 caractères</string>
   <string name="wapi_password_length_is_min_to_max">Le mot de passe doit contenir entre 8 et 64 caractères</string>
   <string name="wapi_psk_type">Type de mot de passe</string>
@@ -2628,8 +2645,8 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
   <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
   <string name="wifi_connected_no_internet">"Connecté, pas d'internet"</string>
-  <string name="wifi_coverage_extend">Activer l’extension de couverture Wi-Fi</string>
-  <string name="wifi_coverage_extend_summary">Étendre la couverture Wi-Fi en utilisant un point d’accès</string>
+  <string name="wifi_coverage_extend">"Activer l'extension de couverture Wi-Fi"</string>
+  <string name="wifi_coverage_extend_summary">"Étendre la couverture Wi-Fi en utilisant un point d'accès"</string>
   <string name="wifi_debugging_allow">Autoriser</string>
   <string name="wifi_debugging_always">Toujours autoriser sur ce réseau</string>
   <string name="wifi_debugging_message">"Nom du réseau (SSID)
@@ -2649,7 +2666,7 @@ Adresse Wi‑Fi (BSSID)
   <string name="wifi_display_certification">"Certification de l'affichage sans fil"</string>
   <string name="wifi_display_certification_summary">"Afficher les options pour la certification de l'affichage sans fil"</string>
   <string name="wifi_enhanced_mac_randomization">Randomisation MAC améliorée par Wi‑Fi</string>
-  <string name="wifi_enhanced_mac_randomization_summary">"Lorsque ce mode est activé, l’adresse MAC de cet appareil peut changer chaque fois qu’il se connecte à un réseau sur lequel la randomisation MAC est activée."</string>
+  <string name="wifi_enhanced_mac_randomization_summary">"Lorsque ce mode est activé, l'adresse MAC de cet appareil peut changer chaque fois qu'il se connecte à un réseau sur lequel la randomisation MAC est activée."</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher les réseaux</string>
   <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
   <string name="wifi_is_off">Wi-Fi désactivé</string>
@@ -2664,27 +2681,33 @@ Adresse Wi‑Fi (BSSID)
   <string name="wifi_scan_throttling_summary">Réduit la consommation de la batterie et améliore les performances du réseau</string>
   <string name="wifi_security_none">Aucun</string>
   <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
+  <string name="wifi_security_psk_sae">WPA2/WPA3 Personnel</string>
+  <string name="wifi_security_sae">WPA3 Personnel</string>
+  <string name="wifi_security_wpa">WPA Personnel</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 Personnel</string>
+  <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3 Personnel</string>
+  <string name="wifi_security_wpa2">WPA2 Personnel</string>
   <string name="wifi_ssid_is_empty">SSID ne peut pas être laissé vide</string>
-  <string name="wifi_ssid_length_is_max">SSID peut contenir jusqu’à 32 caractères</string>
+  <string name="wifi_ssid_length_is_max">"SSID peut contenir jusqu'à 32 caractères"</string>
   <string name="wifi_status_mac_randomized">Adresse MAC randomisée</string>
   <string name="wifi_status_no_internet">"Pas d'internet"</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
   <string name="wifi_unmetered_label">Non mesuré</string>
   <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Auto Connection</string>
-  <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
+  <string name="wifi_unsaved_network_linking_summary">"Active les tentatives de connexion automatique à un nouveau SSID WPA/WPA2 Personnel 5 GHz avec les informations d'identification SSID WPA/WPA2 Personnel 2.4 GHz actuellement connectées sur la correspondance partielle SSID et BSSID"</string>
   <string name="wifi_verbose_logging">"Activer l'enregistrement des infos détaillées du Wi‑Fi"</string>
   <string name="wifi_verbose_logging_summary">Augmentez le niveau de la connexion Wi‑Fi, affichez les RSSI pour chaque SSID dans la liste des réseaux Wi‑Fi.</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Sélectionner manuellement</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe du réseau que vous avez entré est incorrect.</string>
-  <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l’authentification WAPI.
+  <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l'authentification WAPI.
 Assurez-vous que vos certificats sont valides."</string>
-  <string name="wifi_wapi_fail_to_init">"Impossible d’ouvrir le certificat WAPI.
-On dirait que le stockage des certificats n’est pas activé."</string>
+  <string name="wifi_wapi_fail_to_init">"Impossible d'ouvrir le certificat WAPI.
+On dirait que le stockage des certificats n'est pas activé."</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
   <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
-  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
+  <string name="wifi_whitelist_roaming_summary">"Activer l'itinérance entre différents points d'accès SSID WPA/WPA2 Personnel avec la même adresse MAC de passerelle"</string>
   <string name="window_animation_scale_title">"Échelle d'animation de fenêtre"</string>
   <string name="wireless_change_to_ac_charging">Passé à la charge filaire</string>
   <string name="wireless_charge_current">En charge</string>

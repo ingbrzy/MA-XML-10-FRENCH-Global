@@ -39,9 +39,6 @@
   <string name="item_title_relationship">Conditions de parenté</string>
   <string name="network_purpose">Bienvenue dans Calculatrice ! La calculatrice vous permet de convertir des devises, de calculer des remboursements hypothécaires, etc.</string>
   <string name="title_bar">Convertisseur de longueur</string>
-  <string name="xiaomi_bytes_unit">%1$s o</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
-  <string name="xiaomi_megabytes_unit">%1$s Mo</string>
   <string name="height_prompt">Taille</string>
   <string name="bmi_normal">Normal</string>
   <string name="bmi_over_weight">En surpoids</string>
@@ -112,14 +109,14 @@
   <string name="factorialDesc">factoriel</string>
   <string name="float_window_guide_text">Appuyez ici pour minimiser la calculatrice</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd-MM</string>
   <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd-MM-yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="fmt_time_12hour">"h 'o''horloge'"</string>
-  <string name="fmt_time_24hour">"H 'o''horloge'"</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+  <string name="fmt_time_12hour">h</string>
+  <string name="fmt_time_24hour">h</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
@@ -190,8 +187,10 @@
   <string name="label_from_date">De</string>
   <string name="label_history">Historique</string>
   <string name="label_interest">Intérêt (pourcentage)</string>
-  <string name="label_investment_duration">Duration</string>
-  <string name="label_loan_tenure">Loan tenure</string>
+  <string name="label_investment_disclaimer">Nous utilisons une période de composition de trois mois pour les calculs récurrents</string>
+  <string name="label_investment_duration">Durée</string>
+  <string name="label_loan_tenure">Durée du prêt</string>
+  <string name="label_monthly_investment">Investissement mensuel</string>
   <string name="label_months">Mois</string>
   <string name="label_no_history">Aucun article ici encore</string>
   <string name="label_principal">Principal</string>
@@ -244,7 +243,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">L</string>
   <string name="month_april">Avril</string>
-  <string name="month_april_short">Avril</string>
+  <string name="month_april_short">Avr</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august">Août</string>
   <string name="month_august_short">Août</string>
@@ -253,10 +252,10 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">D</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
+  <string name="month_february_short">Févr</string>
   <string name="month_february_shortest">F</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">Janv</string>
   <string name="month_january_shortest">J</string>
   <string name="month_july">Juillet</string>
   <string name="month_july_short">Juil</string>
@@ -328,7 +327,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
-  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes :&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre Politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
+  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes :&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre Politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
@@ -764,12 +763,17 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="wf_word_figure">Caractères financiers</string>
   <string name="withdraw_network_error">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
+  <string name="xiaomi_bytes_unit">%1$s o</string>
+  <string name="xiaomi_calculator_delete_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir désinstallé l'application."</string>
+  <string name="xiaomi_calculator_delete_title">Désinstaller Calculatrice ?</string>
+  <string name="xiaomi_calculator_remove_icon_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="xiaomi_calculator_remove_icon_title">"Supprimer \"Calculatrice\" de l'écran d'accueil ?"</string>
   <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les permissions requises dans Paramètres > Applications installées.</string>
   <string name="xiaomi_external_storage_unavailable">"Le stockage n'est pas disponible. Vérifiez votre carte SD."</string>
   <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s
 Taille %2$s"</string>
   <string name="yesterday">Hier</string>
   <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
-Taille de la mise à jour Delta : %2$s"</string>
+Taille de la mise à jour : %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
 </resources>

@@ -83,7 +83,7 @@
     <string name="activate_popup_desc_find_device_postfix_msg">"%1$s. Pour activer \"%3$s\", entrez le numéro de téléphone de la carte SIM %2$d. Si vous remplacez cette carte SIM, un autre SMS d'activation sera envoyé."</string>
     <string name="activate_popup_desc_intl_sim_card">Un SMS international sera envoyé pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pour activer \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b> seront envoyés. Votre opérateur vous facturera ce message.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">"%1$s. <Data>Reportez-vous au &lt;a href=https://account.xiaomi.com/helpcenter/faq>manuel d'utilisation du Compte Mi&lt;/a> si vous avez des questions.</Data>"</string>
+    <string name="activate_popup_desc_mi_account_user_manual"><Data>"%1$s. Reportez-vous au &lt;a href=\"https://account.xiaomi.com/helpcenter/faq\">manuel d'utilisation du Compte Mi&lt;/a> si vous avez des questions."</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">2 SMS (international et national) seront envoyés pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pour activer \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b> et &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b> seront envoyés. Votre opérateur vous facturera ce message.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">On dirait que vous avez changé de carte SIM. 2 SMS internationaux seront envoyés pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
@@ -181,10 +181,10 @@
     <string name="explain_send_sms_permission_title">Vérifiez votre numéro de téléphone</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
@@ -212,29 +212,29 @@
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Avril</string>
-    <string name="month_april_short">Apr</string>
-    <string name="month_april_shortest">Apr</string>
+    <string name="month_april_short">Avr</string>
+    <string name="month_april_shortest">Avr</string>
     <string name="month_august">Août</string>
-    <string name="month_august_short">Aoû</string>
-    <string name="month_august_shortest">Aoû</string>
+    <string name="month_august_short">Août</string>
+    <string name="month_august_shortest">Août</string>
     <string name="month_december">Décembre</string>
     <string name="month_december_short">Déc</string>
     <string name="month_december_shortest">Déc</string>
     <string name="month_february">Février</string>
-    <string name="month_february_short">Fév</string>
-    <string name="month_february_shortest">Fév</string>
+    <string name="month_february_short">Févr</string>
+    <string name="month_february_shortest">Févr</string>
     <string name="month_january">Janvier</string>
-    <string name="month_january_short">Jan</string>
-    <string name="month_january_shortest">Jan</string>
+    <string name="month_january_short">Janv</string>
+    <string name="month_january_shortest">Janv</string>
     <string name="month_july">Juillet</string>
-    <string name="month_july_short">Jul</string>
-    <string name="month_july_shortest">Jul</string>
+    <string name="month_july_short">Juil</string>
+    <string name="month_july_shortest">Juil</string>
     <string name="month_june">Juin</string>
-    <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
+    <string name="month_june_short">Juin</string>
+    <string name="month_june_shortest">Juin</string>
     <string name="month_march">Mars</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
+    <string name="month_march_short">Mars</string>
+    <string name="month_march_shortest">Mars</string>
     <string name="month_may">Mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
@@ -245,8 +245,8 @@
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
     <string name="month_september">Septembre</string>
-    <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
+    <string name="month_september_short">Sept</string>
+    <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="night">Soirée</string>

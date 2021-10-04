@@ -41,7 +41,7 @@
   <string name="llks_tools_mipay_wallet_name">Mi Wallet</string>
   <string name="llks_try_it">Try</string>
   <string name="llks_whole_cate">Toutes catégories</string>
-  <string name="lock_show_permission_exception">An error occurred. Allow Wallpaper Carousel to be shown on the Lock screen in Security.</string>
+  <string name="lock_show_permission_exception">Allow Wallpaper Carousel to show items on the Lock screen</string>
   <string name="manage">Gérer</string>
   <string name="more">Plus</string>
   <string name="morning_bookmark_tab">Greeting</string>
@@ -49,10 +49,10 @@
   <string name="morning_greet_mark">" Salutations du matin"</string>
   <string name="morning_greet_title">Salutations du matin</string>
   <string name="morning_picture_tab">Image</string>
-  <string name="mtrl_badge_numberless_content_description">New notification</string>
-  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-  <string name="mtrl_picker_a11y_next_month">Change to next month</string>
-  <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+  <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+  <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
+  <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
   <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
   <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
   <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
@@ -63,8 +63,8 @@
   <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
   <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>
   <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
-  <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
-  <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
   <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
   <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
   <string name="mtrl_picker_save">Enregistrer</string>
@@ -81,13 +81,13 @@
   <string name="open_gallery">"Diaporama fonds d'écran"</string>
   <string name="open_gallery_tips">"Appuyez ici pour activer le Carrousel de fonds d'écran"</string>
   <string name="opened">Activer</string>
-  <string name="password_toggle_content_description">Afficher mot de passe</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="permission_account_tip">Accéder aux informations du compte</string>
   <string name="permission_storage_tip">"Accéder aux images sur votre appareil afin de les utiliser en tant que fonds d'écran"</string>
   <string name="privacy_setting">Paramètres de confidentialité</string>
-  <string name="prv_end">"&lt;CDATA&gt;"C'est tout pour le moment."&lt;/CDATA&gt;"</string>
-  <string name="prv_loading">&lt;CDATA&gt;Chargement&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="prv_nodata">&lt;CDATA&gt;Aucune données&lt;/CDATA&gt;</string>
+  <string name="prv_end">"&lt;CDATA>C'est tout pour le moment.&lt;/CDATA>"</string>
+  <string name="prv_loading">&lt;CDATA>Chargement…&lt;/CDATA></string>
+  <string name="prv_nodata">&lt;CDATA>Aucune donnée&lt;/CDATA></string>
   <string name="recommend_switch_desc">Recevez des recommandations de contenu en fonction de vos préférences</string>
   <string name="recommend_switch_dlg_close">Désactiver</string>
   <string name="recommend_switch_dlg_desc">"You won't be able to receive recommendations based on your preferences if you turn this feature off."</string>
@@ -95,7 +95,7 @@
   <string name="recommend_switch_dlg_title">Désactiver les recommandations ?</string>
   <string name="recommend_switch_title">Recommandations personnalisées</string>
   <string name="remove">Supprimer</string>
-  <string name="rv_with_footer_loading">&lt;CDATA&gt;Chargement&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="rv_with_footer_loading">&lt;CDATA>Chargement…&lt;/CDATA></string>
   <string name="select_picture">Sélectionnez des images</string>
   <string name="select_picture_des">Add your photos and online images to the mix to make them appear in the slideshow automatically.</string>  
   <string name="send_diagnosis_log">Envoyer les journaux</string>
@@ -160,7 +160,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -227,7 +227,7 @@
   <string name="cancel_lockscreen">Annuler</string>
   <string name="cancel_network">Quitter</string>
   <string name="carousel_declaration_btn_text">"Activer le Fond d'écran"</string>
-  <string name="carousel_declaration_cta">"Fond d'écran nécessite une connexion internet pour fonctionner normalement. Pour avoir accès au contenu en ligne, vous devez accepter notre &lt;a href='%s'&gt;Politique de confidentialité&lt;/a&gt;. Accepter ?"</string>
+  <string name="carousel_declaration_cta">"Fond d'écran nécessite une connexion internet pour fonctionner normalement. Pour avoir accès au contenu en ligne, vous devez accepter notre &lt;a href='%s'>Politique de confidentialité&lt;/a>. Accepter ?"</string>
   <string name="carousel_declaration_cta_btn_text">Accepter et activé</string>
   <string name="carousel_declaration_des">"Découvrez de beaux endroits et recevez des surprises passionnantes avec le fond d'écran"</string>
   <string name="carousel_declaration_des2">Ajoutez vos images personnalisées</string>
@@ -301,7 +301,7 @@
   <string name="day">Tous les jours</string>
   <string name="declaration">"Obtenez de nouveaux fonds d'écran directement sur votre écran de verrouillage tous les jours."</string>
   <string name="declaration_lockscreen_title">"Obtenez des fonds d'écran de verrouillage tous les jours"</string>
-  <string name="declaration_title">Termes et Conditions</string>
+  <string name="declaration_title">Termes et conditions</string>
   <string name="delete_pic">"Supprimer l'image"</string>
   <string name="deny_des">"Fond d'écran doit avoir accès à la Galerie pour pouvoir fonctionner normalement."</string>
   <string name="detail_ad_type_ad">AD</string>
@@ -356,7 +356,7 @@ Send this code to the supervisor."</string>
   <string name="evening">Après-midi</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="explorer_activity_title">"Fond d'écran"</string>
-  <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+  <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="favor_list_no_data">Aucun article ici.</string>
   <string name="favor_list_title">Favoris</string>
@@ -364,11 +364,11 @@ Send this code to the supervisor."</string>
   <string name="feed_article_entrance_about">About \"%s\"</string>
   <string name="find_psw">Mot de passe oublié</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM , yyyy</string>
-  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="for_diagnosis_usage_only">Les journaux sont utilisés uniquement pour les diagnostics.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
@@ -426,7 +426,7 @@ Send this code to the supervisor."</string>
   <string name="llks_tools_remote_control_name">Mi Remote</string>
   <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">"Image d'origine chargée avec succès"</string>
-  <string name="loading">Chargement…</string>
+  <string name="loading">&lt;CDATA>Chargement…&lt;/CDATA></string>
   <string name="local_default_category">Catégorie locale prédéfinie</string>
   <string name="lock_screen_date">EEEE d MMMM</string>
   <string name="lock_screen_date_12">EEEE d MMMM</string>
@@ -494,29 +494,29 @@ dd/MM"</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
   <string name="month_april">Avril</string>
-  <string name="month_april_short">Apr</string>
-  <string name="month_april_shortest">Apr</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aoû</string>
-  <string name="month_august_shortest">Aoû</string>
+  <string name="month_august_short">Août</string>
+  <string name="month_august_shortest">Août</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
-  <string name="month_march_short">Mar</string>
-  <string name="month_march_shortest">Mar</string>
+  <string name="month_march_short">Mars</string>
+  <string name="month_march_shortest">Mars</string>
   <string name="month_may">Mai</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
@@ -527,8 +527,8 @@ dd/MM"</string>
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more_article">More articles</string>
   <string name="morning">Matin</string>
   <string name="need_open_gallery">"Activer Fond d'écran"</string>
@@ -552,7 +552,7 @@ dd/MM"</string>
   <string name="open_btn_start">Activé</string>
   <string name="open_des">"Activez le Diaporama fonds d'écran pour obtenir quotidiennement de nouvelles images et histoires sur votre écran de verrouillage."</string>
   <string name="open_freq_title">"Définir la fréquence de mise à jour du fond d'écran"</string>
-  <string name="open_guid_des">"Allez dans Paramètres &gt; Permissions &gt; Autres permissions &gt; Diaporama de fonds d'écran et donnez à l'application toutes les permissions recquises."</string>
+  <string name="open_guid_des">"Allez dans Paramètres > Permissions > Autres permissions > Diaporama de fonds d'écran et donnez à l'application toutes les permissions recquises."</string>
   <string name="open_sub_title">Sélectionnez les catégories</string>
   <string name="open_title">Wallpaper Carousel</string>
   <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
@@ -589,7 +589,7 @@ dd/MM"</string>
   <string name="passport_error_unknown">Erreur inconnue</string>
   <string name="passport_error_user_agreement_error">Agree to the terms and conditions first</string>
   <string name="passport_error_user_name">The username you entered is invalid</string>
-  <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="passport_forget_password">&lt;u>Forgot password&lt;/u></string>
   <string name="passport_get_verify_code">Get code</string>
   <string name="passport_getting_verify_code">Just a sec…</string>
   <string name="passport_identification_expired">Verification code expired. Start over.</string>
@@ -633,8 +633,8 @@ dd/MM"</string>
   <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
   <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
-  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=%1$s&gt;Accord d'utilisation&lt;/a&gt; et la &lt;a href=%2$s&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi."</Data></string>
-  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants : l'&lt;a href=%1$s&gt;Accord d'utilisation&lt;/a&gt; et la &lt;a href=%4$s&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;."</Data></string>
+  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi."</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants : l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>."</Data></string>
   <string name="passport_user_id_intro">Entrez le mot de passe pour %1$s</string>
   <string name="passport_v_code_error">Le code de vérification est incorrect</string>
   <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
@@ -691,7 +691,7 @@ dd/MM"</string>
   <string name="search">Rechercher</string>
   <string name="search_menu_title">Rechercher</string>
   <string name="search_str">Populaire maintenant</string>
-  <string name="see_all">Afficher tout</string>
+  <string name="see_all">Tout afficher</string>
   <string name="see_detail">Afficher</string>
   <string name="see_more">Afficher plus</string>
   <string name="see_more_content">Afficher plus</string>
@@ -811,9 +811,9 @@ dd/MM"</string>
   <string name="subscribe_item_checked">Abonné</string>
   <string name="subscribe_item_unchecked">Désabonné</string>
   <string name="subscribe_success_content_per_5_minutes">"Changer le fond d'écran toutes les 5 minutes"</string>
-  <string name="summary">"Agree to our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available."</string>
-  <string name="summary2">"En utilisant cette fonctionnalité, vous acceptez nos &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Accord d'utilisation&lt;/font&gt;&lt;/a&gt; et &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Politique de confidentialité&lt;/font&gt;&lt;/a&gt;. Cette fonctionnalité doit se connecter à internet pour fonctionner normalement.​"</string>
-  <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="summary">"Agree to our &lt;a href='%s'>Privacy Policy&lt;/a> to view online content. If you disagree, local wallpapers will still be available."</string>
+  <string name="summary2">"En utilisant cette fonctionnalité, vous acceptez notre &lt;font color='#0D84FF'>&lt;a href='%1$s'>Accord d'utilisation&lt;/font>&lt;/a> et notre &lt;font color='#0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>. Cette fonctionnalité doit se connecter à internet pour fonctionner normalement.​"</string>
+  <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href='%1$s'>User Agreement&lt;/a> and &lt;a href='%2$s'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally.​"</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>

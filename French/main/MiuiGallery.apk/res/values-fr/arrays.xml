@@ -211,11 +211,6 @@
         <item>Islande</item>
         <item>Kenya</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Move</item>
-        <item>Copy</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Janvier</item>
         <item>Février</item>
@@ -291,7 +286,7 @@
         <item>Grand-mère maternelle</item>
     </string-array>
     <string-array name="sports_title">
-        <item>Aller de l’avant</item>
+        <item>"Aller de l'avant"</item>
         <item>"Plein d'énergie"</item>
     </string-array>
     <string-array name="three_month_baby_title">

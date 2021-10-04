@@ -22,7 +22,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -87,11 +87,11 @@ Envoyez ce code au superviseur."</string>
   <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Mi</string>
   <string name="find_psw">Mot de passe oublié</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="for_diagnosis_usage_only">Les journaux sont utilisés uniquement pour les diagnostics.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
@@ -137,6 +137,7 @@ Envoyez ce code au superviseur."</string>
   <string name="mibi_btn_recharge_large">Recharger</string>
   <string name="mibi_btn_recharge_other">Recharger</string>
   <string name="mibi_btn_recharge_success_quick">Recharge effectuée</string>
+  <string name="mibi_btn_return_home">"Revenir à l'accueil"</string>
   <string name="mibi_business_title">Autres services</string>
   <string name="mibi_button_bind_phone">Lier maintenant</string>
   <string name="mibi_button_call">Appeler</string>
@@ -167,7 +168,7 @@ Envoyez ce code au superviseur."</string>
   <string name="mibi_detail_consume_name">Produit</string>
   <string name="mibi_detail_consume_order">ID de paiement</string>
   <string name="mibi_detail_consume_time">Heure</string>
-  <string name="mibi_detail_consume_title">Liste des paiements</string>
+  <string name="mibi_detail_consume_title">Ordre de consommation</string>
   <string name="mibi_detail_giftcard_activity">Promotion</string>
   <string name="mibi_detail_giftcard_expired_time">"Date d'expiration"</string>
   <string name="mibi_detail_giftcard_theme">Acheter des thèmes</string>
@@ -179,7 +180,7 @@ Envoyez ce code au superviseur."</string>
   <string name="mibi_detail_recharge_method">Méthode</string>
   <string name="mibi_detail_recharge_order">Commande de rechargement n°</string>
   <string name="mibi_detail_recharge_time">heure</string>
-  <string name="mibi_detail_recharge_title">Liste des rechargements</string>
+  <string name="mibi_detail_recharge_title">Ordre de recharge</string>
   <string name="mibi_direct_pay_novalid_method">Aucune méthode de paiement valide.</string>
   <string name="mibi_direct_payment_title">Info commande</string>
   <string name="mibi_enter_failed">"L'ouverture a échoué"</string>
@@ -213,13 +214,15 @@ Please check your local date and try again."</string>
   <string name="mibi_error_web_summary">Server error</string>
   <string name="mibi_fee">%1$s Mi Crédit</string>
   <string name="mibi_forget_password">Mot de passe oublié</string>
-  <string name="mibi_format_bill_date">d/M/yyyy</string>
+  <string name="mibi_format_bill_date">dd/MM/yyyy</string>
+  <string name="mibi_format_bill_time">yyyy-MM-dd HH:mm</string>
   <string name="mibi_format_date">d MMMM yyyy</string>
   <string name="mibi_format_time">d MMMM yyyy hh:mmaa</string>
+  <string name="mibi_format_time_giftcard">yyyy-MM-dd HH:mm:ss</string>
   <string name="mibi_frozen">Frozen</string>
   <string name="mibi_frozen_prim">Account frozen</string>
   <string name="mibi_frozen_sub">Abnormal activity detected</string>
-  <string name="mibi_frozen_text">&lt;Data&gt;Your account is frozen. &amp;lt;font color=#33aaff&amp;gt;Contact our customer support.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_frozen_text"><Data>Your account is frozen. &lt;font color=#33aaff>Contact our customer support.&lt;/font></Data></string>
   <string name="mibi_frozen_text_pad">Your account is frozen. Contact 400–100–3399.</string>
   <string name="mibi_get_phone_format_error">Verify phone number</string>
   <string name="mibi_get_phone_num_summary">Enter the phone number used for payments</string>
@@ -233,7 +236,9 @@ Please check your local date and try again."</string>
   <string name="mibi_giftcard_discount">Coupons</string>
   <string name="mibi_giftcard_discount_detail">Coupon(spend%1$sMi Coins)</string>
   <string name="mibi_giftcard_discount_detail2">(Spend %1$s Mi Coins to redeem)</string>
+  <string name="mibi_giftcard_discount_detail3">Spend %1$s Mi Coins to redeem</string>
   <string name="mibi_giftcard_empty_detail">No %1$s coupons.</string>
+  <string name="mibi_giftcard_expire_soon">Expire soon</string>
   <string name="mibi_giftcard_has_expired">Expired on %1$s</string>
   <string name="mibi_giftcard_has_unavailable">Expired</string>
   <string name="mibi_giftcard_has_used">Redeemed</string>
@@ -247,14 +252,20 @@ Please check your local date and try again."</string>
   <string name="mibi_giftcard_unavailable">Expired</string>
   <string name="mibi_giftcard_use_now">Redeem</string>
   <string name="mibi_giftcard_used">Redeemed</string>
-  <string name="mibi_giftcard_vaild_util">vaild util %1$s</string>
+  <string name="mibi_giftcard_vaild_util">valid util %1$s</string>
+  <string name="mibi_giftcard_valid_time_last">Expires in %1$s days</string>
   <string name="mibi_giftcard_will_expire">Expires on %1$s</string>
-  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Mi Coin coupon available&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700>&lt;xliff:g id=value>%1$d&lt;/xliff:g> Mi Coin coupon available&lt;/font></Data></string>
   <string name="mibi_header_network_error">"Couldn't connect to network."</string>
   <string name="mibi_illegal_intent">Illegal intent request</string>
+  <string name="mibi_incognito_mode_dialog_cancel">Cancel</string>
+  <string name="mibi_incognito_mode_dialog_summary_camera">"Can't use camera now. Turn off Incognito mode in the Settings to be able to use camera."</string>
+  <string name="mibi_incognito_mode_dialog_title">"You're incognito"</string>
+  <string name="mibi_incognito_mode_dialog_to_close">Settings</string>
   <string name="mibi_is_what">What can you buy with Mi Coins?</string>
   <string name="mibi_label_balance">Balance</string>
   <string name="mibi_label_giftcard">Giftcard</string>
+  <string name="mibi_label_giftcard_with_num">Giftcard(%1$s)</string>
   <string name="mibi_label_pay_remain">Amount due: %1$s Mi Coins</string>
   <string name="mibi_license_message_span">Mi Coin User Agreement</string>
   <string name="mibi_license_title">Terms and conditions</string>
@@ -274,7 +285,7 @@ Please check your local date and try again."</string>
   <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
   <string name="mibi_msg_order_hint_1_2">Automatically contact your service provider.</string>
   <string name="mibi_msg_picker_hint_1_1">1.</string>
-  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red&gt;￥%1$d = %2$d Mi Coin&lt;/font&gt;</string>
+  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red>￥%1$d = %2$d Mi Coin&lt;/font></string>
   <string name="mibi_msg_picker_hint_2_1">2.</string>
   <string name="mibi_msg_picker_hint_2_a">Carriers charge a ￥%1$s service fee per top-up</string>
   <string name="mibi_msg_picker_hint_2_b">An SMS will be sent to your carrier after you tap \"Top up\". Carrier will charge you for a regular SMS.</string>
@@ -297,6 +308,8 @@ Please check your local date and try again."</string>
   <string name="mibi_order_balance_lable">Mi Coins</string>
   <string name="mibi_order_balance_lable_append">Mi Coins + coupon</string>
   <string name="mibi_order_balance_title">My Mi Coins</string>
+  <string name="mibi_order_discount_giftcard_title">Coupons(Use one at a time)</string>
+  <string name="mibi_order_mibi_to_money_rate">1 Mi Coin = 1 RMB</string>
   <string name="mibi_order_no_use_balance">Nonuse</string>
   <string name="mibi_order_pay_back">Confirmer</string>
   <string name="mibi_order_pay_type">Payment method</string>
@@ -314,9 +327,10 @@ Please check your local date and try again."</string>
   <string name="mibi_pay_grid_error_denomination">Amount must be between Mi Coins %1$s and %2$s.</string>
   <string name="mibi_pay_success_summary">"You've paid %1$s Mi Coin"</string>
   <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Coins recharged，%2$s Mi Coins paied</string>
-  <string name="mibi_payment_recharge_group_title">Choose top-up method</string>
+  <string name="mibi_payment_recharge_group_title">Choose method</string>
   <string name="mibi_payment_success_title">Payment received</string>
   <string name="mibi_payment_with_login_title">Verify Mi Account</string>
+  <string name="mibi_paymnet_failed_title">Fransaction Failed</string>
   <string name="mibi_paytool_alipay">Alipay</string>
   <string name="mibi_paytool_app_not_installed">"You haven't installed %1$s. Download and install it now?"</string>
   <string name="mibi_paytool_error_install">Failed to install %1$s mobile security plugin</string>
@@ -326,6 +340,12 @@ Please check your local date and try again."</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
   <string name="mibi_paytool_weixin">WeChat</string>
+  <string name="mibi_permanently_denied_perm_camera">Allow camera in Settings to use the features.</string>
+  <string name="mibi_permanently_denied_perm_send_sms">Allow send SMS messages in Settings to use the features.</string>
+  <string name="mibi_prepaid_card_hint">All recharges are one-time recharges, and the selected face value must be consistent with the recharge card. A wrong selection will result in loss of funds.</string>
+  <string name="mibi_prepaid_card_hint_input_card_num">Please enter the card number</string>
+  <string name="mibi_prepaid_card_hint_input_pwd">Please enter the password</string>
+  <string name="mibi_prepaid_card_info">Recharge Card Information</string>
   <string name="mibi_prepaid_card_order_info">%1$s top-up card: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Select carrier</string>
   <string name="mibi_prepaid_dialog_content">Any loss caused by the discrepancy between the card number, face value, password and the actual information shall be borne by you. Double check the information you provide before you proceed.</string>
@@ -342,9 +362,9 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_hint_1_2">Only supports one-time charge;</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
-  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
+  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_hint_3_1">3.</string>
-  <string name="mibi_prepaid_picker_hint_3_2">Enter your card number, face value, and password. <b>Any loss caused by the discrepancy between the information you provide and the actual information shall be borne by you.</b></string>
+  <string name="mibi_prepaid_picker_hint_3_2">Enter your card number, face value, and password. &lt;b>Any loss caused by the discrepancy between the information you provide and the actual information shall be borne by you.&lt;/b></string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_privacy_license_name">Politique de confidentialité</string>
@@ -380,7 +400,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="mibi_prompt_info_button_hint">Attention(%d)</string>
   <string name="mibi_prompt_info_button_text">OK</string>
-  <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+  <string name="mibi_prompt_info_for_first_use">"Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com."</string>
   <string name="mibi_prompt_info_title">Tips</string>
   <string name="mibi_push_register_fail">Register push fail.</string>
   <string name="mibi_push_register_success">Register push success.</string>
@@ -390,19 +410,24 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_push_set_alias_success">Set alias \"%1$s\" success.</string>
   <string name="mibi_push_unset_alias_fail">Unset alias fail for %1$s.</string>
   <string name="mibi_push_unset_alias_success">Unset alias \"%1$s\" success.</string>
+  <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
   <string name="mibi_recharge_grid_error_denomination">Amount must be between Mi Coins %1$s and %2$s.</string>
   <string name="mibi_recharge_grid_item_more">Plus</string>
-  <string name="mibi_recharge_grid_mibi_picker_hint">Choose amount</string>
+  <string name="mibi_recharge_grid_mibi_picker_hint">Choose amount(1 Mi Coin = 1 RMB)</string>
   <string name="mibi_recharge_grid_money_picker_hint">Select amount</string>
+  <string name="mibi_recharge_input_amount_hint">Please enter the amount</string>
   <string name="mibi_recharge_label">Top-up</string>
   <string name="mibi_recharge_mibi_title">Mi Coin</string>
+  <string name="mibi_recharge_more_channels_title">More</string>
   <string name="mibi_recharge_novalid_method">No valid top-up method.</string>
   <string name="mibi_recharge_other">View other methods</string>
+  <string name="mibi_recharge_other_amount">Other amount</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d added %2$s Mi Coins to your account</string>
   <string name="mibi_recharge_push_notification_sub_title">Top-up complete.</string>
   <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Coins</string>
   <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Coins</string>
   <string name="mibi_recharge_warn_text">"You can't buy physical goods using Mi Coins."</string>
+  <string name="mibi_return">Return</string>
   <string name="mibi_scan_prompt_number">Scan %1$s prepaid card number</string>
   <string name="mibi_scan_prompt_password">Scan %1$s prepaid card password</string>
   <string name="mibi_scan_prompt_voucher">Scan Mi Coin password</string>
@@ -434,12 +459,15 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_voucher_card_text">Please scratch off the coat</string>
   <string name="mibi_voucher_error_password">Code invalid.</string>
   <string name="mibi_voucher_input_password_prompt">Enter code</string>
+  <string name="mibi_voucher_password">Mi Coin Card Password</string>
   <string name="mibi_web_login">Login</string>
   <string name="mibi_web_login_app_description">Login %1$s</string>
   <string name="mibi_web_login_description">Login</string>
   <string name="mibi_web_login_waiting">Please wait…</string>
   <string name="mibi_web_sso_login_fail">Vous devez vous authentifier à nouveau</string>
   <string name="midnight">Nuit</string>
+  <string name="miuix_access_state_desc">Sélectionné</string>
+  <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -454,6 +482,7 @@ Customer service center：400-100-3399"</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
@@ -469,26 +498,26 @@ Customer service center：400-100-3399"</string>
   <string name="month_april_short">Avr</string>
   <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aoû</string>
-  <string name="month_august_shortest">Aoû</string>
+  <string name="month_august_short">Août</string>
+  <string name="month_august_shortest">Août</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
-  <string name="month_march_short">Mar</string>
-  <string name="month_march_shortest">Mar</string>
+  <string name="month_march_short">Mars</string>
+  <string name="month_march_shortest">Mars</string>
   <string name="month_may">Mai</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
@@ -499,8 +528,8 @@ Customer service center：400-100-3399"</string>
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
@@ -586,8 +615,8 @@ Customer service center：400-100-3399"</string>
   <string name="passport_unknow_error">An unknown error occurred</string>
   <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
   <string name="passport_unknow_network_error">A network error occurred</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;I've read and agree to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link"><Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."</Data></string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
@@ -600,7 +629,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
   <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
   <string name="passport_wrong_voice">The code you entered is incorrect</string>
-  <string name="password_toggle_content_description">Show password</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
   <string name="phone_hint">Phone number</string>
   <string name="phone_num_use_for">Phone number is used for:</string>

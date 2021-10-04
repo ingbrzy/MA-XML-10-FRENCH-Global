@@ -41,11 +41,12 @@
     <string name="back">Retour</string>
     <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
     <string name="camera_introduction">"Vous pouvez utiliser l'appareil photo pour prendre des photos et filmer des vidéos."</string>
-    <string name="carrier_introduction">"In order to provide you with better services, your device may periodically send your device version information, device identification data (including IMEI/IMSI/MSISDN/MAC address, MEID/ICCID), and approximate location information (including base station ID) to the carrier via Wi-Fi, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
+    <string name="carrier_introduction">"Afin de vous fournir de meilleurs services, votre appareil peut envoyer périodiquement des informations sur la version de votre appareil, des données d'identification de l'appareil (y compris l'adresse IMEI/IMSI/MSISDN/MAC, MEID/ICCID) et des informations de localisation approximatives (y compris l'ID de la station de opérateur via Wi-Fi, réseau de données mobiles ou SMS gratuit. Le transporteur promet d'analyser les informations pertinentes uniquement pour améliorer la qualité des services ou pour fournir des services ou des technologies personnalisés, et ne divulguera aucune information pertinente à des tiers sous quelque forme que ce soit qui vous identifie personnellement. La déclaration spécifique du transporteur prévaudra. Consultez votre opérateur concernant le coût d'utilisation de ce service."</string>
+    <string name="carrier_introduction_china">"Afin de vous fournir de meilleurs services, les processus exécutés sur votre appareil (y compris SystemHelper, RegService et Carrier Services) peuvent périodiquement envoyer les informations relatives à votre appareil et à votre carte SIM (y compris IMEI, IMSI, MSISDN, MEID, ICCID, adresse MAC , version MIUI, version Android, modèle d'appareil et spécifications matérielles de base), ainsi que des informations de localisation approximatives (y compris la région, les coordonnées, l'identifiant de zone et l'identifiant de la station de base) à l'opérateur via Wi-Fi, réseau de données mobile ou gratuit SMS. Le transporteur promet d'analyser les informations pertinentes uniquement pour améliorer la qualité des services ou pour fournir des services ou des technologies personnalisés, et ne divulguera aucune information pertinente à des tiers sous quelque forme que ce soit qui vous identifie personnellement. La déclaration spécifique du transporteur prévaudra. Consultez votre opérateur concernant le coût d'utilisation de ce service."</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="clock_introduction">"Vous pouvez utiliser cette application pour visualiser l'heure, ainsi que pour utiliser la minuterie, l'horloge mondiale, le chronomètre, régler les alarmes, et plus encore."</string>
     <string name="close">Fermer</string>
-    <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres &gt; Paramètres supplémentaires &gt; Confidentialité ou de limiter les autorisations pour des applications individuelles dans Sécurité."</string>
+    <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres > Protection de la vie privée > Gérer ou limiter les permissions pour des applications individuelles dans Sécurité."</string>
     <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using Wi-Fi networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
     <string name="cm_terms_title">"Accord de l'opérateur du réseau mobile"</string>
     <string name="compass_introduction">"Vous pouvez utiliser cette application pour la navigation, ainsi que pour visualiser les coordonnées, la pression atmosphérique et l'altitude."</string>
@@ -86,13 +87,13 @@
     <string name="evening">Après-midi</string>
     <string name="expand_button_title">Avancé</string>
     <string name="fast_application_introduction">Quick apps Framework vous permet de créer et de fournir des services dans des applications rapides.</string>
-    <string name="fast_pairing_introduction">Mi Link permet à votre appareil de se connecter à des appareils Bluetooth à proximité. Pour pouvoir trouver des appareils à proximité, autorisez Mi Link à se connecter à internet.</string>
+    <string name="fast_pairing_introduction">Mi Link permet à votre appareil de se connecter à des périphériques Bluetooth à proximité. Pour pouvoir trouver des appareils à proximité, autorisez Mi Link à se connecter à internet.</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="font_hint_large">Taille de texte par défaut</string>
     <string name="font_hint_normal">Augmenter la taille du texte</string>
     <string name="framework_introduction">"Mi Services Framework vous permet d'utiliser Mi Compte, Mi Push, Mi Stats, et MIUI BI."</string>
@@ -156,26 +157,26 @@
     <string name="month_april_short">Avr</string>
     <string name="month_april_shortest">Avr</string>
     <string name="month_august">Août</string>
-    <string name="month_august_short">Aoû</string>
-    <string name="month_august_shortest">Aoû</string>
+    <string name="month_august_short">Août</string>
+    <string name="month_august_shortest">Août</string>
     <string name="month_december">Décembre</string>
     <string name="month_december_short">Déc</string>
     <string name="month_december_shortest">Déc</string>
     <string name="month_february">Février</string>
-    <string name="month_february_short">Fév</string>
-    <string name="month_february_shortest">Fév</string>
+    <string name="month_february_short">Févr</string>
+    <string name="month_february_shortest">Févr</string>
     <string name="month_january">Janvier</string>
-    <string name="month_january_short">Jan</string>
-    <string name="month_january_shortest">Jan</string>
+    <string name="month_january_short">Janv</string>
+    <string name="month_january_shortest">Janv</string>
     <string name="month_july">Juillet</string>
-    <string name="month_july_short">Jul</string>
-    <string name="month_july_shortest">Jul</string>
+    <string name="month_july_short">Juil</string>
+    <string name="month_july_shortest">Juil</string>
     <string name="month_june">Juin</string>
-    <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
+    <string name="month_june_short">Juin</string>
+    <string name="month_june_shortest">Juin</string>
     <string name="month_march">Mars</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
+    <string name="month_march_short">Mars</string>
+    <string name="month_march_shortest">Mars</string>
     <string name="month_may">Mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
@@ -186,8 +187,8 @@
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
     <string name="month_september">Septembre</string>
-    <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
+    <string name="month_september_short">Sept</string>
+    <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="move_data_dialog_box_le">"Cela permet d'utiliser les données mobiles et la connexion GPS en fonction de la demande de l'utilisateur. La synchronisation des comptes et d'autres éléments peut nécessiter l'utilisation de données mobiles selon les spécifications du smartphone."</string>
@@ -227,11 +228,11 @@
     <string name="other_settings_upload_debug_log_detail">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc.
 Les données que vous enverrez contiendront des informations générales sur votre appareil et la manière dont vous l'utilisez (par exemple, le niveau de la batterie, l'activité du système et des applications, et les erreurs). Les données seront utilisées pour améliorer les appareils MIUI.
 La désactivation de cette fonction n'affecte pas la capacité de votre appareil à envoyer les informations nécessaires aux services essentiels tels que les mises à jour du système et la sécurité.
-Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe &amp; sécurité > Confidentialité > Utilisation et diagnostics."</string>
+Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe &amp; Sécurité > Paramètres de confidentialité > Utilisation et diagnostics."</string>
     <string name="other_settings_upload_debug_log_summary">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc."</string>
     <string name="other_settings_upload_debug_log_title">"Envoyer des données d'utilisation et de diagnostic"</string>
     <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
-    <string name="other_settings_user_experience_summary">"Aidez-nous à améliorer nos produits et services en partageant vos statistiques d'utilisation avec nous. Afficher les détails"</string>
+    <string name="other_settings_user_experience_summary">"Aidez-nous à améliorer nos produits et services en partageant vos statistiques et analyses d'utilisation avec nous."</string>
     <string name="other_settings_user_experience_summary_index">Afficher les détails</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon vous permet de transférer des données depuis votre appareil lorsque son écran est endommagé.</string>
     <string name="permission_account">Accédez aux comptes sur votre appareil: </string>
@@ -305,13 +306,13 @@ Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe 
     <string name="security_introduction">"Vous pouvez utiliser cette application pour nettoyer les fichiers inutiles de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer les applications, les permissions, etc."</string>
     <string name="security_mobile_account_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
     <string name="send">Envoyer</string>
-    <string name="service_agreement">"J'ai lu et accepté les Termes et Conditions."</string>
+    <string name="service_agreement">"J'ai lu et accepté les Termes et conditions."</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galerie</string>
-    <string name="service_name_application_package">Package installateur</string>
+    <string name="service_name_application_package">Installateur de paquets</string>
     <string name="service_name_calculator">Calculatrice</string>
     <string name="service_name_camera">Appareil photo</string>
-    <string name="service_name_carrier">Déclaration sur les services des transporteurs</string>
+    <string name="service_name_carrier">Déclaration sur les services des opérateurs</string>
     <string name="service_name_clock">Horloge</string>
     <string name="service_name_compass">Boussole</string>
     <string name="service_name_content_center">Centre de contenu</string>
@@ -326,8 +327,8 @@ Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe 
     <string name="service_name_screen_recording">"Enregistreur d'écran"</string>
     <string name="service_name_security">Sécurité</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
-    <string name="service_policy">"&lt;Data&gt;Lire et accepter notre &amp;lt;a href=%1$s&amp;gt;Politique de confidentialité&amp;lt;/a &amp;gt;.&lt;/Data&gt;"</string>
-    <string name="service_policy_download">"&lt;Data&gt;Before using our services, read and agree to &amp;lt;a href=%1$s&amp;gt;Xunlei Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;"</string>
+    <string name="service_policy"><Data>"Lire et accepter notre &lt;a href=%1$s>Politique de confidentialité&lt;/a >."</Data></string>
+    <string name="service_policy_download"><Data>"Before using our services, read and agree to &lt;a href=%1$s>Xunlei Privacy Policy&lt;/a >."</Data></string>
     <string name="service_privacy_index">Politique de confidentialité</string>
     <string name="service_security_over_r"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a> avant d'utiliser la sécurité.&lt;br/>&lt;br/>Conformément aux normes Android 11, une autorisation unique sera retirée dans les 5 secondes suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."</Data></string>
     <string name="servicestate_title">Déclaration sur les services de base</string>
@@ -384,7 +385,7 @@ Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe 
 Vous devez les accepter avant de pouvoir utiliser MIUI.
 %s et les composants du compte Mi se connecteront à internet et localiseront votre appareil."</string>
     <string name="terms_of_use_label_Mistore">, Plug-in du système Mi Store</string>
-    <string name="terms_of_use_label_package">", Installateur de l'emballage"</string>
+    <string name="terms_of_use_label_package">, Installateur de paquets</string>
     <string name="terms_of_use_label_phrase">, Phrases fréquentes</string>
     <string name="terms_of_use_label_systemhelper">", Service d'enregistrement automatique"</string>
     <string name="terms_of_use_label_updater">, Mise à jour</string>

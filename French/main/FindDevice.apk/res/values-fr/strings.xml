@@ -43,7 +43,7 @@
     <string name="default_debt_msg_words">"Cet appareil est verrouillé en raison d'un retard de versement.
 Contactez votre agent de vente pour plus de détails."</string>
     <string name="default_lock_msg_words">"Cet appareil est associé avec un compte Mi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
-    <string name="default_lock_msg_words_with_phone">"Salut ! J'ai perdu mon téléphone. Pourriez-vous me contacter s'il vous plait ? Merci !"</string>
+    <string name="default_lock_msg_words_with_phone">"Salut ! J'ai perdu cet appareil. Pourriez-vous me contacter s'il-vous-plaît ? Merci !"</string>
     <string name="device_locked">Cet appareil est bloqué</string>
     <string name="device_lost">Cet appareil est perdu</string>
     <string name="disable_find_device_error">"Impossible de désactiver Localiser l'appareil. %1$s"</string>
@@ -58,6 +58,10 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="evening">Après-midi</string>
     <string name="expand_button_title">Avancé</string>
     <string name="find_device">"Localiser l'appareil"</string>
+    <string name="find_device_capture_done_notification_content">Voir la photo sur i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">"L'appareil trouvé a pris une photo à distance"</string>
+    <string name="find_device_capture_notification_content">Une demande de prise de photo à distance avec cet appareil a été soumise par votre compte</string>
+    <string name="find_device_capture_notification_title">"L'appareil trouvé est sur le point de prendre une photo"</string>
     <string name="find_device_crash">"\"Localiser l'appareil\" s'est fermé de façon inattendue."</string>
     <string name="find_device_error_access_denied">Accès refusé.</string>
     <string name="find_device_error_account_sys_timeout">"Impossible de se connecter au Compte Mi. "</string>
@@ -67,7 +71,7 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="find_device_error_server">Erreur serveur (%s).</string>
     <string name="find_device_error_unknown">Erreur Inconnue (%s).</string>
     <string name="find_device_noise_title">"Alarme de localisation de l'appareil"</string>
-    <string name="find_device_notice">Aller sur &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; pour localiser, verrouiller ou restaurer votre appareil.</string>
+    <string name="find_device_notice">Aller sur &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> pour localiser, verrouiller ou restaurer votre appareil.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte local payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte international payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
@@ -76,11 +80,11 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="find_device_success_title">"Localiser l'appareil"</string>
     <string name="find_device_telephony_fault">"Localiser l'appareil: Erreur de téléphonie (%s)."</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -118,26 +122,26 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="month_april_short">Avr</string>
     <string name="month_april_shortest">Avr</string>
     <string name="month_august">Août</string>
-    <string name="month_august_short">Aoû</string>
-    <string name="month_august_shortest">Aoû</string>
+    <string name="month_august_short">Août</string>
+    <string name="month_august_shortest">Août</string>
     <string name="month_december">Décembre</string>
     <string name="month_december_short">Déc</string>
     <string name="month_december_shortest">Déc</string>
     <string name="month_february">Février</string>
-    <string name="month_february_short">Fév</string>
-    <string name="month_february_shortest">Fév</string>
+    <string name="month_february_short">Févr</string>
+    <string name="month_february_shortest">Févr</string>
     <string name="month_january">Janvier</string>
-    <string name="month_january_short">Jan</string>
-    <string name="month_january_shortest">Jan</string>
+    <string name="month_january_short">Janv</string>
+    <string name="month_january_shortest">Janv</string>
     <string name="month_july">Juillet</string>
-    <string name="month_july_short">Jul</string>
-    <string name="month_july_shortest">Jul</string>
+    <string name="month_july_short">Juil</string>
+    <string name="month_july_shortest">Juil</string>
     <string name="month_june">Juin</string>
-    <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
+    <string name="month_june_short">Juin</string>
+    <string name="month_june_shortest">Juin</string>
     <string name="month_march">Mars</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
+    <string name="month_march_short">Mars</string>
+    <string name="month_march_shortest">Mars</string>
     <string name="month_may">Mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
@@ -148,8 +152,8 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
     <string name="month_september">Septembre</string>
-    <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
+    <string name="month_september_short">Sept</string>
+    <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="night">Soirée</string>

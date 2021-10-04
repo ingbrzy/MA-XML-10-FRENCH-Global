@@ -36,6 +36,7 @@
   <string name="afternoon">Après-midi</string>
   <string name="all_ringtone">Plus</string>
   <string name="all_ringtone_summary">Sélectionnez des sonneries en ligne</string>
+  <string name="all_ringtone_summary_pad">Sélectionnez des sonneries</string>
   <string name="amazon_introduction">La région la plus riche en biodiversité de notre planète, souvent appelée "poumon de la Terre".</string>
   <string name="amazon_orange_winged_info">"L'amazone aourou est un grand perroquet bruyant qui pousse des cris forts et aigus."</string>
   <string name="animal_branch">Famille</string>
@@ -139,14 +140,20 @@
   <string name="created_successfully">Créé avec succès</string>
   <string name="crowned_hornbill">Calao couronné</string>
   <string name="cu_confirm">Définir</string>
+  <string name="customize_radio_btn_summary">Préférer le taux de rafraîchissement sélectionné</string>
+  <string name="customize_radio_btn_title">Personnaliser</string>
   <string name="dall_sheep">Mouflon de Dall</string>
   <string name="dart_frog_info">Sa peau bleu vif et ses glandes venimeuses sont des mécanismes de défense contre les prédateurs potentiels.</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="dc_light_hint_enable_title">Attention</string>
   <string name="dc_light_hint_normal">"L'atténuation DC peut affecter la façon dont certains éléments sont affichés."</string>
+  <string name="dc_light_hint_normal_anit">Le mode anti-scintillement peut affecter la façon dont certains éléments sont affichés.</string>
+  <string name="dc_light_hint_normal_other">Le mode anti-scintillement peut affecter la fréquence de rafraîchissement et la façon dont certains éléments sont affichés.</string>
   <string name="dc_light_hint_other">"L'atténuation DC peut affecter la fréquence de rafraîchissement et la façon dont certains éléments sont affichés."</string>
-  <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
+  <string name="dc_light_hint_unnormal_low">Le mode anti-scintillement à faible luminosité peut affecter la façon dont certains éléments sont affichés.</string>
+  <string name="dc_light_hint_unnormal_other">Le mode anti-scintillement à faible luminosité peut affecter le taux de rafraîchissement et la façon dont certains éléments sont affichés.</string>
+  <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
   <string name="delete_first_to_add_animal">"Pour ajouter un nouvel élément, supprimez-en d'abord un."</string>
   <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
   <string name="display_title">Interface plus grande</string>
@@ -214,12 +221,12 @@
   <string name="expand_button_title">Avancé</string>
   <string name="first_unlock_time">Premier déverrouillage : </string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="focus_mode_custom_time">Custom duration</string>
   <string name="focus_mode_timer_add_limit">"Vous pouvez ajouter jusqu'à %d minuteries personnalisées"</string>
   <string name="focus_mode_timer_delete">Supprimer</string>
@@ -228,13 +235,19 @@
   <string name="focus_mode_timer_pick_dialog_title">Entrez la durée</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Mode de mise au point désactivé."</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
+  <string name="fps_high">Haut</string>
   <string name="fps_nature_summary">Un taux de rafraîchissement maximum rend les choses nettes et claires</string>
   <string name="fps_nature_title">Maximum</string>
+  <string name="fps_normal">Standard</string>
+  <string name="fps_radio_btn_title">Taux de rafraîchissement</string>
+  <string name="fps_save_battery_tips">"L'économiseur de batterie est activé. Taux de rafraîchissement défini sur %d Hz."</string>
   <string name="fps_smooth_summary">Un taux de rafraîchissement élevé ajoute de la netteté aux détails</string>
   <string name="fps_smooth_title">Élevé</string>
   <string name="fps_standard_summary">Un taux de rafraîchissement standard économise la batterie</string>
   <string name="fps_standard_title">Standard</string>
   <string name="fps_user_tip">- Ces animations de démonstrations sont jouées à vitesse faible en tant que référence. La performance réelle peut apparaître différente à cause de différents facteurs.</string>
+  <string name="fps_user_tip_footer">"%1$d. Pour que vous compreniez la différence entre des taux de rafraîchissement plus élevés et plus bas, les démos sont jouées plus lentement ici. Il peut être plus difficile pour vous de remarquer la différence lors d'une utilisation régulière.
+%2$d. Dans certains cas, le taux de rafraîchissement peut être ajusté dynamiquement en fonction des éléments affichés."</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -257,12 +270,15 @@
   <string name="harp_seal">Phoque du Groenland</string>
   <string name="harpy_eagle">Harpie féroce</string>
   <string name="has_applied">Appliqué</string>
-  <string name="healthy_use_phone">"Gérer le temps d'utilisation"</string>
+  <string name="healthy_use_phone">"Gérer le Temps d'utilisation"</string>
   <string name="helmeted_guineafowl">Pintade</string>
   <string name="hippopotamus">Hippopotame</string>
   <string name="high_fps_description">"Taux de rafraîchissement d'écran élevé. Consommation d'énergie plus élevée."</string>
+  <string name="high_fps_tip_footer">"L'utilisation de taux de rafraîchissement plus élevés rend l'expérience de visionnage plus fluide mais consomme plus d'énergie."</string>
   <string name="hsv_space_color">Espace colorimétrique HSV</string>
   <string name="hsv_space_color_saturation">Saturation</string>
+  <string name="intelligent_radio_btn_summary">"Ajustez le taux de rafraîchissement de manière dynamique en fonction de scénarios pour équilibrer les performances avec la consommation d'énergie"</string>
+  <string name="intelligent_radio_btn_title">Auto (recommandé)</string>
   <string name="intelligent_recognition_item_summary">"Utilisez une sonnerie spécifique pour les appels des services de livraison et de taxi. Cette fonctionnalité fonctionnera lorsque %s est défini comme sonnerie par défaut."</string>
   <string name="intelligent_recognition_item_title">Identifier les services</string>
   <string name="item_anura">Anoures</string>
@@ -302,6 +318,8 @@
   <string name="lion_info">Les lions sont des prédateurs féroces et puissants. Ils vivent en groupe et ont un sens aigu du territoire.</string>
   <string name="lock_summary">Protégez vos informations personnelles</string>
   <string name="long_tai1ed_iaeger">Labbe à longue queue</string>
+  <string name="low_flicker_mode">Faible luminosité</string>
+  <string name="low_flicker_mode_summary">Empêche le scintillement dans des conditions de faible luminosité pour réduire la fatigue oculaire</string>
   <string name="low_fps_description">"Taux de rafraîchissement d'écran bas. Faible consommation d'énergie."</string>
   <string name="low_light_preview">Aperçu en basse lumière</string>
   <string name="lynx">Lynx</string>
@@ -346,8 +364,8 @@
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
   <string name="month_april">Avril</string>
-  <string name="month_april_short">Avril</string>
-  <string name="month_april_shortest">Avril</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
   <string name="month_august_short">Août</string>
   <string name="month_august_shortest">Août</string>
@@ -355,16 +373,16 @@
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">Juin</string>
   <string name="month_june_shortest">J</string>
   <string name="month_march">Mars</string>
   <string name="month_march_short">Mars</string>
@@ -379,8 +397,8 @@
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="moose">Élan</string>
   <string name="more">Plus</string>
   <string name="more_ringtone">Toutes les sonneries</string>
@@ -403,6 +421,7 @@
   <string name="noon">Midi</string>
   <string name="normal_mode">Regular</string>
   <string name="normal_mode_summary">Ne réduisez pas le scintillement dans des conditions de faible luminosité</string>
+  <string name="normal_mode_summary_new">Autoriser le scintillement dans des conditions de faible luminosité</string>
   <string name="north_white_rhinoceros">Rhinocéros blanc</string>
   <string name="norway_lemmings">Lemming des toundras de Norvège</string>
   <string name="norway_lemmings_info">"Le lemming des toundras de Norvège habite dans la toundra et les chutes, et préfère vivre près de l'eau."</string>
@@ -425,8 +444,8 @@
   <string name="plains_zebra">Zèbre</string>
   <string name="platpus_info">"L'ornithorynque est un sujet important dans l'étude de la biologie évolutive. C'est aussi l'une des rares espèces de mammifères venimeux."</string>
   <string name="platypus">Ornithorynque</string>
-  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
-  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter nos&amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
+  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
   <string name="polar_bear">Ours polaire</string>
   <string name="pomarine_jaeger">Labbe pomarin</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -513,18 +532,21 @@
   <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="southern_elephant_seal">Éléphant de mer du sud</string>
   <string name="southern_ground_hornbill">Bucorve du Sud</string>
+  <string name="split_page_authorization">"Bienvenue à Temps d'utilisation ! Ici, vous pouvez définir des limites de temps d'écran et afficher les statistiques. Appuyez sur \"Démarrer\" pour activer cette fonction."</string>
+  <string name="split_page_start">Démarrer</string>
   <string name="spotted_hyaena">Hyène tachetée</string>
   <string name="spotted_hyaena_info">Les hyènes sont des prédateurs nocturnes aux comportements sociaux les plus complexes.</string>
   <string name="spur_winged_plover">Vanneau à éperons</string>
   <string name="srgb_color_region_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs sRGB"</string>
   <string name="start_easymode">Activer le mode simplifié</string>
   <string name="steady_on_screen_notification_title">Posez votre téléphone et faites une pause</string>
+  <string name="steady_on_screen_notification_title_pad">Posez votre appareil et faites une pause</string>
   <string name="steady_on_screen_notify">Signaler une utilisation ininterrompue</string>
   <string name="steady_on_screen_setting">Limite de temps pour les sessions ininterrompues</string>
   <string name="steady_on_screen_summary">Limite de temps pour les sessions ininterrompues</string>
   <string name="stop_app_timer">"Désactiver le temps d'utilisation"</string>
-  <string name="stop_app_timer_fail">"Le temps d'utilisation n'a pas pu être désactivé"</string>
-  <string name="stop_app_timer_success">"Le temps d'utilisation a été désactivé"</string>
+  <string name="stop_app_timer_fail">"Le Temps d'utilisation n'a pas pu être désactivé"</string>
+  <string name="stop_app_timer_success">"Le Temps d'utilisation a été désactivé"</string>
   <string name="stop_app_timer_tip">"Les données et les permissions liées au temps d'utilisation seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
   <string name="stop_summary">"Toutes les statistiques et données de temps d'utilisation seront supprimées lorsque vous désactivez cette fonction"</string>
   <string name="suggestion">"Retour d'information"</string>
@@ -665,9 +687,9 @@ Cette application doit également se connecter à internet et nécessite les aut
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran : le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles :"</string>
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur."</string>
-  <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran &gt; Paramètres &gt; Désactiver le temps d'écran."</string>
-  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;"Avant d'utiliser cette application, vous devez lire et accepter notre &amp;lt;a href='%1s'&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
-  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations &gt; Paramètres &gt; Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran > Paramètres > Désactiver le temps d'écran."</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Avant d'utiliser cette application, vous devez lire et accepter notre &lt;a href='%1s'>Accord d'utilisation&lt;/a> et notre &lt;a href='%2s'>Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_new_home_app_limit_summary">"Définir une limite quotidienne de temps d'écran pour cette application"</string>
   <string name="usage_new_home_app_limit_title">"Limiter le temps d'écran"</string>
   <string name="usage_new_home_average">"Moy. "</string>
@@ -712,7 +734,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_optional_title">Permissions optionnelles</string>
   <string name="usage_permisison_agree_desc_o">"Pour vous fournir des statistiques de temps d'écran, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications ainsi que la durée d'utilisation correspondante."</string>
   <string name="usage_permisison_agree_desc_p">"Pour vous fournir les statistiques de temps d'écran et de mode de mise au point, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications avec la durée d'utilisation correspondante, le nombre de fois où votre écran s'allume, et les paramètres du mode de mise au point."</string>
-  <string name="usage_permission_double_link" formatted="false"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href='%1s'&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="usage_permission_double_link" formatted="false"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href='%1s'>Accord d'utilisation&lt;/a> et notre &lt;a href='%2s'>Politique de confidentialité&lt;/a>."</Data></string>
   <string name="usage_permission_main_desc">"Bienvenue à Temps d'écran !
 Cette application doit se connecter à Internet et requiert les autorisations suivantes pour pouvoir fonctionner normalement :"</string>
   <string name="usage_permission_title">Attention</string>
@@ -726,7 +748,7 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_runtime_summary">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
   <string name="usage_runtime_title">Permissions obligatoires</string>
   <string name="usage_special_feature">Particularités</string>
-  <string name="usage_state_accurate_date">d MMMM, yyyy</string>
+  <string name="usage_state_accurate_date">d MMMM yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
   <string name="usage_state_add_up_days">Jours</string>
   <string name="usage_state_add_up_time">Temps total</string>
@@ -758,17 +780,20 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_state_focus_level_summary">Niveau actuel : %s</string>
   <string name="usage_state_focus_level1">Étoile montante</string>
   <string name="usage_state_focus_mode_experience_warning_message">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
+  <string name="usage_state_focus_mode_experience_warning_message_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_summary">"Restreindre toutes les fonctions sauf les appels d'urgence et l'appareil photo"</string>
   <string name="usage_state_focus_mode_summary1">Bien commencé est à moitié fait</string>
   <string name="usage_state_focus_mode_summary2">Reste concentrée</string>
   <string name="usage_state_focus_mode_summary3">Il faut faire un effort pour rester concentré</string>
   <string name="usage_state_focus_mode_title">Mode de mise au point</string>
   <string name="usage_state_focus_mode_warning_message">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
+  <string name="usage_state_focus_mode_warning_message_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_warning_title">Attention</string>
   <string name="usage_state_focus_success">Défi complété</string>
   <string name="usage_state_focus_take_photo">Appareil photo</string>
   <string name="usage_state_focus_warning_text">"Concentrez-vous sur quelque chose d'important"</string>
   <string name="usage_state_focus_weak_summary">Rangez votre téléphone</string>
+  <string name="usage_state_focus_weak_summary_pad">Rangez votre appareil</string>
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">"Plus d'applications"</string>
   <string name="usage_state_holiday_day_hour_minute">Jours de congé : %1$s %2$s</string>

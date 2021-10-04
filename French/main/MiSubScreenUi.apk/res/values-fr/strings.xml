@@ -28,13 +28,19 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="actionbar_button_up_description">Retour</string>
+    <string name="add_emergency_contact">"Ajouter un contact d'urgence"</string>
     <string name="afternoon">Après midi</string>
     <string name="alarm_close">Faites glisser vers le haut pour éteindre</string>
     <string name="alarm_later">Répéter</string>
     <string name="align_type">Alignement</string>
     <string name="am">Matin</string>
     <string name="aod_component">Toujours afficher</string>
+    <string name="aod_lock_screen_date">EEE dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd/MM"</string>
     <string name="aod_show_date_and_time">Date et heure</string>
+    <string name="app_name">Affichage arrière</string>
     <string name="apply">Appliquer</string>
     <string name="apply_succeed">Appliqué avec succès</string>
     <string name="background_icon">Arrière-plan</string>
@@ -105,6 +111,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gallery_page_name">From Gallery</string>
+    <string name="has_add_contact">Ajouté</string>
     <string name="icon_content_description">Icône de la boîte de dialogue</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="letter_space">Espacement des caractères</string>
@@ -220,6 +227,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour sélectionner une année</string>
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
+    <string name="not_add_contact">Non ajouté</string>
     <string name="not_set">Non définie</string>
     <string name="notification_new_message">Nouveau message</string>
     <string name="page_detail_preview_tip">Retournez le téléphone pour prévisualiser</string>
@@ -237,18 +245,19 @@
     <string name="saturday_shortest">Sam</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="send">Envoyer</string>
-    <string name="small_display_style">"Thème d'affichage arrière"</string>
+    <string name="small_display_style">Affichage arrière</string>
+    <string name="sps_cancel">Appuyez et maintenez pour quitter</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">Trouver plus dans Communauté Mi</string>
-    <string name="sub_screen_app_name">Affichage arrière</string>
+    <string name="subscreen_could_edit_pic">"Faites glisser les images à l'échelle, appuyez et maintenez pour supprimer"</string>
     <string name="subscreen_other">Autre</string>
     <string name="subscreen_other_dialog_cancel">Annuler</string>
-    <string name="subscreen_other_dialog_confirm">OK </string>
+    <string name="subscreen_other_dialog_confirm">Activer</string>
     <string name="subscreen_other_dialog_goto">Ajouter</string>
-    <string name="subscreen_other_dialog_message">"Le super économiseur d'énergie désactive l'écran principal. Vous ne pourrez vérifier l'heure, accepter les appels et appeler votre contact d'urgence qu'à l'aide de l'écran arrière. Votre appareil pourra fonctionner jusqu'à%d jours sur une seule charge lorsque le mode Super économie d'énergie est activé. Activer le super économiseur d'énergie maintenant ?"</string>
+    <string name="subscreen_other_dialog_message">"Le super économiseur d'énergie désactive l'écran principal. Vous pourrez uniquement vérifier l'heure, accepter les appels et appeler votre contact d'urgence précédemment défini. Nos tests montrent que votre appareil peut fonctionner jusqu'à %d jours sur une seule charge lorsque le mode Super économie d'énergie est activé. Cependant, cette période peut être plus courte en raison de divers facteurs. Activer le super économiseur d'énergie maintenant ?"</string>
     <string name="subscreen_other_dialog_title">"Super économiseur d'énergie"</string>
     <string name="subscreen_other_next_dialog_message">"Vous devez ajouter un contact d'urgence avant d'utiliser Super économiseur d'énergie. Ajouter maintenant ?"</string>
-    <string name="subscreen_other_wilderness_summary">"Le super économiseur d'énergie désactive l'écran principal. Vous ne pourrez vérifier l'heure, accepter les appels et appeler votre contact d'urgence qu'à l'aide de l'écran arrière. Votre appareil pourra fonctionner jusqu'à%d jours sur une seule charge lorsque le mode Super économie d'énergie est activé."</string>
+    <string name="subscreen_other_wilderness_summary">"Le super économiseur d'énergie désactive l'écran principal. Vous pourrez uniquement vérifier l'heure, accepter les appels et appeler votre contact d'urgence précédemment défini. Nos tests montrent que votre appareil peut fonctionner jusqu'à %d jours sur une seule charge lorsque le mode Super économie d'énergie est activé. Cependant, cette période peut être plus courte en raison de divers facteurs."</string>
     <string name="subscreen_other_wilderness_title">"Super économiseur d'énergie"</string>
     <string name="subscreen_settings_fail">"Impossible de terminer l'action"</string>
     <string name="subscreen_settings_mode">Éteignez après</string>
@@ -329,6 +338,9 @@
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="wilderness_dcalling">Connecté</string>
+    <string name="wilderness_dialing">Appel en cours</string>
+    <string name="wilderness_is_starting">"Activation de Super économiseur d'énergie…"</string>
     <string name="wireless_change_to_ac_charging">Passer à la charge filaire</string>
     <string name="yesterday">Hier</string>
 </resources>

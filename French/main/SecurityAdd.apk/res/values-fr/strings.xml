@@ -92,11 +92,11 @@
     <string name="fastboot_unlock_web_title">Rendez-vous sur le site Web officiel pour obtenir un outil de déverrouillage.</string>
     <string name="fingerprint_not_remind">"Ne plus demander"</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="free_send_net_booster">Augmentation gratuite de la vitesse du réseau</string>
     <string name="free_send_net_booster_busniess">Obtenez un boost de vitesse Xunlei gratuit</string>
     <string name="free_send_net_booster_busniess_tip">Appuyez pour recevoir</string>
@@ -180,7 +180,7 @@
     <string name="gb_pannel_control_mode_normal">Défaut</string>
     <string name="gb_pannel_control_mode_power_saving">"Économie d'énergie"</string>
     <string name="gb_weixinpay_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
-    <string name="gdpr_msg"><Data>"Pour utiliser les fonctionnalités de base de Sécurité, vous devez accepter que Xiaomi collecte, traite, et utilise vos données personnelles, y compris sur la façon dont vous utilisez les fonctionnalités de Sécurité (par ex. les statistiques d'utilisation des données mobiles, les informations à propos de malwares, ainsi que des informations de base à propos de votre appareil) et d'autres types d'informations indiquées dans notre &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+    <string name="gdpr_msg"><Data>"Pour utiliser les fonctionnalités de base de Sécurité, vous devez accepter que Xiaomi collecte, traite, et utilise vos données personnelles, y compris sur la façon dont vous utilisez les fonctionnalités de Sécurité (par ex. les statistiques d'utilisation des données mobiles, les informations à propos de malwares, ainsi que des informations de base à propos de votre appareil) et d'autres types d'informations indiquées dans notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="icon_content_description">Icône de dialogue</string>
     <string name="lucky_result_title">Enveloppes rouges</string>
     <string name="main_toolbar_purchase">Recharger</string>
@@ -206,17 +206,17 @@
     <string name="month_december_short">Déc</string>
     <string name="month_december_shortest">Déc</string>
     <string name="month_february">Février</string>
-    <string name="month_february_short">Fév</string>
-    <string name="month_february_shortest">Fév</string>
+    <string name="month_february_short">Févr</string>
+    <string name="month_february_shortest">Févr</string>
     <string name="month_january">Janvier</string>
-    <string name="month_january_short">Jan</string>
-    <string name="month_january_shortest">Jan</string>
+    <string name="month_january_short">Janv</string>
+    <string name="month_january_shortest">Janv</string>
     <string name="month_july">Juillet</string>
-    <string name="month_july_short">Jul</string>
-    <string name="month_july_shortest">Jul</string>
+    <string name="month_july_short">Juil</string>
+    <string name="month_july_shortest">Juil</string>
     <string name="month_june">Juin</string>
-    <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
+    <string name="month_june_short">Juin</string>
+    <string name="month_june_shortest">Juin</string>
     <string name="month_march">Mars</string>
     <string name="month_march_short">Mars</string>
     <string name="month_march_shortest">Mars</string>
@@ -230,8 +230,8 @@
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
     <string name="month_september">Septembre</string>
-    <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
+    <string name="month_september_short">Sept</string>
+    <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>

@@ -111,10 +111,6 @@
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">"Nettoyer %s de cache de WeChat pour libérer de l'espace de stockage"</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">Nettoyer le cache de WeChat</string>
   <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Rappel pour nettoyer le cache de WeChat</string>
-  <string name="appcleaner_wechat_pref_size_1_GB">1 Go</string>
-  <string name="appcleaner_wechat_pref_size_100_MB">100 Mo</string>
-  <string name="appcleaner_wechat_pref_size_300_MB">300 Mo</string>
-  <string name="appcleaner_wechat_pref_size_500_MB">500 Mo</string>
   <string name="appcleaner_wechat_pref_time_every_day">Chaque jour</string>
   <string name="appcleaner_wechat_pref_time_fifteen_day">Tous les 15 jours</string>
   <string name="appcleaner_wechat_pref_time_seven_day">Tous les 7 jours</string>
@@ -339,12 +335,12 @@
   <string name="file">Fichiers</string>
   <string name="file_not_found">Fichier non trouvé</string>
   <string name="flow_rank_title">Consommation des données</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-  <string name="fmt_date_numeric_month_day">d/M</string>
-  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -554,27 +550,27 @@
   <string name="month_april_short">Avr</string>
   <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aoû</string>
-  <string name="month_august_shortest">Aoû</string>
+  <string name="month_august_short">Août</string>
+  <string name="month_august_shortest">Août</string>
   <string name="month_day_format">d MMM</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
-  <string name="month_march_short">Mar</string>
-  <string name="month_march_shortest">Mar</string>
+  <string name="month_march_short">Mars</string>
+  <string name="month_march_shortest">Mars</string>
   <string name="month_may">Mai</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
@@ -585,8 +581,8 @@
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
   <string name="msg_cleanup_db_update_checking">Recherche de nouvelles mises à jour…</string>
@@ -763,9 +759,9 @@
   <string name="recommend_news">Recevoir des recommandations</string>
   <string name="recommend_the_following">Prenez les mesures suivantes pour tirer le meilleur parti de votre appareil</string>
   <string name="recommended">Sélection</string>
-  <string name="resutl_function_deep_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; d'autres fichiers peuvent être effacés. Libérez plus d'espace."</Data></string>
-  <string name="resutl_function_qq_clean_summary"><Data>"Vous pouvez nettoyer &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache généré par QQ"</Data></string>
-  <string name="resutl_function_wechat_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; du cache de WeChat. Libérez plus d'espace."</Data></string>
+  <string name="resutl_function_deep_clean_summary"><Data>"&lt;font color=#ff0000 >%1$s&lt;/font> d'autres fichiers peuvent être effacés. Libérez plus d'espace."</Data></string>
+  <string name="resutl_function_qq_clean_summary"><Data>"Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> de cache généré par QQ"</Data></string>
+  <string name="resutl_function_wechat_clean_summary"><Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace."</Data></string>
   <string name="rs_clean_size_free_space">%s libérés</string>
   <string name="rs_clean_size_storage_size">%1$s/%2$s occupés</string>
   <string name="rs_clean_size_storage_title">Stockage</string>

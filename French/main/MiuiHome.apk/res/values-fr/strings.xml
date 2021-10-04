@@ -88,7 +88,7 @@
   <string name="all_apps_setting_original_scrollbar">Mise en page originale</string>
   <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
   <string name="all_apps_setting_title">"Écran d'accueil"</string>
-  <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l’ouverture du tiroir de l’application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
+  <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l'ouverture du tiroir de l'application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
   <string name="all_apps_suggestions">"Suggestions d'applications"</string>
   <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
   <string name="announce_for_checked">%1$s, vérifié</string>
@@ -149,7 +149,7 @@
   <string name="apply_as_lock_screen">Définir comme écran de verrouillage</string>
   <string name="apply_as_wallpaper">"Définir comme écran d'accueil"</string>
   <string name="apply_both">Les 2</string>
-  <string name="apply_text">Appliqué</string>
+  <string name="apply_text">Appliquer</string>
   <string name="aqi_quality_index_dangerous">Dangereux</string>
   <string name="aqi_quality_index_good">Bonne</string>
   <string name="aqi_quality_index_hazardous">Hasardeux</string>
@@ -158,7 +158,7 @@
   <string name="aqi_quality_index_unhealthy">Malsain</string>
   <string name="assistant_edge_gesture_summary">Faites glisser votre doigt depuis le coin inférieur gauche ou inférieur droit pour réactiver Google Assistant</string>
   <string name="assistant_edge_gesture_title">Balayez vers le haut depuis le coin pour Google Assistant</string>
-  <string name="auto_add_app_shortcut">"Ajouter des applications nouvellement installées à l'écran d'accueil"</string>
+  <string name="auto_add_app_shortcut">"Ajouter automatiquement les nouvelles applications à l'écran d'accueil"</string>
   <string name="auto_delete_category_dialog_content">Les applications actuelles seront supprimées de cette catégorie et la catégorie sera supprimée. Supprimer cette catégorie maintenant ?</string>
   <string name="auto_delete_category_dialog_title">"Suppression d'une catégorie"</string>
   <string name="auto_disable_screenbuttons_summary">Appuyer 2 fois sur un bouton de navigation pour réactiver</string>
@@ -236,7 +236,7 @@
   <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
   <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
   <string name="download_action">Télécharger</string>
-  <string name="drawer_background">Arrière-plans</string>
+  <string name="drawer_background">Arrière-plan</string>
   <string name="drawer_background_dark">Sombre</string>
   <string name="drawer_background_light">Clair</string>
   <string name="drawer_background_transparency">"Transparence de fond du tiroir d'application"</string>
@@ -268,6 +268,12 @@
   <string name="failed_to_drop">Impossible de déplacer</string>
   <string name="failed_to_drop_widget_invalid">"Ce widget n'est pas valide"</string>
   <string name="failed_to_load_image">Impossible de charger limage</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="folder_name">Dossier</string>
   <string name="frame_load_failed">Impossible de charger le cadre photo</string>
   <string name="free_style_apps_title">"Choisir l'application"</string>
@@ -350,6 +356,7 @@
   <string name="launcher_icon_management">"Gérer les raccourcis de l'écran d'accueil"</string>
   <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
   <string name="launcher_pull_down_title">"Glisser vers le bas sur l'écran d'accueil"</string>
+  <string name="launcher_search">"Recherche depuis l'écran d'accueil"</string>
   <string name="launcher_search_bar_provider_title">Fournisseur de barre de recherche</string>
   <string name="launcher_search_bar_title">"Barre de recherche de l'écran d'accueil"</string>
   <string name="launcher_search_bar_value_disable">Désactiver</string>
@@ -525,10 +532,10 @@
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
-  <string name="recommend_apps_no_data">Aucune données</string>
+  <string name="recommend_apps_no_data">Aucune donnée</string>
   <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
   <string name="recommend_apps_notice">Applications recommandées</string>
-  <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune données)</string>
+  <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>
   <string name="recommend_apps_switch_title">Applications recommandées</string>
   <string name="recommend_apps_tips">Cette fonctionnalité doit se connecter à internet pour fonctionner normalement. Pour la désactiver, appuyez sur le nom de ce dossier.</string>
   <string name="recommend_loading">Chargement en cours</string>

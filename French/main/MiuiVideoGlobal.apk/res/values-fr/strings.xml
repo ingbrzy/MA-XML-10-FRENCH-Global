@@ -33,7 +33,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -102,6 +102,7 @@
   <string name="auto_play_next_off">Lecture automatique désactivée</string>
   <string name="auto_play_next_on">Lecture automatique activée</string>
   <string name="back_to_mainpage">Découvrir</string>
+  <string name="background_playback_enabled">La lecture en arrière-plan est activée</string>
   <string name="before_yestoday">Il y a 2 jours</string>
   <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
   <string name="brvah_app_name">Médiathèque</string>
@@ -171,12 +172,12 @@
   <string name="columbus_player_close_video">FERMER LA VIDÉO</string>
   <string name="columbus_player_install_now">INSTALLER MAINTENANT</string>
   <string name="columbus_player_learn_more">En savoir plus</string>
-  <string name="com_facebook_device_auth_instructions">Consultez &lt;b&gt;facebook.com/device&lt;/b&gt; et entrez le code affiché ci-dessus.</string>
-  <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite lors du téléchargement d’une image.</string>
+  <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
+  <string name="com_facebook_image_download_unknown_error">"Une erreur inattendue s'est produite lors du téléchargement d'une image."</string>
   <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation INTERNET</string>
   <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
-  <string name="com_facebook_like_button_liked">J’aime déjà</string>
-  <string name="com_facebook_like_button_not_liked">J’aime</string>
+  <string name="com_facebook_like_button_liked">"J'aime déjà"</string>
+  <string name="com_facebook_like_button_not_liked">"J'aime"</string>
   <string name="com_facebook_loading">Chargement…</string>
   <string name="com_facebook_loginview_cancel_action">Annuler</string>
   <string name="com_facebook_loginview_log_in_button">Connectez-vous</string>
@@ -188,9 +189,9 @@
   <string name="com_facebook_loginview_logged_in_using_facebook">Connecté(e) avec Facebook</string>
   <string name="com_facebook_send_button_text">Envoyer</string>
   <string name="com_facebook_share_button_text">Publier</string>
-  <string name="com_facebook_smart_device_instructions">Pour associer votre compte, ouvrez l’app Facebook sur votre appareil mobile et vérifiez les notifications.</string>
+  <string name="com_facebook_smart_device_instructions">"Pour associer votre compte, ouvrez l'app Facebook sur votre appareil mobile et vérifiez les notifications."</string>
   <string name="com_facebook_smart_device_instructions_or">- OU -</string>
-  <string name="com_facebook_smart_login_confirmation_cancel">Ce n’est pas vous ?</string>
+  <string name="com_facebook_smart_login_confirmation_cancel">"Ce n'est pas vous ?"</string>
   <string name="com_facebook_smart_login_confirmation_continue_as">Continuer en tant que %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
   <string name="com_facebook_tooltip_default">Vous avez le contrôle - choisissez les informations que vous voulez partager avec les apps.</string>
@@ -258,11 +259,11 @@ ID: %s
 Envoyez ce code au superviseur."</string>
   <string name="dialog_disagree_privacychange_info">"Vous ne pourrez pas utiliser les services de streaming en ligne Mi Vidéo si vous n'acceptez pas notre Politique de confidentialité. Appuyez sur \"Annuler\" pour revenir en arrière ou sur \"Refuser\" pour continuer et utiliser Mi Vidéo comme lecteur local uniquement."</string>
   <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
-  <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos &lt;a href=%1$s>Contrat utilisateur&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser l'application."</string>
+  <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Contrat utilisateur&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>, avant d'utiliser l'application."</string>
   <string name="dialog_privacy_change_title">Mise à jour Politique de confidentialité</string>
-  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
+  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
   <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la Politique de confidentialité. En appuyant sur \"J'accepte\" ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi et l'&lt;a href=%3$s>Accord d'utilisation&lt;/a>.&lt;br />&lt;br />Appuyer sur \"Accepter\" permet également à Mi Vidéo d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Vidéo pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
-  <string name="dialog_privacy_info_new4">"Bienvenue sur Mi Vidéo ! Cette application fournit les services suivants : &lt;br>&lt;/ br> - Services de streaming en ligne&lt;br>&lt;/ br> - Un lecteur vidéo local&lt;br>&lt;/ br> Mi Vidéo doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre Politique de confidentialité. Vous pourrez modifier les paramètres associés dans Paramètres > Mots de passe &amp;amp; sécurité.&lt;br>&lt;/ br>Lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/ a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/ a> avant en utilisant Mi Vidéo."</string>
+  <string name="dialog_privacy_info_new4">"Bienvenue sur Mi Vidéo ! Cette application fournit les services suivants : &lt;br>&lt;/ br> - Services de streaming en ligne&lt;br>&lt;/ br> - Un lecteur vidéo local&lt;br>&lt;/ br> Mi Vidéo doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre Politique de confidentialité. Vous pourrez modifier les paramètres associés dans Paramètres > Mots de passe &amp; Sécurité.&lt;br>&lt;/ br>Lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/ a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/ a> avant en utilisant Mi Vidéo."</string>
   <string name="dialog_privacy_revoke_cancel">Annuler</string>
   <string name="dialog_privacy_revoke_count_down">Retrait (%1$ds)</string>
   <string name="dialog_privacy_revoke_description">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Vidéo. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois en vigueur. Le retrait de votre consentement à la Politique de confidentialité sera considéré comme un refus d'accepter les services en ligne sur la base des informations personnelles collectées."</string>
@@ -270,7 +271,7 @@ Envoyez ce code au superviseur."</string>
   <string name="dialog_privacy_revoke_ok">Retrait</string>
   <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
   <string name="dialog_privacy_revoking">Retrait du consentement…</string>
-  <string name="dialog_privacy_title">Termes et Conditions</string>
+  <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
   <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
   <string name="disagree">Refuser</string>
@@ -397,6 +398,7 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_copyright_unsported_video">"Impossible de lire cette vidéo en raison de restrictions de droits d'auteur"</string>
   <string name="galleryplus_cta_tips">"Vous pouvez nous aider à améliorer nos services en souscrivant à notre Programme d'expérience utilisateur, et en autorisant Mi Vidéo à se connecter à internet. D'accord ?"</string>
   <string name="galleryplus_double_tap_to_higher_definition">Appuyez à nouveau 2 fois pour ouvrir la prévisualisation HD</string>
+  <string name="galleryplus_file_edit_save">Fichier enregistré dans %s</string>
   <string name="galleryplus_fr_unsupport_restore_speed">"Fréquence d'images non prise en charge. Revenir à la vitesse normale."</string>
   <string name="galleryplus_gallery_fold_tags">Masquer les marques</string>
   <string name="galleryplus_gallery_video_adjust_hint">Seules les vidéos à 960 ips sont gérées</string>
@@ -424,12 +426,12 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_online_cta">"Mi Video doit se connecter à Internet pour fonctionner normalement. Se connecter ?"</string>
   <string name="galleryplus_online_cta_agree">Accepter</string>
   <string name="galleryplus_online_cta_disagree">Refuser</string>
-  <string name="galleryplus_online_cta_title">Termes et Conditions</string>
+  <string name="galleryplus_online_cta_title">Termes et conditions</string>
   <string name="galleryplus_online_video_loading">Un instant…</string>
   <string name="galleryplus_orientation_lock">Orientation verrouillée avec succès</string>
   <string name="galleryplus_orientation_unlock">"L'orientation de l'écran est déverrouillée"</string>
   <string name="galleryplus_permission_content">Donner à Mi Vidéo les permissions requises pour pouvoir utiliser cette fonctionnalité.</string>
-  <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres &gt; Gestion des applications &gt; Applications installées &gt; Mi Vidéo &gt; Permissions, et autorisez Mi Vidéo à faire les choses suivantes:
+  <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres > Gestion des applications > Applications installées > Mi Vidéo > Permissions, et autorisez Mi Vidéo à faire les choses suivantes:
 
 1. Accéder au stockage
 2. Accéder à l'ID de l'appareil"</string>
@@ -498,11 +500,11 @@ Envoyez ce code au superviseur."</string>
   <string name="item_card_related">En relation</string>
   <string name="item_setting_go_back">Retrait du consentement</string>
   <string name="just_a_second">Chargement…</string>
-  <string name="language_later_setting_tips">Vous pouvez modifier vos préférences de langue dans  &gt; Language.</string>
+  <string name="language_later_setting_tips">Vous pouvez modifier vos préférences de langue dans  > Language.</string>
   <string name="language_select_tips">"Sélectionnez votre langue préférée
 pour les vidéos"</string>
-  <string name="language_setting_tips">Sélectionnez vos préférences linguistiques pour recevoir des recommandations de contenu plus pertinentes. Vous pouvez modifier vos préférences linguistiques dans Profil &gt; Langue.</string>
-  <string name="language_setting_tips_dialog">Vous pouvez sélectionner les préférences de langue pour le contenu dans Compte &gt; Langue.</string>
+  <string name="language_setting_tips">Sélectionnez vos préférences linguistiques pour recevoir des recommandations de contenu plus pertinentes. Vous pouvez modifier vos préférences linguistiques dans Profil > Langue.</string>
+  <string name="language_setting_tips_dialog">Vous pouvez sélectionner les préférences de langue pour le contenu dans Compte > Langue.</string>
   <string name="later">Plus tard</string>
   <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
   <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
@@ -616,7 +618,7 @@ pour les vidéos"</string>
   <string name="lv_subtitle_onlinesub_loading">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Avertissement</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenir les sous-titres &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tous les sous-titres en ligne sont fournis par &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenir les sous-titres &lt;br/>&lt;br/>de &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Tous les sous-titres en ligne sont fournis par &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
   <string name="lv_subtitle_onlinesub_save_failed">"Impossible d'ajouter les sous-titres"</string>
   <string name="lv_subtitle_onlinesub_save_success">Sous-titres ajoutés avec succès</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Entrez les mots-clés à rechercher</string>
@@ -837,7 +839,7 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_error_phone_error">Numéro de téléphone non valide</string>
   <string name="passport_error_server">Erreur du serveur</string>
   <string name="passport_error_unknown">Erreur inconnue</string>
-  <string name="passport_error_user_agreement_error">"Acceptez d'abord les Termes et Conditions"</string>
+  <string name="passport_error_user_agreement_error">"Acceptez d'abord les Termes et conditions"</string>
   <string name="passport_error_user_name">"Le nom d'utilisateur que vous avez entré n'est pas valide"</string>
   <string name="passport_forget_password">Mot de passe oublié</string>
   <string name="passport_get_verify_code">Obtenir le code</string>
@@ -883,8 +885,8 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
   <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
-  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et la &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi.&lt;"</Data></string>
-  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et &lt;a href=\"%4$s\"&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;."</Data></string>
+  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> de Xiaomi.&lt;"</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."</Data></string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Le code de vérification est incorrect</string>
   <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
@@ -897,7 +899,7 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_wrong_phone_number_format">"Le format du numéro de téléphone que vous avez entré n'est pas valide"</string>
   <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
   <string name="passport_wrong_voice">Le code que vous avez entré est incorrect</string>
-  <string name="password_toggle_content_description">Afficher mot de passe</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="permission_continue">Continuer</string>
   <string name="permission_info">"Mi Video doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes:
 
@@ -996,7 +998,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="plus_player_subtitle_local_add_success">Sous-titres ajoutés avec succès</string>
   <string name="plus_player_subtitle_no_file">Pas de sous-titres ici.</string>
   <string name="plus_player_subtitle_online">Sous-titres en ligne</string>
-  <string name="plus_player_subtitle_online_declare_content">"Vous êtes sur le point de rechercher &lt;br/&gt;des sous-titres dans la base de données de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Tous les sous-titres sont fournis pas &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_content">"Vous êtes sur le point de rechercher &lt;br/>des sous-titres dans la base de données de &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Tous les sous-titres sont fournis pas &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
   <string name="plus_player_subtitle_online_declare_title">Avertissement</string>
   <string name="plus_player_subtitle_online_download_fail">Impossible de télécharger les sous-titres</string>
   <string name="plus_player_subtitle_online_download_start">Téléchargement des sous-titres…</string>
@@ -1114,7 +1116,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
   <string name="saturday">Samedi</string>
   <string name="save">Enregistrer</string>
-  <string name="save_cancel_toast">Appuyez à nouveau pour annuler l’enregistrement</string>
+  <string name="save_cancel_toast">"Appuyez à nouveau pour annuler l'enregistrement"</string>
   <string name="screenrecord_cancel">Problèmes de compatibilité</string>
   <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
   <string name="search">Rechercher</string>
@@ -1169,8 +1171,8 @@ Augmenter la sécurité de votre compte."</string>
   <string name="srl_header_refreshing">Actualisation…</string>
   <string name="srl_header_release">Relâcher pour rafraîchir</string>
   <string name="srl_header_secondary">Libérer au deuxième étage</string>
-  <string name="srl_header_update">"'Dernière mise à jour' d-M HH:mm"</string>
-  <string name="start_download_tip">"Ajouté à la file d'attente. Vérifiez la progression dans Profil &gt; Téléchargements."</string>
+  <string name="srl_header_update">"'Dernière mise à jour' dd-MM HH:mm"</string>
+  <string name="start_download_tip">"Ajouté à la file d'attente. Vérifiez la progression dans Profil > Téléchargements."</string>
   <string name="storage_external_sdcard">Carte SD</string>
   <string name="storage_internal_sdcard">Stockage interne</string>
   <string name="submit">Soumettre</string>
@@ -1284,14 +1286,20 @@ Augmenter la sécurité de votre compte."</string>
   <string name="video_download_fail">Téléchargement de la vidéo impossible</string>
   <string name="video_download_fail_hint">Téléchargement impossible</string>
   <string name="video_download_floating_guide">Téléchargez des vidéos gratuitement</string>
+  <string name="video_download_folder_title">Téléchargements Mi Vidéo</string>
   <string name="video_download_forbidden">Impossible de télécharger à partir de ce site Web</string>
+  <string name="video_download_login_guide">Connectez-vous à %s pour pouvoir télécharger des vidéos</string>
   <string name="video_download_network_error">Erreur réseau</string>
   <string name="video_download_play_video_guide">Commencez par lire la vidéo.</string>
-  <string name="video_download_play_video_guide2">Appuyez ensuite sur le bouton pour télécharger.</string>
+  <string name="video_download_play_video_guide2">"Appuyez sur le bouton après qu'il s'allume pour commencer le téléchargement."</string>
+  <string name="video_download_play_video_step1">Étape %1$d</string>
+  <string name="video_download_play_video_step2">Étape %2$d</string>
   <string name="video_download_site_search">URL</string>
   <string name="video_download_source">Téléchargement web</string>
   <string name="video_download_start">Téléchargement…</string>
   <string name="video_download_storage_error">Espace de stockage insuffisant</string>
+  <string name="video_download_title">Télécharger des vidéos</string>
+  <string name="video_download_youtube_copyright_forbidden">"Impossible de télécharger des vidéos YouTube en raison de restrictions de droits d'auteur"</string>
   <string name="video_downloading">Téléchargement…</string>
   <string name="video_live_over">Cette session est terminée</string>
   <string name="video_noyet_download_tip">Cette vidéo est toujours en cours de téléchargement</string>
@@ -1314,7 +1322,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="vp_VideoView_error_title">Erreur inconnue</string>
   <string name="wednesday">Mercredi</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l'état du gestionnaire de téléchargement dans Gestion des applications."</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
 Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s

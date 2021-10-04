@@ -53,7 +53,7 @@
   <string name="backup_now">Sauvegarder maintenant</string>
   <string name="backup_remind_buy_cloud_space">Adaptez votre abonnement de stockage sur le cloud</string>
   <string name="backup_remind_clean_disk_space">"Libérez de l'espace de stockage"</string>
-  <string name="backup_remind_cloud_space_cost">Taille de la sauvegarde: %s</string>
+  <string name="backup_remind_cloud_space_cost">Taille de la sauvegarde : %s</string>
   <string name="backup_size">Taille : %s</string>
   <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
   <string name="backup_stopped_title">La sauvegarde était en pause</string>
@@ -105,18 +105,18 @@ Réessayez"</string>
   <string name="cloud_app_restore_success">Applications restaurées</string>
   <string name="cloud_app_restore_wifi_prompt">"Restaurer à partir de la sauvegarde sur le cloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi:
+  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi :
 *  Applications, dispositions sur l'écran d'accueil, et fonds d'écran
 *  Alarme, horloge, et réglages des dates et heures
 *  Paramètres des notifications
 *  MIUI et réglages système
-Note: les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
-  <string name="cloud_back_up_detail_discription_china">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi:
+Note : Les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi :
 *  Applications, dispositions sur l'écran d'accueil, et fonds d'écran
 *  Alarme, horloge, et réglages des dates et heures
 *  Paramètres des notifications
 *  MIUI et réglages système
-Note: les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
+Note : Les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
   <string name="cloud_back_up_frequence_long">Tous les 7 jours</string>
   <string name="cloud_back_up_frequence_short">Tous les jours</string>
@@ -137,7 +137,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="cloud_backup_detail_state">Sauvegardes automatiques</string>
   <string name="cloud_backup_detail_state_summary">Créez des sauvegardes Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
   <string name="cloud_backup_detail_state_summary_china">Crée des sauvegardes sur Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
-  <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
+  <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
   <string name="cloud_backup_detail_title">"Écran d'accueil, applications et paramètres."</string>
   <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Annuler</string>
@@ -213,7 +213,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="friday_shortest">Ven</string>
   <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
   <string name="help_and_feedback">Aide et commentaires</string>
-  <string name="hint_restore_wechat_data">Remarque : les données WeChat peuvent ne pas être restaurées en raison de problèmes de compatibilité dans certains cas.</string>
+  <string name="hint_restore_wechat_data">Remarque : Les données WeChat peuvent ne pas être restaurées en raison de problèmes de compatibilité dans certains cas.</string>
   <string name="home_hint_global_launcher">"Lanceur d'application POCO"</string>
   <string name="home_hint_other_launcher">"Autre lanceur d'application"</string>
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
@@ -257,26 +257,26 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="month_april_short">Avr</string>
   <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
-  <string name="month_august_short">Aoû</string>
-  <string name="month_august_shortest">Aoû</string>
+  <string name="month_august_short">Août</string>
+  <string name="month_august_shortest">Août</string>
   <string name="month_december">Décembre</string>
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
-  <string name="month_march_short">Mar</string>
-  <string name="month_march_shortest">Mar</string>
+  <string name="month_march_short">Mars</string>
+  <string name="month_march_shortest">Mars</string>
   <string name="month_may">Mai</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
@@ -287,15 +287,15 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
   <string name="msg_alert_cancel_restore">Les éléments sont en cours de restauration à partir de Xiaomi Cloud. Annuler maintenant ?</string>
   <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Xiaomi Cloud. Réessayez.</string>
-  <string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br />&lt;b>&lt;font color='red'>%s des fichiers seront téléchargés.&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
-  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; des fichiers seront téléchargés."</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> des fichiers seront téléchargés."</string>
   <string name="network_error">Se connecter au réseau</string>
   <string name="night">Soirée</string>
   <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
@@ -459,7 +459,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="total_space">Espace total: %s</string>
+  <string name="total_space">Espace total : %s</string>
   <string name="try_again">Appuyez pour essayer à nouveau</string>
   <string name="try_continue">Appuyez pour continuer</string>
   <string name="tuesday">Mardi</string>

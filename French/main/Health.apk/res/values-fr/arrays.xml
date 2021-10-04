@@ -91,10 +91,10 @@
     </string-array>
     <string-array name="splash_loading">
         <item>"Calcul de l'objectif d'activité…"</item>
-        <item>"Objectif d'activité: %1$d pas"</item>
+        <item>"Objectif d'activité : %1$d pas"</item>
         <item>"Vous avez parcouru %1$d pas aujourd'hui"</item>
         <item>"Calcul de l'objectif de sommeil…"</item>
-        <item>Objectif de sommeil: %1$d heures</item>
+        <item>Objectif de sommeil : %1$d heures</item>
         <item>"Pas de données de sommeil pour l'instant"</item>
         <item>Ouverture de Mi Santé</item>
     </string-array>
@@ -116,7 +116,7 @@
         <item>Appuyez sur \"Continuer\" pour en savoir plus et activer cette fonctionnalité.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>"Xiaomi Santé peut détecter et enregistrer lorsque vous vous levez. Vous pouvez également recevoir des rappels pour vous lever après 1 heure d'inactivité."</item>
+        <item>"Mi Santé peut détecter et enregistrer lorsque vous vous levez. Vous pouvez également recevoir des rappels pour vous lever après 1 heure d'inactivité."</item>
         <item>Cette fonction suit votre mouvement et envoie des rappels en fonction des résultats.</item>
     </string-array>
     <string-array name="week">

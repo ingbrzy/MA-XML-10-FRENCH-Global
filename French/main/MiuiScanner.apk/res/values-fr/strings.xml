@@ -35,7 +35,7 @@
   <string name="accessibility_shutter_button">Déclencheur</string>
   <string name="action_search">Rechercher</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="address">Adresse:</string>
+  <string name="address">Adresse :</string>
   <string name="adjustment_area">Adjust</string>
   <string name="afternoon">Après-midi</string>
   <string name="agree_app_use">"Scanner des codes QR et d'autres images (certaines fonctionnalités peuvent nécessiter l'accès à votre emplacement)"</string>
@@ -46,12 +46,12 @@
   <string name="am">AM</string>
   <string name="app_description_content">"Scanner vous permet de lire les QR code, les cartes de visite, des documents et plus. Assurez-vous de vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
   <string name="app_description_title">À propos du Scanner</string>
-  <string name="app_details">Application:</string>
+  <string name="app_details">Application :</string>
   <string name="app_name">Scanner</string>
   <string name="Approval">Appliquer</string>
   <string name="back">Retour</string>
   <string name="barcode_into_rectangle">Placez le code dans le cadre</string>
-  <string name="birthday">Anniversaire:</string>
+  <string name="birthday">Anniversaire :</string>
   <string name="black_and_white">B&amp;W</string>
   <string name="business_card">Carte de visite</string>
   <string name="business_card_result_title">Carte de visite</string>
@@ -69,8 +69,8 @@
   <string name="cancel_pdf_save">Canceled saving PDF</string>
   <string name="cars_is_public">Launched</string>
   <string name="cars_no_public">Not launched</string>
-  <string name="cars_solution">"Solution: "</string>
-  <string name="cars_suitability">"Match: "</string>
+  <string name="cars_solution">"Solution : "</string>
+  <string name="cars_suitability">"Match : "</string>
   <string name="cars_title">Scannez une automobile ou une pièce automobile</string>
   <string name="carshome_data">Support technique fourni par Autohome Inc.</string>
   <string name="carsHome_title">Voiture</string>
@@ -87,7 +87,7 @@
   <string name="classesNameNull_toast">Le nom du cours ne peut pas être vide</string>
   <string name="classes_canfirmTitle">"Confirmer les résultats et commencer l'importation"</string>
   <string name="classes_company">Importer</string>
-  <string name="classes_dealalert">Remarque : les cours importés remplaceront les données précédentes.</string>
+  <string name="classes_dealalert">Remarque : Les cours importés remplaceront les données précédentes.</string>
   <string name="classes_delete">Supprimer le cours</string>
   <string name="classes_deleteMessage">Supprimer définitivement ce cours ?</string>
   <string name="classes_edit_dialog_title">Nom du cours</string>
@@ -105,7 +105,7 @@
   <string name="common_retake_picture">Reprendre</string>
   <string name="common_retry">Veuillez réessayer</string>
   <string name="common_save">Sauvegarder</string>
-  <string name="company">Société:</string>
+  <string name="company">Société :</string>
   <string name="confirm">OK</string>
   <string name="connect_to_wifi">Se connecter à ce réseau</string>
   <string name="connect_wifi">Se connecter à ce réseau</string>
@@ -159,6 +159,7 @@
   <string name="document_rectify_tip_msg">Ajustement…</string>
   <string name="document_region">Adjuster</string>
   <string name="document_rename">Renommer</string>
+  <string name="document_rename_error">Erreur de renommage</string>
   <string name="document_save_succeed_tip">Document enregistré dans %1$s</string>
   <string name="document_spin">Rotation</string>
   <string name="document_take_a_single">Page simple</string>
@@ -204,12 +205,12 @@
   <string name="filename_cannot_beempty">"Impossible d'enregistrer des fichiers sans nom"</string>
   <string name="flight_mode_connecting_to_wifi">Activer manuellement le Wi-Fi lorsque le mode avion est activé</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM , yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-  <string name="food_identification_fail_tips">"Scannez les fruits, les légumes et d’autres aliments. Cette fonctionnalité fonctionne également avec des images."</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+  <string name="food_identification_fail_tips">"Scannez les fruits, les légumes et d'autres aliments. Cette fonctionnalité fonctionne également avec des images."</string>
   <string name="food_identification_tip_msg">Reconnaître la nourriture…</string>
   <string name="food_make_complaints_hint">Entrez vos commentaires ici</string>
   <string name="food_module_feedback_str">"Retour d'information"</string>
@@ -246,6 +247,7 @@
   <string name="half_covered_mode">Non masqué</string>
   <string name="hand_query">Vérifier la commande</string>
   <string name="history">Historique</string>
+  <string name="hint_no_permissions_text">"Cliquez sur le bouton Paramètres et entrez dans la gestion des autorisations pour activer l'autorisation de stockage de l'appareil photo et du téléphone mobile à utiliser normalement. Analyser"</string>
   <string name="history_empty">Aucun historique pour le moment</string>
   <string name="identify_the_results">Résultat</string>
   <string name="if_open_result">"Afficher le résultat du scan lors du retour dans l'application"</string>
@@ -253,7 +255,7 @@
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Importer le contact</string>
   <string name="importFailed">"Couldn't import"</string>
-  <string name="impunity_declaration_content">"Le scanner doit utiliser votre appareil photo et traiter les images que vous prenez lorsque vous utilisez l'application. N'utilisez pas Scanner pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; et permettant à Scanner de se connecter à internet."</string>
+  <string name="impunity_declaration_content">"Le scanner doit utiliser votre appareil photo et traiter les images que vous prenez lorsque vous utilisez l'application. N'utilisez pas Scanner pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Politique de confidentialité&lt;/a>&lt;/font> et permettant à Scanner de se connecter à internet."</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
   <string name="impunity_declaration_title">Politique de confidentialité</string>
   <string name="intelligent_recognition">Reconnaissance</string>
@@ -329,8 +331,8 @@
   <string name="monitor_low_android">La version ANDROID est trop basse</string>
   <string name="monitor_low_miui">La version MIUI est trop basse</string>
   <string name="month_april">Avril</string>
-  <string name="month_april_short">Avril</string>
-  <string name="month_april_shortest">Avril</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
   <string name="month_august">Août</string>
   <string name="month_august_short">Août</string>
   <string name="month_august_shortest">Août</string>
@@ -338,17 +340,17 @@
   <string name="month_december_short">Déc</string>
   <string name="month_december_shortest">Déc</string>
   <string name="month_february">Février</string>
-  <string name="month_february_short">Fév</string>
-  <string name="month_february_shortest">Fév</string>
+  <string name="month_february_short">Févr</string>
+  <string name="month_february_shortest">Févr</string>
   <string name="month_january">Janvier</string>
-  <string name="month_january_short">Jan</string>
-  <string name="month_january_shortest">Jan</string>
+  <string name="month_january_short">Janv</string>
+  <string name="month_january_shortest">Janv</string>
   <string name="month_july">Juillet</string>
-  <string name="month_july_short">Jul</string>
-  <string name="month_july_shortest">Jul</string>
+  <string name="month_july_short">Juil</string>
+  <string name="month_july_shortest">Juil</string>
   <string name="month_june">Juin</string>
-  <string name="month_june_short">Jun</string>
-  <string name="month_june_shortest">Jun</string>
+  <string name="month_june_short">Juin</string>
+  <string name="month_june_shortest">Juin</string>
   <string name="month_march">Mars</string>
   <string name="month_march_short">Mars</string>
   <string name="month_march_shortest">Mars</string>
@@ -362,8 +364,8 @@
   <string name="month_october_short">Oct</string>
   <string name="month_october_shortest">Oct</string>
   <string name="month_september">Septembre</string>
-  <string name="month_september_short">Sep</string>
-  <string name="month_september_shortest">Sep</string>
+  <string name="month_september_short">Sept</string>
+  <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
@@ -386,7 +388,7 @@
   <string name="not_recommend_access_web_url">Aller quand même</string>
   <string name="not_set">Non défini</string>
   <string name="note">Remarque : </string>
-  <string name="now_state">"Statut actuel: "</string>
+  <string name="now_state">"Statut actuel : "</string>
   <string name="once">Juste une fois</string>
   <string name="open_url">"Ouvrir l'URL"</string>
   <string name="original_image">Original</string>
@@ -420,6 +422,7 @@
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preparing_sd">Préparation du stockage interne…</string>
   <string name="previous">Retour</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
   <string name="processing">Processing…</string>
   <string name="prompt">Attention</string>
   <string name="qr_code_details">Détails du QR code :</string>
@@ -617,7 +620,7 @@
   <string name="ucrop_mutate_exception_hint">"Par conséquent, remplacez la ressource de couleur (ucrop_color_toolbar_widget) dans votre application pour la faire fonctionner sur les appareils pré-L"</string>
   <string name="ucrop_rotate">Rotation</string>
   <string name="ucrop_scale">"Mise à l'échelle"</string>
-  <string name="uninstall_prompt">"Si des problèmes surviennent lors de l'installation, allez dans Paramètres &gt; Gérer les applications &gt; Applications installées &gt; Scanner, appuyez sur \"Désinstaller\", puis essayez à nouveau d'installer l'application."</string>
+  <string name="uninstall_prompt">"Si des problèmes surviennent lors de l'installation, allez dans Paramètres > Gérer les applications > Applications installées > Scanner, appuyez sur \"Désinstaller\", puis essayez à nouveau d'installer l'application."</string>
   <string name="url_is_phish">Ceci pourrait être un site Web de hameçonnage</string>
   <string name="url_is_safety">Ce site Web est sécurisé</string>
   <string name="url_is_unknown">Impossible de vérifier si ce site Web est sécurisé</string>
@@ -646,8 +649,8 @@
   <string name="wifi_low_version_prompt">Le Wi-Fi doit être activé manuellement</string>
   <string name="wifi_open_fail">"Impossible d'activer le Wi-Fi"</string>
   <string name="wifi_psd_toolong">Le mot de passe est trop long. Entrez le mot de passe manuellement.</string>
-  <string name="wifi_pwd">Mot de passe:</string>
-  <string name="wifi_security">Sécurité:</string>
+  <string name="wifi_pwd">Mot de passe :</string>
+  <string name="wifi_security">Sécurité :</string>
   <string name="will_be_sent_tothe_background_review">" (Votre demande sera envoyée pour examen bientôt.)"</string>
   <string name="wx_not_installed_toast">Cette fonctionnalité doit utiliser WeChat. Installez WeChat en premier.</string>
   <string name="xiaoai_dialog">"Try saying what you
@@ -656,6 +659,6 @@ want to scan to Mi AI"</string>
   <string name="Xiaomi_account_pending_approval">"Examen de l'application"</string>
   <string name="yesterday">Hier</string>
   <string name="you_have_permission_to_download">Appuyez pour télécharger la version bêta</string>
-  <string name="you_id">"Votre ID: "</string>
+  <string name="you_id">"Votre ID : "</string>
   <string name="your_application_is_under_review">" (Votre demande est en cours de révision.)"</string>
 </resources>

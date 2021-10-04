@@ -29,8 +29,16 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="copy">Copier</string>
     <string name="expand_button_title">Avancé</string>
+    <string name="installation_cancelled">Installation annulée.</string>
+    <string name="installation_failed">"Échec de l'installation."</string>
+    <string name="installing_module">Installation du module :</string>
+    <string name="nav_app_bar_navigate_up_description">Revenir en arrière</string>
+    <string name="nav_app_bar_open_drawer_description">Ouvrir le panneau de navigation</string>
     <string name="not_set">Non défini</string>
+    <string name="ok">OK</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
+    <string name="progress">Progression :</string>
+    <string name="retry">Réessayer</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
