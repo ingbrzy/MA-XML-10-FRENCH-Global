@@ -105,6 +105,13 @@
     <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>
     <string name="not_set">Non défini</string>
+    <string name="offline_notification_text">"Toucher pour ouvrir l'annonce"</string>
+    <string name="offline_notification_title">"Voir l'annonce que vous avez enregistrée lorsque vous étiez en ligne"</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vous verrez une notification contenant le lien lorsque vous serez en ligne.</string>
+    <string name="offline_opt_in_decline">Non merci</string>
+    <string name="offline_opt_in_message">"Nous vous enverrons une notification contenant un lien vers le site de l'annonceur."</string>
+    <string name="offline_opt_in_title">"Ouvrir l'annonce lorsque vous serez en ligne."</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
     <string name="s1">"Enregistrer l'image"</string>
     <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images?"</string>

@@ -40,7 +40,7 @@
     <string name="accessibility_wifi_signal_full">Signal Wi-Fi excellent</string>
     <string name="accessibility_wifi_three_bars">Signal Wi-Fi bon</string>
     <string name="accessibility_wifi_two_bars">Signal Wi-Fi moyen</string>
-    <string name="active_input_method_subtypes">Modes de saisie actifs</string>
+    <string name="active_input_method_subtypes">"Méthodes d'entrée actives"</string>
     <string name="adb_keys_warning_message">"Voulez-vous vraiment désactiver l'accès au débogage USB de tous les ordinateurs précédemment autorisés ?"</string>
     <string name="adb_warning_message">Le débogage USB est conçu uniquement pour le développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données de journal.</string>
     <string name="adb_warning_title">Autoriser le débogage USB ?</string>
@@ -80,7 +80,7 @@
     <string name="always_enable_mms">Toujours recevoir les MMS</string>
     <string name="always_enable_mms_summary">Recevoir des MMS même lorsque les données mobiles sont désactivées</string>
     <string name="ambulance_type_description">Ambulance</string>
-    <string name="animator_duration_scale_title">Échelle durée animation</string>
+    <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="answer_features_setting_category">Répondeur et appels</string>
     <string name="answer_state_setting_summary">Paramètres supplémentaires pour les appels entrants</string>
     <string name="answer_state_setting_title">Paramètres des appels entrants</string>
@@ -718,19 +718,20 @@ Bluetooth"</string>
     <string name="emergency_broadcast_enable">"Diffusion d'urgence activée"</string>
     <string name="emergency_call_area_code_edit_dialog_button">Appel</string>
     <string name="emergency_call_area_code_edit_dialog_hint">Entrez le code pays</string>
-    <string name="emergency_call_shortcut_hint">Tap again to call %s</string>
+    <string name="emergency_call_shortcut_hint">Appuyez à nouveau pour appeler %s</string>
     <string name="emergency_enable_radio_dialog_message">Activation du signal radio…</string>
     <string name="emergency_enable_radio_dialog_retry">Pas de service. Tenter de nouveau…</string>
     <string name="emergency_enable_radio_dialog_title">"Appel d'urgence"</string>
-    <string name="emergency_information_confirm_hint">Tap again to view info</string>
-    <string name="emergency_information_hint">Emergency information</string>
-    <string name="emergency_information_owner_hint">Owner</string>
-    <string name="emm_cause_11">"Current carrier doesn't support this service."</string>
-    <string name="emm_cause_14">"Current carrier doesn't support mobile data services."</string>
-    <string name="emm_cause_2">"Couldn't register phone number. Turn your device off, then turn it back on and try again."</string>
-    <string name="emm_cause_3">"Couldn't verify user. Turn your device off, then turn it back on and try again."</string>
-    <string name="emm_cause_6">"Couldn't verify device. Turn your device off, then turn it back on and try again."</string>
-    <string name="emm_cause_7_8_12_13_15_16_17_22">"You can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
+    <string name="emergency_information_confirm_hint">Appuyez à nouveau pour afficher les informations</string>
+    <string name="emergency_information_hint">"Information en cas d'urgence"</string>
+    <string name="emergency_information_owner_hint">Propriétaire</string>
+    <string name="emergency_medical_records">Enregistrements médicaux</string>
+    <string name="emm_cause_11">"L'opérateur actuel ne prend pas en charge ce service."</string>
+    <string name="emm_cause_14">"L'opérateur actuel ne prend pas en charge les services de données mobiles."</string>
+    <string name="emm_cause_2">"Impossible d'enregistrer le numéro de téléphone. Éteignez votre appareil, puis rallumez-le et réessayez."</string>
+    <string name="emm_cause_3">"Impossible de vérifier l'utilisateur. Éteignez votre appareil, puis rallumez-le et réessayez."</string>
+    <string name="emm_cause_6">"Impossible de vérifier l'appareil. Éteignez votre appareil, puis rallumez-le et réessayez."</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">"Vous ne pouvez pas utiliser l'itinérance maintenant. Éteignez votre appareil, puis rallumez-le et réessayez. Si vous rencontrez toujours ce problème après cela, contactez le support client de l'opérateur (SKT: +82-2-6346-9000)."</string>
     <string name="empty_alert">%s doit obligatoirement être renseigné.</string>
     <string name="empty_networks_list">Aucun réseau trouvé.</string>
     <string name="enable">Activer</string>
@@ -788,6 +789,7 @@ Bluetooth"</string>
     <string name="enhanced_4g_lte_mode_title">Mode 4G LTE amélioré</string>
     <string name="enhanced_4g_lte_mode_title_variant">"Mode d'appel avancé"</string>
     <string name="enter_callbarring_password">"Mot de passe d'interdiction (%d chiffres)"</string>
+    <string name="enter_esim_manager">Gestion eSIM</string>
     <string formatted="false" name="enter_input">Le message USSD doit être compris entre %d et %d caractères. Réessayez.</string>
     <string name="enter_pin2_text">PIN 2</string>
     <string name="enter_pin_text">Code PIN de la carte SIM :</string>
@@ -797,6 +799,10 @@ Bluetooth"</string>
     <string name="eps_only_set_button">set eps only</string>
     <string name="eps_only_set_title">this button is for setting eps only</string>
     <string name="error_updating_title">"Erreur des paramètres d'appel"</string>
+    <string name="esim_goto_active">Activer</string>
+    <string name="esim_inactive_message">eSIM inactive</string>
+    <string name="esim_inactive_notification_message">Aucune carte SIM détectée. Appuyez pour activer eSIM.</string>
+    <string name="esim_inactive_settings_title">Double SIM &amp; réseaux mobiles</string>
     <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="external_source_trusted">Autorisé</string>
@@ -918,6 +924,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="incall_error_supp_service_unknown">"Le service n'est pas supporté"</string>
     <string name="incall_error_wfc_only_no_wireless_network">Connectez-vous à un réseau sans fil pour passer un appel.</string>
     <string name="incall_number_anonymous">Numéro inconnu</string>
+    <string name="incall_number_anonymous_kd">ID non envoyé</string>
+    <string name="incall_number_unavailable_kd">Non pris en charge</string>
     <string name="incall_status_dialed_mmi">Démarrage de la séquence MMI…</string>
     <string name="install_other_apps">"Installation d'applis inconnues"</string>
     <string name="international_disable">Les informations internationales sont désactivées</string>

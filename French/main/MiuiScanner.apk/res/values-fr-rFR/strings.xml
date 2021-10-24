@@ -15,15 +15,17 @@
     <string name="picture_confirm">déterminer</string>
     <string name="picture_data_exception">Anomalie des données de l’album…</string>
     <string name="picture_data_null">Pas de données…</string>
+    <string name="picture_default_original_image">Original</string>
     <string name="picture_done">L’achèvement du</string>
     <string name="picture_done_front_num">%1$d/%2$d L’achèvement</string>
+    <string name="picture_editor">Édition</string>
     <string name="picture_empty">Vous pouvez utiliser votre caméra pour prendre des photos ou des vidéos</string>
     <string name="picture_empty_audio_title">"Pas de fichier audio
 "</string>
     <string name="picture_empty_title">"Pas de vidéos ou de photos
 "</string>
     <string name="picture_error">Image endommagée</string>
-    <string name="picture_gif_tag">Bouge fig</string>
+    <string name="picture_gif_tag">gif</string>
     <string name="picture_jurisdiction">L’autorisation de lire la carte de mémoire a été refusée</string>
     <string name="picture_know">Je sais</string>
     <string name="picture_long_chart">Figure longue</string>
@@ -33,7 +35,7 @@
     <string name="picture_min_img_num">La sélection minimale des images ne doit pas être inférieure à %1$s</string>
     <string name="picture_min_video_num">La sélection minimale des vidéos ne peut être inférieure à %1$s</string>
     <string name="picture_not_crop_data">Pas de données recadrées</string>
-    <string name="picture_original_image">Original</string>
+    <string name="picture_original_image">Original (%1$s)</string>
     <string name="picture_pause_audio">La suspension</string>
     <string name="picture_photo_camera">Prendre des photos, filmer</string>
     <string name="picture_photo_pictures">Clic photo</string>
@@ -62,4 +64,9 @@
     <string name="picture_video_error">Vidéo endommagée</string>
     <string name="picture_video_toast">Vidéo non disponible</string>
     <string name="picture_warning">Pas de documents pour les médias！</string>
+    <string name="picture_webp_tag">webp</string>
+    <string name="ucrop_gif_tag">Bouge fig</string>
+    <string name="ucrop_label_edit_photo">Modifier la photo</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Recadrer</string>
 </resources>

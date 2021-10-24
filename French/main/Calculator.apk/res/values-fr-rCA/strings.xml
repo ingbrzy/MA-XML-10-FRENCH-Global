@@ -45,6 +45,13 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Connexion</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="copy">Copier</string>
+    <string name="expand_button_title">Avancé</string>
+    <string name="not_set">Non défini</string>
+    <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">DÉSACTIVÉ</string>
+    <string name="v7_preference_on">ACTIVÉ</string>
 </resources>

@@ -308,7 +308,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="actionbar_button_up_description">Retour</string>
   <string name="activating">Activation…</string>
   <string name="active_device_admin_msg">"Appli d'administration de l'appareil"</string>
-  <string name="active_input_method_subtypes">Méthode de saisie active</string>
+  <string name="active_input_method_subtypes">"Méthodes d'entrée actives"</string>
   <string name="activity_check_context">"Votre appareil tente actuellement de se connecter à internet. Ce processus peut prendre plus de temps que prévu si vous utilisez un réseau mobile. Vous pouvez revenir en arrière et vous connecter à un réseau Wi-Fi à la place, ou continuer à attendre jusqu'à ce que la connexion de données mobiles soit établie."</string>
   <string name="activity_check_title">Connexion à internet</string>
   <string name="activity_list_empty">Aucune activité correspondante trouvée.</string>
@@ -1017,9 +1017,10 @@ Applications :
   <string name="battery_used_by">%1$s utilisé(s) par %2$s</string>
   <string name="battery_used_for">"Temps d'utilisation : ^1"</string>
   <string name="bearer">Réseau</string>
-  <string name="beauty_camera">Beautify for video calls</string>
-  <string name="beauty_camera_summary">Use Beautify for WeChat video calls</string>
+  <string name="beauty_camera">Beautify pour les appels vidéo</string>
+  <string name="beauty_camera_summary">Utiliser Beautify pour les appels vidéo WeChat</string>
   <string name="beauty_camera_switch">Beautify</string>
+  <string name="beauty_fc_assistant">Assistant caméra frontale</string>
   <string name="billing_cycle">Avertissement et limite données</string>
   <string name="billing_cycle_fragment_summary">Mensuel (le %1$s)</string>
   <string name="billing_cycle_less_than_one_day_left">Moins de 1 jour restant</string>
@@ -1030,6 +1031,7 @@ Applications :
   <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
   <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
   <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>
+  <string name="blank_screen_no_device">AUcun périphérique</string>
   <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les périphériques Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
   <string name="block_list_connected_devices">Appareils connectés</string>
   <string name="block_list_diaglog_cancle">Annuler</string>
@@ -1072,7 +1074,7 @@ Applications :
   <string name="bluetooth_broadcasting">Diffusion</string>
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à : &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
-  <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
+  <string name="bluetooth_connect_settings">Connexion</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
   <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
@@ -1098,7 +1100,6 @@ Applications :
   <string name="bluetooth_device_advanced_profile_header_title">Utiliser pour</string>
   <string name="bluetooth_device_advanced_rename_device">Renommer</string>
   <string name="bluetooth_device_advanced_title">Périphérique Bluetooth associé</string>
-  <string name="bluetooth_device_blacklist_summary">Gérer les périphériques Bluetooth bloqués</string>
   <string name="bluetooth_device_blacklist_tital">Liste de blocage Bluetooth</string>
   <string name="bluetooth_device_context_connect">Se connecter</string>
   <string name="bluetooth_device_context_connect_advanced">Options…</string>
@@ -1141,7 +1142,7 @@ Applications :
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
-  <string name="bluetooth_display_settings">"Paramètres d'affichage Bluetooth"</string>
+  <string name="bluetooth_display_settings">Éléments affichés</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -1202,7 +1203,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_message_access_notification_content">Un appareil non approuvé souhaite accéder à vos messages. Appuyez pour plus de détails.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Débloquer %1$s maintenant ?</string>
   <string name="bluetooth_mi_fast_connect">Jumeler des appareils compatibles</string>
-  <string name="bluetooth_mi_fast_connect_summary">"Connectez-vous aux appareils à proximité à l'aide d'un processus de couplage simplifié"</string>
+  <string name="bluetooth_mi_fast_connect_summary">"Connectez rapidement des écouteurs, des haut-parleurs et d'autres appareils compatibles"</string>
   <string name="bluetooth_middle_name">Boîtier</string>
   <string name="bluetooth_move_out_of_blacklist">"Débloquer l'appareil"</string>
   <string name="bluetooth_name_not_set">"Aucun nom n'a été défini. Utilisation du nom du compte…"</string>
@@ -1219,6 +1220,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Pas connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour les transferts de fichiers</string>
+  <string name="bluetooth_other_settings">Paramètres supplémentaires</string>
   <string name="bluetooth_paired">Sauvegardé</string>
   <string name="bluetooth_paired_device_title">Vos appareils</string>
   <string name="bluetooth_pairing">Appairage en cours…</string>
@@ -1239,6 +1241,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association rejetée par %1$s.</string>
   <string name="bluetooth_pairing_request">Associer avec %1$s ?</string>
   <string name="bluetooth_pairing_shares_phonebook">"Autoriser l'accès à vos contacts et à l'historique des appels"</string>
+  <string name="bluetooth_pairing_shares_phonebook_not_support_voice">"Autoriser l'accès aux contacts"</string>
   <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqué avec succès. Vous pouvez gérer les éléments bloqués dans \"Paramètres supplémentaires\".</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association accorde l'accès à tous les contacts et à l'historique des appels une fois connecté."</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec le périphérique"</string>
@@ -1254,6 +1257,9 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_phonebook_request">"Demande d'accès au répertoire"</string>
   <string name="bluetooth_pin_values_hint">Habituellement 0000 ou 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Doit comporter 16 chiffres.</string>
+  <string name="bluetooth_plugins_check_summary">Connectez-vous au réseau pour vérifier les mises à jour</string>
+  <string name="bluetooth_plugins_check_summary_new">Une mise à jour est disponible</string>
+  <string name="bluetooth_plugins_check_title">Mettre à jour le plug-in Bluetooth</string>
   <string name="bluetooth_pref_summary">Autoriser le téléphone à communiquer avec les périphériques Bluetooth à proximité</string>
   <string name="bluetooth_preference_connected_devices">Connectés</string>
   <string name="bluetooth_preference_device_settings">"Paramètres de l'appareil"</string>
@@ -1276,7 +1282,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_profile_hearing_aid">Prothèse auditive</string>
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
-  <string name="bluetooth_profile_map">Messages texte</string>
+  <string name="bluetooth_profile_map">SMS</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
@@ -2016,6 +2022,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="current_input_method">Clavier actuel</string>
   <string name="current_password">"Verrouillage d'écran actuel"</string>
   <string name="current_screen_lock">"Verrouillage de l'écran actuel"</string>
+  <string name="current_use_default_wallet">Sélectionné automatiquement</string>
   <string name="current_use_ese">Utilisation des éléments sécurisés intégrés</string>
   <string name="current_use_ese_wallet">"Vous utilisez Mi Wallet. Cela vous permet d'utiliser Mi Pay et la carte de transport NFC."</string>
   <string name="current_use_hce_wallet">Vous utilisez le portefeuille HCE</string>
@@ -2250,6 +2257,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
   <string name="dc_light_summary">Appliquer une gradation CC pour réduire la fatigue oculaire</string>
   <string name="dc_light_summary_new">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
   <string name="dc_light_title">Mode anti-scintillement</string>
+  <string name="dclight_unavailable_prompt">"Le Mode anti-scintillement n'est pris en charge que par l'écran extérieur"</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
   <string name="debug_app_set">Application de débogage : %1$s</string>
@@ -2393,7 +2401,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
   <string name="device_status_activity_title">Informations</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
   <string name="device_theme">"Thème de l'appareil"</string>
-  <string name="device_total_memory">"Stockage interne "</string>
+  <string name="device_total_memory">"Espace de stockage total "</string>
   <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
   <string name="devices_title">Appareils</string>
   <string name="dial_application_title">Composeur</string>
@@ -2412,6 +2420,8 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
   <string name="dialog_check_title">Connexion à internet impossible</string>
   <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
   <string name="dialog_content_login">Se connecter avec votre compte Mi pour mettre à jour ?</string>
+  <string name="dialog_esim_button_negative">Annuler</string>
+  <string name="dialog_esim_button_positive">OK</string>
   <string name="dialog_location_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s continue de demander votre position lorsque vous ne l'utilisez pas.
 
 Pour résoudre le problème, vous pouvez désactiver les services de localisation pour cette application."</string>
@@ -2424,6 +2434,12 @@ Pour résoudre le problème, vous pouvez désactiver les services de localisatio
   <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
   <string name="dialog_restrict_negative">Restreindre</string>
   <string name="dialog_restrict_positive">Annuler</string>
+  <string name="dialog_softbank_esim_wipe_cancel">Annuler</string>
+  <string name="dialog_softbank_esim_wipe_info">Toutes les données eSIM seront effacées si vous continuez. Continuer quand même ?</string>
+  <string name="dialog_softbank_esim_wipe_ok">Continuer</string>
+  <string name="dialog_softbank_esim_wipe_title">Effacer les données eSIM</string>
+  <string name="dialog_softbank_esime_context">"Cet appareil doit se connecter à Internet pour pouvoir activer eSIM. Ignorer également l'activation eSIM ?"</string>
+  <string name="dialog_softbank_esime_title">"Ignorer l'activation eSIM"</string>
   <string name="dialog_speaker_auto_clean_button">Compris</string>
   <string name="dialog_speaker_auto_clean_content">"L'effacement prend 30 secondes. Ne quittez pas cette page. Maximisez le volume sonore pour un meilleur effet."</string>
   <string name="dialog_speaker_auto_clean_title">Attention</string>
@@ -2497,6 +2513,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_dashboard_summary_with_style">"Styles, fonds d'écran, temporisation d'écran, taille de police"</string>
   <string name="display_label">Écran</string>
   <string name="display_order_text">Trier par :</string>
+  <string name="display_prompt_confirm">Compris</string>
   <string name="display_settings">Affichage</string>
   <string name="display_settings_title">Affichage</string>
   <string name="display_summary">"Mode veille activé après %1$s d'inactivité"</string>
@@ -3370,6 +3387,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gxzw_quick_open_title">Raccourcis</string>
   <string name="handy_mode">Mode Une main</string>
   <string name="handy_mode_enable">Mode Une main</string>
+  <string name="handy_mode_no_touch_assistant">"Le mode à une main ne fonctionnera que si vous utilisez des boutons pour la navigation dans le système. Vous pouvez basculer entre les gestes et les boutons dans la section \"Navigation système\" des paramètres."</string>
   <string name="handy_mode_size">"Taille de l'écran"</string>
   <string name="handy_mode_tips">"Glissez vers la gauche ou la droite depuis le bouton Accueil pour réduire la taille de l'écran."</string>
   <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode Une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
@@ -3454,6 +3472,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
   <string name="headset_sbc">SBC</string>
   <string name="headset_settings_title">Effets sonores</string>
+  <string name="headset_spatial_audio">Audio spatial</string>
+  <string name="headset_toast_tip_disconnect_others">On dirait que vos écouteurs sont à présent connectés à un autre appareil</string>
   <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
   <string name="headset_unsaved_devices">"Utilisé sur d'autres appareils"</string>
   <string name="hearing_aids_category">"Outils d'aide à l'audition"</string>
@@ -3619,6 +3639,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="input_methods_settings_title">Saisie de texte</string>
   <string name="input_pattern_hint_text">Dessinez votre schéma de déverrouillage</string>
   <string name="input_settings">Paramètres de saisie</string>
+  <string name="insert_sim_card_and_try_again">Insérez votre carte SIM et réessayez.</string>
   <string name="input_text">Barre de saisie de texte</string>
   <string name="install_all_warning">"Votre téléphone et vos données personnelles sont très vulnérables aux attaques provenant d'applications inconnues. En installant des applications provenant de cette source, vous acceptez d'être le seul responsable de tout dommage causé à votre téléphone ou de toute perte de données pouvant découler de l'utilisation de telles applications."</string>
   <string name="install_applications">Sources inconnues</string>
@@ -3686,6 +3707,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="keyboard_and_input_methods_category">Clavier</string>
   <string name="keyboard_assistance_category">Assistance relative au clavier</string>
   <string name="keyboard_disconnected">Non connecté</string>
+  <string name="keyboard_funtion_key">Touche Fonction</string>
   <string name="keyboard_layout_default_label">Par défaut</string>
   <string name="keyboard_layout_dialog_setup_button">Configurer dispositions clavier</string>
   <string name="keyboard_layout_dialog_switch_hint">Appuyez sur Ctrl+Espace pour changer disposition</string>
@@ -4818,7 +4840,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="mtp_solution_button_ok">Dépannage</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
-  <string name="mtrl_picker_confirm">Sauvegarder</string>
+  <string name="mtrl_picker_confirm">Enregistrer</string>
   <string name="mtrl_picker_date_format">d MMM yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
@@ -6357,6 +6379,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="screen_projection_title">Diffusion</string>
   <string name="screen_reader_category_title">"Lecteurs d'écran"</string>
   <string name="screen_recorder_title">"Enregistreur d'écran"</string>
+  <string name="screen_refresh_unavailable_prompt">"La modification du taux de rafraîchissement n'est prise en charge que par l'écran extérieur"</string>
   <string name="screen_reader_mode_input_type_summary">Sélectionnez le geste pour activer la saisie de texte lorsque TalkBack est activé</string>
   <string name="screen_reader_mode_input_type_title">Entrée texte</string>
   <string name="screen_resolution_dialog_title">Changer de résolution</string>
@@ -6437,11 +6460,13 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="sdcard_settings_unmounted_status">Vous pouvez maintenant retirer la carte SD en toute sécurité.</string>
   <string name="sdcard_settings_used_bytes_label">Octets utilisés :</string>
   <string name="sdcard_unmount">Désinstaller la carte SD</string>
+  <string name="se_route_default">Sélectionner automatiquement</string>
   <string name="se_route_ese">Élément sécurisé intégré</string>
   <string name="se_route_uicc">Élément sécurisé sur la carte SIM</string>
   <string name="se_wallet_ese">Mi Pay et carte de transport NFC</string>
   <string name="se_wallet_hce">Utiliser le portefeuille HCE</string>
   <string name="se_wallet_uicc">Utiliser le portefeuille de la carte SIM %1$s</string>
+  <string name="se_wallet_uicc_jp">"Portefeuille de la SIM %1$s (Ne peut pas être sélectionné automatiquement)"</string>
   <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;Processeur;Mémoire vive;Mémoire interne;Mémoire;Stockage;Stockage interne;Version du modem;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
   <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
   <string name="search_access_control">Paramètres de confidentialité;confidentialité de sécurité;Invité;Mode invité</string>
@@ -7023,6 +7048,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_slot_empty">Carte SIM vide</string>
   <string name="sim_status_title">Statut SIM</string>
   <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
+  <string name="sim_status_title_sim_softbank">Statut carte SIM %1$d</string>
   <string name="simulate_color_space">Simuler un espace de couleur</string>
   <string name="single_key_use">Bouton unique</string>
   <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>
@@ -7237,6 +7263,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_latest_area_info">"Informations sur l'opérateur"</string>
   <string name="status_number">Numéro de téléphone</string>
   <string name="status_number_sim_slot">Numéro de téléphone (SIM %1$d)</string>
+  <string name="status_number_sim_softbank">Numéro de téléphone %1$d</string>
   <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
   <string name="status_operator">Réseau</string>
   <string name="status_prl_version">"Version de la liste d'itinérance préférée"</string>
@@ -7501,7 +7528,12 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="structure_manage_facerecoginition_text">Gérer la reconnaissance faciale 3D</string>
   <string name="style_and_wallpaper_settings_title">"Styles et fond d'écran"</string>
   <string name="style_suggestion_summary">"Essayez différents styles, fonds d'écran, horloges, etc."</string>
-  <string name="style_suggestion_title">Personnalisez votre Pixel</string>
+  <string name="style_suggestion_title">Personnalisez votre téléphone</string>
+  <string name="stylus_connect_fail">Impossible de se connecter. Attachez à nouveau.</string>
+  <string name="stylus_connect_fail_no_battery">Chargez votre stylet maintenant</string>
+  <string name="stylus_connect_fail_no_reason">Impossible de se connecter</string>
+  <string name="stylus_connect_fail_not_open_gps">Impossible de se connecter. Activez les services de localisation et réessayez.</string>
+  <string name="stylus_connecting">Connexion…</string>
   <string name="stylus_ota_check_failed_battery">Impossible de vérifier. La batterie de votre stylet est faible.</string>
   <string name="stylus_ota_check_failed_info">Impossible de vérifier la version du micrologiciel. Attachez à nouveau votre stylet.</string>
   <string name="stylus_ota_check_update">Vérifier les mises à jour</string>
@@ -7983,6 +8015,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unrestricted_app_title">Conso. données non restreinte</string>
   <string name="unrestricted_data_saver">Données non restreintes</string>
   <string name="unsupported_setting_summary">"Le paramètre n'est pas disponible sur ce téléphone"</string>
+  <string name="unsupported_usim_card">Carte USIM non prise en charge.</string>
   <string name="update_new_version">Mise à jour disponible</string>
   <string name="update_progress_for_updates">Mise à jour (%s)</string>
   <string name="updating_settings">Mise à jour des paramètres…</string>

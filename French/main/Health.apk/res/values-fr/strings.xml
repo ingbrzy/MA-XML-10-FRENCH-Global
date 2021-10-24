@@ -191,7 +191,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="chart_no_data">Pas de données</string>
-  <string name="chip_text">Description</string>
+  <string name="chip_text">Chip text</string>
   <string name="choose_from_album">Galerie</string>
   <string name="chronic">Maladies chroniques</string>
   <string name="chronic_hint">Décrivez vos maladies chroniques (par ex. hypertension artérielle, asthme, etc.)</string>
@@ -1731,7 +1731,7 @@ Mettre à jour maintenant ?"</string>
   <string name="welcome_start_use">Démarrer</string>
   <string name="well">Bon</string>
   <string name="write_strorage_perm_description">Pour enregistrer les informations sur les problèmes que vous rencontrez</string>
-  <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
   <string name="year">Année</string>

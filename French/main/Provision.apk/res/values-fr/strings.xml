@@ -224,7 +224,7 @@
     <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Des Conditions générales d'utilisation s'appliquent."</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
     <string name="other_settings_location">Localisation</string>
-    <string name="other_settings_location_summary">"Permettre aux applications d'accéder à votre localisation"</string>
+    <string name="other_settings_location_summary">"Permettre aux applications et aux sites web d'accéder à vos informations de localisation pour fournir des services basés sur la localisation"</string>
     <string name="other_settings_upload_debug_log_detail">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc.
 Les données que vous enverrez contiendront des informations générales sur votre appareil et la manière dont vous l'utilisez (par exemple, le niveau de la batterie, l'activité du système et des applications, et les erreurs). Les données seront utilisées pour améliorer les appareils MIUI.
 La désactivation de cette fonction n'affecte pas la capacité de votre appareil à envoyer les informations nécessaires aux services essentiels tels que les mises à jour du système et la sécurité.
@@ -456,6 +456,7 @@ Vous devez accepter la Politique de confidentialité de Mint Keyboard avant d'ut
     <string name="tuesday_shortest">Mar</string>
     <string name="user_agreement">"Conditions générales d'utilisation"</string>
     <string name="user_agreement_declare">"Avant d'utiliser MIUI, vous devez lire et accepter notre Accord d'utilisation et notre Politique de confidentialité. Pendant l'activation de votre appareil, le service d'activation de la carte SIM, Xiaomi Cloud, Backup Service, Rechercher l'appareil, Écran d'accueil, Phrases fréquentes, Service de traduction, MIUI Daemon, Visualiseur HTML, MIUI SDK, Secure Element Application, Assistant AI, Batterie et performance, Power Detector, Joyose, OS AI Setting et Mise à jour se connectent au réseau. Smart cards, Permissions Manager, et les services intelligents se connecteront au réseau et accéderont à votre position."</string>
+    <string name="user_agreement_declare_gmscore">"Avant d'utiliser MIUI, vous devez lire et accepter notre Accord d'utilisation et notre Politique de confidentialité. Pendant l'activation de votre appareil, Xiaomi Cloud, Backup Service, Rechercher l'appareil, Écran d'accueil, Phrases fréquentes, Service de traduction, MIUI Daemon, Visualiseur HTML, MIUI SDK, Secure Element Application, Assistant AI, Batterie et performance, Power Detector, Joyose, OS AI Setting et Mise à jour se connectent au réseau. Smart cards, Permissions Manager, et les services intelligents se connecteront au réseau et accéderont à votre position."</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+1% toutes les heures)."</string>

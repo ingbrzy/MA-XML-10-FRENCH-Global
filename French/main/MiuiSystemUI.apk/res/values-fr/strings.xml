@@ -317,7 +317,7 @@
   <string name="account_info">Non connecté</string>
   <string name="activate_usb_message">Pour activer cette fonctionnalité, insérez votre carte SIM.</string>
   <string name="activate_usb_title">"Activer l'USB"</string>
-  <string name="active_input_method_subtypes">Méthode de saisie active</string>
+  <string name="active_input_method_subtypes">"Méthodes d'entrée actives"</string>
   <string name="activity_launch_on_secondary_display_failed_text">"L'application ne supporte pas le lancement sur des écrans secondaires."</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
@@ -406,9 +406,9 @@
   <string name="battery_detail_switch_summary">Réduit la performance et les données en arrière-plan</string>
   <string name="battery_detail_switch_title">Économiseur de batterie</string>
   <string name="battery_info_status_charging">En charge</string>
-  <string name="battery_info_status_charging_fast">Chargement rapide</string>
+  <string name="battery_info_status_charging_fast">En charge rapide</string>
   <string name="battery_info_status_charging_lower">chargement</string>
-  <string name="battery_info_status_charging_slow">Chargement lent</string>
+  <string name="battery_info_status_charging_slow">En charge lente</string>
   <string name="battery_info_status_discharging">Pas de chargement</string>
   <string name="battery_info_status_full">Pleine</string>
   <string name="battery_info_status_not_charging">Branché, ne peut pas charger maintenant</string>
@@ -463,7 +463,7 @@ Réessayez dans %d secondes."</string>
   <string name="biometric_dialog_wrong_pattern">Mauvais schéma</string>
   <string name="biometric_dialog_wrong_pin">Mauvais code PIN</string>
   <string name="blob_expires_text">Expire à %s</string>
-  <string name="blob_id_text">ID données partagées : %d</string>
+  <string name="blob_id_text">ID des données partagées : %d</string>
   <string name="block">Bloquer toutes les notifications</string>
   <string name="block_notification_content_text">"Les notifications de %1$s ne s'afficheront plus. Vous pourrez changer ceci dans les Paramètres."</string>
   <string name="block_notification_desc">"Les notifications ne s'afficheront plus. Vous pouvez changer ceci dans les Paramètres."</string>
@@ -535,7 +535,7 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_profile_hearing_aid">Aide auditive</string>
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
-  <string name="bluetooth_profile_map">Messages texte</string>
+  <string name="bluetooth_profile_map">SMS</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
@@ -1119,13 +1119,15 @@ Continuer de les afficher ?"</string>
   <string name="input_lockscreen_password_hint_text">Entrer le mot de passe</string>
   <string name="input_lockscreen_pattern_hint_text">Dessiner le schéma</string>
   <string name="input_lockscreen_pin_hint_text">Entrer le code PIN</string>
-  <string name="input_password_after_boot_msg">"La confirmation de votre verrouillage d'écran est requise après un redémarrage de l'appareil"</string>
+  <string name="input_password_after_boot_msg">"La confirmation de votre mot de passe est requise après un redémarrage de l'appareil"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossible de basculer entre les espaces lorsque les contrôles parentaux sont activés</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"Vous devez entrer dans le Premier espace suite à un redémarrage de l'appareil"</string>
   <string name="input_password_hint_text">Saisir le mot de passe</string>
+  <string name="input_pattern_after_boot_msg">"La confirmation de votre schéma est requise après un redémarrage de l'appareil"</string>
   <string name="input_pattern_hint_text">Dessiner un schéma de déverrouillage</string>
+  <string name="input_pin_after_boot_msg">"La confirmation de votre code PIN est requise après un redémarrage de l'appareil"</string>
   <string name="input_pin_code">Saisir le code PIN</string>
   <string name="input_puk_code">Saisir le code PUK</string>
   <string name="install_other_apps">Installer des applications inconnues</string>
@@ -1626,7 +1628,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="msim_set_sub_not_supported_phone_in_call">"Impossible de régler pendant l'appel"</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
-  <string name="mtrl_picker_confirm">Sauvegarder</string>
+  <string name="mtrl_picker_confirm">Enregistrer</string>
   <string name="mtrl_picker_date_format">d MMM yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
@@ -1759,6 +1761,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>"Sélectionner&lt;font color=#a5220e>\"Effacer &amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre."</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
+  <string name="phone_locked_string_owner_user">Trop de tentatives infructueuses pour saisir le mot de passe du Premier espace. Cet appareil est maintenant verrouillé.</string>
+  <string name="phone_locked_string_second_user">Trop de tentatives infructueuses pour saisir le mot de passe du Deuxième espace. Cet appareil est maintenant verrouillé.</string>
   <string name="picture_color_mode">Mode image couleur</string>
   <string name="picture_color_mode_desc">Utiliser sRGB</string>
   <string name="pip_close">Fermer PiP</string>
