@@ -397,7 +397,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
 
 Votre administrateur a la possibilité de surveiller et de gérer les paramètres, l'accès, les applications et les données associées à ce profil utilisateur, y compris l'activité réseau et les informations de localisation de votre appareil."</string>
   <string name="additional_battery_info">"Alertes d'utilisation"</string>
-  <string name="additional_permissions">Permissions supplémentaires</string>
+  <string name="additional_permissions">Autorisations supplémentaires</string>
   <string name="additional_permissions_more">%1$d autres</string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour additionnelles du système</string>
   <string name="adjust_3d_depth_title">Ajuster la profondeur des jeux 3D</string>
@@ -541,7 +541,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (APN) ne sont pas disponibles pour cet utilisateur"</string>
   <string name="apn_type">"Type d'APN"</string>
   <string name="apn_user">"Nom d'utilisateur"</string>
-  <string name="app_and_notification_dashboard_summary">Permissions, applications par défaut</string>
+  <string name="app_and_notification_dashboard_summary">Autorisations, applications par défaut</string>
   <string name="app_and_notification_dashboard_title">Applis et notifications</string>
   <string name="app_backup">Sauvegarde</string>
   <string name="app_bluetooth_device_blacklist">Liste de blocage Bluetooth</string>
@@ -605,7 +605,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="app_ops_running">"En cours d'exécution"</string>
   <string name="app_permission_summary_allowed">Autorisé</string>
   <string name="app_permission_summary_not_allowed">Non autorisé</string>
-  <string name="app_permissions">Permissions des applications</string>
+  <string name="app_permissions">Autorisations des applications</string>
   <string name="app_permissions_summary">Applications utilisant %1$s</string>
   <string name="app_permissions_summary_more">Applications utilisant %1$s, et plus</string>
   <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
@@ -628,8 +628,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="application_item_permission">Autoriser</string>
   <string name="application_lock_name">"Verrouillage des applications"</string>
   <string name="application_manager_section_title">Applications</string>
-  <string name="application_permission_manager">Permissions des applications</string>
-  <string name="application_permissions">Permissions des applications</string>
+  <string name="application_permission_manager">Autorisations des applications</string>
+  <string name="application_permissions">Autorisations des applications</string>
   <string name="application_restrictions">Autoriser des applications et des contenus</string>
   <string name="application_size_label">"Taille d'application"</string>
   <string name="applications_settings">Applications  installées</string>
@@ -1390,6 +1390,8 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bluetooth_unpair_dialog_title">"Dissocier l'appareil ?"</string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
   <string name="bluetooth_untethered_unpair_dialog_body">%1$s ne sera plus appairé à aucun appareil lié à ce compte</string>
+  <string name="bluetooth_version">Version du Bluetooth</string>
+  <string name="bluetooth_version_message">Mise à jour</string>
   <string name="bluetooth_visibility_timeout">Délai de visibilité</string>
   <string name="bluetooth_wake">Allumer avec Bluetooth audio</string>
   <string name="boot_sounds_title">Sons de mise en route</string>
@@ -1429,7 +1431,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
   <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Annuler</string>
-  <string name="bootloader_status_privacy_dialog_title">Permissions requise</string>
+  <string name="bootloader_status_privacy_dialog_title">Autorisations requise</string>
   <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
   <string name="bootloader_status_privacy_dialog_yes">Accepter</string>
   <string name="bootloader_status_summary">"Vérifier si l'appareil est verrouillé"</string>
@@ -2473,7 +2475,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="disable_service_title">Arrêter %1$s ?</string>
   <string name="disable_text">Désactiver</string>
   <string name="disabled">Désactivé</string>
-  <string name="disabled_authorised_apps_title">Permissions révoquée</string>
+  <string name="disabled_authorised_apps_title">Autorisations révoquée</string>
   <string name="disabled_because_no_backup_security">"Pour continuer, vous devez tout d'abord verrouiller l'écran."</string>
   <string name="disabled_by_admin">"Désactivée par l'administrateur"</string>
   <string name="disabled_by_admin_summary_text">"Contrôlé par l'admin"</string>
@@ -2744,7 +2746,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="enable_wifi_display">Affichage sans fil</string>
   <string name="enabled">Activé</string>
   <string name="enabled_authorised_apps_summary">Votre autorisation sera révoquée après avoir basculé les boutons des applications individuelles.</string>
-  <string name="enabled_authorised_apps_title">Permissions accordée</string>
+  <string name="enabled_authorised_apps_title">Autorisations accordées</string>
   <string name="enabled_by_admin">"Activé par l'administrateur"</string>
   <string name="enalbe_identify_iPhone">"Identification de l'appareil"</string>
   <string name="encrypt_talkback_dialog_message_password">"Lorsque vous saisissez votre mot de passe pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
@@ -2806,7 +2808,7 @@ Cela permet de protéger les données de votre appareil en cas de perte ou de vo
   <string name="enterprise_privacy_ca_certs_device">Certificats de confiance</string>
   <string name="enterprise_privacy_ca_certs_personal">Certificats de confiance dans votre profil personnel</string>
   <string name="enterprise_privacy_ca_certs_work">Certificats de confiance dans votre profil professionnel</string>
-  <string name="enterprise_privacy_camera_access">"Permissions d'accès à l'appareil photo"</string>
+  <string name="enterprise_privacy_camera_access">"Autorisations d'accès à l'appareil photo"</string>
   <string name="enterprise_privacy_device_access_category">Votre accès à cet appareil</string>
   <string name="enterprise_privacy_enterprise_data">"Informations associées à votre compte professionnel, telles que les Emails et les données de l'agenda"</string>
   <string name="enterprise_privacy_enterprise_installed_packages">Applications installées</string>
@@ -2822,9 +2824,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="enterprise_privacy_input_method">Clavier par défaut</string>
   <string name="enterprise_privacy_input_method_name">Défini sur \"%s\"</string>
   <string name="enterprise_privacy_installed_packages">Liste des applications installées sur votre appareil</string>
-  <string name="enterprise_privacy_location_access">"Permissions d'accéder à la position"</string>
+  <string name="enterprise_privacy_location_access">"Autorisations d'accéder à la position"</string>
   <string name="enterprise_privacy_lock_device">"L'administrateur peut verrouiller l'appareil et réinitialiser le mot de passe"</string>
-  <string name="enterprise_privacy_microphone_access">"Permissions d'accès au micro"</string>
+  <string name="enterprise_privacy_microphone_access">"Autorisations d'accès au micro"</string>
   <string name="enterprise_privacy_network_logs">Dernier journal du trafic réseau</string>
   <string name="enterprise_privacy_none">Aucune</string>
   <string name="enterprise_privacy_security_logs">Dernier journal de sécurité</string>
@@ -3083,7 +3085,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="firewall_network_restrict_notify_message">Appuyez pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
   <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
-  <string name="firewall_permission">Permissions de connexion</string>
+  <string name="firewall_permission">Autorisations de connexion</string>
   <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
   <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
@@ -3966,7 +3968,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="location_agps_supl_server_addr">Adresse du serveur</string>
   <string name="location_agps_supl_server_port">Port du serveur</string>
   <string name="location_agps_supl_settings">Paramètres supplémentaires</string>
-  <string name="location_app_level_permissions">Permissions des applications</string>
+  <string name="location_app_level_permissions">Autorisations des applications</string>
   <string name="location_app_permission_summary_location_off">Localisation désactivé</string>
   <string name="location_category_location_services">Services de localisation</string>
   <string name="location_category_recent_location_access">Accès à la localisation récent</string>
@@ -4215,7 +4217,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockscreen_sidepanel_shortcuts_title">Raccourcis des panneaux latéraux</string>
   <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec le Cloud.</string>
   <string name="login_account_dialog_title">Se connecter avec le compte Mi</string>
-  <string name="login_account_summary">Gérer les comptes, les services Cloud, les paiements et plus encore</string>
+  <string name="login_account_summary">Gérer les comptes, les services cloud, les paiements et plus encore</string>
+  <string name="login_account_summary_temp">Gérer les comptes, les services cloud et plus encore</string>
   <string name="login_action">Se connecter</string>
   <string name="long_press_back_key">Appui prolongé sur bouton Retour</string>
   <string name="long_press_buttom_key">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
@@ -5534,7 +5537,7 @@ Read and agree to %s before using this service."</string>
   <string name="permission_records">Utilisation des permissions</string>
   <string name="permission_records_summary">Résumé de la façon dont les applications utilisent les autorisations</string>
   <string name="permission_settings_summary">"Gérer les permissions liées à la localisation, au stockage, au téléphone, aux messages ainsi qu'aux contacts."</string>
-  <string name="permission_settings_title">Permissions des applications</string>
+  <string name="permission_settings_title">Autorisations des applications</string>
   <string name="permissions_label">Détails des permissions</string>
   <string name="permit_draw_overlay">"Autoriser la superposition d'applis"</string>
   <string name="permit_manage_external_storage">"Autoriser l'accès à tous les fichiers"</string>
@@ -5808,11 +5811,11 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_authorize_revoke_dialog_msg">"Après avoir révoqué l'autorisation, l'application arrêtera de collecter les données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre l'application virtuellement inutilisable. Révoquer quand même ?"</string>
   <string name="privacy_authorize_revoke_dialog_title">"Révocation d'autorisation"</string>
   <string name="privacy_authorize_revoke_failed">"Impossible de révoquer l'autorisation"</string>
-  <string name="privacy_authorize_revoke_success">Permissions révoquée avec succès</string>
+  <string name="privacy_authorize_revoke_success">Autorisations révoquée avec succès</string>
   <string name="privacy_authorize_revoke_time">Révoquer (%1$d s)</string>
-  <string name="privacy_authorize_revoke_title">Permissions et révocation</string>
+  <string name="privacy_authorize_revoke_title">Autorisations et révocation</string>
   <string name="privacy_authorize_revoking">"Lorsque la fonction de recommandation est désactivée, la quantité d'annonces affichée reste la même que lorsqu'elle est activée, mais pas en fonction de vos données de comportement ou de vos informations personnelles."</string>
-  <string name="privacy_authorize_success">Permissions accordée avec succès</string>
+  <string name="privacy_authorize_success">Autorisation accordée avec succès</string>
   <string name="privacy_authorize_title">"Accord d'autorisation"</string>
   <string name="privacy_close_dlg_button_ok">Désactiver</string>
   <string name="privacy_close_dlg_msg">Lorsque le mot de passe de protection de confidentialité est désactivé, vos éléments ne seront plus protégés.</string>
@@ -6157,7 +6160,7 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="restriction_nfc_enable_summary_config">"Autoriser l'échange de données lorsque cet appareil (%1$s) touche un autre appareil NFC"</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrictions</string>
-  <string name="restriction_wifi_config_summary">Permissions la modification des paramètres réseau Wi-Fi et mobiles</string>
+  <string name="restriction_wifi_config_summary">Autoriser la modification des paramètres réseau Wi-Fi et mobiles</string>
   <string name="restriction_wifi_config_title">Réseaux Wi-Fi et mobiles</string>
   <string name="retail_demo_reset_message">"Entrer votre mot de passe pour réaliser une réinitialisation aux paramètres d'usine dans le mode démo"</string>
   <string name="retail_demo_reset_next">Suivant</string>
@@ -6546,7 +6549,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="search_lock_sounds_enable_title">"Verrouillage d'écran;Activer le son du verrouillage d'écran"</string>
   <string name="search_manage_device_admin">"Administrateurs de l'appareil;Admin;Administrateur"</string>
   <string name="search_manage_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
-  <string name="search_manage_notification_access_title">Accès aux notifications;Notifications;Permissions de notification</string>
+  <string name="search_manage_notification_access_title">Accès aux notifications;Notifications;Autorisations de notification</string>
   <string name="search_master_clear_title">"Réinitialisation des valeurs d'usine"</string>
   <string name="search_menu">Rechercher dans les paramètres</string>
   <string name="search_menu_title">Recherche</string>
@@ -6569,8 +6572,8 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="search_other_settings_sync_settings">Synchroniser;Auto;Wi-Fi uniquement</string>
   <string name="search_owner_info_settings_title">Informations du propriétaire</string>
   <string name="search_page_layout_settings">Taille de texte;Taille de police;Petite police;Grande police;Police moyenne;Police XXL;Très grande;Tailles de police</string>
-  <string name="search_permission_manager">Permissions;Accès root;Téléchargement;Téléchargements</string>
-  <string name="search_permission_settings_title">"Permissions d'application,Permissions d'accès,Gestion des applications,Téléchargement,Téléchargements"</string>
+  <string name="search_permission_manager">Autorisations;Accès root;Téléchargement;Téléchargements</string>
+  <string name="search_permission_settings_title">"Autorisations d'application,Permissions d'accès,Gestion des applications,Téléchargement,Téléchargements"</string>
   <string name="search_pick_up_gesture_wakeup_title">Ramasser; soulever</string>
   <string name="search_pointer_speed">Vitesse du curseur</string>
   <string name="search_power_checker">"Contrôleur d'énergie"</string>
@@ -7185,6 +7188,24 @@ Pour partager votre position avec des contacts d'urgence
 Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser SOS d'urgence dans de tels cas.
 Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
   <string name="sos_privacy_dialog_title">"Conditions générales d'utilisation"</string>
+  <string name="sos_privacy_policy">Politique de confidentialité</string>
+  <string name="sos_privacy_policy_change_endtitle">Lisez et acceptez la nouvelle version de %s avant de continuer.</string>
+  <string name="sos_privacy_policy_change_message_reject">"Vous ne pourrez pas continuer à utiliser SOS d'urgence à moins d'accepter la nouvelle version de sa Politique de confidentialité. Accepter la mise à jour %s maintenant ?"</string>
+  <string name="sos_privacy_policy_change_subtitle">"La Politique de confidentialité de SOS d'urgence a été mise à jour :"</string>
+  <string name="sos_privacy_policy_change_title">Politique de confidentialité mise à jour</string>
+  <string name="sos_privacy_policy_change_title_reject">"Impossible d'utiliser l'application"</string>
+  <string name="sos_privacy_policy_no_net_button">Compris</string>
+  <string name="sos_privacy_policy_no_net_message">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="sos_privacy_policy_no_net_title">Impossible de se connecter au réseau</string>
+  <string name="sos_privacy_policy_revoke">Retrait du consentement</string>
+  <string name="sos_privacy_policy_revoke_message_reject">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de SOS d'urgence. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire.
+
+Comme SOS d'urgence fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de sécurité.
+
+Retirer le consentement à %s maintenant ?"</string>
+  <string name="sos_privacy_policy_revoke_title_reject">Attention</string>
+  <string name="sos_privacy_revoke_failed_dialog_content">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="sos_privacy_revoke_failed_dialog_title">Impossible de retirer le consentement</string>
   <string name="sound_assist_summary">Personnalisez vos paramètres sonores</string>
   <string name="sound_assist_title">Assistant son</string>
   <string name="sound_category_call_ringtone_vibrate_title">Sonnerie et notifications</string>

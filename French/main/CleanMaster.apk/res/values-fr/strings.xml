@@ -537,6 +537,7 @@
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_collect">Collections</string>
   <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -682,7 +683,7 @@
   <string name="permission_dialog_storage_btn1">Paramètres</string>
   <string name="permission_dialog_storage_btn2">Annuler</string>
   <string name="permission_dialog_storage_content">"Le nettoyeur a besoin d'une autorisation pour accéder au stockage interne pour pouvoir fonctionner normalement. Appuyez sur \"Paramètres\" pour gérer les autorisations de stockage."</string>
-  <string name="permission_dialog_storage_title">Permissions requises</string>
+  <string name="permission_dialog_storage_title">Autorisations requises</string>
   <string name="petabyteShort">" Po"</string>
   <string name="phone_search">Recherche Google</string>
   <string name="pm">PM</string>
