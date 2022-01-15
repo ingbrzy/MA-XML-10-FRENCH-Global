@@ -18,7 +18,7 @@
     <string name="abc_menu_space_shortcut_label">espace</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -33,6 +33,9 @@
     <string name="am">AM</string>
     <string name="app_name">Plugin de service système</string>
     <string name="app_select_title">Ajouter des applications fréquemment utilisées</string>
+    <string name="auto_task_now_city">Emplacement actuel</string>
+    <string name="auto_task_search_address_point">Rechercher des emplacements</string>
+    <string name="auto_task_select_city">Sélectionnez une ville</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_button">Annuler</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
@@ -83,7 +86,7 @@
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="fastboot_locked_answer_1">"Fastboot est la méthode traditionnelle pour flasher les appareils Mi. Lorsque l'appareil est mode Fastboot, toutes les données qui sont y stockées peuvent être atteintes et supprimées directement. Nous verrouillons Fastboot pour s'assurer que vos données soient sécurisées en cas de perte de l'appareil, aussi bien que garantir la fiabilité des fonctionnalités de Localiser l'appareil."</string>
     <string name="fastboot_locked_answer_2">"Au cas où vous perdez votre appareil, Fastboot garantit la sécurité des éléments qui y sont stockés. Si vous déverrouillez Fastboot, vous ne serez plus en mesure de verrouiller votre appareil à distance ou effacer les données via Localiser l'appareil. C'est pour cela que nous ne recommandons pas de déverrouiller Fastboot."</string>
-    <string name="fastboot_locked_answer_3">"Vous devriez utiliser l'outil de déverrouillage du site Web de MIUI. Pour déverrouiller un appareil, nous devons nous assurer que l'appareil vous appartient. Raison pour laquelle vous devez vous connecter à votre compte Mi et activer Localiser l'appareil."</string>
+    <string name="fastboot_locked_answer_3">"Vous devriez utiliser l'outil de déverrouillage du site Web de MIUI. Pour déverrouiller un appareil, nous devons nous assurer que l'appareil vous appartient. Raison pour laquelle vous devez vous connecter à votre Compte Mi et activer Localiser l'appareil."</string>
     <string name="fastboot_locked_question_1">Pourquoi Fastboot doit être verrouillé ?</string>
     <string name="fastboot_locked_question_2">Y a t-il des risques liés au déverrouillage de Fastboot ?</string>
     <string name="fastboot_locked_question_3">"Je suis conscient des risques, mais j'ai toujours besoin de déverrouiller mon appareil. Que dois-je faire ?"</string>
@@ -105,7 +108,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_booster">Accélérateur de jeu</string>
-    <string name="gamebooster_network_dialog_message">"Permettre à Sécurité de se connecter au réseau afin d'utiliser toutes les fonctionnalités du booster de vitesse du jeu ?"</string>
+    <string name="gamebooster_network_dialog_message">"Permettre à Sécurité de se connecter au réseau afin d'utiliser toutes les fonctionnalités de Game Turbo ?"</string>
     <string name="gamebooster_network_dialog_title">Certaines fonctionnalités ne sont pas disponibles</string>
     <string name="gamebox_no_network_btn">Recharger</string>
     <string name="gb_adv_touch_adv_title">Mode classique (par défaut)</string>
@@ -181,6 +184,9 @@
     <string name="gb_pannel_control_mode_power_saving">"Économie d'énergie"</string>
     <string name="gb_weixinpay_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
     <string name="gdpr_msg"><Data>"Pour utiliser les fonctionnalités de base de Sécurité, vous devez accepter que Xiaomi collecte, traite, et utilise vos données personnelles, y compris sur la façon dont vous utilisez les fonctionnalités de Sécurité (par ex. les statistiques d'utilisation des données mobiles, les informations à propos de malwares, ainsi que des informations de base à propos de votre appareil) et d'autres types d'informations indiquées dans notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Mi pour enregistrer la durée de votre abonnement."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>"J'ai lu et j'accepte la &lt;a href=\"%1$s\">Politique de confidentialité de Xunyou Game Booster.&lt;/a>"</Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="icon_content_description">Icône de dialogue</string>
     <string name="lucky_result_title">Enveloppes rouges</string>
     <string name="main_toolbar_purchase">Recharger</string>
@@ -189,10 +195,24 @@
     <string name="miuishare_title_share">Partager</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation cloud désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisation cloud réussie</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation cloud…</string>
     <string name="miuix_appcompat_search_input_description">Recherche</string>
+    <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+    <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+    <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>

@@ -8,7 +8,7 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -263,13 +263,13 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
     <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour rafraîchir</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement des éléments impossible"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -552,7 +552,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
-    <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="title_bar">Convertisseur de longueur</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>

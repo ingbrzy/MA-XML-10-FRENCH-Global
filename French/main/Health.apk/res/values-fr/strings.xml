@@ -30,7 +30,7 @@
   <string name="abc_menu_space_shortcut_label">espace</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -61,7 +61,7 @@
   <string name="add_body_weight_record_button">Ajouter des données de poids</string>
   <string name="add_data_source">Ajout de sources de données</string>
   <string name="add_data_source_description">"Ajoutez des données de santé générées par d'autres appareils à Xiaomi Health pour augmenter la précision des statistiques et obtenir des conseils de santé plus pertinents.."</string>
-  <string name="add_data_source_login_and_open_sync">Connectez-vous à votre compte Mi et activez la synchronisation avec le cloud pour pouvoir ajouter des sources de données.</string>
+  <string name="add_data_source_login_and_open_sync">Connectez-vous à votre Compte Mi et activez la synchronisation avec le cloud pour pouvoir ajouter des sources de données.</string>
   <string name="add_data_source_open_sync">Activez la synchronisation avec le cloud pour pouvoir ajouter des sources de données.</string>
   <string name="add_data_source_process">Comment ajouter une source de données</string>
   <string name="add_data_source_support_step">"Cet appareil ne génère pas de données de nombre de pas. Vous pouvez essayer de passer à d'autres sources de données."</string>
@@ -85,6 +85,8 @@ Vous pourrez suivre vos entraînements et votre activité."</string>
   <string name="app_setting">Applications</string>
   <string name="audio_permission_dialog_desc">"La permission d'enregistrement audio a été retirée, merci de la redonner."</string>
   <string name="audio_permission_dialog_title">"Donner la permission d'enregistrer l'audio"</string>
+  <string name="audio_permission_subtitle">Pour détecter le ronflement et parler</string>
+  <string name="audio_permission_title">"Enregistrer l'audio"</string>
   <string name="audio_record_perm_description">"Enregistre vos ronflements et vos rêves durant le sommeil"</string>
   <string name="audio_record_permission_description">Pour enregistrer les conversations et les ronflements tout en analysant votre cycle de sommeil</string>
   <string name="auth_description">Autoriser %1$s pour synchroniser les données des appareils suivants</string>
@@ -158,6 +160,8 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="bmi_label">IMC</string>
   <string name="body_bmi_descripe_content">"L'indice de masse corporelle (IMC) est définie comme le poids de votre corps en kilogrammes divisé par le carré de votre taille en mètres. Connaître votre IMC peut vous aider à voir si votre poids a un impact négatif sur votre santé."</string>
   <string name="body_composition">Composition de votre corps</string>
+  <string name="body_sport_permission_subtitle">Pour suivre vos pas</string>
+  <string name="body_sport_permission_title">"Accéder aux données de santé et d'activité"</string>
   <string name="body_water">Eau</string>
   <string name="body_water_descripe_content">"Le pourcentage d'eau corporelle désigne la proportion d'eau dans le poids total du corps humain. En général, le tissu musculaire contient plus d'eau que les autres parties du corps."</string>
   <string name="body_weight">Poids</string>
@@ -179,6 +183,8 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="button_record_menstruation">Enregistrer</string>
   <string name="buy">Acheter</string>
   <string name="camera_permission_desc">Pour changer la photo de profil</string>
+  <string name="camera_permission_subtitle">Pour obtenir des modifications du flux sanguin pour la détection de la fréquence cardiaque et la configuration des photos de profil</string>
+  <string name="camera_permission_title">Utiliser le capteur photo</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_edit">Annuler les modifications</string>
   <string name="cancel_mark_end">"La période n'est pas terminée"</string>
@@ -206,13 +212,15 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="close_stand_notice_and_detection_tip">La détection de vous lever ainsi que les rappels sont désactivés</string>
   <string name="close_stand_notice_tip">"La détection de vous lever a été désactivée, Mi Santé vous conseille de l'activer"</string>
   <string name="collapse">Masquer</string>
-  <string name="collect_diagnosis_log">Collecter le journal de diagnostic</string>
+  <string name="collect_diagnosis_log">Collecter les journaux</string>
   <string name="complete_preference_basic_info">Complétez votre profil</string>
   <string name="completed">"Terminé "</string>
   <string name="completed_stand">Vous vous êtes levé(e)</string>
   <string name="confirm_opening">Activer</string>
   <string name="contact_permission_desc">"Pour configurer les contacts en cas d'urgence"</string>
-  <string name="copy">Copie</string>
+  <string name="contact_permission_subtitle">"Pour régler les contacts d'urgence"</string>
+  <string name="contact_permission_title">Accéder aux contacts</string>
+  <string name="copy">Copier</string>
   <string name="copy_done">Copie réussie</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. Tous droits réservés.</string>
   <string name="cross_hiking">Randonnée</string>
@@ -458,6 +466,8 @@ Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sou
   <string name="expand_all">Tout afficher</string>
   <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+  <string name="external_storage_permission_subtitle">Pour définir des photos de profil</string>
+  <string name="external_storage_permission_title">Accéder et enregistrer des éléments dans le stockage</string>
   <string name="fall_sleep_hard">"Difficulté à s'endormir"</string>
   <string name="falling_duration">"S'endormir"</string>
   <string name="falling_duration_hard_description">"L'endormissement est la période entre le début de votre sommeil et l'endormissement complet. S'il vous faut plus de 30 minutes pour vous endormir, cela peut être un signe d'insomnie.
@@ -628,7 +638,7 @@ Recommencer."</string>
   <string name="indoor_running">Tapis de course</string>
   <string name="input_body_weight">Entrez les données de poids pour obtenir des conseils de santé</string>
   <string name="inquire_recover_data">Restaurer les données de santé maintenant ?</string>
-  <string name="inquire_recover_data_subtitle">Il semble que des données de santé soient associées à votre compte Mi (%1$s). Activer la synchronisation avec le cloud et restaurer les données maintenant ?</string>
+  <string name="inquire_recover_data_subtitle">Il semble que des données de santé soient associées à votre Compte Mi (%1$s). Activer la synchronisation avec le cloud et restaurer les données maintenant ?</string>
   <string name="instructions_provider">Instructions fournies par Miao Health</string>
   <string name="insufficient">Insuffisant</string>
   <string name="internal_training">HIIP</string>
@@ -685,6 +695,8 @@ Recommencer."</string>
   <string name="location_permission_dialog_negative">Pas maintenant</string>
   <string name="location_permission_dialog_positive">Autoriser</string>
   <string name="location_permission_dialog_title">Autorisations de localisation requises</string>
+  <string name="location_permission_subtitle">Pour suivre les entraînements en plein air et enregistrer les itinéraires</string>
+  <string name="location_permission_title">"Accéder à l'emplacement"</string>
   <string name="location_service_dialog_content">Activez les services de localisation dans les paramètres pour pouvoir suivre vos entraînements en extérieur.</string>
   <string name="location_service_dialog_negative">Pas maintenant</string>
   <string name="location_service_dialog_positive">Activer</string>
@@ -829,8 +841,8 @@ Recommencer."</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
   <string name="miuix_search_action_mode_cancel">Annuler</string>
   <string name="miuix_search_history_clear">"Effacer l'historique de recherche"</string>
   <string name="miuix_search_history_default_title">Historique de recherche</string>
@@ -928,7 +940,7 @@ Recommencer."</string>
   <string name="not_up_to_standard">En dessous de la norme</string>
   <string name="oar_time">Drive time</string>
   <string name="oauth_account_failed">"Impossible d'obtenir les informations de compte"</string>
-  <string name="oauth_account_failed_desc">Pour ajouter des sources de données, Mi Santé doit utiliser votre compte Mi. Connectez-vous pour continuer.</string>
+  <string name="oauth_account_failed_desc">Pour ajouter des sources de données, Mi Santé doit utiliser votre Compte Mi. Connectez-vous pour continuer.</string>
   <string name="oauth_invalid">La session a expiré. Connectez-vous à nouveau.</string>
   <string name="ok">OK</string>
   <string name="open">Activer</string>
@@ -1316,6 +1328,9 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sport_btn_pause">Pause</string>
   <string name="sport_btn_unlock">Déverrouiller</string>
   <string name="sport_counter_begin">Commencer maintenant</string>
+  <string name="sport_data_use_subtitle">"Pour suivre vos entraînements et vos progrès de forme physique, nous collectons et traitons vos informations, y compris les itinéraires d'entraînement, les données de sommeil, la fréquence cardiaque et le poids."</string>
+  <string name="sport_data_use_tip">"Lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Politique d'utilisation des données de santé et d'activité&lt;/a>&lt;/font> pour mieux comprendre comment nous collectons et traitons vos informations. Vous ne pourrez pas utiliser ce service si vous ne consentez pas à notre collecte et à notre traitement."</string>
+  <string name="sport_data_use_title">Autorisations de données</string>
   <string name="sport_home_begin">Commencer</string>
   <string name="sport_home_set_goal">Fixer objectif</string>
   <string name="sport_invalid_dialog_distance_content">La distance que vous avez parcourue pendant cet entraînement est trop courte pour créer un historique. Terminer cet entraînement quand même ?</string>
@@ -1432,6 +1447,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sync_status_never_done">Non synchronisé</string>
   <string name="sync_status_oauth_error">"Impossible de synchroniser les données. Accordez d'abord les autorisations requises."</string>
   <string name="system_app_setting">"Réglages de l'application système"</string>
+  <string name="system_permission">Détails des autorisations</string>
   <string name="systolic_pressure">Systolique</string>
   <string name="tb_audio_progress_bar">Barre de lecture audio</string>
   <string name="tb_blood_pressure_day_chart">%1$s. Plus haute pression systolique : %2$d millimètres de mercure. Plus basse pression systolique : %3$d millimètres de mercure.</string>
@@ -1563,7 +1579,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_stand_wm_column_click">%1$s. Pauses debout : %2$d. %3$s.</string>
   <string name="tb_unmultiple_selecte_all">Tout désélectionner</string>
   <string name="tb_user_account_signed">Compte Mi : %1$s.</string>
-  <string name="tb_user_account_unsigned">Appuyez pour vous connecter à votre compte Mi</string>
+  <string name="tb_user_account_unsigned">Appuyez pour vous connecter à votre Compte Mi</string>
   <string name="tb_user_sleep_card_info">Objectif quotidien de sommeil : %1$s.</string>
   <string name="tb_user_sleep_target_btn">"Modifier l'objectif de sommeil"</string>
   <string name="tb_user_step_card_info">Objectif quotidien : %1$s, environ %2$s ou %3$s.</string>
@@ -1625,7 +1641,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
   <string name="time">Heure</string>
-  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="tips_default">Aucune donnée</string>
   <string name="title_auto_run">Démarrage automatique</string>
   <string name="title_click_record_menstruation">Enregistrer un cycle</string>

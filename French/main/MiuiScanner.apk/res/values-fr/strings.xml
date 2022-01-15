@@ -6,7 +6,7 @@
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-  <string name="abc_action_mode_done">OK</string>
+  <string name="abc_action_mode_done">Terminé</string>
   <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -21,7 +21,7 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -113,7 +113,7 @@
   <string name="connect_to_wifi">Se connecter à ce réseau</string>
   <string name="connect_wifi">Se connecter à ce réseau</string>
   <string name="contact_details">QR code du contact :</string>
-  <string name="content_desktop_uninstall">"Scanner est une application système. Vous ne pourrez pas utiliser les fonctionnalités associées dans Browser, Appareil photo, Mi AI, Contacts et autres services système après avoir désinstallé l'application."</string>
+  <string name="content_desktop_uninstall">"Scanner est une application système. Vous ne pourrez pas utiliser les fonctionnalités associées dans Browser, Appareil photo, Mi IA, Contacts et autres services système après avoir désinstallé l'application."</string>
   <string name="continue_access_web_url">Aller sur le site Web</string>
   <string name="continue_to_website">Aller sur le site Web</string>
   <string name="continue_waiting">Faire attendre</string>
@@ -193,9 +193,9 @@
   <string name="error_server_error">"Une erreur de serveur s'est produite."</string>
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="experience_new_feature_tips">"Connectez-vous à votre compte Mi pour demander l'autorisation d'utiliser la version bêta. Vous pourrez utiliser la version bêta après avoir examiné votre candidature. La version bêta pourrait contenir des bugs."</string>
+  <string name="experience_new_feature_tips">"Connectez-vous à votre Compte Mi pour demander l'autorisation d'utiliser la version bêta. Vous pourrez utiliser la version bêta après avoir examiné votre candidature. La version bêta pourrait contenir des bugs."</string>
   <string name="experience_new_features">Version Bêta</string>
-  <string name="experiential_version_of_the_prompt_content">Connectez-vous à votre compte Mi pour accéder à Scanner version Bêta. Connectez vous maintenant ?</string>
+  <string name="experiential_version_of_the_prompt_content">Connectez-vous à votre Compte Mi pour accéder à Scanner version Bêta. Connectez vous maintenant ?</string>
   <string name="express_no_empty">"Saisissez d'abord le numéro de commande"</string>
   <string name="failed_to_get_xiaomi_account">"Impossible de se connecter"</string>
   <string name="fax">Fax</string>
@@ -206,7 +206,7 @@
   <string name="feedback_phone">Contact info (optional)</string>
   <string name="feedback_title">"Retour d'information"</string>
   <string name="filename_cannot_beempty">"Impossible d'enregistrer des fichiers sans nom"</string>
-  <string name="flight_mode_connecting_to_wifi">Activer manuellement le Wi-Fi lorsque le mode avion est activé</string>
+  <string name="flight_mode_connecting_to_wifi">Activer manuellement le Wi-Fi lorsque le mode Avion est activé</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -320,11 +320,11 @@
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
   <string name="module_title_business_card">Carte de visite</string>
   <string name="module_title_code">QR code</string>
   <string name="module_title_document">Document</string>
@@ -504,7 +504,7 @@
   <string name="qrcode_cannot_be_processed_auto">Le scanner intelligent ne peut pas traiter ce code. Scannez le code avec WeChat à la place.</string>
   <string name="query">Vérifier</string>
   <string name="query_faile">"L'état et les détails de la commande n'ont pas encore été synchronisés. Vérifiez votre commande manuellement."</string>
-  <string name="query_inai">Laissez Mi AI vous aider</string>
+  <string name="query_inai">Laissez Mi IA vous aider</string>
   <string name="query_more">"Plus d'information"</string>
   <string name="query_tracking">Livraison</string>
   <string name="query_tracknum">Vérifier le bon de livraison express</string>
@@ -648,7 +648,7 @@
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
-  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="title">Titre : </string>
   <string name="title_desktop_uninstall">Désinstaller Scanner ?</string>
   <string name="to_install_title">Ce QR code vous redirige vers une application désinstallée. Téléchargez cette application maintenant ?</string>
@@ -658,7 +658,7 @@
   <string name="tomorrow">Demain</string>
   <string name="translate_auto_lock">Verrouiller la traduction</string>
   <string name="translate_auto_unlock">Débloquer la traduction</string>
-  <string name="translate_copy_success">Copie réussie</string>
+  <string name="translate_copy_success">Copié avec succès</string>
   <string name="translate_dest_lang">Langue cible</string>
   <string name="translate_fail">Impossible de traduire</string>
   <string name="translate_loading">Traduction…</string>
@@ -732,7 +732,7 @@
   <string name="will_be_sent_tothe_background_review">" (Votre demande sera envoyée pour examen bientôt.)"</string>
   <string name="wx_not_installed_toast">Cette fonctionnalité doit utiliser WeChat. Installez WeChat en premier.</string>
   <string name="xiaoai_dialog">"Try saying what you
-want to scan to Mi AI"</string>
+want to scan to Mi IA"</string>
   <string name="xiaoai_text">Little love button</string>
   <string name="Xiaomi_account_pending_approval">"Examen de l'application"</string>
   <string name="yesterday">Hier</string>

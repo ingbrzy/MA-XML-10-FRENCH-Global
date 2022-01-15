@@ -18,7 +18,7 @@
   <string name="abc_menu_space_shortcut_label">espace</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -246,14 +246,16 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_collect">Collections</string>
+  <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -302,7 +304,7 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> des fichiers seront téléchargés."</string>
   <string name="network_error">Se connecter au réseau</string>
   <string name="night">Soirée</string>
-  <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
+  <string name="no_account">"Vous n'êtes pas connecté au Compte Mi."</string>
   <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
@@ -457,7 +459,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
-  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="title_alert_cancel_restore">Arrêter la restauration</string>
   <string name="title_alert_restore_error">Restauration impossible</string>
   <string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>

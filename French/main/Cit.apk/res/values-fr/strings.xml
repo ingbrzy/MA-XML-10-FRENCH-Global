@@ -27,7 +27,7 @@
   <string name="abc_menu_space_shortcut_label">espace</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -36,18 +36,6 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="action_example">Example action</string>
-  <string name="action_farr_enroll">FAR FRR:enroll</string>
-  <string name="action_farr_verify">FAR FRR:verify</string>
-  <string name="action_init_base">FAR FRR:init base</string>
-  <string name="action_nothing">wait for test</string>
-  <string name="action_settings">FingerprintUnlockSettings</string>
-  <string name="add">Add</string>
-  <string name="afdcalibration_test">AFD CALIBRATION TEST</string>
-  <string name="afdcalibrationrubberstamp_test">AFD CALIBRATION RUBBER STAMP TEST</string>
-  <string name="afdrubberstamp_test">AFD RUBBER STAMP TEST</string>
-  <string name="allow_gpu_maxfreq_summary">GPU overfreq experimental mode could introduce power issues or even more severe problems. However, they will be restored once you turn this mode off. Turn on GPU maxfreq mode?</string>
-  <string name="audio_rule">Audio xml parser</string>
   <string name="audio_spk_cal_wait">Calibration, please...</string>
   <string name="audio_spk_def">Calibrate the speakers, please</string>
   <string name="back_mic_check_record_tip">Recording, please say something to MIC at the back of the phone</string>
@@ -237,6 +225,7 @@ and reverse plug in the charger"</string>
   <string name="cit_charger_test_tips_pd">Current machine need to test USB_PD</string>
   <string name="cit_charger_waiting_in">Connect charger</string>
   <string name="cit_charger_waiting_out">Disconnect charger now</string>
+  <string name="cit_cust_img_version">Query CUST version info</string>
   <string name="cit_def_torch_on_one">Turn on the first flash</string>
   <string name="cit_def_torch_on_three">Turn on the third flash</string>
   <string name="cit_def_torch_on_two">Turn on the second flash</string>

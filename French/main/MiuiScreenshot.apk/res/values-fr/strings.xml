@@ -18,7 +18,7 @@
     <string name="abc_menu_space_shortcut_label">space</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -37,6 +37,7 @@
     <string name="app_name">"Capture d'écran"</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">"Pour enregistrer des captures d'écran"</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="early_morning">Matin</string>
@@ -54,10 +55,13 @@
     <string name="friday_shortest">Ven</string>
     <string name="long_screenshot_guide_text">"Appuyez pour faire
 une capture d'écran défilante"</string>
+    <string name="long_screenshot_intercepted_error">"Impossible de faire une capture d'écran. Réessayer."</string>
     <string name="long_screenshot_out_of_memory_error">"L'image est trop volumineuse"</string>
     <string name="long_screenshot_processing">Traitement en cours…</string>
+    <string name="long_screenshot_processing_description_accessibility">Traitement en cours</string>
     <string name="long_screenshot_stop">Terminé</string>
     <string name="long_screenshot_top_msg">"Création de la capture d'écran…"</string>
+    <string name="long_screenshot_top_msg_description_accessibility">"Création de la capture d'écran"</string>
     <string name="long_screenshot_top_msg_manual">"Rognez la capture d'écran et appuyez sur le bouton pour terminer"</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
@@ -77,11 +81,11 @@ une capture d'écran défilante"</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -216,7 +220,7 @@ une capture d'écran défilante"</string>
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
-    <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="tuesday">Mardi</string>

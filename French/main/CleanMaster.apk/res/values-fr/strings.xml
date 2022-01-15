@@ -18,7 +18,7 @@
   <string name="abc_menu_space_shortcut_label">espace</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
   <string name="abc_searchview_description_search">Rechercher</string>
@@ -546,7 +546,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -874,7 +874,7 @@
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
-  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="tips_low_storage_dialog_cancel">Annuler</string>
   <string name="tips_low_storage_dialog_msg_qq">La taille du cache de QQ a atteint 3 Go. Cela pourrait ralentir votre appareil. Nettoyez le cache de QQ maintenant ?</string>
   <string name="tips_low_storage_dialog_msg_storage">"Vous utilisez 90% de votre espace de stockage. Désinstallez les applications que vous n'utilisez plus."</string>
@@ -884,7 +884,7 @@
   <string name="tips_low_storage_dialog_title">Espace de stockage faible</string>
   <string name="tips_of_app_manage">Supprimer des applis rarement utilisées pour libérer de la mémoire</string>
   <string name="tips_of_auto_launch_manage">Empêcher les applications rarement utilisées de démarrer automatiquement</string>
-  <string name="tips_of_cloud_service">Connectez-vous avec votre compte Mi pour utiliser davantage de services Mi</string>
+  <string name="tips_of_cloud_service">Connectez-vous avec votre Compte Mi pour utiliser davantage de services Mi</string>
   <string name="tips_of_connect">"Connectez-vous à internet pour utiliser l'ensemble des fonctionnalités de sécurité"</string>
   <string name="tips_of_garbage_cloud_scan">"Trouver plus de fichiers inutiles avec l'analyse Cloud"</string>
   <string name="tips_of_garbage_data_set">Mettre à jour la base de données du nettoyeur pour trouver plus de fichiers inutiles sur votre appareil</string>

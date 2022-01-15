@@ -3,9 +3,9 @@
     <string name="abc_action_bar_home_description">"Naviguer vers l'accueil"</string>
     <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-    <string name="abc_action_mode_done">Effectué</string>
+    <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
-    <string name="abc_activitychooserview_choose_application">Choisissez une application</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -18,7 +18,7 @@
     <string name="abc_menu_space_shortcut_label">espace</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -42,7 +42,7 @@
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_debt_msg_words">"Cet appareil est verrouillé en raison d'un retard de versement.
 Contactez votre agent de vente pour plus de détails."</string>
-    <string name="default_lock_msg_words">"Cet appareil est associé avec un compte Mi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
+    <string name="default_lock_msg_words">"Cet appareil est associé avec un Compte Mi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
     <string name="default_lock_msg_words_with_phone">"Salut ! J'ai perdu cet appareil. Pourriez-vous me contacter s'il-vous-plaît ? Merci !"</string>
     <string name="device_locked">Cet appareil est bloqué</string>
     <string name="device_lost">Cet appareil est perdu</string>
@@ -110,11 +110,11 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -168,7 +168,7 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_verify">Vérifier</string>
     <string name="password">Entrer le mot de passe</string>
-    <string name="phone_locked">"Cet appareil est associé à un compte Mi (%s). Saisissez le mot de passe pour activer l'appareil."</string>
+    <string name="phone_locked">"Cet appareil est associé à un Compte Mi (%s). Saisissez le mot de passe pour activer l'appareil."</string>
     <string name="phone_locked_account_email">, Email associé: %s</string>
     <string name="phone_locked_account_phone">, numéro de téléphone associé: %s</string>
     <string name="pm">PM</string>
@@ -213,6 +213,9 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="sys_notification_async_open_failed_title">"Impossible d'activer Localiser l'appareil"</string>
     <string name="sys_notification_async_verify_content">"Notre Politique de sécurité mise à jour exige que Localiser l'appareil soit réactivé."</string>
     <string name="sys_notification_async_verify_title">"Réactiver Localiser l'appareil"</string>
+    <string name="talkback_back">Retour</string>
+    <string name="talkback_hide_pwd">Masquer le mot de passe</string>
+    <string name="talkback_show_pwd">Afficher le mot de passe</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -258,7 +261,7 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="thursday_shortest">Jeu</string>
     <string name="time_correction_failure">"Impossible de corriger l'heure. %s"</string>
     <string name="time_correction_success">Temps corrigé</string>
-    <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="tuesday">Mardi</string>

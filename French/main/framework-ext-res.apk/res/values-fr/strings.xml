@@ -115,11 +115,14 @@
   <string name="freeform_exchange_tip2">Déplacez dans le coin pour annuler</string>
   <string name="frequent_email">E-mail fréquemment utilisé</string>
   <string name="frequent_phrases">Phrases fréquentes</string>
-  <string name="functions_are_being_developed">"Les fonctionnalités sont en cours de développement, alors restez à l'écoute"</string>
-  <string name="global_actions_airplane_mode">Mode avion</string>
+  <string name="functions_are_being_developed">"Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !"</string>
+  <string name="global_actions_airplane_mode">Mode Avion</string>
   <string name="global_actions_reboot">Redémarrer</string>
   <string name="global_actions_shutdown">Éteindre</string>
   <string name="global_actions_silent_mode">Mode silencieux</string>
+  <string name="global_pad">Ma tablette</string>
+  <string name="global_pc">Mon laptop</string>
+  <string name="global_phone">Mon téléphone</string>
   <string name="handset_text_unsupported_handset_insert">Appuyez pour afficher les détails</string>
   <string name="handset_text_usb_handset_insert">Appuyez pour ouvrir des paramètres supplémentaires</string>
   <string name="handset_title_unsupported_handset_insert">"Impossible de lire l'audio via l'adaptateur"</string>
@@ -139,7 +142,7 @@
   <string name="input_method_clipboard_clear_all_button">Tout effacer</string>
   <string name="input_method_clipboard_clear_all_phrase_des">Effacer tous les objets de votre presse-papiers ?</string>
   <string name="input_method_clipboard_clear_all_phrase_title">Effacement du presse-papiers</string>
-  <string name="input_method_clipboard_copy_success">Copie réussie</string>
+  <string name="input_method_clipboard_copy_success">Copié avec succès</string>
   <string name="input_method_clipboard_delete_success">Effacement réussi</string>
   <string name="input_method_clipboard_participle">Mots séparés</string>
   <string name="input_method_clipboard_settings_button">Réglages</string>
@@ -191,6 +194,8 @@
   <string name="package_delete_confirm_step_3">"Vous ne serez plus en mesure d'ouvrir cette application une fois que vous la désinstallez."</string>
   <string name="paste">Coller</string>
   <string name="pc_device_model_name">Ordinateur</string>
+  <string name="pc_redmi_device_model_name">Redmi laptop</string>
+  <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
   <string name="perm_send_push_dspt">Autoriser les messages Mi Push</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
   <string name="permdesc_manageLocationPolicy">"Autoriser l'application à gérer la politique de localisation et définir des règles spécifiques."</string>
@@ -234,7 +239,9 @@
   <string name="screen_button_notification_title">Les boutons de navigation sont désactivés</string>
   <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonctionnalité, appuyez sur les boutons Volume haut et Retour simultanément.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pour désactiver cette fonctionnalité, appuyez sur le bouton Volume haut.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Pour désactiver cette fonctionnalité, appuyez sur le bouton Volume haut.</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone de l'écouteur interne et du capteur de proximité"</string>
+  <string name="screen_on_proximity_sensor_summary_for_kddi">"Ne couvrez pas le capteur de lumière ambiante"</string>
   <string name="screen_on_proximity_sensor_title">Mode poche</string>
   <string name="screen_paper_mode_enter_toast">Mode lecture activé. Pour le désactiver, allez à Paramètres > Affichage > Mode lecture.</string>
   <string name="screen_rotation_freeze_message">"La rotation de l'écran est verrouillée"</string>
@@ -248,7 +255,7 @@
   <string name="security_permission_open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
   <string name="security_permission_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
-  <string name="security_permission_xiaomi_account_missed_text">"Saisissez le nom d'utilisateur de votre compte Mi"</string>
+  <string name="security_permission_xiaomi_account_missed_text">"Saisissez le nom d'utilisateur de votre Compte Mi"</string>
   <string name="security_share_text">Protection de la vie privée</string>
   <string name="select">Sélectionner</string>
   <string name="select_all">Tout sélectionner</string>
@@ -282,7 +289,7 @@
   <string name="status_bar_toggle_cast">Diffusion</string>
   <string name="status_bar_toggle_data">Données mobiles</string>
   <string name="status_bar_toggle_edit">Trier</string>
-  <string name="status_bar_toggle_flight_mode">Mode avion</string>
+  <string name="status_bar_toggle_flight_mode">Mode Avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
   <string name="status_bar_toggle_midrop">Mi Transfert</string>

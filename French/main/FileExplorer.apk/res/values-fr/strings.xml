@@ -18,7 +18,7 @@
     <string name="abc_menu_space_shortcut_label">espace</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -40,10 +40,10 @@
     <string name="aggree_desc">"Autorisez cette application à se connecter à internet et accordez les autorisations obligatoires répertoriées ci-dessus."</string>
     <string name="agree">Accepter</string>
     <string name="am">AM</string>
-    <string name="app_all_purpose">Bienvenue dans le Gestionnaire de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. </string>
-    <string name="app_all_purpose_pad">Bienvenue dans le Gestionnaire de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. </string>
+    <string name="app_all_purpose">"Bienvenue dans l'Explorateur de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. "</string>
+    <string name="app_all_purpose_pad">"Bienvenue dans l'Explorateur de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. "</string>
     <string name="app_function">Gérer les fichiers sur votre appareil</string>
-    <string name="app_name">Gestionnaire de fichiers</string>
+    <string name="app_name">Explorateur de fichiers</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Appareil photo</string>
     <string name="app_name_downloadedrom">Paquets</string>
@@ -109,7 +109,7 @@
     <string name="category_video">Vidéos</string>
     <string name="category_wechat">WeChat</string>
     <string name="category_zip">Archives</string>
-    <string name="cdd_message">"En raison des restrictions d'Android 11, vous ne pourrez pas afficher certains des fichiers générés dans les applications tierces dans le Gestionnaire de fichiers."</string>
+    <string name="cdd_message">"En raison des restrictions d'Android 11, vous ne pourrez pas afficher certains des fichiers générés dans les applications tierces dans l'Explorateur de fichiers."</string>
     <string name="cdd_title">Attention</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -138,7 +138,7 @@
     <string name="data_consumption_cancel">Refuser</string>
     <string name="data_consumption_checkbox_hint">"Ne plus afficher"</string>
     <string name="data_consumption_confirm">OK</string>
-    <string name="data_consumption_message">"Le Gestionnaire de fichiers doit se connecter au réseau pendant que vous l'utilisez. Êtes-vous d'accord ?"</string>
+    <string name="data_consumption_message">"L'Explorateur de fichiers doit se connecter au réseau pendant que vous l'utilisez. Êtes-vous d'accord ?"</string>
     <string name="data_consumption_title">internet connection</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
@@ -191,9 +191,9 @@
     <string name="encrypt_prefix">PRIVÉ</string>
     <string name="encrypt_setting">Chiffrement</string>
     <string name="encrypt_success">\"Privé\" avec succès</string>
-    <string name="encrypt_success_first_five">"Fichier chiffré et privé. Vous pouvez voir les fichiers privés en tirant vers le bas sur la page d'accueil du Gestionnaire de fichiers."</string>
+    <string name="encrypt_success_first_five">"Fichier chiffré et privé. Vous pouvez voir les fichiers privés en tirant vers le bas sur la page d'accueil de l'Explorateur de fichiers."</string>
     <string name="encrypting">Chiffrement…</string>
-    <string name="enter">Ouvrir le Gestionnaire de fichiers</string>
+    <string name="enter">"Ouvrir l'Explorateur de fichiers"</string>
     <string name="entry_phone_storage_internal">Stockage interne</string>
     <string name="entry_storage_cloned_app">Applications clônées</string>
     <string name="entry_storage_usb">Périphérique USB</string>
@@ -282,7 +282,7 @@
     <string name="hint_switch_to_grid_mode">Basculé en mode grille</string>
     <string name="hint_switch_to_list_mode">Basculé en mode liste</string>
     <string name="home_action_up">Retour</string>
-    <string name="home_title">Gestionnaire de fichiers</string>
+    <string name="home_title">Explorateur de fichiers</string>
     <string name="homepage_tab_category">Catégories</string>
     <string name="homepage_tab_file_view_phone">Stockage</string>
     <string name="homepage_tab_recent">Récent</string>
@@ -298,8 +298,8 @@
     <string name="just_now">juste maintenant</string>
     <string name="kilobyteShort">" Ko"</string>
     <string name="launcher_icon_add_description">"Ajouter un nouveau raccourci sur l'écran d'accueil"</string>
-    <string name="launcher_icon_remove_description_content">"Gestionnaire de fichiers est une application système. Vous ne pourrez plus gérer les fichiers sur votre appareil après avoir supprimé le raccourci en page d'accueil."</string>
-    <string name="launcher_icon_remove_description_title">"Supprimer \"Gestionnaire de fichiers\" de l'écran d'accueil ?"</string>
+    <string name="launcher_icon_remove_description_content">"L'Explorateur de fichiers est une application système. Vous ne pourrez plus gérer les fichiers sur votre appareil après avoir supprimé le raccourci en page d'accueil."</string>
+    <string name="launcher_icon_remove_description_title">"Supprimer \"Explorateur de fichiers\" de l'écran d'accueil ?"</string>
     <string name="least_quick_category_hint">Ajoutez au moins %d raccourci</string>
     <string name="list_mode">Vue liste</string>
     <string name="load_more">Afficher plus</string>
@@ -357,6 +357,8 @@
     <string name="mirror_tip_list">Liste</string>
     <string name="mirror_tip_refresh">Rafraîchir</string>
     <string name="mirror_tip_show_type">Trier par</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -371,14 +373,16 @@
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -423,7 +427,7 @@
     <string name="morning">Matin</string>
     <string name="most_quick_category_hint">"Vous pouvez ajouter jusqu'à %d raccourcis"</string>
     <string name="move_failed">Impossible de déplacer les fichiers</string>
-    <string name="move_icon_to_desktop_hint">"Créez un raccourci pour le gestionnaire de fichiers sur l'Écran d'accueil afin de gérer plus efficacement les fichiers."</string>
+    <string name="move_icon_to_desktop_hint">"Créez un raccourci pour l'explorateur de fichiers sur l'Écran d'accueil afin de gérer plus efficacement les fichiers."</string>
     <string name="move_icon_to_desktop_success">"Raccourci ajouté sur l'écran d'accueil."</string>
     <string name="move_to">Déplacement…</string>
     <string name="msg_set_password">"Définir d'abord un mot de passe"</string>
@@ -458,7 +462,9 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
     <string name="name_empty">Entrer un nom.</string>
-    <string name="need_read_storage_permission">"Le Gestionnaire de fichiers nécessite l'autorisation d'accéder au stockage de l'appareil pour fonctionner normalement."</string>
+    <string name="need_open_content">"Autorisez l'Explorateur de fichiers à accéder à vos photos et fichiers pour utiliser cette fonctionnalité."</string>
+    <string name="need_open_permission">Autorisations requises</string>
+    <string name="need_read_storage_permission">"L'Explorateur de fichiers nécessite l'autorisation d'accéder au stockage de l'appareil pour fonctionner normalement."</string>
     <string name="network_not_available">"Impossible de se connecter au réseau"</string>
     <string name="new_folder_name">Dossier sans nom</string>
     <string name="next">Suivant</string>
@@ -469,6 +475,7 @@
     <string name="no_enough_storage_indication">Stockage plein.</string>
     <string name="no_enough_storage_title">Espace disque insuffisant</string>
     <string name="no_file">Vide</string>
+    <string name="no_permission">Accordez les autorisations requises pour accéder à cette fonctionnalité</string>
     <string name="no_recent_files">Aucun fichier récent</string>
     <string name="no_wifi">Aucun réseau détecté</string>
     <string name="noon">Midi</string>
@@ -484,7 +491,7 @@
     <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
     <string name="online_not_support">Impossible de voir ce fichier en ligne pour le moment.</string>
     <string name="open_or_close_wlan">Activer et désactiver le Wi-Fi</string>
-    <string name="open_private_folder">Relâchez pour afficher les dossiers privés</string>
+    <string name="open_private_folder">Relâchez pour afficher les dossiers masqués</string>
     <string name="operation_add_fav">Ajout aux favoris…</string>
     <string name="operation_cancel">Annuler</string>
     <string name="operation_compress">Compresser</string>
@@ -533,9 +540,9 @@
     <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être privés, veuillez réessayer"</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="path_name_email">E-mail</string>
-    <string name="permission_denial">"Impossible d'accéder aux fichiers. Autoriser Gestionnaire de fichiers à accéder aux paramètres."</string>
+    <string name="permission_denial">"Impossible d'accéder aux fichiers. Autoriser l'Explorateur de fichiers à accéder aux paramètres."</string>
     <string name="permission_description">Détails des autorisations</string>
-    <string name="permission_required">"Impossible d'accéder aux fichiers. Autoriser Gestionnaire de fichiers à accéder aux paramètres.​"</string>
+    <string name="permission_required">"Impossible d'accéder aux fichiers. Autoriser l'Explorateur de fichiers à accéder aux paramètres.​"</string>
     <string name="petabyteShort">" Po"</string>
     <string name="phone">Stockage interne</string>
     <string name="phone_storage">Stockage</string>
@@ -548,7 +555,7 @@
     <string name="phone_storage_image_title">"Images : "</string>
     <string name="phone_storage_info_str">%1$s sur %2$s disponibles</string>
     <string name="phone_storage_other_title">"Autres : "</string>
-    <string name="phone_storage_size_tip">"La comptabilisation du stockage par le Gestionnaire de fichiers peut différer des autres applications"</string>
+    <string name="phone_storage_size_tip">"La comptabilisation du stockage par l'Explorateur de fichiers peut différer des autres applications"</string>
     <string name="phone_storage_video_title">"Vidéos : "</string>
     <string name="phone_storage_zip_title">"Archives : "</string>
     <string name="pick_file">Choisir des fichiers</string>
@@ -560,19 +567,19 @@
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy_renew">Politique de confidentialité mise à jour</string>
-    <string name="privacy_policy_renew_content"><Data>"La &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> du gestionnaire de fichiers a été mise à jour. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez la nouvelle version de la Politique de confidentialité avant de continuer."</Data></string>
+    <string name="privacy_policy_renew_content"><Data>"La &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> de l'Explorateur de fichiers a été mise à jour. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez la nouvelle version de la Politique de confidentialité avant de continuer."</Data></string>
     <string name="private_files">Privés</string>
     <string name="private_folder">Dossiers privés</string>
     <string name="private_folder_no_file_hints">Aucun fichier privé.</string>
     <string name="private_folder_update">Mise à jour des fichiers privés…</string>
-    <string name="private_folder_update_msg">Le Gestionnaire de fichiers introduit une mesure de sécurité supplémentaire : Vous pouvez désormais chiffrer les fichiers privés !</string>
+    <string name="private_folder_update_msg">"L'Explorateur de fichiers introduit une mesure de sécurité supplémentaire : Vous pouvez désormais chiffrer les fichiers privés !"</string>
     <string name="private_folder_update_msg_summary">Le chiffrement ralentira la suppression des fichiers présents dans le dossier privé. Vous pouvez activer/désactiver le chiffrement dans les paramètres.</string>
     <string name="private_folder_update_tips">Nouvelle fonctionnalité</string>
     <string name="private_toast_hint2">Pour cacher un fichier, appuyez et maintenez-le, puis ajoutez-le à un dossier privé.</string>
     <string name="prize_result_tip">Exchange</string>
     <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
     <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
-    <string name="qq_msg">"En raison des restrictions d'Android 11, le Gestionnaire de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
+    <string name="qq_msg">"En raison des restrictions d'Android 11, l'Explorateur de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
     <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
     <string name="recent_hide_camera_and_screenshots">"Ne pas afficher, parmi les fichiers récents, les éléments de la Galerie et les captures d'écran"</string>
     <string name="refresh_success">Actualisation terminé</string>
@@ -587,7 +594,7 @@
     <string name="repair_error">Impossible de restaurer</string>
     <string name="repair_file">Restaurer des fichiers chiffrés</string>
     <string name="replace">Replacer</string>
-    <string name="request_document_permission">Pour gérer les fichiers sur votre carte SD, donnez au Gestionnaire de fichiers les autorisations requises.</string>
+    <string name="request_document_permission">"Pour gérer les fichiers sur votre carte SD, donnez à l'Explorateur de fichiers les autorisations requises."</string>
     <string name="request_document_permission_title">Autorisations requises</string>
     <string name="request_timeout">Délai de requête réseau expiré</string>
     <string name="reset_password">Changer le mot de passe</string>
@@ -745,12 +752,14 @@
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
-    <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="tip">Attention</string>
     <string name="title_app_tags">Applications</string>
     <string name="title_expire_video">À expiration</string>
     <string name="title_recent">Récent</string>
     <string name="title_select_volume">Sélectionner un dossier</string>
+    <string name="to_open">Paramètres</string>
+    <string name="to_setting">Paramètres</string>
     <string name="toast_file_not_can_read">Aucune application trouvée pour effectuer cette action.</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
@@ -781,7 +790,7 @@
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="view_type">Vue</string>
-    <string name="wechat_msg">"En raison des restrictions d'Android 11, le Gestionnaire de fichiers ne peut pas accéder et afficher les documents prévisualisés dans WeChat. Ouvrez et enregistrez des documents dans WeChat pour les faire apparaître ici."</string>
+    <string name="wechat_msg">"En raison des restrictions d'Android 11, l'Explorateur de fichiers ne peut pas accéder et afficher les documents prévisualisés dans WeChat. Ouvrez et enregistrez des documents dans WeChat pour les faire apparaître ici."</string>
     <string name="wechat_title">"Impossible d'accéder aux documents WeChat"</string>
     <string name="wechat_video">Vidéo sur %s</string>
     <string name="wednesday">Mercredi</string>
@@ -790,7 +799,7 @@
     <string name="wifi_state">Réseaux Wi-Fi</string>
     <string name="withdraw">Retrait</string>
     <string name="withdraw_consent">Retrait du consentement</string>
-    <string name="withdraw_consent_content">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité du Gestionnaire de fichier. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme le Gestionnaire de fichiers fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services du Gestionnaire de fichiers."</string>
+    <string name="withdraw_consent_content">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de l'Explorateur de fichier. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme l'Explorateur de fichiers fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de l'Explorateur de fichiers."</string>
     <string name="withdraw_consent_summary">Withdraw consent to the Privacy Policy of File Manager</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yes">Oui</string>

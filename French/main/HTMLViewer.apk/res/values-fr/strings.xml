@@ -8,7 +8,7 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -17,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="action_use_network">Utiliser</string>
     <string name="ad_service">Service publicitaire</string>
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
@@ -33,6 +34,7 @@
     <string name="early_morning">Matin</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
+    <string name="error_continue_via_browser">Détails</string>
     <string name="evening">Après-midi</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -68,11 +70,11 @@ allez sur %s sur un autre périphérique connecté."</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -171,6 +173,7 @@ allez sur %s sur un autre périphérique connecté."</string>
     <string name="solar_term_white_dews">Rosée blanche</string>
     <string name="solar_term_winter_begins">"Début de l'hiver"</string>
     <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
+    <string name="ssl_error_untrusted">"Le certificat n'est pas émis par une autorité de certification de confiance. Utiliser quand même ?"</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
@@ -217,7 +220,7 @@ allez sur %s sur un autre périphérique connecté."</string>
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
-    <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="tomorrow">Demain</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
