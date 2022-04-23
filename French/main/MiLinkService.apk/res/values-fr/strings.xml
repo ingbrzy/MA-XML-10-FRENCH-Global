@@ -27,8 +27,8 @@
     <string name="close_hotspot_hint">"Désactive le point d'accès portable avant la diffusion"</string>
     <string name="close_slave_wifi_hint">Déconnecte les réseaux Wi-Fi additionnels avant la diffusion</string>
     <string name="close_slave_wifi_hint_china">Déconnecte les réseaux Wi-Fi additionnels avant la diffusion</string>
-    <string name="config_wifi_label_china">Configurer MiPaiPai Wi-Fi</string>
-    <string name="config_wifi_label_global">Configurer MiPaiPai Wi-Fi</string>
+    <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Impossible de se connecter à l'appareil"</string>
     <string name="console_guide_btn_got_it">Compris</string>
     <string name="console_guide_subtitle_hang_up">"Vous pouvez continuer à diffuser lorsque l'écran de votre appareil est éteint. Cette fonctionnalité diminue la consommation énergétique."</string>
@@ -172,6 +172,10 @@ If you need to manually open the Miracast function, you can press the [Menu] but
     <string name="help_page_text_55_global">"Si vous ne pouvez pas vous connecter au réseau, vérifiez que votre écran externe supporte la fonctionnalité Miracast et qu'elle est activée. Sur certains modèles, cette fonctionnalité est appelée Wireless Display (affichage sans fil), Screen Mirroring (écran miroir), ou Multiple screens (écrans multiples).
 4. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
     <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
+    <string name="invisible_mode_dialog_content">"Impossible d'utiliser la diffusion en navigation privée. Désactivez d'abord la navigation privée."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Impossible de transférer la lecture en navigation privée. Désactivez d'abord la navigation privée."</string>
+    <string name="invisible_mode_dialog_pos">Désactiver</string>
+    <string name="invisible_mode_dialog_title">Vous êtes en navigation privée</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
     <string name="midnight">Night</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>

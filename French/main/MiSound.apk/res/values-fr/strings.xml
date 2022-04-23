@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="add_sound">Ajouter un préréglage personnalisé</string>
-    <string name="afternoon">Afternoon</string>
+    <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
     <string name="app_name">Écouteurs</string>
     <string name="apply_sound">Appliquer</string>
@@ -35,7 +35,7 @@
     <string name="complete_dialog_button">Compris</string>
     <string name="complete_dialog_message">Vous avez terminé le test avec succès.</string>
     <string name="complete_dialog_title">Résultats du test</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Copier</string>
     <string name="customization_complete">Terminé</string>
     <string name="customization_continue">Continuer</string>
     <string name="customization_pause_tip">Arrêtez le test maintenant ? Connectez des écouteurs pour continuer.</string>
@@ -49,9 +49,11 @@
     <string name="dolby_dax_setting">Effets Dolby</string>
     <string name="dolby_dax_title">Son surround</string>
     <string name="early_morning">Matin</string>
-    <string name="effect_3dsurround">Son surround</string>
+    <string name="effect_3dsurround">Son immersif</string>
     <string name="effect_3dsurround_summary">Améliorez la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
     <string name="effect_3dsurround_summary_headphone">Améliorer la profondeur de la reproduction sonore pour les écouteurs</string>
+    <string name="effect_virtual_surround">Son immersif virtuel</string>
+    <string name="effect_virtual_surround_summary">"Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsque l'audio %.1f est lu)"</string>
     <string name="end_wireless_transmission">Arrêter</string>
     <string name="eq_auto">Personnaliser</string>
     <string name="eq_blues">Blues</string>
@@ -141,6 +143,8 @@
     <string name="material_timepicker_text_input_mode_description">"Passez en mode de saisie de texte pour la saisie de l'heure."</string>
     <string name="midnight">Nuit</string>
     <string name="misound_effect_setting">Mi Sound</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -155,6 +159,7 @@
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -470,7 +475,7 @@
     <string name="sound_transmission_stop">Pause</string>
     <string name="sound_transmission_title">Micro sans fil</string>
     <string name="spatial_audio">Suivre le mouvement de la tête</string>
-    <string name="spatial_audio_summary">Ajustez le son surround en fonction du mouvement de la tête</string>
+    <string name="spatial_audio_summary">Ajustez le son immersif en fonction du mouvement de la tête</string>
     <string name="speaker_scenario_resume">"Restaurer les effets d'origine"</string>
     <string name="start_test_sound">Démarrer le test</string>
     <string name="sunday">Dimanche</string>

@@ -28,6 +28,15 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="copy">Copier</string>
+    <string name="exo_download_completed">Téléchargement terminé</string>
+    <string name="exo_download_description">Télécharger</string>
+    <string name="exo_download_downloading">Téléchargement en cours…</string>
+    <string name="exo_download_failed">Échec du téléchargement</string>
+    <string name="exo_download_notification_channel_name">Téléchargements</string>
+    <string name="exo_download_paused">Téléchargements interrompus</string>
+    <string name="exo_download_paused_for_network">Téléchargements en attente du réseau</string>
+    <string name="exo_download_paused_for_wifi">Téléchargements en attente du Wi-Fi</string>
+    <string name="exo_download_removing">Suppression des téléchargements en cours…</string>
     <string name="expand_button_title">Avancé</string>
     <string name="not_set">Non défini</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>

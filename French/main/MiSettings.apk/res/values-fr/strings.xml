@@ -132,7 +132,7 @@
   <string name="contrast_ratio">Contraste</string>
   <string name="control_center_title">"Temps d'écran aujourd'hui"</string>
   <string name="control_center_title_new">"Utilisé aujourd'hui"</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="create">Créer</string>
   <string name="create_failed">Impossible de créer</string>
   <string name="create_shortcut">"Raccourci de l'écran d'accueil"</string>
@@ -207,7 +207,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="exo_download_downloading">Téléchargement</string>
   <string name="exo_download_failed">Échec du téléchargement</string>
   <string name="exo_download_notification_channel_name">Téléchargements</string>
-  <string name="exo_download_removing">Suppression des téléchargements</string>
+  <string name="exo_download_removing">Suppression des téléchargements…</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_role_alternate">Alterné</string>
   <string name="exo_track_role_closed_captions">Sous-titres</string>

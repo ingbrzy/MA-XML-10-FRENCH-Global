@@ -198,7 +198,7 @@
   <string name="miui_main_update_success_sub_title">Rencontrez le nouveau MIUI</string>
   <string name="miui_main_update_success_title">La vie devient plus facile</string>
   <string name="miui_main_update_success_title_12">À vous seulement</string>
-  <string name="miui_main_update_success_title_12_5">Bienvenue dans MIUI 12.5</string>
+  <string name="miui_main_update_success_title_12_5">Bienvenue dans MIUI 13</string>
   <string name="miuix_access_state_desc">Sélectionné</string>
   <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>

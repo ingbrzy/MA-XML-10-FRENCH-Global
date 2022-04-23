@@ -94,7 +94,7 @@
     <string name="exo_track_surround_5_point_1">Son ambiophonique 5.1</string>
     <string name="exo_track_surround_7_point_1">Son ambiophonique 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
-    <string name="expand_button_title">Avancé</string>
+    <string name="expand_button_title">Paramètres avancés</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>

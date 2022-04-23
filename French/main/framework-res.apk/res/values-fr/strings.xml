@@ -403,6 +403,7 @@ en utilisant %s"</string>
   <string name="face_error_timeout">"Essayez à nouveau le déverrouillage par reconnaissance faciale."</string>
   <string name="face_error_unable_to_process">On ne peut pas vérifier le visage. Essayez encore.</string>
   <string name="face_error_user_canceled">"Déverrouillage du visage annulé par l'utilisateur."</string>
+  <string name="face_error_vendor_unknown">"Quelque chose s'est mal passé. Essayer à nouveau."</string>
   <string name="face_icon_content_description">Icône de visage</string>
   <string name="face_name_template">Visage %d</string>
   <string name="face_recalibrate_notification_content">Pour améliorer la reconnaissance, veuillez réinscrire votre visage</string>
@@ -440,6 +441,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="fingerprint_error_timeout">"Délai de détection de l'empreinte digitale expiré. Veuillez réessayer."</string>
   <string name="fingerprint_error_unable_to_process">Veuillez réessayer.</string>
   <string name="fingerprint_error_user_canceled">"Opération d'authentification par empreinte digitale annulée par l'utilisateur."</string>
+  <string name="fingerprint_error_vendor_unknown">"Quelque chose s'est mal passé. Essayer à nouveau."</string>
   <string name="fingerprint_icon_content_description">"Icône d'empreinte digitale"</string>
   <string name="fingerprint_name_template">Doigt %d</string>
   <string name="fingerprint_not_recognized">Non reconnu</string>
@@ -471,9 +473,9 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="global_action_toggle_silent_mode">Mode silencieux</string>
   <string name="global_action_voice_assist">Assistance vocale</string>
   <string name="global_actions">Options du téléphone</string>
-  <string name="global_actions_airplane_mode_off_status">Mode Avion est désactivé.</string>
-  <string name="global_actions_airplane_mode_on_status">Mode Avion est activé.</string>
-  <string name="global_actions_toggle_airplane_mode">Mode Avion</string>
+  <string name="global_actions_airplane_mode_off_status">Mode avion est désactivé.</string>
+  <string name="global_actions_airplane_mode_on_status">Mode avion est activé.</string>
+  <string name="global_actions_toggle_airplane_mode">Mode avion</string>
   <string name="gpsNotifMessage">Demande de %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Demande de position de la part de %s</string>
   <string name="gpsNotifTitle">Demande de position</string>

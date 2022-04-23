@@ -54,16 +54,10 @@
     <string name="app_name_miuimusic">Musique</string>
     <string name="app_name_miuiringtone">Sonnerie</string>
     <string name="app_name_miuiwallpaper">"Fonds d'écran"</string>
+    <string name="app_name_recorder">Magnéto</string>
     <string name="app_name_screenshot">"Captures d'écran"</string>
     <string name="available_size">Disponible : %s</string>
     <string name="backup_cancel">Annuler</string>
-    <string name="backup_checkbox_msg">Sauvegarder automatiquement</string>
-    <string name="backup_confirm">Sauvegarder</string>
-    <string name="backup_success_cancel">OK</string>
-    <string name="backup_success_confirm">Voir</string>
-    <string name="backup_success_message">Sauvegardé sur %1$s</string>
-    <string name="backup_success_title">Sauvegardé</string>
-    <string name="backup_title">Sauvegarder des vidéos de chat ?</string>
     <string name="big5_summary">Encodage par défaut Windows en chinois traditionnel</string>
     <string name="by_date">Date de modification</string>
     <string name="by_name">Nom</string>
@@ -79,7 +73,6 @@
     <string name="cancelled_by_user">Opération annulée</string>
     <string name="cannot_send">"Impossible d'envoyer des fichiers depuis un stockage externe"</string>
     <string name="category">Catégories</string>
-    <string name="category_album">Albums</string>
     <string name="category_all">Tout</string>
     <string name="category_apk">Applications</string>
     <string name="category_bluetooth">Bluetooth</string>
@@ -130,7 +123,7 @@
     <string name="confirm_know">OK</string>
     <string name="connection_error">Impossible de se connecter</string>
     <string name="connection_lost">Déconnecté</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="copy_failed">Impossible de copier</string>
     <string name="copy_to">Copier vers…</string>
     <string name="create_folder">Créer</string>
@@ -291,9 +284,10 @@
     <string name="if_cancel">Annuler cette opération ?</string>
     <string name="image_loading_error">Impossible de charger cette image</string>
     <string name="imm_str_storage">Stockage</string>
-    <string name="instruction">"Entrez l'adresse suivante dans le client FTP: "</string>
+    <string name="instruction">"Entrez l'adresse suivante dans le client FTP : "</string>
     <string name="instruction_pre_pad">Cliquez pour démarrer le serveur FTP</string>
     <string name="instruction_pre_phone">Cliquez pour démarrer le serveur FTP</string>
+    <string name="internal_storage">Stockage interne</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="just_now">juste maintenant</string>
     <string name="kilobyteShort">" Ko"</string>
@@ -330,6 +324,8 @@
     <string name="mi_router_label">Routeur</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Nuit</string>
+    <string name="midriver_install_button_text">Installer</string>
+    <string name="midriver_not_install_title">Mi Drive est désinstallé</string>
     <string name="midrop_msg_1">"Activez Mi Drop sur l'autre appareil"</string>
     <string name="midrop_msg_2">Lorsque Mi Drop est activé, vous pouvez rechercher des appareils à proximité et envoyer des fichiers</string>
     <string name="midrop_send_files">Choisissez les fichiers à envoyer</string>
@@ -476,7 +472,6 @@
     <string name="no_enough_storage_title">Espace disque insuffisant</string>
     <string name="no_file">Vide</string>
     <string name="no_permission">Accordez les autorisations requises pour accéder à cette fonctionnalité</string>
-    <string name="no_recent_files">Aucun fichier récent</string>
     <string name="no_wifi">Aucun réseau détecté</string>
     <string name="noon">Midi</string>
     <string name="not_added_category">Catégorie(s) disponible(s)</string>
@@ -485,10 +480,6 @@
     <string name="not_use">Pas maintenant</string>
     <string name="notif_server_starting">Démarrage du serveur FTP…</string>
     <string name="notif_title">"Le serveur FTP est en cours d'exécution"</string>
-    <string name="notification_dialog_confirm">OK</string>
-    <string name="notification_dialog_content">Notifier et organiser automatiquement lorsque des fichiers sont ajoutés ou modifiés dans %1$s.</string>
-    <string name="notification_dialog_title">Notifications</string>
-    <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
     <string name="online_not_support">Impossible de voir ce fichier en ligne pour le moment.</string>
     <string name="open_or_close_wlan">Activer et désactiver le Wi-Fi</string>
     <string name="open_private_folder">Relâchez pour afficher les dossiers masqués</string>
@@ -560,6 +551,7 @@
     <string name="phone_storage_zip_title">"Archives : "</string>
     <string name="pick_file">Choisir des fichiers</string>
     <string name="pick_folder">Choisir un dossier</string>
+    <string name="pm">PM</string>
     <string name="port_range">Le port doit être compris entre 1024–65535</string>
     <string name="pref_permission_allowed">Autorisé</string>
     <string name="pref_permission_manage_key_storage">"Accéder aux photos et aux fichiers sur l'appareil"</string>
@@ -576,13 +568,13 @@
     <string name="private_folder_update_msg_summary">Le chiffrement ralentira la suppression des fichiers présents dans le dossier privé. Vous pouvez activer/désactiver le chiffrement dans les paramètres.</string>
     <string name="private_folder_update_tips">Nouvelle fonctionnalité</string>
     <string name="private_toast_hint2">Pour cacher un fichier, appuyez et maintenez-le, puis ajoutez-le à un dossier privé.</string>
-    <string name="prize_result_tip">Exchange</string>
     <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
     <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
     <string name="qq_msg">"En raison des restrictions d'Android 11, l'Explorateur de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
     <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
     <string name="recent_hide_camera_and_screenshots">"Ne pas afficher, parmi les fichiers récents, les éléments de la Galerie et les captures d'écran"</string>
     <string name="refresh_success">Actualisation terminé</string>
+    <string name="reinstall_midriver_message">Installer à nouveau maintenant ?</string>
     <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
     <string name="remainder_size">| Disponible : %s</string>
     <string name="rename_alert">"Si vous modifiez l'extension de ce fichier, vous ne pourrez peut-être pas l'ouvrir."</string>
@@ -633,7 +625,7 @@
     <string name="select_image">Images</string>
     <string name="select_music">Fichiers audios</string>
     <string name="select_video">Fichiers vidéos</string>
-    <string name="select_volume">Select volume</string>
+    <string name="select_volume">Sélectionnez le volume</string>
     <string name="send">Envoyer</string>
     <string name="server_control_advanced_settings">Paramètres FTP</string>
     <string name="server_control_charset">Transfert encodage</string>
@@ -693,7 +685,6 @@
     <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="storage_warning">"Impossible d'utiliser le stockage externe"</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
@@ -800,7 +791,7 @@
     <string name="withdraw">Retrait</string>
     <string name="withdraw_consent">Retrait du consentement</string>
     <string name="withdraw_consent_content">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de l'Explorateur de fichier. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme l'Explorateur de fichiers fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de l'Explorateur de fichiers."</string>
-    <string name="withdraw_consent_summary">Withdraw consent to the Privacy Policy of File Manager</string>
+    <string name="withdraw_consent_summary">"Retirer son consentement à la politique de confidentialité de l'Explorateur de fichiers"</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yes">Oui</string>
     <string name="yesterday">Hier</string>

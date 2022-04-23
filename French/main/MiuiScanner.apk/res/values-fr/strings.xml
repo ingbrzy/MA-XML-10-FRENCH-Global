@@ -117,7 +117,7 @@
   <string name="continue_access_web_url">Aller sur le site Web</string>
   <string name="continue_to_website">Aller sur le site Web</string>
   <string name="continue_waiting">Faire attendre</string>
-  <string name="copy">Copy</string>
+  <string name="copy">Copier</string>
   <string name="copy_text">Copier le texte</string>
   <string name="copy_text_success">Texte copié</string>
   <string name="copy_tracknum">Copy tracking code</string>
@@ -600,6 +600,7 @@
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
   <string name="switch_open">Activer</string>
+  <string name="switchover">Basculer</string>
   <string name="take_a_picture">Prendre une photo</string>
   <string name="taobao">Taobao</string>
   <string name="tel">Téléphone</string>

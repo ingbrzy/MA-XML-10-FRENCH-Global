@@ -530,7 +530,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="confirm_reset_manually_parameter_message">Réinitialiser tous les paramètres à leurs valeurs par défaut ?</string>
     <string name="confirm_restore_message">"Restaurer les paramètres par défaut de l'appareil photo ?"</string>
     <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="cta_mimoji_msg">Bienvenue dans Fun Cam ! Vous pouvez utiliser cette application pour prendre des photos et enregistrer des vidéos. Pour pouvoir fonctionner normalement, cette application doit se connecter à Internet et requiert les autorisations suivantes afin de collecter vos informations personnelles :</string>
     <string name="cta_mimoji_perm_type">Autorisations obligatoires (utilisées pour les fonctionnalités et services de base de cette application)</string>
     <string name="cta_mimoji_user_links"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>
@@ -825,6 +825,9 @@ en mode portrait"</string>
     <string name="live_sticker_updating">Mise à jour…</string>
     <string name="live_workspace_title">Brouillons</string>
     <string name="live_workspace_title_edit">Sélectionnez les éléments à supprimer</string>
+    <string name="live_workspace_title_pause">Arrêter</string>
+    <string name="live_workspace_title_play">Lecture</string>
+    <string name="live_workspace_title_pre_edit">Sélectionnez les éléments à supprimer</string>
     <string name="location_access_allow">Accepter</string>
     <string name="location_fromkeyguard_not_permission">"Appareil photo n'est pas autorisé à accéder à votre position pour le moment. Déverrouillez d'abord votre appareil."</string>
     <string name="location_permission_des">Mémoriser les emplacements pour les photos et les vidéos</string>
@@ -978,6 +981,8 @@ regarder plus grand sur les photos"</string>
     <string name="mimoji_tips">Appuyez pour prendre une photo. Maintenez enfoncé pour enregistrer une vidéo.</string>
     <string name="miservice_notification_content">Appuyez pour en savoir plus</string>
     <string name="miservice_notification_title">"En savoir plus sur les nouvelles fonctionnalités de l'appareil photo"</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -992,6 +997,8 @@ regarder plus grand sur les photos"</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -1164,6 +1171,7 @@ regarder plus grand sur les photos"</string>
     <string name="popup_tips_near_range_mode">Close focus</string>
     <string name="popup_tips_privacy_watermark_edit">Edit watermark</string>
     <string name="portait_effect_entry_blackwhite">Noir et Blanc</string>
+    <string name="portait_effect_entry_cold_white">Lumière des étoiles</string>
     <string name="portait_effect_entry_cool">Mint</string>
     <string name="portait_effect_entry_dusk">Crépuscule</string>
     <string name="portait_effect_entry_fairytale">Enfance</string>
@@ -1177,6 +1185,7 @@ regarder plus grand sur les photos"</string>
     <string name="portait_effect_entry_riddle">Bonbons</string>
     <string name="portait_effect_entry_romance">Romantique</string>
     <string name="portait_effect_entry_sepia">Sépia</string>
+    <string name="portait_effect_entry_shallots">Rayon de soleil</string>
     <string name="portait_effect_entry_story">Story</string>
     <string name="portait_effect_entry_tea">Thé</string>
     <string name="portrait_bokeh_first_tips">"Utilisez le mode Portrait pour rendre flou
@@ -1442,8 +1451,12 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
     <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
     <string name="pref_camera_touchafaec_entry_on">Activé</string>
-    <string name="pref_camera_track_focus_preferred_description">"Activez pour faire automatiquement la mise au point sur les personnes et les animaux. Vous pourrez également sélectionner des sujets à suivre manuellement."</string>
-    <string name="pref_camera_track_focus_preferred_title">Suivi de la mise au point</string>
+    <string name="pref_camera_track_eye_preferred_description">"Suit le mouvement des yeux pour garder les yeux nets lorsqu'une personne est dans le cadre"</string>
+    <string name="pref_camera_track_eye_preferred_title">Mise au point du suivi des yeux</string>
+    <string name="pref_camera_track_focus_intro_description">"Lorsque vous prenez des photos ou enregistrez des vidéos avec des sujets en mouvement, cette fonction détecte les personnes, les chats et les chiens et les maintient automatiquement au point. De plus, vous pouvez également appuyer deux fois sur n'importe quel sujet pour suivre le mouvement."</string>
+    <string name="pref_camera_track_focus_intro_goto">Activer</string>
+    <string name="pref_camera_track_focus_preferred_description">"Maintenez automatiquement la mise au point sur les personnes, les chats et les chiens en mouvement ou appuyez deux fois sur n'importe quel sujet pour le suivre"</string>
+    <string name="pref_camera_track_focus_preferred_title">Mise au point du suivi de mouvement</string>
     <string name="pref_camera_ubifocus_title">Refocus</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion lors de prises de vue ultra larges</string>
@@ -1459,6 +1472,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_video_tag_description">"Appuyez sur \"Marquer\" lors de l'enregistrement d'une vidéo pour pouvoir revenir aux moments marqués de la lecture."</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
     <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Minuteur (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Fonction des boutons de volume</string>
@@ -1515,6 +1529,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR 10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
+    <string name="pref_hybrid_video_mode_description">Utilise la technologie HLG pour améliorer les couleurs et la plage dynamique des vidéos enregistrées en haute résolution</string>
     <string name="pref_i_n_r_b">Réduction intelligente du bruit</string>
     <string name="pref_k_h">Moniteur intra-auriculaire temps réel</string>
     <string name="pref_k_s_i">"Surveiller le son enregistré à l'aide des écouteurs lorsqu'ils sont connectés"</string>
@@ -1929,6 +1944,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
     <string name="video_effect_entry_summer_day_describe">Un faible contraste et des tons clairs fonctionnent bien lorsque vous avez besoin de préserver les tons chair. Ce filtre convient aux scènes extérieures ensoleillées.</string>
     <string name="video_effect_entry_wind_sing">Brise</string>
     <string name="video_hdr10_tip">HDR 10</string>
+    <string name="video_hybrid_tip">HLG</string>
+    <string name="video_overheat_tip_content">Il semble que votre appareil soit trop chaud. Essayez de filmer une vidéo avec une définition inférieure.</string>
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="video_shortcut_short">Vidéo</string>
     <string name="video_tag_flag_title">Étiquette</string>

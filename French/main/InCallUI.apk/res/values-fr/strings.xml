@@ -85,6 +85,7 @@
     <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
     <string name="call_recording_notification_title">Appel enregistré</string>
     <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
+    <string name="caller_info_name_delimiter">" ou "</string>
     <string name="caller_manage_header">Conférence %s</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
     <string name="cancel">Annuler</string>
@@ -422,6 +423,7 @@
     <string name="video_call_downgrade_insufficient_bandwidth">Bande passante insuffisante, rétrogradation en appel vocal</string>
     <string name="video_conference_caller_info_name">%1$s appel vidéoconférence</string>
     <string name="video_crbt_title">"La tonalité de retour d'appel vidéo de l'autre partie est en cours de lecture"</string>
+    <string name="voice_control_deny_permission_msg">"Impossible d'utiliser les commandes vocales maintenant. Autorisez cette application à enregistrer l'audio en premier."</string>
     <string name="voicemail">Boite vocale</string>
     <string name="volte_call">Appel VoLTE</string>
     <string name="volume_boost_text">Volume amplifié avec succès</string>
