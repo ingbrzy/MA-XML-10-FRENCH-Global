@@ -30,20 +30,16 @@
         <item quantity="one">Il y a 1 min</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s éléments</item>
-        <item quantity="one">%s élément</item>
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Supprimer %d téléchargements ?</item>
         <item quantity="one">Supprimer %d téléchargement ?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Supprimé %s téléchargements avec succès</item>
-        <item quantity="one">Supprimé %s téléchargements avec succès</item>
-    </plurals>
-    <plurals name="sniff_find_resource">
-        <item quantity="other">Trouvé %d fichiers</item>
-        <item quantity="one">Trouvé 1 fichier</item>
+        <item quantity="other">Supprimé %1$d téléchargements avec succès</item>
+        <item quantity="one">Supprimé %1$d téléchargements avec succès</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d jours</item>
@@ -87,13 +83,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
-    </plurals>
-    <plurals name="numberOfItemsAvailable">
-        <item quantity="other">Supprimer %d fichiers ?</item>
-        <item quantity="one">Supprimer ce fichier ?</item>
-    </plurals>
-    <plurals name="sniff_find_result">
-        <item quantity="other">Trouvé %d résultats</item>
-        <item quantity="one">Trouvé 1 résultat</item>
     </plurals>
 </resources>

@@ -330,16 +330,16 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="common_google_play_services_enable_text">%1$s ne fonctionnera que si vous activez les services Google Play.</string>
     <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
     <string name="common_google_play_services_install_button">Installer</string>
-    <string name="common_google_play_services_install_text">%1$s ne fonctionnera que si vous activez les services Google Play, qui ne sont pas présents sur votre appareil.</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play qui sont absents de votre appareil.</string>
     <string name="common_google_play_services_install_title">Obtenir les services Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
     <string name="common_google_play_services_notification_ticker">Erreur des services Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play qui ne sont pas pris en charge par votre appareil.</string>
     <string name="common_google_play_services_update_button">Mettre à jour</string>
     <string name="common_google_play_services_update_text">%1$s ne fonctionnera que si vous mettez à jour les services Google Play.</string>
     <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
-    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement en cours de mise à jour.</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play qui sont en cours de mise à jour.</string>
     <string name="common_google_play_services_wear_update_text">Nouvelle version des services Google Play requise. Il se mettra à jour sous peu.</string>
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">"S'identifier"</string>
@@ -417,7 +417,7 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="delete_task_dialog_msg">Supprimer la tâche sélectionnée ?</string>
     <string name="detail_guide_tips">"Faites glisser vers le haut pour plus d'articles connexes"</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayer."</string>
-    <string name="diagnosis_log_sent_format">"Les journaux ont été envoyés avec succès.
+    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
 Envoyez ce code au superviseur."</string>
     <string name="dialog_channel_cancel">Annuler</string>
@@ -827,8 +827,8 @@ Envoyez ce code au superviseur."</string>
     <string name="miui_facebook_open_dialog_close">Désactiver</string>
     <string name="miui_facebook_open_dialog_msg">Activez pour gérer les notifications Facebook plus facilement</string>
     <string name="miui_facebook_open_dialog_open">Activer</string>
-    <string name="miui_quicksearch_enable_pref_summary">Afficher le lien vers la barre de recherche dans le Panneau de notification</string>
-    <string name="miui_quicksearch_enable_pref_title">Barre de recherche dans le Panneau de notification</string>
+    <string name="miui_quicksearch_enable_pref_summary">Afficher le lien vers la barre de recherche dans le Panneau des notifications</string>
+    <string name="miui_quicksearch_enable_pref_title">Barre de recherche dans le Panneau des notifications</string>
     <string name="miui_search_notification_message">Touchez pour ouvrir la barre de recherche.</string>
     <string name="miui_search_notification_title">Recherche</string>
     <string name="miui_startpage">Page de démarrage</string>
@@ -1255,7 +1255,7 @@ Quitter cette page maintenant ?"</string>
     <string name="passport_error_phone_error">Numéro de téléphone invalide</string>
     <string name="passport_error_server">Erreur du serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_forget_password">&lt;u>Mot de passe oublié&lt;/u></string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -1340,7 +1340,7 @@ Quitter cette page maintenant ?"</string>
     <string name="permission_open_location">"Autorisez d'abord Mi Browser à accéder à votre emplacement dans les Paramètres"</string>
     <string name="permission_open_mic">"Autorisez d'abord Mi Browser à accéder à votre microphone dans les Paramètres"</string>
     <string name="permission_open_storage">"Autorisez d'abord Mi Browser à accéder au stockage interne dans les Paramètres"</string>
-    <string name="permission_service">Termes et conditions</string>
+    <string name="permission_service">Conditions générales</string>
     <string name="permission_storage">Stockage</string>
     <string name="permission_use">Autorisations</string>
     <string name="personalized_content_services">Services de contenu personnalisé</string>
@@ -1556,7 +1556,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="privacy_message_welcome_tip_second">"- Le téléchargement d'images et de vidéos à partir de plateformes de médias sociaux"</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_reset_fail">Impossible de réinitialiser. Réessayer.</string>
-    <string name="privacy_sub_title">Termes et conditions</string>
+    <string name="privacy_sub_title">Conditions générales</string>
     <string name="privacy_title">Bienvenue dans Mi Browser</string>
     <string name="private_title">Fichiers cachés</string>
     <string name="progress_dialog_setting_wallpaper">"Réglage du fond d'écran…"</string>

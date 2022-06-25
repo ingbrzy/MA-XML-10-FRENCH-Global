@@ -95,13 +95,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Activer les codecs optionnels</item>
-        <item>Désactiver les codecs optionnels</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -138,12 +131,12 @@
         <item>Standard</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Aucun</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -173,13 +166,13 @@
         <item>720p, 1080p (double écran)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>64 KB</item>
         <item>256 KB</item>
         <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>64 KB per log buffer</item>
         <item>256 KB per log buffer</item>
         <item>1 MB per log buffer</item>
@@ -187,7 +180,7 @@
         <item>16 MB per log buffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>64 KB</item>
         <item>256 KB</item>
         <item>1 MB</item>
@@ -195,24 +188,24 @@
         <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>All log buffers</item>
         <item>All but radio log buffers</item>
         <item>Kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
+        <item>Désactivé</item>
+        <item>Tous</item>
         <item>All but radio</item>
         <item>Kernel only</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -246,31 +239,31 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Analyse…</item>
+        <item>Connexion…</item>
+        <item>Authentification…</item>
+        <item>"Obtention de l'adresse IP…"</item>
+        <item>Connecté</item>
+        <item>Suspendu</item>
+        <item>Déconnexion…</item>
+        <item>Déconnecté</item>
+        <item>Échec</item>
+        <item>Bloqué</item>
+        <item>Mauvaise connexion évitée temporairement</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Analyse…</item>
+        <item>Connexion à %1$s…</item>
+        <item>Authentification auprès de %1$s…</item>
+        <item>"Obtention de l'adresse IP depuis %1$s…"</item>
+        <item>Connecté à %1$s</item>
+        <item>Suspendu</item>
+        <item>Déconnexion de %1$s…</item>
+        <item>Déconnecté</item>
+        <item>Échec</item>
+        <item>Bloqué</item>
+        <item>Mauvaise connexion évitée temporairement</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation off</item>

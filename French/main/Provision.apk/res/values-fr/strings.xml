@@ -19,6 +19,8 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accessibility_enabled">Accessibilité activée.</string>
     <string name="actionbar_button_up_description">Retour</string>
+    <string name="activate_esim_tips">"Impossible d'activer. Réessayez."</string>
+    <string name="activating_esim_tips">Activation…</string>
     <string name="address_dialing_introduction">"Vous pouvez utiliser cette application pour passer des appels, afficher l'historique des appels et gérer les contacts."</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>
@@ -44,7 +46,7 @@
     <string name="back">Retour</string>
     <string name="backup_introduction">Vous pouvez utiliser cette application pour sauvegarder et restaurer des éléments sur votre appareil.</string>
     <string name="bluetooth_introduction">Bluetooth est utilisé par le système pour la communication sans fil. Pour pouvoir fonctionner normalement, Bluetooth a besoin des autorisations suivantes :</string>
-    <string name="boot_video_desc">Voir le monde en 2K</string>
+    <string name="bluetooth_usage_desc">La configuration initiale vous permet de définir vos préférences de base pour cet appareil. Pour configurer votre appareil avec succès, les services du système Bluetooth utiliseront les autorisations suivantes :</string>
     <string name="boot_video_replay">Rejouer</string>
     <string name="boot_video_skip">Ignorer</string>
     <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
@@ -98,6 +100,7 @@
     <string name="enable_accessibility_dialog_message">"Vous avez activé TalkBack en appuyant sur l'écran avec 2 doigts pendant plus de 10 secondes. TalkBack offre un commentaire vocal aux personnes malvoyantes. Si vous l'avez activé par accident, appuyez sur le bouton Annuler et puis appuyez rapidement deux fois sur l'écran."</string>
     <string name="enable_accessibility_dialog_negative_btn">Annuler</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Activer et désactiver le Bluetooth</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="evening">Après-midi</string>
@@ -129,8 +132,10 @@
     <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des Emails, notes et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
     <string name="input_method_setting">Choisir un clavier</string>
     <string name="install_preinstall_app">Chargement des applications…</string>
+    <string name="intent_filter_verification_service">"Service de vérification du filtre d'intention"</string>
     <string name="interconnection_communication_introduction">"Xiaomi Internet Communication Services vous permet de découvrir, de vous connecter et de communiquer avec d'autres appareils Xiaomi."</string>
     <string name="item_contents_wwarning">"Si votre appareil disparaît, vous ne pourrez pas empêcher d'autres personnes de l'utiliser et d'accéder à vos données à moins que vous ne définissiez un verrouillage d'écran. Ignorer quand même ?"</string>
+    <string name="item_facerecognition">Déverrouillage par le visage</string>
     <string name="item_fingerprint">Empreinte digitale</string>
     <string name="item_lock_screen_password">Écran de verrouillage uniquement</string>
     <string name="item_return">Régler</string>
@@ -149,6 +154,7 @@
     <string name="mint_keyboard_oobe_checkbox">"J'ai lu et accepté la Politique de confidentialité de Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Politique de confidentialité du clavier Mint</string>
     <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la Politique de confidentialité sur %s."</string>
+    <string name="miui_provision">Configuration initiale</string>
     <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les Conditions générales d'utilisation sur %s."</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
@@ -226,6 +232,7 @@
     <string name="msim_setting_default_data">Données SIM</string>
     <string name="msim_setting_default_voice">SIM par défaut pour les appels</string>
     <string name="multisim_settings_category">Paramètres de la carte SIM</string>
+    <string name="multisim_settings_sb_title">Carte SIM %d détectée</string>
     <string name="multisim_settings_title">2 cartes SIM détectées</string>
     <string name="navigation_picker_gesture_guide">Guide de gestes</string>
     <string name="navigation_picker_radio_text_full_screen">Gestes en plein écran</string>
@@ -245,13 +252,19 @@
     <string name="other_settings_ad_enable_summary">Recevoir des publicités personnalisées en fonction des données de vos habitudes</string>
     <string name="other_settings_auto_update">Mises à jour automatiques du système</string>
     <string name="other_settings_auto_update_summary">MIUI sélectionnera le meilleur moment pour télécharger et installer les mises à jour. Votre appareil sera automatiquement redémarré pour appliquer les modifications.</string>
+    <string name="other_settings_auto_update_summary_v1">Autoriser MIUI à sélectionner le meilleur moment pour télécharger et installer les mises à jour. Votre appareil sera redémarré automatiquement pour appliquer les modifications.</string>
     <string name="other_settings_enhanced_lockscreen">"Carrousel de fonds d'écran"</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance for Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Politique de confidentialité</string>
     <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Des Conditions générales d'utilisation s'appliquent."</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
+    <string name="other_settings_get_apps">Mettre à jour les applications automatiquement</string>
+    <string name="other_settings_get_apps_summary">"Mettre à jour les applications du système et des partenaires tiers via GetApps pour pouvoir utiliser leurs dernières fonctionnalités.
+Vous pouvez désactiver les mises à jour automatiques dans GetApps > Paramètres > Mises à jour automatiques."</string>
     <string name="other_settings_location">Localisation</string>
     <string name="other_settings_location_summary">"Permettre aux applications et aux sites web d'accéder à vos informations de localisation pour fournir des services basés sur la localisation"</string>
+    <string name="other_settings_quality_service">Autorisations du démon MIUI</string>
+    <string name="other_settings_quality_service_summary">"Le démon MIUI est utilisé pour améliorer la stabilité et les performances du système. Pour pouvoir fonctionner normalement, ce service a besoin d'autorisations pour accéder et enregistrer des éléments dans le stockage de l'appareil."</string>
     <string name="other_settings_upload_debug_log_detail">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc.
 Les données que vous enverrez contiendront des informations générales sur votre appareil et la manière dont vous l'utilisez (par exemple, le niveau de la batterie, l'activité du système et des applications, et les erreurs). Les données seront utilisées pour améliorer les appareils MIUI.
 La désactivation de cette fonction n'affecte pas la capacité de votre appareil à envoyer les informations nécessaires aux services essentiels tels que les mises à jour du système et la sécurité.
@@ -289,6 +302,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="permission_direct_call">Passer des appels</string>
     <string name="permission_direct_call_introduction">Pour ajouter des éléments à la liste de blocage</string>
     <string name="permission_download_introduction">Pour mettre en cache les éléments téléchargés et les enregistrer sur votre appareil</string>
+    <string name="permission_enable_disable_bluetooth_summary">Pour trouver des appareils à proximité afin de se connecter et de transférer des données</string>
     <string name="permission_fast_pairing">Pour pouvoir trouver des appareils à proximité, Mi Link doit se connecter à Internet et nécessite les autorisations suivantes :</string>
     <string name="permission_imei_service">"Pour accéder à l'IMEI afin de fournir des services associés à votre appareil"</string>
     <string name="permission_interaction_introduction">"Pour l'enregistrement de photos et de vidéos sur l'appareil"</string>
@@ -393,7 +407,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="security_introduction">"Vous pouvez utiliser cette application pour nettoyer les fichiers inutiles de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer les applications, les permissions, etc."</string>
     <string name="security_mobile_account_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
     <string name="send">Envoyer</string>
-    <string name="service_agreement">"J'ai lu et accepté les Termes et conditions."</string>
+    <string name="service_agreement">"J'ai lu et accepté les Conditions générales."</string>
     <string name="service_company_adjust_content">"Accord de l'utilisateur Xunlei Network Services"</string>
     <string name="service_fast_pairing_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité de Mi Link&lt;/a > avant de continuer.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
@@ -441,12 +455,14 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="sim_card_detecting_title">Vérifier la carte SIM</string>
     <string name="sim_card_detection">Insérez une carte SIM</string>
     <string name="sim_card_detection_info">"Pour insérez la carte SIM, veuillez consulter le manuel fourni avec l'appareil."</string>
+    <string name="sim_card_detection_info_sb">"Insérez une carte SIM avant de continuer. Trouver un appareil et les fonctionnalités liées à la synchronisation ne seront pas entièrement disponibles si vous créez un compte sans carte SIM. Cet appareil prend en charge eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Appuyez pour activer eSIM.</string>
     <string name="sim_card_detection_mobile_not_available">"La carte SIM n'arrive pas à se connecter au réseau"</string>
-    <string name="sim_card_dial_card1">SIM 1 pour les appels</string>
-    <string name="sim_card_dial_card2">SIM 2 pour les appels</string>
+    <string name="sim_card_detection_sb_esim">Activer eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Non activé</string>
+    <string name="sim_card_dial_card">SIM %d pour les appels</string>
     <string name="sim_card_do_not_select_dial_card">Sélectionnez la carte SIM lors de la composition du numéro</string>
-    <string name="sim_card_network_card1">Données SIM 1</string>
-    <string name="sim_card_network_card2">Données SIM 2</string>
+    <string name="sim_card_network_card">Données SIM %d</string>
     <string name="sim_dectection_next">Continuer</string>
     <string name="sim_redetection">Vérifier à nouveau</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"Votre carte SIM n'a pas pu se connecter à un opérateur téléphonique valide. Assurez-vous d'avoir suffisamment de fonds sur votre balance et réessayez de vous reconnecter."</string>
@@ -520,6 +536,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="terms_of_use_label_statistics">Statistiques</string>
     <string name="terms_of_use_label_systemhelper">"Service d'enregistrement automatique"</string>
     <string name="terms_of_use_label_translation">Service de traduction</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (version de Xiaomi)</string>
     <string name="terms_of_use_label_updater">Mise à jour</string>
     <string name="terms_of_use_label_use_location_and_network_global">"Avant d'utiliser MIUI, vous devez lire et accepter nos Conditions d'utilisation et notre Politique de confidentialité. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau et accèdent à votre position :"</string>
     <string name="terms_of_use_label_use_network_china">"Avant d'utiliser MIUI, vous devez lire et accepter nos Conditions d'utilisation et notre Politique de confidentialité. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau :"</string>

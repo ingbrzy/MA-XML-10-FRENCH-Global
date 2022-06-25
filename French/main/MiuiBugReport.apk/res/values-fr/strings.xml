@@ -81,7 +81,8 @@
     <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant ?"</string>
     <string name="catch_full_log_category">Catégorie</string>
     <string name="catch_full_log_dialog_confirm_text">"Aller à l'écran d'accueil"</string>
-    <string name="catch_full_log_dialog_content">Cela pourrait affecter la performance globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
+    <string name="catch_full_log_dialog_content">Cela pourrait affecter les performances globales de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
+    <string name="catch_full_log_dialog_content_pad">"Cela peut affecter les performances globales de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, revenez aux journaux et appuyez sur \"Annuler\"."</string>
     <string name="catch_full_log_dialog_title">Génération des journaux…</string>
     <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
@@ -213,7 +214,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_package_log_failed">Impossible de compresser les journaux</string>
     <string name="feedback_remind_login_btn">"S'identifier"</string>
     <string name="feedback_report_remind_login_desc">Connectez-vous avec votre Compte Mi pour afin que nos ingénieurs puissent vous contacter.</string>
-    <string name="feedback_report_remind_login_desc2">Vous pouvez aussi afficher la progression de vos rapports dans \"Mes rapports\".</string>
+    <string name="feedback_report_remind_login_desc2">Vous pouvez aussi afficher la progression de vos rapports dans \"Mes commentaires\".</string>
     <string name="feedback_reproductivity_everytime">À chaque fois</string>
     <string name="feedback_reproductivity_occasionally">Occasionnellement</string>
     <string name="feedback_reproductivity_often">Souvent</string>
@@ -258,7 +259,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_submit_failed_notification_title">"Impossible d'envoyer le rapport"</string>
     <string name="feedback_submit_hint">Toujours signaler les bogues lorsque vous rencontrez des problèmes afin de nous aider à les résoudre plus rapidement.</string>
     <string name="feedback_submit_hint1">Nous vous notifierons à propos de la progression de votre rapport</string>
-    <string name="feedback_submit_hint2">Allez à \"Mes rapports\" pour afficher les détails</string>
+    <string name="feedback_submit_hint2">Allez à Mes commentaires pour afficher les détails</string>
     <string name="feedback_submit_hint_gone">Rapport envoyé</string>
     <string name="feedback_submit_succ">Envoyé avec succès</string>
     <string name="feedback_submit_succ_button">Terminé</string>
@@ -307,6 +308,7 @@ Envoyer ce code au superviseur."</string>
     <string name="kr_authorization_log_protocol_desc">"Afin d'améliorer les services fournis, nous téléchargerons des statistiques d'utilisation et des journaux système sur nos serveurs. Ces éléments peuvent inclure vos informations personnelles, ainsi que les informations relatives à votre appareil et aux réseaux. Nous utiliserons les éléments téléchargés pour localiser et analyser les problèmes du système."</string>
     <string name="kr_authorization_phone">Téléphone</string>
     <string name="kr_authorization_phone_desc">"Pour identifier le périphérique à l'aide de l'IMEI et du numéro de modèle, ainsi que pour localiser et analyser les problèmes"</string>
+    <string name="kr_authorization_phone_desc_pad">"Pour accéder au modèle de l'appareil, à l'IMEI et à l'ID de l'appareil afin de localiser et de résoudre les problèmes"</string>
     <string name="kr_authorization_privacy_policy">Politique de confidentialité (obligatoire)</string>
     <string name="kr_authorization_select_all">Tout sélectionner</string>
     <string name="kr_authorization_storage">Stockage</string>
@@ -414,7 +416,7 @@ Envoyer ce code au superviseur."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
@@ -547,7 +549,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_error_phone_error">Numéro de téléphone invalide</string>
     <string name="passport_error_server">Erreur du serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_forget_password">Mot de passe oublié</string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -580,7 +582,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_sending_vcode">Sending code…</string>
     <string name="passport_set_password">Set password</string>
     <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
-    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in">Se connecter</string>
     <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
     <string name="passport_sms_phone_intro">Code envoyé au %1$s</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>
@@ -588,10 +590,10 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
     <string name="passport_timeout_network_error">La demande réseau a expiré</string>
-    <string name="passport_trust_device">This is a trusted device</string>
+    <string name="passport_trust_device">Ceci est un appareil de confiance</string>
     <string name="passport_trying_read_verify_code_sms">Obtention du code de vérification…</string>
     <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
-    <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
+    <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_user_agreement_link"><Data>"I've read and agree to Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="passport_user_agreement_link_more"><Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."</Data></string>
@@ -600,7 +602,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_vcode_sms_send_prompt">Sent code to %s</string>
-    <string name="passport_verification_failed">"Couldn't verify"</string>
+    <string name="passport_verification_failed">Impossible de vérifier</string>
     <string name="passport_verify">Vérifier</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
@@ -730,7 +732,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="system_app_select">Applications système</string>
     <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="tab_title_chat">FAQ</string>
-    <string name="tab_title_my_reports">Mes rapports</string>
+    <string name="tab_title_my_reports">Mes commentaires</string>
     <string name="tab_title_preferences">Paramètres</string>
     <string name="tab_title_report">Rapports</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
@@ -835,15 +837,15 @@ Taille : %2$s"</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
     <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href =\"%5$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Termes et conditions des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Termes et conditions des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
     <string name="user_agreement_hint_default"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_agreement_hint_default_1"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>"</Data></string>
     <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>. La première connexion créera automatiquement un Compte Mi"</Data></string>
     <string name="user_agreement_hint_first_login">Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois.</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Lisez et acceptez le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, et l'&lt;a href=\"%3$s\">Accord de l'utilisateur&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>

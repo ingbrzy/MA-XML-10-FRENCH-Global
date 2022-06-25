@@ -28,7 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="about_device_info">"Afficher les détails de l'appareil"</string>
+    <string name="about_mi_account">À propos du Compte Mi</string>
     <string name="accept">Autoriser</string>
+    <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_token_expired_warning">Votre compte Weibo a expiré</string>
     <string name="access_token_invalid_warning">Votre compte Weibo est non valide</string>
     <string name="account">Compte</string>
@@ -90,11 +92,14 @@ L'ID de votre compte : %s"</string>
     <string name="activity_not_found_notice">Application introuvable</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="afternoon">Après-midi</string>
-    <string name="agreement_and_privacy">Termes et conditions</string>
+    <string name="agreement_and_privacy">Conditions générales</string>
     <string name="am">AM</string>
     <string name="app_name">Compte Mi</string>
+    <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
+    <string name="area_code_search_hint">Rechercher un pays ou une région</string>
     <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
     <string name="authorize_title">Autorisations</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"La connexion au remplissage automatique n'est pas prise en charge sur les versions avec filigrane"</string>
     <string name="bind_facebook">Se connecter à votre compte Facebook</string>
     <string name="bind_google">Se connecter à votre compte Google</string>
     <string name="bind_safe_phone_msg">Ajoutez votre numéro de téléphone pour être en mesure de vous connecter à votre Compte Mi la prochaine fois.</string>
@@ -108,17 +113,18 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="button_unbind">Déconnecter</string>
     <string name="cancel">Annuler</string>
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
-    <string name="change_email_address">"Modifier l'adresse Email"</string>
+    <string name="change_email_address">"Modifier l'adresse e-mail"</string>
     <string name="change_password">Modifier le mot de passe</string>
     <string name="change_phone_number">Modifier le numéro de téléphone</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+    <string name="check_apk_update">Vérifier les mises à jour</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
     <string name="cloud_description_normal">Occupé</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="cloud_service_status_backup_not_open">Backup is off</string>
-    <string name="cloud_service_status_cloud_not_open">Off</string>
+    <string name="cloud_service_status_cloud_not_open">Désactivé</string>
     <string name="cloud_service_status_storage_full">Storage is full</string>
     <string name="cloud_service_status_storage_not_enough">Not enough space</string>
     <string name="collect_diagnosis_log">Collecter les journaux</string>
@@ -149,16 +155,16 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera que si vous activez les services Google Play."</string>
     <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
     <string name="common_google_play_services_install_button">Installer</string>
-    <string name="common_google_play_services_install_text">"%1$s ne fonctionnera pas sans les services Google Play, qui sont absents de votre appareil."</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play qui sont absents de votre appareil.</string>
     <string name="common_google_play_services_install_title">Obtenir les services Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
     <string name="common_google_play_services_notification_ticker">Erreur de services Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s a des problèmes avec les services Google Play. Veuillez réessayer.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play qui ne sont pas pris en charge par votre appareil.</string>
     <string name="common_google_play_services_update_button">Mise à jour</string>
     <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas à moins de mettre à jour les services Google Play."</string>
     <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
-    <string name="common_google_play_services_updating_text">"%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis à jour."</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play qui sont en cours de mise à jour.</string>
     <string name="common_google_play_services_wear_update_text">Nouvelle version des services Google Play nécessaire. Il se mettra à jour sous peu.</string>
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
@@ -173,6 +179,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
     <string name="continue_action">Continuer</string>
     <string name="copy">Copier</string>
+    <string name="copy_link">"Copier l'URL"</string>
     <string name="copy_to_clipboard_successful">Copié avec succès</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
@@ -189,7 +196,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="device_list_title">Mes appareils</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
-    <string name="diagnosis_log_sent_format">"Journal envoyé avec succès.
+    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
 Envoyez ce code au superviseur."</string>
     <string name="download_file">Téléchargement de %s…</string>
@@ -199,8 +206,8 @@ Envoyez ce code au superviseur."</string>
     <string name="ep_unsupported">Impossible de se connecter au Compte Mi sur votre appareil</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse Email est déjà associée avec un autre Compte Mi.</string>
-    <string name="error_invalid_bind_address">"L'adresse Email saisie n'est pas valide."</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Mi.</string>
+    <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="evening">Après-midi</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Mi.</string>
     <string name="exit">Quitter</string>
@@ -218,7 +225,7 @@ Envoyez ce code au superviseur."</string>
     <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
     <string name="find_device_io_error">Impossible de se connecter au réseau</string>
     <string name="find_device_location">Locate</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée : %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, adresse e-mail associée : %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé : %s</string>
     <string name="find_device_message">Appareil verrouillé. Message : %1$s. Appeler %2$s.</string>
     <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
@@ -232,8 +239,10 @@ Envoyez ce code au superviseur."</string>
     <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
     <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
     <string name="find_device_set_lost_model">Lost mode</string>
-    <string name="find_device_title">Find device</string>
+    <string name="find_device_title">Rechercher un appareil</string>
     <string name="find_device_unknown_error">"Impossible d'obtenir l'état du périphérique, attendez une minute ou deux et réessayez"</string>
+    <string name="find_equipment">Rechercher un appareil</string>
+    <string name="find_new_apk_version">Mise à jour disponible</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -250,6 +259,7 @@ Envoyez ce code au superviseur."</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 Comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comptes."</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
     <string name="guest_account_label">Compte invité</string>
+    <string name="has_no_new_version">À jour</string>
     <string name="health_action_activate">Activer</string>
     <string name="health_action_install">Installer</string>
     <string name="health_action_update">Mettre à jour</string>
@@ -262,7 +272,7 @@ Envoyez ce code au superviseur."</string>
     <string name="i_agree_continue">Accepter</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
-    <string name="input_email_address_notice">Nous utiliserons cette adresse Email pour valider votre compte</string>
+    <string name="input_email_address_notice">Nous utiliserons cette adresse e-mail pour valider votre compte</string>
     <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
     <string name="io_error_title">Confirmez votre réseau</string>
     <string name="just_a_second">Chargement…</string>
@@ -272,11 +282,17 @@ Envoyez ce code au superviseur."</string>
     <string name="kr_permission_phone_desc">Pour protéger votre compte</string>
     <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
     <string name="kr_permission_storage_desc">Pour sauvegarder les diagnostics</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="loading_micloud_sync_data">Chargement…</string>
     <string name="login_3rd_app_with_system_account">"S'identifier dans %s"</string>
     <string name="login_check_find_device">Obtention des informations de sécurité…</string>
     <string name="login_check_find_device_failed_title">"Impossible de vérifier les informations de sécurité de l'appareil"</string>
     <string name="login_find_device_bind">"Cet appareil est associé à l'ID d'un Compte Mi existant (%s)."</string>
+    <string name="login_notification_button_text">Se connecter</string>
+    <string name="login_notification_desc">"Profitez des services cloud, de l'espace de stockage familial et bien plus"</string>
+    <string name="login_notification_title">Connectez-vous à votre Compte Mi</string>
     <string name="login_with_other">"Plus d'options"</string>
     <string name="logout_account">Se déconnecter</string>
     <string name="logout_failed">Impossible de se déconnecter</string>
@@ -284,6 +300,7 @@ Envoyez ce code au superviseur."</string>
     <string name="mi_finance">Mes Finances</string>
     <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
     <string name="mi_health">Mi Santé</string>
+    <string name="mi_member">Communauté Xiaomi</string>
     <string name="mi_vip_info">Afficher les privilèges</string>
     <string name="midnight">Nuit</string>
     <string name="mipay">Payer</string>
@@ -364,7 +381,13 @@ Envoyez ce code au superviseur."</string>
     <string name="multi_user_not_show_sync_activity_title">Désactiver la synchronisation avec Mi Cloud</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="need_install_wechat">Installez WeChat en premier</string>
+    <string name="network_error">"Une erreur réseau s'est produite."</string>
+    <string name="network_error_hint">"Vérifiez l'URL et réessayez, ou copiez l'URL et ouvrez-la dans votre navigateur."</string>
+    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayer.</string>
+    <string name="new_version">Nouvelle version</string>
     <string name="night">Soirée</string>
+    <string name="no_account_or_forget_password">Créer un compte ou mot de passe oublié ?</string>
     <string name="no_network_btn">Actualiser</string>
     <string name="no_network_title">Impossible de se connecter au réseau.</string>
     <string name="no_phone">Aucun numéro de téléphone</string>
@@ -378,15 +401,16 @@ Envoyez ce code au superviseur."</string>
     <string name="notify_network_restricted_content_mobile_network">"Le Compte Mi est restreint d'accéder à internet. Appuyer pour autoriser."</string>
     <string name="notify_network_restricted_title">"Le Compte Mi n'arrive pas à se connecter au réseau"</string>
     <string name="notify_verify_again_security_phone">Confirm</string>
-    <string name="notify_verify_security_phone">Phone</string>
+    <string name="notify_verify_security_phone">Téléphone</string>
     <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
     <string name="oauth_getting_scopes">Vérification du compte…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes :&lt;br> &lt;br> %3$s ;</string>
     <string name="oauth_title">Se connecter avec le Compte Mi</string>
-    <string name="ok">OK </string>
+    <string name="ok">OK</string>
     <string name="optional_permissions">Autorisations optionnelles</string>
+    <string name="page_load_failed">"Impossible d'ouvrir la page"</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
+    <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
     <string name="passport_account_identity_title">Vérifier votre identité</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
@@ -422,11 +446,11 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_delete_account">Se Déconnecter</string>
     <string name="passport_downlink_reg">Numéro de téléphone</string>
     <string name="passport_email">Adresse e-mail</string>
-    <string name="passport_email_or_id_hint_text">Email/ID de Compte Mi</string>
+    <string name="passport_email_or_id_hint_text">E-mail/ID de Compte Mi</string>
     <string name="passport_email_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
     <string name="passport_error_auth_fail">La session a expiré. Reconnectez-vous.</string>
     <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
-    <string name="passport_error_dup_email">"L'Email que vous avez entré est déjà associé à un autre compte."</string>
+    <string name="passport_error_dup_email">"L'e-mail que vous avez entré est déjà associé à un autre compte."</string>
     <string name="passport_error_email">"L'adresse e-mail saisie n'est pas valide"</string>
     <string name="passport_error_empty_captcha_code">Entrer le captcha</string>
     <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
@@ -446,12 +470,12 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_error_sim_not_ready">Carte SIM introuvable</string>
     <string name="passport_error_ssl_hand_shake">Impossible de se connecter au serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
     <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
     <string name="passport_extra_gdpr_license">"Créer votre Compte Mi signifie que vous acceptez que Xiaomi collectera, traitera et utilisera vos données personnelles, y compris les données de vérification (par exemple, les codes de vérification), les données du second espace (par exemple, informations sur les façons d'utiliser les premier et second espaces), et d'autres données spécifiées dans notre Politique de confidentialité. Référez-vous à notre Politique de confidentialité pour apprendre comment nous traitons et utilisons les données personnelles."</string>
-    <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'Email d'activation"</string>
+    <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'e-mail d'activation"</string>
     <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
     <string name="passport_first_login_prompt">Le Compte Mi sera créé automatiquement lorsque vous vous connecterez pour la première fois.</string>
     <string name="passport_forget_password">Mot de passe oublié</string>
@@ -480,7 +504,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_input_vcode_hint">Entrez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Saisissez le code de vérification par voix</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
-    <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse Email"</string>
+    <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse e-mail"</string>
     <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
     <string name="passport_license_info_collapse">Réduire</string>
     <string name="passport_license_info_open">Détails</string>
@@ -488,7 +512,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_login">Se connecter</string>
     <string name="passport_login_failed">Impossible de se connecter</string>
     <string name="passport_login_instead_reg">Utilisez ce numéro</string>
-    <string name="passport_login_instead_reg_with_email">Utilisez cet Email</string>
+    <string name="passport_login_instead_reg_with_email">Utilisez cet e-mail</string>
     <string name="passport_login_other_account">Autre compte</string>
     <string name="passport_login_other_phone">Utiliser un autre compte</string>
     <string name="passport_login_other_way">Autres moyens de se connecter</string>
@@ -549,7 +573,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_reg_recycle_account_yes">Oui</string>
     <string name="passport_reg_success">Compte créé</string>
     <string name="passport_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
-    <string name="passport_reg_type_email">Adresse Email</string>
+    <string name="passport_reg_type_email">Adresse e-mail</string>
     <string name="passport_reg_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Créer un nouveau compte en utilisant "</string>
     <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
@@ -571,7 +595,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_remove_confirm">Déconnexion</string>
     <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
     <string name="passport_Resend">Renvoyer</string>
-    <string name="passport_resend_active_email">"Ré-envoyer l'Email"</string>
+    <string name="passport_resend_active_email">"Ré-envoyer l'e-mail"</string>
     <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
     <string name="passport_reset_password_prompt">Mot de passe incorrect</string>
     <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
@@ -602,6 +626,10 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_talkback_switch_voice_captcha">Basculer vers le code de vérification vocale</string>
     <string name="passport_talkback_voice_captcha">Lire le code de vérification vocale</string>
     <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM%1$d : %2$s</string>
+    <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM%1$d : %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
     <string name="passport_title_reg">Créer un compte</string>
     <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
@@ -643,9 +671,11 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="permission_read_sms">Accéder aux messages</string>
     <string name="permission_write_external_storage">Accéder et enregistrer des éléments dans le stockage</string>
     <string name="phone_num_use_for">Le numéro de téléphone est utilisé pour :</string>
+    <string name="phone_register">Utiliser le numéro de téléphone</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="provision_back">Retour</string>
     <string name="provision_next">Suivant</string>
     <string name="provision_skip_underline">Ignorer</string>
@@ -679,7 +709,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="scan_barcode_title">Scannez le QR code pour vous connecter</string>
     <string name="search_account_security">Sécurité du compte</string>
     <string name="search_account_security_desc">Paramètres du compte</string>
-    <string name="search_account_security_key_words">"Changer de téléphone,Changer d'Email,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
+    <string name="search_account_security_key_words">"Changer de téléphone,Changer d'e-mail,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
     <string name="search_account_security_path">Paramètres/Compte Mi/Sécurité du compte</string>
     <string name="search_app_name">Compte Mi</string>
     <string name="search_menu_title">Recherche</string>
@@ -739,6 +769,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
     <string name="system_ad_switch">Annonces dans les applications système</string>
     <string name="system_ad_switch_failed">échec</string>
+    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="talkback_scan_barcode">Scanner un QR code</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -800,10 +831,13 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="two_factor_auth_need_code_summary">"Vous verrez un code sur d'autres appareils Mi connectés. Entrez ce code sur un nouvel appareil pour vous connecter."</string>
     <string name="two_factor_auth_summary">"Lorsque vous essayez de vous connecter sur un nouvel appareil ou dans un nouvel emplacement, vous en serez informé sur les autres appareils connectés. Vous devrez confirmer si de telles tentatives de connexion sont autorisées par vous."</string>
     <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre Compte Mi."</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unlock_help_notice">"Aide :
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
 3. Votre numéro de déverrouillage : %s"</string>
+    <string name="update_apk_version_later">Pas maintenant</string>
+    <string name="update_apk_version_now">Mettre à jour</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
@@ -812,7 +846,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_instruction_all_purpose">"Bienvenue sur le Compte Mi ! Vous pouvez utiliser votre compte pour accéder aux services fournis par Xiaomi et ses sociétés affiliées, telles que Mi.com, Xiaomi Cloud et GetApps. Vous pouvez obtenir des Mi Coins, acheter des biens virtuels et profiter de services à valeur ajoutée, notamment des jeux, des thèmes et des livres électroniques."</string>
-    <string name="user_instruction_tip">Pour pouvoir vous connecter, lisez et acceptez les termes et conditions.</string>
+    <string name="user_instruction_tip">Pour pouvoir vous connecter, lisez et acceptez les conditions générales.</string>
     <string name="user_license_with_3rd_app"><Data>"En me connectant avec mon Compte Mi, je confirme avoir lu et accepté le &lt;a href=%1$s>Contrat d'utilisation&lt;/a>, la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, le  &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_license_without_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
@@ -824,5 +858,8 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="wednesday_shortest">Mer</string>
     <string name="weixin_login">"S'identifier avec WeChat"</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>

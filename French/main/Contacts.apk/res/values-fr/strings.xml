@@ -167,6 +167,8 @@
     <string name="bh_not_contact">"Ce numéro n'est pas dans vos contacts"</string>
     <string name="bh_notice">Attention</string>
     <string name="bh_online_service">Support en ligne</string>
+    <string name="bh_open_carrier_services_short">Services Mi Carrier</string>
+    <string name="bh_open_carrier_services_short_reason">Activez les Services Mi Carrier pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="bh_option_agree_dec">"Autoriser les Services Mi Carrier à se connecter à internet et accorder les autorisations demandées avant d'utiliser l'application."</string>
     <string name="bh_order_detail">Détails de la commande</string>
     <string name="bh_order_id">ID de la commande</string>
@@ -198,6 +200,7 @@
     <string name="bh_please_fill_total_limit_title">Renseignez la limite du forfait</string>
     <string name="bh_please_set_pkg">Paramétrez votre forfait pour pouvoir consulter votre solde.</string>
     <string name="bh_privacy_policy">Politique de confidentialité</string>
+    <string name="bh_qualification_and_certificate">Licences et certification</string>
     <string name="bh_receive_zero_card">Free SIM</string>
     <string name="bh_recharge_money">Montant</string>
     <string name="bh_recharge_record">Enregistrer la recharge</string>
@@ -215,7 +218,7 @@
     <string name="bh_stop_carrier_services_short">Désactiver les services Mi Carrier</string>
     <string name="bh_stop_result">"Vous ne pourrez pas gérer votre forfait opérateur ou acheter des données et des minutes d'appel si vous désactivez les services Mi Carrier. Désactiver quand même ?"</string>
     <string name="bh_system_recommend">Recommandations système</string>
-    <string name="bh_system_recommend_des">"Nous permettre d'analyser votre trafic et de recommander des produits numériques basés sur les résultats"</string>
+    <string name="bh_system_recommend_des">"Lorsque les recommandations personnalisées sont désactivées, vous verrez toujours la même quantité d'annonces que lorsque la fonctionnalité est activée, mais elles ne seront pas aussi pertinentes pour vous"</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Numéros de téléphone fréquemment utilisés</string>
     <string name="bh_tags_number_exceed">"Impossible d'enregistrer de nouveaux numéros de téléphone"</string>
@@ -349,6 +352,7 @@
     <string name="calllog_menu_edit_before_call">Éditer</string>
     <string name="calllog_menu_send_sms">Envoyer un SMS</string>
     <string name="calllog_record_none_toast">"Aucun enregistrement d'appel à afficher"</string>
+    <string name="calllog_record_searching_toast">"Recherche d'enregistrements d'appels…"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">non connecté</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -534,7 +538,7 @@ En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aa
 Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
-    <string name="cta_dialog_title">Termes et conditions</string>
+    <string name="cta_dialog_title">Conditions générales</string>
     <string name="customLabelPickerTitle">Nom personnalisé</string>
     <string name="custom_list_filter">Définir une vue personnalisée</string>
     <string name="custom_nickname_hint">Entrez le pseudo</string>
@@ -810,6 +814,9 @@ Raison : \"%s\""</string>
     <string name="low_memory_toast">"Impossible d'utiliser cette fonctionnalité en raison d'une mémoire insuffisante."</string>
     <string name="lunarBirthdayLabelsGroup">Anniversaire lunaire</string>
     <string name="make_primary">Se souvenir de ce choix</string>
+    <string name="manage_external_storage_dialog_message">"Autoriser cette application à accéder à tous les fichiers afin de gérer les enregistrements d'appels."</string>
+    <string name="manage_external_storage_dialog_positive">Paramètres</string>
+    <string name="manage_external_storage_dialog_title">Autorisations requises</string>
     <string name="map_custom">Afficher adresse %s</string>
     <string name="map_home">Afficher adresse perso</string>
     <string name="map_other">"Afficher l'adresse"</string>
@@ -1211,7 +1218,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preference_privacy_settings_title">Vie privée</string>
     <string name="preference_remove_duplicate">Fusionner les contacts dupliqués</string>
     <string name="preference_show_firewall_calllog">"Afficher les appels bloqués dans l'historique des appels"</string>
-    <string name="preference_show_yellowpage_tab_description">Pages jaunes pourrait ne pas fonctionner correctement lorsque cette fonctionnalité est désactivée.</string>
+    <string name="preference_show_yellowpage_tab_description">Les pages jaunes et ses services ne seront pas affichés si vous désactivez cette fonctionnalité</string>
     <string name="preference_show_yellowpage_tab_title">Afficher les Pages jaunes</string>
     <string name="preference_simple_mode_description">Afficher photos et autres informations de contact dans la liste</string>
     <string name="preference_simple_mode_title">Afficher les photos et infos</string>
@@ -1228,9 +1235,8 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preference_telocation_summary_teloc_on">Afficher la localisation du contact</string>
     <string name="preference_telocation_title">Localisation</string>
     <string name="preference_tone_title">Tonalités</string>
+    <string name="preference_yellowpage_function_setting">Paramètres des pages jaunes</string>
     <string name="prepare_import">Importer les contacts</string>
-    <string name="preview_contact_card_title">Importer une carte de contact</string>
-    <string name="preview_incall_show_entry">Aperçu vidéo</string>
     <string name="previous">Précédent</string>
     <string name="privacy_password_message1">Le mot de passe de protection de la confidentialité fonctionne pour les photos, les notes et les dossiers cachés.</string>
     <string name="privacy_password_message2">Utilisez le Mot de passe de protection de la vie privée. Il fonctionne pour les photos, les notes et les dossiers cachés.</string>
@@ -1240,7 +1246,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="privacy_password_title2">Utiliser le Mot de passe de protection de la vie privée</string>
     <string name="privacy_password_title3">Mettez à jour votre mot de passe</string>
     <string name="privacy_password_title4">Mot de passe mis à jour</string>
-    <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
+    <string name="privacy_settings_blue_scan_connect">Connectez-vous aux appareils à proximité</string>
     <string name="privacy_settings_call_phone">Passer des appels</string>
     <string name="privacy_settings_call_phone_description">"Pour passer des appels via les raccourcis de l'écran d'accueil"</string>
     <string name="privacy_settings_call_phone_description_for_pad">Pour passer des appels dans des applications tierces</string>
@@ -1311,7 +1317,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="recent_contacts_label">Récents</string>
     <string name="recent_number">Récent</string>
     <string name="recent_updates">Mises à jour récentes</string>
-    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les Termes et conditions de votre contrat avec votre opérateur mobile.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les Conditions générales de votre contrat avec votre opérateur mobile.</string>
     <string name="redirect_calls_to_vm_confirm_text">OK</string>
     <string name="refresh">Actualiser</string>
     <string name="relationLabelsGroup">Relation</string>
@@ -1626,6 +1632,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="toast_for_failed_saving_nickname">Impossible de sauvegarder le pseudo</string>
     <string name="toast_for_saving_nickname">Pseudo sauvegardé</string>
     <string name="toast_join_with_empty_contact">Donnez un nom au contact avant de le fusionner avec un autre contact</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">"Autorisez cette fonctionnalité à se connecter aux appareils à proximité via Bluetooth pour pouvoir importer des contacts depuis d'autres appareils."</string>
     <string name="toast_not_show_camera_perm_req">"Pour pouvoir utiliser l'appareil photo pour prendre des photos de profil, autorisez d'abord cette application à prendre des photos et à enregistrer des vidéos."</string>
     <string name="toast_not_show_location_perm_req">"Pour pouvoir importer des contacts depuis d'autres appareils via Bluetooth, autorisez d'abord cette application à accéder à votre position."</string>
     <string name="toast_not_show_read_calllogs_perm_req">"Pour pouvoir afficher l'historique des appels, autorisez d'abord cette application à accéder à l'historique des appels."</string>
@@ -1657,6 +1664,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="unknown_contact_name">Contact inconnu</string>
     <string name="unknown_details_add_to_contact">Existant</string>
     <string name="unknown_details_new_contact">Nouveau</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"Impossible d'afficher les QR codes lors de l'utilisation de l'écran partagé"</string>
     <string name="update_sim_contact_photo_toast">Impossible de définir des photos de profil pour les contacts SIM</string>
     <string name="upgrade_in_progress">Mise à jour de la liste de contacts en cours.</string>
     <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour. 

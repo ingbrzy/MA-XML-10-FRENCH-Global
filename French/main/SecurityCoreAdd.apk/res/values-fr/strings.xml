@@ -33,6 +33,7 @@ cette fonctionnalité sera automatiquement ajoutée dans le Deuxième espace."</
     <string name="air_space_exit">"Quitter l'espace"</string>
     <string name="air_space_setting">"Paramètres de l'espace"</string>
     <string name="airspace_users_full">"Impossible de créer plus d'espace"</string>
+    <string name="alwaysUsePrompt">Se souvenir de mon choix</string>
     <string name="am">AM</string>
     <string name="appData">Applications installées</string>
     <string name="app_name">Composant principal de sécurité</string>
@@ -273,6 +274,7 @@ Vous pouvez aussi les télécharger séparément."</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -345,8 +347,8 @@ Vous pouvez aussi les télécharger séparément."</string>
     <string name="not_support_multiple_users">Plusieurs utilisateurs ne sont pas pris en charge</string>
     <string name="notificationSetPassword">Définir un mot de passe</string>
     <string name="notificationSetPasswordDes">Protéger les données du Deuxième espace</string>
-    <string name="notificationSummary">Basculer entre les deux espaces à partir du Panneau de notification</string>
-    <string name="notificationTitle">Raccourci du Panneau de notification</string>
+    <string name="notificationSummary">Basculer entre les deux espaces à partir du Panneau des notifications</string>
+    <string name="notificationTitle">Raccourci du Panneau des notifications</string>
     <string name="notification_from_owner_user">Afficher les notifications du premier espace</string>
     <string name="notification_from_second_user">Afficher les notifications du second espace</string>
     <string name="notification_recommend_title">Top 12 des applications du Deuxième espace</string>
@@ -392,7 +394,7 @@ Dans le cas contraire vous pourrez ne plus avoir accès au Deuxième espace depu
     <string name="retain_src_file">Garder des fichiers</string>
     <string name="retain_src_photo">Garder des photos</string>
     <string name="same_qr_code_create_space">En créer un autre</string>
-    <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notification pour y aller. Aller maintenant ?"</string>
+    <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau des notifications pour y aller. Aller maintenant ?"</string>
     <string name="same_qr_code_enter_space">"Aller à l'espace de travail"</string>
     <string name="same_qr_code_title">%s existe déjà</string>
     <string name="saturday">Samedi</string>
@@ -460,8 +462,8 @@ Séparez et sécurisez vos données."</string>
     <string name="show_normal_content">Ne pas afficher les éléments privés</string>
     <string name="show_noti_from_owner">"Les notifications de l'autre espace"</string>
     <string name="show_noti_from_owner_detail">"Recevez les notifications dans l'espace actuel lorsqu'elles arrivent pour l'autre espace"</string>
-    <string name="show_noti_quick_switch_icon">Raccourci du Panneau de notification</string>
-    <string name="show_noti_quick_switch_icon_detail">Afficher un raccourci pour basculer entre les espaces dans le Panneau de notification</string>
+    <string name="show_noti_quick_switch_icon">Raccourci du Panneau des notifications</string>
+    <string name="show_noti_quick_switch_icon_detail">Afficher un raccourci pour basculer entre les espaces dans le Panneau des notifications</string>
     <string name="show_private_content">Afficher les éléments privés</string>
     <string name="show_private_msg">Afficher les messages privés</string>
     <string name="show_private_msg_summary">Afficher les messages privés dans le Deuxième espace</string>
@@ -609,6 +611,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="xspace_guide_description">"Chaque compte
 mérite sa propre application"</string>
     <string name="xspace_guide_title">Créer une application clônée</string>
+    <string name="xspace_head">Application clônée</string>
     <string name="xspace_header">Applications clônées</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Application clônée créée avec succès. &lt;/font>&lt;font color=#0D84FF>Ouvrir maintenant&lt;/font>.</string>
@@ -623,6 +626,7 @@ mérite sa propre application"</string>
     <string name="xspace_notification_button">Essayer</string>
     <string name="xspace_notification_error">Sign in to dual WeChat and try again</string>
     <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
+    <string name="xspace_resolver_activity_title">"Sélectionner l'application"</string>
     <string name="xspace_setting_label">Paramètres des applications clônées</string>
     <string name="xspace_settins">Set</string>
     <string name="xspace_start">Créer</string>

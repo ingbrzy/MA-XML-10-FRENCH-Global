@@ -389,8 +389,8 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="material_hour_suffix">"%1$s h"</string>
     <string name="material_minute_selection">Sélectionner les minutes</string>
     <string name="material_minute_suffix">%1$s min</string>
-    <string name="material_slider_range_end">Range end,</string>
-    <string name="material_slider_range_start">Range start,</string>
+    <string name="material_slider_range_end">"Fin d'intervalle,"</string>
+    <string name="material_slider_range_start">"Début d'intervalle,"</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">"Passer en mode horloge pour la saisie de l'heure."</string>
     <string name="material_timepicker_hour">Heure</string>
@@ -440,7 +440,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="mr_user_route_category_name">Appareils</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
@@ -637,15 +637,15 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="tts_status_ok">%1$s is fully supported</string>
     <string name="tts_status_requires_network">%1$s requires network connection</string>
     <string name="tts_status_title">Default language status</string>
-    <string name="unknown">Unknown</string>
-    <string name="unknown_address">Unknown</string>
-    <string name="unknown_allergies">Unknown</string>
-    <string name="unknown_blood_type">Unknown</string>
-    <string name="unknown_date_of_birth">Unknown</string>
-    <string name="unknown_medical_conditions">Unknown</string>
-    <string name="unknown_medications">Unknown</string>
-    <string name="unknown_name">Unknown</string>
-    <string name="unknown_organ_donor">Unknown</string>
+    <string name="unknown">Inconnu</string>
+    <string name="unknown_address">Inconnu</string>
+    <string name="unknown_allergies">Inconnu</string>
+    <string name="unknown_blood_type">Inconnu</string>
+    <string name="unknown_date_of_birth">Inconnu</string>
+    <string name="unknown_medical_conditions">Inconnu</string>
+    <string name="unknown_medications">Inconnu</string>
+    <string name="unknown_name">Inconnu</string>
+    <string name="unknown_organ_donor">Inconnu</string>
     <string name="usb_audio_disable_routing">Disable USB audio routing</string>
     <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
     <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
@@ -662,7 +662,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
 
         Any user can update apps for all other users."</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_type_title">Add</string>
+    <string name="user_add_user_type_title">Ajouter</string>
     <string name="user_guest">Guest</string>
     <string name="user_image_choose_photo">Choose an image</string>
     <string name="user_image_photo_selector">Select photo</string>
@@ -693,7 +693,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
     <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
     <string name="wapi_cert_manage_title">WAPI certificate management</string>
-    <string name="wapi_cert_roaming">Connecting…</string>
+    <string name="wapi_cert_roaming">Connexion…</string>
     <string name="wapi_no">no</string>
     <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
     <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>
@@ -715,7 +715,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
     <string name="wifi_disabled_password_failure">Authentication problem</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi Connection Failure</string>
-    <string name="wifi_disconnected">Disconnected</string>
+    <string name="wifi_disconnected">Déconnecté</string>
     <string name="wifi_display_certification">Wireless display certification</string>
     <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
@@ -725,7 +725,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
-    <string name="wifi_hotspot_switch_off_text">Off</string>
+    <string name="wifi_hotspot_switch_off_text">Désactivé</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_limited_connection">Limited connection</string>
@@ -744,7 +744,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
-    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_none_owe">None/Enhanced Open</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
@@ -787,7 +787,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
         Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto-connect is off</string>
+    <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>
@@ -818,7 +818,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifitrackerlib_wifi_disabled_generic">Disabled</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP configuration failure</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Authentication problem</string>
-    <string name="wifitrackerlib_wifi_disconnected">Disconnected</string>
+    <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limited connection</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Can't connect. Try again later."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Network is over capacity. Try again later.</string>
@@ -834,7 +834,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
+    <string name="wifitrackerlib_wifi_security_none">Aucun</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
@@ -853,7 +853,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi won’t auto-connect for now</string>
     <string name="window_animation_scale_title">Window animation scale</string>
     <string name="window_blurs">Allow window-level blurs</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Oui</string>
     <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
     <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>
     <string name="zen_interruption_level_priority">Priority only</string>

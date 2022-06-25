@@ -124,16 +124,16 @@
     <string name="common_google_play_services_enable_text">%1$s ne fonctionnera que si vous activez les services Google Play.</string>
     <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
     <string name="common_google_play_services_install_button">Installer</string>
-    <string name="common_google_play_services_install_text">%1$s ne fonctionnera que si vous activez les services Google Play, qui ne sont pas présents sur votre appareil.</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play qui sont absents de votre appareil.</string>
     <string name="common_google_play_services_install_title">Obtenir les services Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
     <string name="common_google_play_services_notification_ticker">Erreur des services Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play qui ne sont pas pris en charge par votre appareil.</string>
     <string name="common_google_play_services_update_button">Mettre à jour</string>
     <string name="common_google_play_services_update_text">%1$s ne fonctionnera que si vous mettez à jour les services Google Play.</string>
     <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
-    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement en cours de mise à jour.</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play qui sont en cours de mise à jour.</string>
     <string name="common_google_play_services_wear_update_text">Nouvelle version des services Google Play requise. Il se mettra à jour sous peu.</string>
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
@@ -341,7 +341,6 @@
     <string name="holidays_title">Jours fériés</string>
     <string name="horoscope">Horoscope</string>
     <string name="horoscope_card_title">Horoscope du jour</string>
-    <string name="horoscope_partner">alimenté par Staqu</string>
     <string name="horoscope_select_activity_label">Sélectionner un signe du zodiaque</string>
     <string name="hotel_detail_title">"Détails de l'hôtel"</string>
     <string name="hotel_event_delete_successfully">"Réservation d'hôtel supprimée avec succès"</string>
@@ -612,7 +611,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="privacy_policy_dialog_agree">Accepter</string>
     <string name="privacy_policy_dialog_dont_agree">Refuser</string>
     <string name="privacy_policy_dialog_message"><Data>"Bienvenue dans Calendrier !&lt;br/&gt;Vous pouvez utiliser cette application pour créer et gérer des événements, définir des rappels et recevoir des informations supplémentaires spécifiques à votre emplacement.&lt;br/&gt;Calendrier doit collecter les informations personnelles nécessaires pour vous fournir des services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\"&gt;Politique de confidentialité&lt;/a&gt;.&lt;br/&gt;Lisez et acceptez notre &lt;a href=\"%2$s\"&gt;Contrat d'utilisation&lt;/a&gt; et notre &lt;a href=\"%3$s\"&gt;Politique de confidentialité&lt;/a&gt; avant d'utiliser Calendrier. Vous pouvez retirer votre consentement à la Politique de confidentialité de Calendrier dans les paramètres à tout moment.&lt;br/&gt;Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours disponibles."</Data></string>
-    <string name="privacy_policy_dialog_title">Termes et conditions</string>
+    <string name="privacy_policy_dialog_title">Conditions générales</string>
     <string name="privacy_revoke_switch_text">Retrait du consentement</string>
     <string name="pull_to_refresh_hint">Faites glisser vers le bas pour actualiser les événements de %1$d</string>
     <string name="receive_net_mock_success">Net mock receive success</string>
