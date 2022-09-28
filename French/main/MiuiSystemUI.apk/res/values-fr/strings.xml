@@ -1401,7 +1401,7 @@ d MMMM"</string>
     <string name="lockscreen_carrier_default">Aucun service</string>
     <string name="lockscreen_charging_msg">En charge</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">"Vous avez tenté sans succès de déverrouiller le téléphone %1$d fois. Après %2$d autres tentatives infructueuses, le téléphone sera réinitialisé aux paramètres d'usine par défaut et toutes les données utilisateur seront perdues."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">"Vous avez mal saisi votre mot de passe %1$d fois. Après %2$d autres tentatives infructueuses, il vous sera demandé de déverrouiller votre téléphone à l'aide de la connexion à votre Compte Mi.
+    <string name="lockscreen_failed_attempts_almost_glogin">"Vous avez mal saisi votre mot de passe %1$d fois. Après %2$d autres tentatives infructueuses, il vous sera demandé de déverrouiller votre téléphone à l'aide de la connexion à votre Compte Xiaomi.
 
 Réessayez dans %3$d secondes."</string>
     <string name="lockscreen_failed_attempts_now_wiping">"Vous avez incorrectement tenté de déverrouiller l'appareil à %d reprises. L'appareil va maintenant être remis au format usine par défaut."</string>
@@ -1471,6 +1471,8 @@ une capture d'écran de défilement"</string>
     <string name="miui_notification_menu_snooze">Reporter</string>
     <string name="miui_notification_menu_title_not_allow">Restreindre</string>
     <string name="miui_notification_menu_unfold">Marquer comme important</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Restreindre les notifications permanentes pour \"%1$s\" maintenant ?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restreindre les notifications permanentes</string>
     <string name="miui_ringer_count_down">Compte à rebours</string>
     <string name="miui_ringer_standard">Silencieux</string>
     <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
@@ -1984,7 +1986,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_flashlight_camera_in_use">"Appareil photo en cours d'utilisation"</string>
     <string name="quick_settings_flashlight_label">Lampe torche</string>
     <string name="quick_settings_googlehome_label">Google Home</string>
-    <string name="quick_settings_googlepay_label">Google Pay</string>
+    <string name="quick_settings_googlepay_label">Google Wallet</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_header_onboarding_text">"Appuyer &amp; maintenir les icônes pour plus d'options"</string>
     <string name="quick_settings_hotspot_label">"Point d'accès Wi-Fi"</string>
@@ -1994,6 +1996,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_inversion_label">Inverser les couleurs</string>
     <string name="quick_settings_location_label">Localisation</string>
     <string name="quick_settings_location_off_label">Localisation désactivée</string>
+    <string name="quick_settings_low_battery_toast_text">"Impossible d'utiliser la lampe de poche. La batterie est trop faible."</string>
     <string name="quick_settings_media_device_label">Périphérique média</string>
     <string name="quick_settings_midrop_label">Mi Drop</string>
     <string name="quick_settings_more_settings">Plus de paramètres</string>
@@ -2225,7 +2228,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="snooze_option_2_hour">2 heures</string>
     <string name="snooze_option_30_min">30 minutes</string>
     <string name="snooze_undo">ANNULER</string>
-    <string name="snoozed_for_time">Répété pendant %1$s</string>
+    <string name="snoozed_for_time">Répétée dans %1$s</string>
     <string name="sos_status_bar_summary">Appuyez pour quitter</string>
     <string name="sos_status_bar_title">S.O.S</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
@@ -2847,7 +2850,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="birthday_status">Birthday</string>
     <string name="birthday_status_content_description">"It's %1$s’s birthday"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="build_number_clip_data_label">Build number</string>
     <string name="build_number_copy_toast">Build number copied to clipboard.</string>
     <string name="camera_recording_announcement">Camera is recording</string>

@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
+  <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
   <string name="action_collapse">Masquer</string>
   <string name="action_expand">Afficher plus</string>
   <string name="action_folder_description">Afficher les dossiers</string>
@@ -40,7 +41,7 @@
   <string name="actionbar_button_up_description">Retour</string>
   <string name="actionbar_close_description">Fermer</string>
   <string name="actionbar_home_description">Retour</string>
-  <string name="add_account_desc">Synchronisez vos notes avec votre Compte Mi ?</string>
+  <string name="add_account_desc">Synchronisez vos notes avec votre Compte Xiaomi ?</string>
   <string name="alarm_bar_title">Rappel</string>
   <string name="alert_action_edit_anyway">Continuer à éditer</string>
   <string name="alert_message_delete">Supprimer %1$s ?</string>
@@ -72,7 +73,7 @@
   <string name="audio_toast_file_undownload">"Le fichier audio n'est pas entièrement téléchargé ou a des parties manquantes"</string>
   <string name="audio_toast_network_is_not_available">Impossible de se connecter au réseau</string>
   <string name="blackboard_note">Tableau noir intelligent</string>
-  <string name="bottomsheet_action_expand_halfway">Agrandir à moitié</string>
+  <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
   <string name="btn_next">Suivant</string>
   <string name="call_folder_name">"Notes d'appels"</string>
   <string name="cancel_alarm_description">"Annuler l'alarme"</string>
@@ -253,6 +254,9 @@
   <string name="info_note_enter_desktop">Note créée sur le bureau</string>
   <string name="item_view_role_description">Onglet</string>
   <string name="last_excerpt_unfinish_hint">Le dernier extrait est incomplet</string>
+  <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+  <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
+  <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
   <string name="loading_text">Chargement…</string>
   <string name="login_sync">Se connecter et synchroniser</string>
   <string name="lunar_day">Lunaire %1$s</string>
@@ -458,6 +462,8 @@
   <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
+  <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+  <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
   <string name="new_app_name">Mi Notes</string>
   <string name="new_audio_create_cancel_talkback_des">Annulé</string>
   <string name="new_audio_create_done_talkback_des">Créer</string>
@@ -553,6 +559,8 @@
   <string name="permission_phone_state_desc">For stopping recording voice notes during calls</string>
   <string name="permission_read_contact_desc">"Association des notes créées lors d'appels à des contacts"</string>
   <string name="permission_storage_desc">"Pour enregistrer des notes sous forme d'images"</string>
+  <string name="permission_storage_desc_new_v12">"Pour ajouter des images aux notes et enregistrer les notes sous forme d'images"</string>
+  <string name="permission_storage_desc_pad_new_v12">"Pour ajouter des images aux notes et enregistrer les notes sous forme d'images"</string>
   <string name="permission_storage_desc_pad_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_storage_desc_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_xiaoai_desc"><Data>"Mi IA collectera vos enregistrements vocaux et votre ID d'appareil pour transcrire l'audio et créer des notes vocales. En savoir plus sur Mi IA &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
@@ -589,6 +597,7 @@
   <string name="privacy_note_content_empty">Aucun élément ici encore.</string>
   <string name="private_entry_available">Relâchez pour ouvrir le dossier privé</string>
   <string name="private_entry_default">Déroulez pour ouvrir le dossier privé</string>
+  <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
   <string name="quick_note_link_default_text">URL</string>
   <string name="quick_note_new_user_guide">Les notes rapides vous permettent de créer des notes et des extraits</string>
   <string name="recover_notes_hint">Une erreur est survenue, rendez-vous sur i.mi.com pour restaurer vos notes.</string>
@@ -631,6 +640,9 @@
   <string name="save_to_gallery_failure_message">"Impossible d'enregistrer"</string>
   <string name="save_to_gallery_icon_name">Enregistrer dans Galerie</string>
   <string name="save_to_gallery_success_message">Enregistré avec succès</string>
+  <string name="save_to_local_failure_message">"Impossible d'enregistrer"</string>
+  <string name="save_to_local_icon_name">Enregistrer</string>
+  <string name="save_to_local_success_message">Enregistré avec succès</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_keyword_notes">Notes;Mémo</string>
@@ -639,6 +651,7 @@
   <string name="search_path_notes">Applications système/Notes</string>
   <string name="search_setting_description">Rechercher du texte dans vos notes</string>
   <string name="select_account_prompt">Synchroniser les notes</string>
+  <string name="select_up_limit_toast">"Sélectionnez jusqu'à %d éléments"</string>
   <string name="send">Envoyer</string>
   <string name="set_alarm_description">Régler une alarme</string>
   <string name="setting_big_screen_layout_columns">Barre latérale</string>
@@ -713,6 +726,7 @@
   <string name="sync_note_folder">%1$s et %2$s</string>
   <string name="sync_note_todo">%1$s et %2$s</string>
   <string name="sync_tips">Appuyez pour synchroniser les notes avec le Cloud.</string>
+  <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -879,6 +893,7 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="tuesday_shortest">Ma</string>
   <string name="unclassfied_folder_name">Sans catégorie</string>
   <string name="undo">Annuler</string>
+  <string name="unknown_error_info">Erreur inconnue</string>
   <string name="unknown_source">Source inconnue</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>

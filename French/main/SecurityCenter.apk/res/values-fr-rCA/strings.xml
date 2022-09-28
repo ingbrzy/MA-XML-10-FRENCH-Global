@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="common_google_play_services_unknown_issue">"L'application %1$s éprouve un problème avec les services Google Play. Veuillez réessayer."</string>
     <string name="copy">Copier</string>
     <string name="exo_controls_cc_disabled_description">Activer les sous-titres</string>
     <string name="exo_controls_cc_enabled_description">Désactiver les sous-titres</string>

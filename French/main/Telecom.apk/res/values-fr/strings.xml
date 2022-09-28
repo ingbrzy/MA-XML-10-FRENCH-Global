@@ -234,7 +234,7 @@ Bluetooth"</string>
     <string name="bluetooth_talkback_imaging">Imagerie</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
-    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="bt_hci_snoop_log">Activer journaux HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier (Activez/désactivez le Bluetooth après avoir modifié ce paramètre.)</string>
     <string name="bugreport_in_power">"Raccourci vers rapport d'erreur"</string>
@@ -376,12 +376,13 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="force_allow_on_external_summary">"Rend possible l'enregistrement de toute application sur un espace de stockage externe, indépendamment des valeurs du fichier manifeste"</string>
     <string name="force_hw_ui">Forcer le rendu GPU</string>
     <string name="force_hw_ui_summary">"Forcer l'utilisation du GPU pour le dessin 2D"</string>
-    <string name="force_msaa">Forcer MSAA 4x</string>
-    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="force_msaa">Forcer MSAA 4×</string>
+    <string name="force_msaa_summary">Activer MSAA 4× dans les applications OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forcer possibilité de redimensionner les activités</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer de droite à gauche</string>
     <string name="force_rtl_layout_all_locales_summary">Forcer de droite à gauche pour toutes langues</string>
+    <string name="fraud_toast_message">"Vous pouvez gérer le transfert d'appel dans les paramètres"</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>

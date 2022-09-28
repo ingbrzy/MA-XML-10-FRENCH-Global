@@ -63,6 +63,8 @@ certaines fonctionnalités de sécurité de votre appareil Android."</string>
     <string name="account_setting_message_body_load_head_only">En-tête uniquement</string>
     <string name="account_setting_message_body_load_text">Corps uniquement</string>
     <string name="account_settings_action">Paramètres du compte</string>
+    <string name="account_settings_background_attachments_security_summary">"Vérifier les pièces jointes contenant des packages d'installation pour les risques de sécurité"</string>
+    <string name="account_settings_background_attachments_security_title">Vérifier les risques dans les pièces jointes</string>
     <string name="account_settings_background_attachments_summary">Télécharger les pièces jointes via Wi- Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Télécharger les pièces jointes via Wi- Fi</string>
     <string name="account_settings_background_attachments_title">Télécharger les pièces jointes automatiquement</string>
@@ -268,6 +270,10 @@ Mettre à jour maintenant ?"</string>
     <string name="attachment_unknown">Fichier %s</string>
     <string name="attachment_video">Vidéo</string>
     <string name="attachments_header">Pièces jointes</string>
+    <string name="attachments_security_alert_install_message">"Cette pièce jointe est un package d'installation. Assurez-vous de faire confiance à la source avant de l'ouvrir. Installer maintenant ?"</string>
+    <string name="attachments_security_alert_install_title">Attention</string>
+    <string name="attachments_security_alert_message">"Ce message contient un package d'installation. Assurez-vous de faire confiance à la source avant de l'ouvrir."</string>
+    <string name="attachments_security_install">Installer</string>
     <string name="attendee_needed">Ajoutez au moins un invité.</string>
     <string name="auto_advance_help_title">"Après la suppression d'un message, voir…"</string>
     <string name="auto_advance_label">Supprimer le flux de messages</string>
@@ -349,6 +355,7 @@ Mettre à jour maintenant ?"</string>
     <string name="click_to_reload">"Touchez l'écran pour actualiser"</string>
     <string name="close">Fermer</string>
     <string name="close_custom_folder">Masquer les sous-dossiers</string>
+    <string name="close_tips">Fermer le rappel</string>
     <string name="collapse_recipient_details">Masquer les détails du destinataire</string>
     <string name="compose">Rédiger</string>
     <string name="compose_add_attachment_permission_denied">"Impossible de transférer l'e-mail. Autorisations d'accès au stockage externe requises."</string>
@@ -608,6 +615,7 @@ pour le :
     <string name="folder_junk_name_en2">Courrier indésirable</string>
     <string name="folder_junk_name_en3">Courrier électronique indésirable</string>
     <string name="folder_junk_name_en4">Corbeille</string>
+    <string name="folder_junk_name_en5">Courrier indésirable</string>
     <string name="folder_list_current_account">Compte actuel</string>
     <string name="folder_list_display_all">Afficher tous les dossiers</string>
     <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
@@ -694,12 +702,16 @@ pour le :
     <string name="hide_attachment">Masquer la pièce jointe</string>
     <string name="hide_elided">▼ Cacher le texte cité</string>
     <string name="hide_password">Masquer le mot de passe</string>
+    <string name="how_to_login_icloud">Comment se connecter à la messagerie iCloud</string>
     <string name="http_auth_dialog_cancel">Annuler</string>
     <string name="http_auth_dialog_login">Connexion</string>
     <string name="http_auth_dialog_password">Mot de passe</string>
     <string name="http_auth_dialog_title">Entrez vos identifiants</string>
     <string name="http_auth_dialog_username">Identifiant</string>
+    <string name="icloud_login_tips">Vous pouvez créer un mot de passe à utiliser avec votre messagerie iCloud ici : iCloud.com</string>
+    <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Icône de dialogue</string>
+    <string name="icoud_login_pw_hint">Entrez le mot de passe</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
@@ -747,6 +759,7 @@ pour le :
     <string name="login_des_exchange">Connectez-vous à Exchange</string>
     <string name="login_des_gmail">Connectez-vous à Gmail</string>
     <string name="login_des_hotmail">Connectez-vous à Hotmail</string>
+    <string name="login_des_icloud">Se connecter à la messagerie iCloud</string>
     <string name="login_des_mail_ru">Connectez-vous à Mail.ru</string>
     <string name="login_des_office365">Connectez-vous à Office 365</string>
     <string name="login_des_others">"Connectez-vous à d'autres principaux clients de services de messagerie"</string>
@@ -873,6 +886,7 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="message_decode_error">Impossible de décoder le message</string>
     <string name="message_discarded">Brouillon supprimé.</string>
     <string name="message_invite_accept">Oui</string>
+    <string name="message_invite_calendar_download_prompt">Télécharger le calendrier pour pouvoir utiliser cette fonctionnalité</string>
     <string name="message_invite_calendar_view">Afficher dans le calendrier</string>
     <string name="message_invite_decline">Non</string>
     <string name="message_invite_end_time">Heure de fin</string>
@@ -918,6 +932,11 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
+    <string name="miuix_search_action_mode_cancel">Annuler</string>
+    <string name="miuix_search_history_clear">"Effacer l'historique des recherches"</string>
+    <string name="miuix_search_history_default_title">Historique des recherches</string>
+    <string name="miuix_search_recommendation_default_title">Ceux-ci pourraient vous intéresser</string>
+    <string name="miuix_search_recommendation_item_del_des">Supprimer</string>
     <string name="modify_contact_address">"Modifier l'adresse e-mail du contact"</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>

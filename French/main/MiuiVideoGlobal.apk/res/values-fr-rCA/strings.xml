@@ -34,6 +34,7 @@
     <string name="cast_closed_captions_unavailable">Aucun sous-titre</string>
     <string name="cast_connecting_to_device">Connexion à %1$s en cours…</string>
     <string name="cast_disconnect">Déconnexion</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Image affichée alors que le récepteur de diffusion présente une annonce</string>
     <string name="cast_expanded_controller_ad_in_progress">Annonce en cours…</string>
     <string name="cast_expanded_controller_background_image">"Image de l'album"</string>
@@ -45,9 +46,9 @@
     <string name="cast_forward">Suivant</string>
     <string name="cast_forward_10">Avancer de 10 secondes</string>
     <string name="cast_forward_30">Avancer de 30 secondes</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">EN DIRECT</string>
-    <string name="cast_mute">Désactiver le son</string>
+    <string name="cast_mute">Couper le son</string>
     <string name="cast_notification_connected_message">Connecté à %1$s</string>
     <string name="cast_notification_connecting_message">Connexion à %1$s en cours…</string>
     <string name="cast_notification_default_channel_name">Cast</string>
@@ -92,6 +93,7 @@
     <string name="common_signin_button_text">Connexion</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="copy">Copier</string>
+    <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="error_icon_content_description">Erreur</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode Plein écran</string>
@@ -130,6 +132,9 @@
     <string name="exo_track_unknown">Inconnu</string>
     <string name="expand_button_title">Avancé</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="fallback_menu_item_copy_link">Copier le lien</string>
+    <string name="fallback_menu_item_open_in_browser">Ouvrir dans le navigateur</string>
+    <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="icon_content_description">Icône de boîte de dialogue</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
@@ -144,10 +149,11 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">"Sélectionner l'heure"</string>
     <string name="material_timepicker_text_input_mode_description">"Passer au mode Entrée de texte pour entrer l'heure."</string>
-    <string name="mr_button_content_description">Bouton Diffuser</string>
-    <string name="mr_cast_button_connected">Bouton Diffuser. Connecté</string>
-    <string name="mr_cast_button_connecting">Bouton Diffuser. Connexion en cours…</string>
-    <string name="mr_cast_button_disconnected">Bouton Diffuser. Déconnecté</string>
+    <string name="mr_button_content_description">Diffuser</string>
+    <string name="mr_cast_button_connected">Diffuser. Connecté</string>
+    <string name="mr_cast_button_connecting">Diffuser. Connexion en cours…</string>
+    <string name="mr_cast_button_disconnected">Diffuser. Déconnecté</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Aucune donnée trouvée</string>
     <string name="mr_chooser_searching">"Recherche d'appareils en cours…"</string>
     <string name="mr_chooser_title">Diffuser vers</string>
     <string name="mr_controller_album_art">"Image de l'album"</string>
@@ -163,6 +169,9 @@
     <string name="mr_controller_stop">Arrêter</string>
     <string name="mr_controller_stop_casting">Arrêter la diffusion</string>
     <string name="mr_controller_volume_slider">Curseur de réglage du volume</string>
+    <string name="mr_dialog_default_group_name">Groupe</string>
+    <string name="mr_dialog_groupable_header">Ajouter un appareil</string>
+    <string name="mr_dialog_transferable_header">"Faire jouer sur un groupe d'appareils"</string>
     <string name="mr_system_route_name">Système</string>
     <string name="mr_user_route_category_name">Appareils</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>

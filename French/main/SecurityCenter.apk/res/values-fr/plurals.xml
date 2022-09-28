@@ -274,12 +274,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
     <plurals name="gb_smart_battery_hrs">
-        <item quantit="other">%d heures</item>
-        <item quantit="one">%d heure</item>
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
     </plurals>
     <plurals name="gb_smart_battery_min">
-        <item quantit="other">%d minutes</item>
-        <item quantit="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Compris (%ds)</item>
@@ -478,6 +478,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Saisir au moins %d caractères</item>
         <item quantity="one">Saisir au moins %d caractère</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">"%d jours restants avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
         <item quantity="one">"%d jour restant avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
@@ -630,6 +634,14 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Votre appareil sera éteint dans %d secondes</item>
         <item quantity="one">Votre appareil sera éteint dans %d seconde</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">fois</item>
         <item quantity="one">fois</item>
@@ -710,9 +722,17 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%s minutes restantes</item>
         <item quantity="one">%s minute restante</item>
     </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minutes de temps d'écran restant</item>
+        <item quantity="one">%s minute de temps d'écran restant</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Activer pour ajouter %s minutes de temps d'écran</item>
+        <item quantity="one">Activer pour ajouter %s minute de temps d'écran</item>
+    </plurals>
     <plurals name="power_off_warning_button_ok_time">
-        <item quantity="other">"C'est compris (%ds)"</item>
-        <item quantity="one">"C'est compris (%ds)"</item>
+        <item quantity="other">"Compris (%ds)"</item>
+        <item quantity="one">"Compris (%ds)"</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">"Votre appareil va s'éteindre dans %d secondes. Connectez le chargeur."</item>

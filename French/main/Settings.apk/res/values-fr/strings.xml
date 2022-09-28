@@ -564,6 +564,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
     <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
     <string name="allow_oaid_used_desc">"MIUI ne fournira pas d'ID virtuel (OAID) aux applications installées. Certaines fonctionnalités de recommandations personnelles peuvent ne pas fonctionner correctement à cause de cela."</string>
+    <string name="allow_ongoing_title">Autoriser les notifications permanentes</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
     <string name="allow_sound_title">Autoriser le son</string>
     <string name="allow_vibrate_title">Autoriser les vibrations</string>
@@ -1331,6 +1332,10 @@ Applications :
     <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
     <string name="bluetooth_enable_opp_high_speed">Transferts Bluetooth à haut débit</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Le redémarrage de Bluetooth est nécessaire pour appliquer les modifications. Les connexions établies peuvent être interrompues par cette action. Redémarrer Bluetooth quand même ?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Annuler</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Redémarrer</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Redémarrer Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Utiliser les protocoles Bluetooth P2P haut débit pour les transferts</string>
     <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
     <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
@@ -1585,11 +1590,11 @@ Qualité de lecture"</string>
     <string name="bootloader_apply_step_4">Cela peut conduire à la divulgation ou la perte des données, ou même provoquer des dommages matériels irréparables.</string>
     <string name="bootloader_apply_step_5">"Assurez-vous de savoir utiliser le mode Fastboot avant de l'activer."</string>
     <string name="bootloader_apply_title">Avertissement important</string>
-    <string name="bootloader_device_bind_already">Ajouté avec succès. Votre Compte Mi est maintenant associé à cet appareil.</string>
+    <string name="bootloader_device_bind_already">Ajouté avec succès. Votre Compte Xiaomi est maintenant associé à cet appareil.</string>
     <string name="bootloader_device_bind_exceed_sim_limit">"Impossible d'associer d'autres comptes à cette carte SIM."</string>
     <string name="bootloader_device_bind_fail">Impossible de vérifier. Attendez une minute ou deux, puis réessayez</string>
     <string name="bootloader_device_bind_msg">"Préparation de l'ajout du compte et de l'appareil…"</string>
-    <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre Compte Mi"</string>
+    <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre Compte Xiaomi"</string>
     <string name="bootloader_device_bind_no_data_network">Désactivez le Wi-Fi et ajoutez votre compte et appareil utilisant les données mobiles.</string>
     <string name="bootloader_device_bind_no_network">Connectez-vous au réseau et réessayez</string>
     <string name="bootloader_device_bind_no_sim">Insérez une carte SIM et réessayez.</string>
@@ -1601,9 +1606,9 @@ Qualité de lecture"</string>
     <string name="bootloader_locked_answer_1_warning">"Souvenez-vous : Vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
     <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
 2. Désactivez le Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à internet en utilisant les données mobiles.
-3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Mi avec cet appareil.
+3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Xiaomi avec cet appareil.
 4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
-    <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Mi avec cet appareil.
+    <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Xiaomi avec cet appareil.
 2. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
     <string name="bootloader_locked_check_status">Ajouter un compte et un appareil</string>
     <string name="bootloader_locked_question_1">Pourquoi les appareils devraient-ils être verrouillés ?</string>
@@ -1612,7 +1617,7 @@ Qualité de lecture"</string>
     <string name="bootloader_status_locked">Verrouillé</string>
     <string name="bootloader_status_locked_info">Cet appareil est verrouillé</string>
     <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
-    <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre Compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre Compte Xiaomi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Annuler</string>
     <string name="bootloader_status_privacy_dialog_title">Autorisations requise</string>
     <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
@@ -1623,9 +1628,9 @@ Qualité de lecture"</string>
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
     <string name="bootloader_tips">"%s
 
-Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouveau votre Compte Mi. sinon, vous ne pourrez pas déverrouiller votre appareil."</string>
+Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouveau votre Compte Xiaomi. sinon, vous ne pourrez pas déverrouiller votre appareil."</string>
     <string name="bootloader_tips_ok">Compris</string>
-    <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre Compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
+    <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre Compte Xiaomi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
     <string name="bottom_function_settings">Fonctions des boutons supplémentaires</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
@@ -1823,6 +1828,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="captioning_window_opacity">Opacité de la zone de sous-titres</string>
     <string name="capture_system_heap_dump_title">Capturer le vidage mémoire système</string>
     <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
+    <string name="card_holder_header_title">Portefeuille</string>
     <string name="card_main_hbassistant_title">Enveloppes rouges; Enveloppe rouge; Argent</string>
     <string name="cards_passes_lower">cartes et pass</string>
     <string name="cards_passes_sentence">Cartes et pass</string>
@@ -2152,8 +2158,6 @@ Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
     <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
     <string name="copyright">"Droits d'auteur"</string>
     <string name="copyright_title">"Droits d'auteur"</string>
-    <string name="corner_assistant_gesture_summary">"Balayez vers le haut depuis le coin inférieur gauche ou inférieur droit pour réveiller l'Assistant Google"</string>
-    <string name="corner_assistant_gesture_title">Balayez vers le haut depuis un coin pour Google Assistant</string>
     <string name="country_name">%s (système)</string>
     <string name="create">Créer</string>
     <string name="credential_contains">Cette entrée contient :</string>
@@ -2643,7 +2647,7 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
 · Si vous souhaitez utiliser les données mobiles, appuyez sur \"Réessayer\" ou retirez et réinsérez votre carte SIM."</string>
     <string name="dialog_check_title">Connexion à internet impossible</string>
     <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
-    <string name="dialog_content_login">Se connecter avec votre Compte Mi pour mettre à jour ?</string>
+    <string name="dialog_content_login">Se connecter avec votre Compte Xiaomi pour mettre à jour ?</string>
     <string name="dialog_esim_button_negative">Annuler</string>
     <string name="dialog_esim_button_positive">OK</string>
     <string name="dialog_location_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s continue de demander votre position lorsque vous ne l'utilisez pas.
@@ -2681,7 +2685,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dialog_stop_title">"Arrêter l'application ?"</string>
     <string name="dialog_title_color_calibration">Correction des couleurs prédéfinies</string>
     <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
-    <string name="dialog_title_login">Se connecter à votre Compte Mi</string>
+    <string name="dialog_title_login">Se connecter à votre Compte Xiaomi</string>
     <string name="dialog_wifi_button_negative">Non</string>
     <string name="dialog_wifi_button_positive">Oui</string>
     <string name="dialog_wifi_context">"Vous devez vous connecter à internet pour configurer votre appareil. Sauf si vous vous connectez au Wi-Fi, les données mobiles peuvent être utilisées. L'utilisation de données mobiles peut générer des frais supplémentaires pour les opérateurs. Utiliser quand même les données mobiles ?"</string>
@@ -2858,6 +2862,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dpp_sharing_wifi_summary">Partage du Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi partagé</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
+    <string name="dsda_switch_summary">Autoriser les deux cartes SIM à utiliser les données mobiles et à passer des appels simultanément</string>
+    <string name="dsda_switch_title">Mode actif double</string>
     <string name="dsds_dialog_cancel">Annuler</string>
     <string name="dsds_dialog_confirm">Redémarrer</string>
     <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
@@ -3139,6 +3145,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="ethernet">Ethernet</string>
     <string name="ethernet_data_template">^1 de données Ethernet</string>
     <string name="ethernet_data_usage">Consommation de données Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Partager via Ethernet</string>
     <string name="evening">Après-midi</string>
     <string name="every_day">Tous les jours</string>
     <string name="expand_button_title">Options avancées</string>
@@ -3181,7 +3188,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_data_input_structure_title">Données de visage 3D</string>
     <string name="face_data_input_title">Ajouter des données de visage</string>
     <string name="face_data_introduction_add">Démarrer</string>
-    <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité. Ajoutez un mot de passe pour bloquer l'écran avant d'ajouter vos données de visage."</string>
+    <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité.
+Ajoutez un verrouillage d'écran avant d'ajouter vos données de visage."</string>
     <string name="face_data_introduction_next">Suivant</string>
     <string name="face_data_introduction_title">Reconnaissance faciale</string>
     <string name="face_data_manage_delete">Supprimer les données de visage ?</string>
@@ -3195,7 +3203,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
     <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage par le visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
     <string name="face_data_suggesstion_first_cn">Pour que vous puissiez utiliser le déverrouillage par le visage, nous devons collecter vos données faciales qui seront ensuite stockées localement sur cet appareil. Pour les supprimer, recherchez Déverrouillage par le visage dans les paramètres, puis sélectionnez Déverrouillage par le visage > Données du visage et choisissez le profil à supprimer.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">"Le déverrouillage par reconnaissance faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+    <string name="face_data_suggesstion_first_cn_highlight">"Le déverrouillage par reconnaissance faciale est moins sécurisé qu'un code PIN, un mot de passe, un schéma ou un empreinte digitale. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
     <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas d'accessoires qui pourraient couvrir votre visage. Gardez votre visage uniformément éclairé et évitez la lumière directe."</string>
     <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
     <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
@@ -3216,6 +3224,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_unlock_offset_right">Move to the left</string>
     <string name="face_unlock_offset_top">Raise your phone a bit</string>
     <string name="face_unlock_open_eye">Open your eyes a bit wider</string>
+    <string name="face_unlock_prompt">"Enregistrer les données du visage
+face à l'écran extérieur"</string>
     <string name="face_unlock_quality">"Couldn't see your face clearly"</string>
     <string name="face_unlock_reveal_eye">Make your eyes visible</string>
     <string name="face_unlock_reveal_mouth">Make your lips visible</string>
@@ -3281,7 +3291,12 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="find_my_device">"Localiser l'appareil"</string>
     <string name="find_my_device_disable">Désactivé</string>
     <string name="find_my_device_enable">Activé</string>
-    <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au Compte Mi</string>
+    <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au Compte Xiaomi</string>
+    <string name="finger_add_user_info_dialog_cancel">Annuler</string>
+    <string name="finger_add_user_info_dialog_message">"Pour que vous puissiez utiliser le déverrouillage par empreinte digitale et effectuer des paiements par empreinte digitale, nous devons collecter votre empreinte digitale. L'empreinte digitale sera stockée localement sur cet appareil. Pour la supprimer, recherchez \"Déverrouiller avec l'empreinte digitale\" dans les Paramètres, puis sélectionnez Déverrouiller avec l'empreinte digitale > Empreinte digitale. Vous ne pourrez pas utiliser cette fonctionnalité si vous n'êtes pas d'accord."</string>
+    <string name="finger_add_user_info_dialog_next">Accepter</string>
+    <string name="finger_add_user_info_dialog_title">Attention</string>
+    <string name="finger_detail_info_text">"Modifier le nom de l'empreinte digitale"</string>
     <string name="fingerprint_add_max">"Vous pouvez ajouter jusqu'à %d empreintes digitales."</string>
     <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
     <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran et empreinte digitale"</string>
@@ -3519,6 +3534,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran"</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Faites glisser le coin pour réduire une application</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Appuyez et maintenez le bas de la fenêtre, et faites-le glisser vers le bord supérieur de l'écran.
+Cette fonctionnalité ne fonctionne que lorsque la navigation du système est définie sur les gestes."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Glisser vers des fenêtres flottantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
     <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
@@ -3628,7 +3645,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="google_assistant_label">Assistant Google</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
-    <string name="google_pay">Google Pay</string>
+    <string name="google_pay">Google Wallet</string>
     <string name="google_service_title">Compte Google</string>
     <string name="google_title">Paramètres Google</string>
     <string name="got_it">Compris</string>
@@ -3699,8 +3716,8 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="gxzw_quick_open_fast_summary">"Faites glisser pour utiliser un raccourci une fois que votre appareil est déverrouillé."</string>
     <string name="gxzw_quick_open_fast_title">Balayage rapide (avancé)</string>
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
-    <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
-    <string name="gxzw_vibrate_summary">"Vibrer pendant la lecture de l'animation de déverrouillage par empreinte digitale"</string>
+    <string name="gxzw_quick_open_title">Raccourcis</string>
+    <string name="gxzw_vibrate_summary">"La vibration ne se produira pas lorsqu'aucune animation d'empreinte digitale n'est sélectionnée"</string>
     <string name="gxzw_vibrate_title">Vibrer lors du déverrouillage</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
@@ -3847,7 +3864,7 @@ Cette méthode vous permet d'enregistrer les paramètres système, les comptes, 
 "</string>
     <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
     <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
-a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre Compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre Compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
+a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre Compte Xiaomi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre Compte Xiaomi pour restaurer des éléments à partir de sauvegardes chiffrées.
 b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
 Remarque :
@@ -3860,7 +3877,7 @@ Sauvegardes locales :
 Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
 Sauvegardes cloud :
-Connectez-vous à votre Compte Mi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
+Connectez-vous à votre Compte Xiaomi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
 Sauvegardes USB :
 Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
@@ -4329,6 +4346,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="location_category_location_services">Services de localisation</string>
     <string name="location_category_recent_location_access">Accès à la localisation récent</string>
     <string name="location_category_recent_location_requests">Demandes de localisation récentes</string>
+    <string name="location_description_no_gps">"Cet appareil ne prend pas en charge la navigation par satellite. Les informations de localisation générées sur la base des données du réseau peuvent être insuffisantes pour certaines fonctionnalités."</string>
     <string name="location_gps">Satellites GPS</string>
     <string name="location_high_battery_use">Forte utilisation de la batterie</string>
     <string name="location_low_battery_use">Faible utilisation de batterie</string>
@@ -4473,7 +4491,8 @@ pour le Deuxième espace"</string>
     <string name="lockpassword_choose_your_pin_header_for_face">"Pour utiliser l'authentification faciale, définissez un code PIN"</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Pour utiliser votre empreinte, définissez un code</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code
-pour le Deuxième espace"</string>
+pour le Deuxième espace.
+Il doit être de la même longueur que le code PIN du premier espace."</string>
     <string name="lockpassword_choose_your_pin_message">Pour des raisons de sécurité, définissez un code</string>
     <string name="lockpassword_choose_your_pin_title">Entrez %1$d-%2$d chiffres</string>
     <string name="lockpassword_choose_your_screen_lock_header">"Définir le verrouillage de l'écran"</string>
@@ -4547,7 +4566,8 @@ pour le Deuxième espace"</string>
     <string name="lockpattern_recording_inprogress">Relâchez le doigt lorsque vous avez terminé</string>
     <string name="lockpattern_recording_intro_footer">"Appuyez sur Menu pour de l'aide."</string>
     <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-    <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace :</string>
+    <string name="lockpattern_recording_intro_header_second_space">"Dessinez un schéma de déverrouillage pour le deuxième espace.
+Connectez au moins 4 points."</string>
     <string name="lockpattern_restart_button_text">Dessiner à nouveau</string>
     <string name="lockpattern_retry_button_text">Effacer</string>
     <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
@@ -4582,8 +4602,8 @@ pour le Deuxième espace"</string>
     <string name="lockscreen_settings_what_to_show_category">Que montrer</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">"Personnaliser les applications affichées sur le panneau latéral de l'écran de verrouillage"</string>
     <string name="lockscreen_sidepanel_shortcuts_title">Raccourcis des panneaux latéraux</string>
-    <string name="login_account_dialog_message">Connectez-vous avec un Compte Mi et activez la synchronisation avec le Cloud.</string>
-    <string name="login_account_dialog_title">Se connecter avec le Compte Mi</string>
+    <string name="login_account_dialog_message">Connectez-vous avec un Compte Xiaomi et activez la synchronisation avec le Cloud.</string>
+    <string name="login_account_dialog_title">Se connecter avec le Compte Xiaomi</string>
     <string name="login_account_summary">Gérer les comptes, les services cloud, les paiements et plus encore</string>
     <string name="login_account_summary_temp">Gérer les comptes, les services cloud et plus encore</string>
     <string name="login_action">Se connecter</string>
@@ -4793,7 +4813,7 @@ D'autres personnes utilisent cet appareil.
     <string name="menu_use_uss">"Utiliser l'USS"</string>
     <string name="mi_headset_healthy">"Santé de l'écoute"</string>
     <string name="mi_pay">Mi Wallet</string>
-    <string name="mi_pay_indonesia">Compte Mi Pay</string>
+    <string name="mi_pay_indonesia">Compte Xiaomi Pay</string>
     <string name="mi_pay_summary">Carte de bus/Mi Pay/Émulateur de carte</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
     <string name="mi_service">Service Mi</string>
@@ -4802,7 +4822,7 @@ D'autres personnes utilisent cet appareil.
     <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Transfert</string>
-    <string name="mi_upi_settings">Compte Mi Pay</string>
+    <string name="mi_upi_settings">Compte Xiaomi Pay</string>
     <string name="mi_wallet">Mi Wallet</string>
     <string name="mi_wallet_desc">Mi Wallet</string>
     <string name="micloud_service_summary">"Synchronisez la liste des applications, sauvegardez les paramètres système et la disposition de l'écran d'accueil"</string>
@@ -4838,7 +4858,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_auto_ack_mode">Répondez automatiquement aux appels lorsque vous portez les écouteurs</string>
     <string name="miheadset_auto_ack_mode_summary">Répondre automatiquement aux appels</string>
     <string name="miheadset_auto_answer_call">Répondre aux appels automatiquement</string>
-    <string name="miheadset_Box">Boîtier</string>
+    <string name="miheadset_auto_upgrade_reminder">Désactivez les mises à jour automatiques et vérifiez à nouveau les mises à jour</string>
+    <string name="miheadset_bluetooth_audio_title">"Taux d'échantillonnage audio Bluetooth LC3plus"</string>
     <string name="miheadset_bright">Brillant</string>
     <string name="miheadset_call_assist">Appel AI</string>
     <string name="miheadset_cancel_device">Annuler</string>
@@ -4859,6 +4880,11 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_double_click_right">"Tapotez 2 fois l'écouteur droit"</string>
     <string name="miheadset_double_connection">Double connexion</string>
     <string name="miheadset_double_connection_summary">"Lorsque vous activez cette fonction, vous pouvez répondre aux appels ou lire de l'audio ou de la vidéo sur les deux appareils connectés sans avoir à basculer manuellement"</string>
+    <string name="miheadset_double_press_left">"Appuyez deux fois sur l'écouteur gauche"</string>
+    <string name="miheadset_double_press_right">"Appuyez deux fois sur l'écouteur droit"</string>
+    <string name="miheadset_double_toast">Mettez les deux écouteurs pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="miheadset_dual_connect_mode">Se connecter à deux appareils</string>
+    <string name="miheadset_dual_connect_mode_summary">Activez pour connecter vos écouteurs à deux appareils Bluetooth simultanément</string>
     <string name="miheadset_enhanceVoice">Améliorer la voix</string>
     <string name="miheadset_enhence_high">Améliorer les aigus</string>
     <string name="miheadset_enhence_low">Améliorer les basses</string>
@@ -4927,6 +4953,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_notification_title">Afficher sur le panneau des notifications</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Réduction du bruit</string>
+    <string name="miheadset_openAnc2">Réduction du bruit</string>
+    <string name="miheadset_open_closeAnc">Réduction du bruit activée/désactivée</string>
     <string name="miheadset_play_pause">Lecture/Pause</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Préférences</string>
@@ -4949,7 +4977,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_triple_click_key_mode">Triple appui</string>
     <string name="miheadset_triple_press_left">"Tapotez 3 fois sur l'écouteur de gauche"</string>
     <string name="miheadset_triple_press_right">"Tapotez 3 fois sur l'écouteur de droite"</string>
-    <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Mi.</string>
+    <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Xiaomi.</string>
     <string name="miheadset_virtual_surround">Son immersif virtuel</string>
     <string name="miheadset_voice_control_summary">"Lorsque cette fonctionnalité est activée, vous pouvez dire à Mi AI de naviguer sur votre appareil ou de contrôler la lecture audio à l'aide de commandes vocales"</string>
     <string name="miheadset_windnoise">Vent</string>
@@ -5853,6 +5881,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="owner_space">Premier espace</string>
     <string name="p2p_summary_enable_GPS">Cette fonctionnalité fonctionne lorsque les services de localisation sont activés</string>
     <string name="packages_subtitle">Modules inclus</string>
+    <string name="pad_add_fingerprint_finish_message">Continuer pour accéder aux paramètres supplémentaires.</string>
+    <string name="pad_add_fingerprint_message">"Placez votre doigt sur le bouton d'alimentation"</string>
     <string name="pad_backup_summary">Sauvegarder et restaurer des éléments sur cet appareil</string>
     <string name="pad_backup_title">Appareil mobile</string>
     <string name="pad_computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
@@ -6348,7 +6378,7 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="private_gallery_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Xiaomi</string>
     <string name="private_sms_need_to_unlock">Mot de passe requis :</string>
     <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
-    <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre Compte Mi</string>
+    <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre Compte Xiaomi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
     <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
@@ -6577,7 +6607,7 @@ Redémarrez votre appareil et réessayez."</string>
     <string name="reset_second_space_passwd">Réinitialiser le mot de passe du Deuxième espace</string>
     <string name="reset_second_space_passwd_cancel">Annuler</string>
     <string name="reset_second_space_passwd_confirm">Continuer</string>
-    <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre Compte Mi utilisé dans le premier espace</string>
+    <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre Compte Xiaomi utilisé dans le premier espace</string>
     <string name="reset_shortcut_manager_throttling">Réinitialiser la limitation de débit de ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">La limitation de débit ShortcutManager a bien été réinitialisée.</string>
     <string name="reset_title">Réinitialiser</string>
@@ -7095,7 +7125,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_trusted_credentials">"Certificats de confiance;Signature d'application;Signatures d'application;Certificats;Signature"</string>
     <string name="search_tts_settings_title">Sortie de la synthèse vocale;Synthèse vocale</string>
     <string name="search_turn_on_security_lock">"Sélectionner un verrouillage d'écran;Ajouter un verrouillage d'écran;verrouillage d'écran"</string>
-    <string name="search_unlogin_account_title">Compte Mi;ID du Compte Mi;Compte;ID du compte;Compte Xiaomi;Protection du compte;Protéger le compte;Sécurité du compte;Mon compte</string>
+    <string name="search_unlogin_account_title">Compte Xiaomi;ID du Compte Xiaomi;Compte;ID du compte;Compte Xiaomi;Protection du compte;Protéger le compte;Sécurité du compte;Mon compte</string>
     <string name="search_usb_tethering_button_text">Partage de connexion USB;Partage de connexion;USB</string>
     <string name="search_user_agreement">"Conditions générales d'utilisation"</string>
     <string name="search_user_dict_settings_title">Dictionnaire personnel;Dictionnaire</string>
@@ -7125,7 +7155,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_wifi_wapi_cert_install">Installer le certificatWAPI;Certificats WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI;Certificats WAPI;WAPI</string>
     <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
-    <string name="search_xiaomi_account">Compte Mi; Identifiant de Compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
+    <string name="search_xiaomi_account">Compte Xiaomi; Identifiant de Compte Xiaomi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
     <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Deux applications;Deux applications;Deux comptes;Deux comptes</string>
     <string name="second_space">Deuxième espace</string>
     <string name="secondspace_category">Deuxième espace</string>
@@ -7613,7 +7643,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="smart_home_value_unknown">Inconnue</string>
     <string name="smart_notifications_title">Notifications adaptatives</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mode étui intelligent</string>
-    <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller le téléphone automatiquement à l'aide de l'étui intelligent"</string>
+    <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller l'appareil automatiquement à l'aide de l'étui intelligent"</string>
     <string name="smartcover_sensitive_title">Étui intelligent</string>
     <string name="sms_access_restriction_enabled">"Restreindre l'accès aux SMS et au journal des appels"</string>
     <string name="sms_access_restriction_enabled_summary">"Seules les applications téléphoniques et de messagerie par défaut disposent des autorisations SMS et du journal d'appels"</string>
@@ -7806,6 +7836,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_latest_area_info">"Informations sur l'opérateur"</string>
     <string name="status_number">Numéro de téléphone</string>
     <string name="status_number_sim_slot">Numéro de téléphone (slot SIM %1$d)</string>
+    <string name="status_number_sim_softbank">Numéro de téléphone %1$d</string>
     <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
     <string name="status_operator">Réseau</string>
     <string name="status_prl_version">"Version de la liste d'itinérance préférée"</string>
@@ -8154,6 +8185,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="sunlight_low_power_notification">"Impossible d'activer le mode Soleil. La batterie est trop faible."</string>
     <string name="sunlight_mode">Mode lumière du soleil</string>
     <string name="sunlight_mode_summary">"Ajustez la luminosité à une forte lumière ambiante pour éviter que l'écran ne devienne trop sombre"</string>
     <string name="supl_not_set">Non définie</string>
@@ -8406,7 +8438,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="toast_apply_font_fail">Impossible de définir la police</string>
     <string name="toast_disconnect_earphone">Déconnectez les écouteurs et réessayez</string>
     <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>
-    <string name="toast_need_login">Connectez-vous à votre Compte Mi</string>
+    <string name="toast_need_login">Connectez-vous à votre Compte Xiaomi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Impossible de diffuser lorsque la connexion Wi-Fi est établie et que le point d'accès est activé."</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="toggle_auto_speaker_preference_summary">"L'appareil basculera sur le haut-parleur lorsque vous l'éloignerez de votre oreille pendant les appels. Cette fonctionnalité ne fonctionne que lorsque TalkBack est activé."</string>
@@ -8520,7 +8552,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="turn_on_keyguard_password_alert_foget_cacel">Pas maintenant</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Compris</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">"C'est compris (%d s)"</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"N'oubliez pas le mot de passe de votre écran de verrouillage. Si vous l'oubliez, vous devrez effacer toutes les données sur votre appareil, y compris les photos et les contacts et puis en définir un nouveau."</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"N'oubliez pas votre verrouillage d'écran. Si vous l'oubliez, vous devrez effacer toutes les données sur votre appareil, y compris les photos et les contacts et puis en définir un nouveau."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Se souvenir de votre mot de passe</string>
     <string name="turn_on_security_lock">"Choisir l'écran de verrouillage"</string>
     <string name="turn_on_torch">Allumer la torche</string>
@@ -8641,8 +8673,8 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres > Sécurité."</string>
     <string name="unlock_sound_effect_enable_title">"Émettre un son lors du déverrouillage de l'appareil"</string>
     <string name="unlock_type_category_title">Méthode de reconnaissance</string>
-    <string name="unlogin_account_summary">Tous les services Mi. Un Compte Mi.</string>
-    <string name="unlogin_account_title">Se connecter avec le Compte Mi</string>
+    <string name="unlogin_account_summary">Tous les services Mi. Un Compte Xiaomi.</string>
+    <string name="unlogin_account_title">Se connecter avec le Compte Xiaomi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
     <string name="unmute_sound_title">Jouer du son lorsque le mode silencieux est désactivé</string>
     <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisées pour le mode plein écran</string>
@@ -9001,8 +9033,9 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virtual_sim_global_description">Se connecter au réseau de données sans carte SIM</string>
     <string name="virtual_sim_global_title">Service de données mobiles</string>
     <string name="virtual_sim_title">"Réseau d'itinérance de données"</string>
-    <string name="virtual_surround_sound_switch_summary">"Augmentez la profondeur du son lors d'une lecture audio ou vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %.1f sera lu)"</string>
-    <string name="virtual_surround_sound_switch_title">Son immersif</string>
+    <string name="virtual_surround_sound_switch_summary">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs</string>
+    <string name="virtual_surround_sound_switch_summary_global">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsque LDAC est activé.</string>
+    <string name="virtual_surround_sound_switch_title">Effets sonores immersifs</string>
     <string name="virus_scan">Recherche de virus</string>
     <string name="virus_scan_app_continue">"Continuer l'analyse"</string>
     <string name="virus_scan_app_finish">Analyse terminée</string>
@@ -9742,7 +9775,7 @@ Appuyez sur "<b>Retour</b> pour vous connecter à un autre réseau Wi-Fi.</strin
     <string name="wifi_share">Partager un Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Arrêter le partage de réseaux</string>
     <string name="wifi_share_action_turn_on">Partager le Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Pour partager, connectez-vous à votre Compte Mi</string>
+    <string name="wifi_share_action_turn_on_summary">Pour partager, connectez-vous à votre Compte Xiaomi</string>
     <string name="wifi_share_add">Partager mon Wi-Fi public</string>
     <string name="wifi_share_add_summary">\"Quand vous partagez un Wi-Fi public, vous pouvez utiliser le réseau des autres\"</string>
     <string name="wifi_share_connect">Se connecter</string>
@@ -10003,7 +10036,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="xiaoai_key_shortcut">Boutons</string>
     <string name="xiaoai_other_shortcut">Autres méthodes</string>
     <string name="xiaoai_shortcut_settings_title">"Déclenchez Mi IA à l'aide de boutons et de gestes"</string>
-    <string name="xiaomi_account">Compte Mi</string>
+    <string name="xiaomi_account">Compte Xiaomi</string>
     <string name="xiaomi_cloud_find_device">"Localiser l'appareil"</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">"Xiaomi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>

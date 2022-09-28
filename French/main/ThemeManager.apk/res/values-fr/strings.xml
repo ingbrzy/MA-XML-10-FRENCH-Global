@@ -98,7 +98,6 @@
     <string name="apply_not_support_aod">"Always-on display n'est pas pris en charge sur cet appareil"</string>
     <string name="apply_not_support_in_second_space">"Impossible d'appliquer cet élément dans le Deuxième espace"</string>
     <string name="apply_not_support_maml_aod">"Impossible de combiner Always-on display avec des thèmes sur cet appareil"</string>
-    <string name="apply_sensor_video_wallpaper_dialog_message">"Ce fond d'écran sera appliqué aux écrans de verrouillage intérieur et extérieur et aux écrans d'accueil."</string>
     <string name="apply_succeed">Appliqué avec succès</string>
     <string name="apply_success_not_enable_aod">"Activez d'abord Always-on display dans les paramètres"</string>
     <string name="apply_success_not_support_aod">"Impossible de combiner Always-on display avec des thèmes sur cet appareil. Les autres composants de ce thème ont été appliqués avec succès."</string>
@@ -128,7 +127,7 @@
     <string name="boot_audio_dialog_title">Attention</string>
     <string name="both_all_apply_failured">"Impossible d'appliquer le fond d'écran"</string>
     <string name="both_all_apply_success">"Fond d'écran appliqué"</string>
-    <string name="bottomsheet_action_expand_halfway">Agrandir à mi-chemin</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="browse_mode">Mode Connecté</string>
     <string name="browse_mode_desc">"Les thèmes se connecteront à Internet et utiliseront à la fois du contenu local et en ligne. Vos informations personnelles ne seront pas collectées."</string>
     <string name="browser_local_resource">Ressources locales</string>
@@ -150,6 +149,7 @@
     <string name="classification_more_understand_you">Sélectionner votre catégorie favorite</string>
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
+    <string name="clock">Installer Horloge</string>
     <string name="close">Fermer</string>
     <string name="close_custom_permission_warning_text">"Sans autorisations de stockage, cette application ne pourra pas télécharger d'éléments et personnaliser votre appareil. Désactiver quand même ?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Sans autorisations de stockage, cette application ne pourra pas personnaliser votre appareil. Désactiver quand même ?"</string>
@@ -157,10 +157,10 @@
     <string name="common_downloading">Téléchargements…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Suivant</string>
-    <string name="community_community_message_trigger_summary">"Recevez des notifications sur les réponses, les mentions J'aime et les mises à jour du statut de la communauté Mi en utilisant votre identifiant de Compte Mi"</string>
+    <string name="community_community_message_trigger_summary">"Recevez des notifications sur les réponses, les mentions J'aime et les mises à jour du statut de la communauté Mi en utilisant votre identifiant de Compte Xiaomi"</string>
     <string name="community_community_message_trigger_title">"Notifier l'activité"</string>
     <string name="community_cta_dialog_cancel">Non merci</string>
-    <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget Mi Community. Autorisez les thèmes à accéder à votre ID de Compte Mi et aux statuts de la communauté Mi associés au compte pour pouvoir les consulter ici.</string>
+    <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget Mi Community. Autorisez les thèmes à accéder à votre ID de Compte Xiaomi et aux statuts de la communauté Mi associés au compte pour pouvoir les consulter ici.</string>
     <string name="community_cta_dialog_ok">Autoriser</string>
     <string name="community_cta_dialog_title">Autorisations requises</string>
     <string name="community_entrance_summary">Trouvez du contenu lié à un thème dans Mi Community. Cette fonctionnalité est prise en charge par des thèmes sélectionnés.</string>
@@ -295,7 +295,7 @@
     <string name="evening">Après-midi</string>
     <string name="exchange_alert">Vous pouvez obtenir des codes lors de nos événements et les échanger ici</string>
     <string name="exchange_code_dialog_title">Attention</string>
-    <string name="exchange_code_not_match_account_dialog_content">Ce code a déjà été utilisé par un autre Compte Mi. Connectez-vous avec ce Compte Mi et réessayez.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Ce code a déjà été utilisé par un autre Compte Xiaomi. Connectez-vous avec ce Compte Xiaomi et réessayez.</string>
     <string name="exit_extreme_mode_dialog_agree">Accepter</string>
     <string name="exit_extreme_mode_dialog_cancel">Annuler</string>
     <string name="exit_extreme_mode_dialog_title">Désactiver le mode extrême</string>
@@ -383,7 +383,6 @@
     <string name="fold_restore_default_theme_dialog_content">Les thèmes ne peuvent pas être utilisés sur cet appareil pour le moment. Si vous avez déjà modifié votre thème, vous pouvez restaurer le thème par défaut maintenant. Vous ne pourrez plus changer de thème après cela.</string>
     <string name="fold_restore_default_theme_dialog_disagree">Non merci</string>
     <string name="fold_restore_default_theme_dialog_title">Rétablir le thème par défaut</string>
-    <string name="fold_sensor_video_wallpaper_group">"Fonds d'écran dynamiques pour appareils pliables"</string>
     <string name="font_compat_dialog_buy_confirm">Acheter</string>
     <string name="font_compat_dialog_buy_content">Les polices tierces peuvent ne pas être prises en charge par certaines applications. Ce problème de compatibilité sera résolu par une prochaine mise à jour du système. Acheter quand même cette police ?</string>
     <string name="font_compat_dialog_cancel">Annuler</string>
@@ -457,7 +456,10 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="incompatible_dialog_message">"Ce thème n'est pas compatible avec la version de MIUI installée sur votre appareil. Certaines parties de MIUI ne peuvent pas fonctionner correctement si vous appliquez ce thème."</string>
     <string name="incompatible_dialog_ok">Compris</string>
     <string name="incompatible_dialog_title">Problèmes de compatibilité</string>
+    <string name="install_clock">"Vous n'avez pas encore installé Horloge. Télécharger maintenant ?"</string>
     <string name="install_failed">"L'intallation à échoué"</string>
+    <string name="install_gallery_content">"Vous n'avez pas encore installé Galerie. Télécharger maintenant ?"</string>
+    <string name="install_gallery_title">Installer la galerie</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>
@@ -466,6 +468,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="kuyin_user_agreement_content">"Les abonnements de sonnerie personnalisés sont fournis par iFlytek. Vous devez accepter %s avant d'utiliser des abonnements de sonnerie personnalisés. Acceptez-vous ?"</string>
     <string name="kuyin_user_agreement_content_href">"Politique de confidentialité d'iFlytek"</string>
     <string name="lab">Laboratoire</string>
+    <string name="label">Libellé</string>
     <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">"Fond d'écran dynamique"</string>
     <string name="load_from_local_photos">Galerie</string>
@@ -530,13 +533,13 @@ Appuyez pour désactiver."</string>
         dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
         dd/MM"</string>
-    <string name="miuishare_account_activate_confirmation">Activer le Compte Mi</string>
+    <string name="miuishare_account_activate_confirmation">Activer le Compte Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activer</string>
     <string name="miuishare_account_login_cancel">Annuler</string>
-    <string name="miuishare_account_login_confirmation">Se connecter au Compte Mi</string>
+    <string name="miuishare_account_login_confirmation">Se connecter au Compte Xiaomi</string>
     <string name="miuishare_account_login_ok">Se connecter</string>
-    <string name="miuishare_account_need_activate">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Mi. Activez votre Compte Mi pour continuer.</string>
-    <string name="miuishare_account_need_login">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Mi. Connectez-vous à votre Compte Mi pour continuer.</string>
+    <string name="miuishare_account_need_activate">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Xiaomi. Activez votre Compte Xiaomi pour continuer.</string>
+    <string name="miuishare_account_need_login">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Xiaomi. Connectez-vous à votre Compte Xiaomi pour continuer.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">"Vérifiez le fond d'écran que j'ai trouvé !"</string>
     <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
@@ -687,6 +690,8 @@ Appuyez pour désactiver."</string>
     <string name="no_net_work_connection">Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="no_network_desc">Impossible de se connecter au réseau</string>
     <string name="no_network_please_retry">Vérifiez vos paramètres réseau et réessayez</string>
+    <string name="no_used_title">non utilisé</string>
+    <string name="no_used_wallpaper">non utilisé</string>
     <string name="no_wallpaper">Aucun élément ici pour le moment</string>
     <string name="noon">Midi</string>
     <string name="not_allow">Refusé</string>
@@ -713,7 +718,7 @@ Appuyez pour désactiver."</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Après vous être déconnecté, vous ne pourrez plus effectuer les actions suivantes :
 Afficher et utiliser les éléments que vous avez achetés ou ajoutés à vos favoris."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">"Se déconnecter de Fond d'écran et personnalisation ?"</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/ font> et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour vous connecter à l'aide du compte système)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/ font> et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Xiaomi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour vous connecter à l'aide du compte système)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">"Se connecter à Fond d'écran et personnalisation"</string>
     <string name="pad_fold_no_permission">Autorisations de stockage requises</string>
     <string name="pad_fold_no_permission_detail">"Pour pouvoir modifier les préférences de personnalisation et enregistrer les éléments téléchargés, autorisez d'abord cette fonctionnalité à accéder au stockage."</string>
@@ -741,7 +746,7 @@ Afficher et utiliser les éléments que vous avez achetés ou ajoutés à vos fa
 2. Ajoutez des commentaires et des likes, suivez d'autres personnes et interagissez avec elles."</string>
     <string name="phone_exit_theme_warning_title">Se déconnecter de Thèmes ?</string>
     <string name="phone_log_in_theme">Se connecter à Thèmes</string>
-    <string name="phone_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/font > et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour se connecter à l'aide du compte système)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/font > et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Xiaomi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour se connecter à l'aide du compte système)."</Data></string>
     <string name="playing_ringtone">Lecture</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">"Remplacer le fond d'écran par des diaporamas d'images de différentes catégories"</string>
@@ -803,7 +808,7 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
 Chaque fois que vous utilisez les éléments stockés sur cet appareil à des fins de personnalisation (par exemple que vous définissez des fonds d'écran ou des sonneries), nous vous demanderons d'autoriser cette application à accéder au stockage de l'appareil."</string>
     <string name="privacy_permission_management_description">Détails des autorisations</string>
     <string name="privacy_permission_related_content">Autorisations</string>
-    <string name="privacy_permit_privacy_policy_content">"Vous ne pourrez pas continuer à utiliser notre service sauf si vous acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a >. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
+    <string name="privacy_permit_privacy_policy_content">"Vous ne pourrez pas continuer à utiliser notre service sauf si vous acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a>. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
     <string name="privacy_phone_important_prompt_content">"Il semble que vous n'ayez pas encore accepté nos Conditions d'utilisation et notre Politique de confidentialité. Cependant, les fonctionnalités de base et les services de Thèmes sont toujours à votre disposition.
 Chaque fois que vous utilisez les éléments stockés sur cet appareil à des fins de personnalisation (par exemple que vous définissez des fonds d'écran ou des sonneries), nous vous demanderons d'autoriser cette application à accéder au stockage de l'appareil."</string>
     <string name="privacy_phone_logoff_service_content">Annuler les services de Thèmes</string>
@@ -830,8 +835,8 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Assurez-vous que vous avez le droit de retirer votre consentement avant de continuer.
 2. Votre retrait de consentement à la Politique de confidentialité de Thèmes n'affectera pas l'utilisation normale des autres produits Xiaomi.
 3. Le retrait du consentement est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois votre consentement retiré. Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
-Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi.
 Tous les thèmes, fonds d'écran, fonds d'écran dynamiques, polices, icônes et sonneries téléchargés sur cet appareil.
 Tous les enregistrements de l'historique de recherche, les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
 Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
@@ -848,8 +853,8 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
     <string name="privacy_remind_user_mode_content"><Data>"Acceptez notre Politique de confidentialité pour utiliser cette fonctionnalité. Lisez notre &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>&lt;/font> pour savoir comment nous collectons, utilisons, divulguons, traitons et stockons les informations personnelles que vous nous fournissez lorsque vous utilisez Thèmes."</Data></string>
     <string name="privacy_remind_user_mode_title">Attention</string>
     <string name="privacy_revoke_agree_content">Retrait du consentement</string>
-    <string name="privacy_revoke_agree_content_1">1. Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.</string>
-    <string name="privacy_revoke_agree_content_2">2. Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.</string>
+    <string name="privacy_revoke_agree_content_1">1. Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.</string>
+    <string name="privacy_revoke_agree_content_2">2. Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi.</string>
     <string name="privacy_revoke_agree_content_5">5. Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées.</string>
     <string name="privacy_revoke_agree_data_warning">Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :</string>
     <string name="privacy_revoke_succeed">Consentement retiré avec succès</string>
@@ -861,8 +866,8 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Assurez-vous que vous avez le droit de retirer votre consentement avant de continuer.
 2. Votre retrait de consentement à la Politique de confidentialité de Fond d'écran et personnalisation n'affectera pas l'utilisation normale des autres produits Xiaomi.
 3. Le retrait du consentement est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois votre consentement retiré. Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
-Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Xiaomi.
 Tous les fonds d'écran, polices et sonneries téléchargés sur cet appareil.
 Toutes les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
 Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
@@ -878,7 +883,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="pull_down_view_refresh">Actualiser</string>
     <string name="pull_down_view_title">"Quoi de neuf"</string>
     <string name="purchased">Commandes</string>
-    <string name="read_and_agree_account_privacy"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi et la &lt; font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font>."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Xiaomi et la &lt; font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Récemment utilisé</string>
     <string name="recommend_trigger">Recommandations personnalisées </string>
     <string name="recommend_trigger_summary">Activez-le pour recevoir des recommandations en fonction de vos préférences</string>
@@ -897,7 +902,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="resource_account_abnormal_state">Erreur de compte. Patientez une minute ou deux et réessayez.</string>
     <string name="resource_account_fail_to_add">"Impossible d'ajouter un compte"</string>
     <string name="resource_account_login">Se connecter</string>
-    <string name="resource_account_login_before_action">Connectez-vous à votre Compte Mi maintenant</string>
+    <string name="resource_account_login_before_action">Connectez-vous à votre Compte Xiaomi maintenant</string>
     <string name="resource_account_login_title">Se connecter</string>
     <string name="resource_account_switch">Basculer</string>
     <string name="resource_alarm_default">Alarme</string>
@@ -1232,7 +1237,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="super_wallpaper_setting_coordinate_title">Coordonnées</string>
     <string name="super_wallpaper_setting_view_height_title">Altitude</string>
     <string name="supersave_mode_toast_message">"Cette fonctionnalité n'est pas disponible lors de l'utilisation de l'Ultra économiseur de batterie. Désactivez l'Ultra économiseur de batterie pour pouvoir l'utiliser."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">"Ce fond d'écran est déjà associé à un autre Compte Mi. Connectez-vous avec ce Compte Mi et réessayez."</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">"Ce fond d'écran est déjà associé à un autre Compte Xiaomi. Connectez-vous avec ce Compte Xiaomi et réessayez."</string>
     <string name="support_theme_store_des">"Les bons thèmes sont toujours créés par des designers talentueux. Notre application contient une petite quantité d'annonces qui nous permettent de soutenir leur travail."</string>
     <string name="support_theme_store_supported">Merci pour votre soutien !</string>
     <string name="support_theme_store_title">Soutenez nos designers</string>
@@ -1367,7 +1372,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="theme_is_external_priority_storage_summary">"L'application Thème va redémarrer immédiatement pour prendre effet."</string>
     <string name="theme_log_out">Se déconnecter</string>
     <string name="theme_multiple_button_title_customize">Personnaliser</string>
-    <string name="theme_need_login_dialog_content">Connectez-vous à votre Compte Mi pour continuer.</string>
+    <string name="theme_need_login_dialog_content">Connectez-vous à votre Compte Xiaomi pour continuer.</string>
     <string name="theme_no">Non</string>
     <string name="theme_not_include_module_desc">"Ce thème ne contient pas les éléments suivants : %s"</string>
     <string name="theme_on_the_phone_alert">"Ne peut-être lu pendant les appels"</string>
@@ -1409,7 +1414,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="title_system_audio_notification_resource">Notifications système</string>
     <string name="title_system_audio_resource">Sonneries du système</string>
     <string name="title_system_wallpaper_resource">"Fond d'écran du système"</string>
-    <string name="to_activate_the_account">Activez votre Compte Mi maintenant</string>
+    <string name="to_activate_the_account">Activez votre Compte Xiaomi maintenant</string>
     <string name="toast_both_all_apply_failured">"Impossible d'appliquer à l'écran d'accueil ou de verrouillage"</string>
     <string name="toast_both_all_apply_success">"Appliqué avec succès aux écrans d'accueil et de verrouillage"</string>
     <string name="toast_home_apply_failured">"Impossible d'appliquer à l'écran d'accueil"</string>
@@ -1498,7 +1503,10 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="voice_input">Entrée vocale</string>
     <string name="wallpaper_apply">Appliquer</string>
     <string name="wallpaper_apply_full">Tout</string>
+    <string name="wallpaper_apply_inner">"Appliquer à l'écran intérieur"</string>
     <string name="wallpaper_apply_large">Écran intérieur</string>
+    <string name="wallpaper_apply_outer">"Appliquer à l'écran extérieur"</string>
+    <string name="wallpaper_apply_outer_and_inner">Appliquer aux écrans intérieurs et extérieurs</string>
     <string name="wallpaper_apply_pcmode">"Définir le fond d'écran du mode PC"</string>
     <string name="wallpaper_apply_small">Écran extérieur</string>
     <string name="wallpaper_crop">Rogner</string>
