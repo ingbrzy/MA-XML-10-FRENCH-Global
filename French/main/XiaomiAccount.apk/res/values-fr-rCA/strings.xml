@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="com_facebook_device_auth_instructions">Accédez à &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
+    <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
     <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite pendant le téléchargement d’une image.</string>
     <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation d’accès à INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>

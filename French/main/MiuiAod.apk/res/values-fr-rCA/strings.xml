@@ -55,7 +55,8 @@
     <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">Annuler</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Sélectionnez la date</string>
     <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
@@ -82,6 +83,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Touchez pour passer à la sélection de jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">"Passer au mode d'entrée Texte"</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Touchez pour passer à la sélection d'année"</string>
+    <string name="mtrl_timepicker_cancel">Annuler</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="not_set">Non défini</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>

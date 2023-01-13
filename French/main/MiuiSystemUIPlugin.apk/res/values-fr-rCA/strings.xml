@@ -28,8 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accessibility_airplane_mode">Mode Avion</string>
+    <string name="accessibility_brightness">"Luminosité de l'écran"</string>
     <string name="airplane_mode">Mode Avion</string>
     <string name="bt_is_off">Le Bluetooth est désactivé</string>
+    <string name="controls_media_title">Commandes multimédias</string>
     <string name="copy">Copier</string>
     <string name="expand_button_title">Avancé</string>
     <string name="not_set">Non défini</string>

@@ -8,4 +8,8 @@
         <item quantity="other">Reculer de %d secondes</item>
         <item quantity="one">Reculer de %d seconde</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
 </resources>
