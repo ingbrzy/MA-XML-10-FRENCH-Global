@@ -40,17 +40,33 @@
         <item quantity="other">Voir %d réponses</item>
         <item quantity="one">Voir %d réponse</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s étoiles sélectionnées</item>
+        <item quantity="one">%s étoile sélectionnée</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avancer de %d secondes</item>
+        <item quantity="one">Avancer de %d seconde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Revenir en arrière de %d secondes</item>
+        <item quantity="one">Revenir en arrière de %d seconde</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">"Regarder %s secondes de plus d'une vidéo pour gagner des points et échanger des récompenses"</item>
+        <item quantity="one">"Regarder %s seconde de plus d'une vidéo pour gagner des points et échanger des récompenses"</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">"Retour à la page d'accueil dans %1$d secondes…"</item>
         <item quantity="one">"Retour à la page d'accueil dans %1$d seconde…"</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d abonnés</item>
-        <item quantity="one">%d abonné</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a une demi-heure</item>
         <item quantity="one">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s vues</item>
+        <item quantity="one">%s vue</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Dans 1 heure</item>
@@ -68,9 +84,79 @@
         <item quantity="other">dans %d minutes</item>
         <item quantity="one">dans 1 minute</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Vous avez gagné %d points !</item>
+        <item quantity="one">Vous avez gagné %d point !</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d points</item>
+        <item quantity="one">%d point</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Connectez-vous pour réclamer et gagner %d points supplémentaires</item>
+        <item quantity="one">Connectez-vous pour réclamer et gagner %d point supplémentaire</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Regardez %d minutes au total pour gagner des points ! Terminer la tâche maintenant ?</item>
+        <item quantity="one">Regardez %d minute au total pour gagner des points ! Terminer la tâche maintenant ?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Vous avez %d points à réclamer
+Disponible aujourd'hui seulement"</item>
+        <item quantity="one">"Vous avez %d point à réclamer
+Disponible aujourd'hui seulement"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"Vous avez regardé %d minutes aujourd'hui"</item>
+        <item quantity="one">"Vous avez regardé %d minute aujourd'hui"</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Partagée avec succès. Vous avez gagné %d points.</item>
+        <item quantity="one">Partagée avec succès. Vous avez gagné %d point.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Abonné avec succès. Vous avez gagné %d points.</item>
+        <item quantity="one">Abonné avec succès. Vous avez gagné %d point.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Gagner %d points !</item>
+        <item quantity="one">Gagner %d point !</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Les tâches d'aujourd’hui sont terminées ! Vous avez gagné %d points."</item>
+        <item quantity="one">"Les tâches d'aujourd’hui sont terminées ! Vous avez gagné %d point."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Vous avez regardé %1$1d s et gagné %2$2d points !</item>
+        <item quantity="one">Vous avez regardé %1$1d s et gagné %2$2d point !</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Regarder une vidéo au hasard pour gagner %d points</item>
+        <item quantity="one">Regarder une vidéo au hasard pour gagner %d point</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">"Regarder %1$1d secondes d'une vidéo pour gagner %2$2d points"</item>
+        <item quantity="one">"Regarder %1$1d secondes d'une vidéo pour gagner %2$2d point"</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">%d points gagnés. Continuez à partager pour gagner plus.</item>
+        <item quantity="one">%d point gagné. Continuez à partager pour gagner plus.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">%d points gagnés. Continuez à vous abonner pour gagner plus.</item>
+        <item quantity="one">%d point gagné. Continuez à vous abonner pour gagner plus.</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
         <item quantity="one">"À l'instant"</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d vidéos</item>
+        <item quantity="one">%d vidéo</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d dossiers</item>
@@ -124,6 +210,18 @@
         <item quantity="other">%d nouvelles notifications</item>
         <item quantity="one">%d nouvelle notification</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d chansons</item>
+        <item quantity="one">%d chanson</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">Partagé avec succès. Vous avez gagné %d points. Réclamer dans le Centre de Points.</item>
+        <item quantity="one">Partagé avec succès. Vous avez gagné %d point. Réclamer dans le Centre de Points.</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">Souscrit avec succès. Vous avez gagné %d points. Réclamer dans le Centre de Points.</item>
+        <item quantity="one">Souscrit avec succès. Vous avez gagné %d point. Réclamer dans le Centre de Points.</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">"Votre contenu contient des éléments (%1$s) qui violent les normes de notre communauté. Votre compte est suspendu pendant %2$d jours jusqu'au %3$s."</item>
         <item quantity="one">"Votre contenu contient des éléments (%1$s) qui violent les normes de notre communauté. Votre compte est suspendu pendant %2$d jour jusqu'au %3$s."</item>
@@ -151,6 +249,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">%s éléments sélectionnés</item>
         <item quantity="one">%s élément sélectionné</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Supprimer définitivement %s fichiers maintenant ?</item>
+        <item quantity="one">Supprimer définitivement %s fichier maintenant ?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Taille du fichier: %.2fKo</item>
@@ -195,6 +297,14 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">"Ajouter jusqu'à %d signets"</item>
         <item quantity="one">"Ajouter jusqu'à %d signet"</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Masquer %d fichiers sélectionnés ?</item>
+        <item quantity="one">Masquer %d fichier sélectionné ?</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">"%s j'aimes"</item>
+        <item quantity="one">"%s j'aime"</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d vues</item>
