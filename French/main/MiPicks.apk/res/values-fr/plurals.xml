@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+        <item quantity="one">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">Catégorisation %1$d+</item>
+        <item quantity="one">Catégorisation %1$d+</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s téléchargements</item>
+        <item quantity="one">%1$s téléchargement</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s précommandes</item>
+        <item quantity="one">%1$s précommande</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">%1$d applications sélectionnées</item>
+        <item quantity="one">%1$d application sélectionné</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">Passer en mode débogage avec %1$d étapes</item>
+        <item quantity="one">Passer en mode débogage avec %1$d étape</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">Cliquez pour afficher toutes les %1$d applications</item>
+        <item quantity="one">Cliquez pour afficher toutes les %1$d applications</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">De %1$d personnes, y compris @%2$s et @%3$s</item>
+        <item quantity="one">De %1$d personne, y compris @%2$s et @%3$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">Vous avez %1$d messages non lus</item>
+        <item quantity="one">Vous avez %1$d message non lu</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s évaluations</item>
+        <item quantity="one">%1$s évaluation</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s jours</item>
+        <item quantity="one">%1$s jour</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Supprimer %1$s éléments ?</item>
+        <item quantity="one">Supprimer %1$s élément sélectionné ?</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">Les commentaires doivent contenir au moins %1$d caractères</item>
+        <item quantity="one">Les commentaires doivent contenir au moins %1$d caractère</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">"Les avis peuvent contenir jusqu'à %1$d caractères"</item>
+        <item quantity="one">"Les avis peuvent contenir jusqu'à %1$d caractère"</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">Supprimer %1$d applications y compris %2$s ?</item>
+        <item quantity="one">Supprimer %1$d application y compris %2$s ?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avancer de %d secondes</item>
+        <item quantity="one">Avancer de %d seconde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Revenir en arrière de %d secondes</item>
+        <item quantity="one">Revenir en arrière de %d seconde</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s précommandes</item>
+        <item quantity="one">%s précommande</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">%1$d applications sélectionnées</item>
+        <item quantity="one">%1$d application sélectionnée</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+        <item quantity="one">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">Installer quand même %1$s applications en incluant %2$s ?</item>
+        <item quantity="one">Installer quand même %1$s application en incluant %2$s ?</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">"Le téléchargement d'applications utilisant des données mobiles peut générer des frais supplémentaires. Télécharger %1$s applications y compris %2$s quand même ?"</item>
+        <item quantity="one">"Le téléchargement d'applications utilisant des données mobiles peut générer des frais supplémentaires. Télécharger %1$s application y compris %2$s quand même ?"</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">"Vous êtes connecté à un point d'accès Wi-Fi. Le téléchargement d'applications peut générer des frais de données supplémentaires pour l'appareil auquel vous êtes connecté. Télécharger quand même %1$s applications y compris %2$s ?"</item>
+        <item quantity="one">"Vous êtes connecté à un point d'accès Wi-Fi. Le téléchargement d'applications peut générer des frais de données supplémentaires pour l'appareil auquel vous êtes connecté. Télécharger quand même %1$s application y compris %2$s ?"</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s éléments sélectionnés</item>
+        <item quantity="one">%1$s élément sélectionné</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">Nous effectuons %d tests de conformité manuels sur les applications les plus populaires</item>
+        <item quantity="one">Nous effectuons %d test de conformité manuel sur les applications les plus populaires</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s analyses</item>
+        <item quantity="one">%s analyse</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s téléchargements</item>
+        <item quantity="one">%s téléchargement</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">Vous pouvez mettre à jour &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> applications</item>
+        <item quantity="one">Vous pouvez mettre à jour &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> application</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">Installation de %1$s applications</item>
+        <item quantity="one">Installation de %1$s applications</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d pièces</item>
+        <item quantity="one">%1$3d pièce</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">Le vote est clos. %1$d personnes ont voté.</item>
+        <item quantity="one">Le vote est clos. %1$d personne a voté.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"%1$d personnes ont voté. "</item>
+        <item quantity="one">"%1$d personne a voté. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">Les résultats seront annoncés dans %1$d heures.</item>
+        <item quantity="one">Les résultats seront annoncés dans %1$d heure.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">Désinstaller %1$s applications ?</item>
+        <item quantity="one">Désinstaller %1$s application ?</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d mises à jour</item>
+        <item quantity="one">%1$d mise à jour</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">"La mise à jour d'applications utilisant des données mobiles peut générer des frais supplémentaires. Mettre quand même %1$s applications à jour y compris %2$s ?"</item>
+        <item quantity="one">"La mise à jour d'applications utilisant des données mobiles peut générer des frais supplémentaires. Mettre quand même %1$s application à jour y compris %2$s ?"</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">"Vous êtes connecté à un point d'accès Wi-Fi. La mise à jour des applications peut générer des frais de données supplémentaires pour l'appareil auquel vous êtes connecté. Mettre quand même %1$s applications à jour, y compris %2$s ?"</item>
+        <item quantity="one">"Vous êtes connecté à un point d'accès Wi-Fi. La mise à jour des applications peut générer des frais de données supplémentaires pour l'appareil auquel vous êtes connecté. Mettre quand même %1$s application à jour, y compris %2$s ?"</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">Il y a %1$d jours</item>
+        <item quantity="one">Il y a %1$d jour</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">Mettre à jour %1$s applications en incluant%2$s ?</item>
+        <item quantity="one">Mettre à jour %1$s application en incluant%2$s ?</item>
+    </plurals>
+</resources>

@@ -188,7 +188,7 @@
     <string name="file_picker_title">Sélectionner des éléments</string>
     <string name="file_send_no_support">Impossible de partager des fichiers de ce type</string>
     <string name="file_size_is_zero">La taille du fichier doit être supérieure à 0</string>
-    <string name="file_size_lager_than_4g">La taille du fichier ne peut pas dépasser 4 Go</string>
+    <string name="file_size_lager_than_4g">La taille du fichier ne peut pas dépasser 4 Gio</string>
     <string name="file_sort_create_time">Trier par date de création</string>
     <string name="file_sort_modify_time">Trier par date de modification</string>
     <string name="file_sort_name">Trier par nom</string>
@@ -228,7 +228,7 @@
     <string name="micloud_space_duokan_detail">"Ouvrez Duokan sur votre téléphone et accédez à Bookshelf &gt; Stockage cloud pour gérer l'espace de stockage.
 Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIUI."</string>
     <string name="micloud_space_duokan_title">Espace de stockage Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Ouvrez l'application Magnéto sur votre appareil mobile et sélectionnez le dossier contenant les éléments stockés dans le cloud.
+    <string name="micloud_space_soundrecorder_detail">"Ouvrez Magnéto sur votre appareil mobile et sélectionnez le dossier contenant les éléments stockés dans le cloud.
 Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Enregistrements audio</string>
     <string name="midnight">Nuit</string>
@@ -598,7 +598,7 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yesterday">Hier</string>
