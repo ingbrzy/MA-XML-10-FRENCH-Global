@@ -31,6 +31,13 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après midi</string>
     <string name="am">Matin</string>
+    <string name="call_notification_answer_action">Répondre</string>
+    <string name="call_notification_answer_video_action">Vidéo</string>
+    <string name="call_notification_decline_action">Refuser</string>
+    <string name="call_notification_hang_up_action">Raccrocher</string>
+    <string name="call_notification_incoming_text">Appel entrant</string>
+    <string name="call_notification_ongoing_text">Appel en cours</string>
+    <string name="call_notification_screening_text">"Filtrage d'un appel entrant"</string>
     <string name="clearable_edittext_clear_description">Nettoyer</string>
     <string name="close">Fermer</string>
     <string name="date_picker_label_day" />
@@ -39,7 +46,6 @@
     <string name="date_picker_lunar">Calendrier Traditionnel Chinois</string>
     <string name="date_time_picker_dialog_title">"Définir la date et l'heure"</string>
     <string name="decline">Refuser</string>
-    <string name="dlg_ok">OK</string>
     <string name="early_morning">Matin</string>
     <string name="empty" />
     <string name="eras_ad">EC</string>
@@ -102,15 +108,15 @@
     <string name="friday_shortest">Ven</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
-    <string name="miuix_appcompat_deselect_all">Désélectionner</string>
-    <string name="miuix_appcompat_deselect_all_description">Tout déselectionner</string>
+    <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
+    <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -167,9 +173,6 @@
     <string name="morning">Matin</string>
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
-    <string name="notification_channel_network_alerts">Alertes réseau</string>
-    <string name="notification_channel_network_available">Réseau disponible</string>
-    <string name="notification_channel_network_status">État du réseau</string>
     <string name="ok">OK</string>
     <string name="pm">Après-midi</string>
     <string name="saturday">Samedi</string>
@@ -235,114 +238,12 @@
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="wifiResourcesAppLabel">Ressources Wi-Fi du système</string>
-    <string name="wifi_available_action_all_networks">Tous les réseaux</string>
-    <string name="wifi_available_action_connect">Se connecter</string>
-    <string name="wifi_available_content_failed_to_connect">Appuyer pour afficher tous les réseaux</string>
-    <string name="wifi_available_title">Connexion à un réseau Wi-Fi ouvert</string>
-    <string name="wifi_available_title_connected">Connecté au réseau Wi-Fi</string>
-    <string name="wifi_available_title_connecting">Connexion au réseau Wi-Fi</string>
-    <string name="wifi_available_title_failed_to_connect">Impossible de se connecter au réseau Wi-Fi</string>
-    <string name="wifi_ca_cert_dialog_abort_text">Non, ne pas connecter</string>
-    <string name="wifi_ca_cert_dialog_continue_text">Oui, connecter</string>
-    <string name="wifi_ca_cert_dialog_message_contact_text">"Contact :
-%1$s
-
-"</string>
-    <string name="wifi_ca_cert_dialog_message_hint">"N'autorisez la connexion à ce réseau que si les informations ci-dessous semblent correctes.
-
-"</string>
-    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Nom de l'émetteur :
-%1$s
-
-"</string>
-    <string name="wifi_ca_cert_dialog_message_organization_text">"Organisation :
-%1$s
-
-"</string>
-    <string name="wifi_ca_cert_dialog_message_server_name_text">"Nom du serveur :
-%1$s
-
-"</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Signature :
-%1$s
-
-"</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Ne pas connecter</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Connecter quand même</string>
-    <string name="wifi_ca_cert_dialog_preT_message_hint">Il manque un certificat pour le réseau %1$s.</string>
-    <string name="wifi_ca_cert_dialog_preT_message_link">Découvrir comment ajouter des certificats</string>
-    <string name="wifi_ca_cert_dialog_preT_title">Impossible de valider ce réseau</string>
-    <string name="wifi_ca_cert_dialog_title">"S'agit-il d'un réseau de confiance ?"</string>
-    <string name="wifi_ca_cert_failed_to_install_ca_cert">"Échec de l'installation du certificat."</string>
-    <string name="wifi_ca_cert_notification_message">Consultez les détails du réseau %1$s avant de le connecter. Appuyez pour continuer.</string>
-    <string name="wifi_ca_cert_notification_preT_abort_text">Ne pas connecter</string>
-    <string name="wifi_ca_cert_notification_preT_continue_text">Connecter quand même</string>
-    <string name="wifi_ca_cert_notification_preT_message">Il manque un certificat pour le réseau %1$s. Appuyez pour découvrir comment ajouter des certificats.</string>
-    <string name="wifi_ca_cert_notification_preT_title">Impossible de valider ce réseau</string>
-    <string name="wifi_ca_cert_notification_title">Le réseau doit être validé</string>
-    <string name="wifi_cannot_connect_with_randomized_mac_message">Appuyez pour modifier les paramètres de confidentialité, puis réessayez</string>
-    <string name="wifi_cannot_connect_with_randomized_mac_title">Impossible de se connecter à %1$s</string>
-    <string name="wifi_connect_alert_message">"L'application %1$s souhaite se connecter au réseau Wi-Fi %2$s."</string>
-    <string name="wifi_connect_alert_title">Autoriser la connexion ?</string>
-    <string name="wifi_connect_default_application">Une application</string>
-    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Modifier le paramètre</string>
-    <string name="wifi_disable_mac_randomization_dialog_failure">Impossible de modifier le paramètre de confidentialité</string>
-    <string name="wifi_disable_mac_randomization_dialog_message">"Pour se connecter, %1$s doit utiliser l'adresse MAC de votre appareil, un identifiant unique. À l'heure actuelle, votre paramètre de confidentialité pour ce réseau utilise un identifiant aléatoire. 
-
-Cela risque de permettre à des appareils à proximité d'effectuer le suivi de votre position."</string>
-    <string name="wifi_disable_mac_randomization_dialog_network_not_found">Réseau introuvable</string>
-    <string name="wifi_disable_mac_randomization_dialog_success">Paramètre mis à jour. Essayez de vous reconnecter.</string>
-    <string name="wifi_disable_mac_randomization_dialog_title">Modifier le paramètre de confidentialité ?</string>
-    <string name="wifi_eap_error_message_code_16384">"%1$s : erreur d'authentification EAP 16384"</string>
-    <string name="wifi_eap_error_message_code_16385">"%1$s : erreur d'authentification EAP 16385"</string>
-    <string name="wifi_eap_error_message_code_32756">"%1$s : erreur d'authentification EAP 32756"</string>
-    <string name="wifi_eap_error_message_code_32760">"%1$s : erreur d'authentification EAP 32760"</string>
-    <string name="wifi_eap_error_message_code_32761">"%1$s : erreur d'authentification EAP 32761"</string>
-    <string name="wifi_eap_error_message_code_32762">"%1$s : erreur d'authentification EAP 32762"</string>
-    <string name="wifi_eap_error_message_code_32763">"%1$s : erreur d'authentification EAP 32763"</string>
-    <string name="wifi_eap_error_message_code_32764">"%1$s : erreur d'authentification EAP 32764"</string>
-    <string name="wifi_eap_error_message_code_32765">"%1$s : erreur d'authentification EAP 32765"</string>
-    <string name="wifi_eap_error_message_code_32766">"%1$s : erreur d'authentification EAP 32766"</string>
-    <string name="wifi_eap_error_message_code_32767">"%1$s : erreur d'authentification EAP 32767"</string>
-    <string name="wifi_eap_error_message_unknown_error_code">"%1$s : erreur d'authentification EAP, code inconnu"</string>
-    <string name="wifi_enable_request_dialog_message">Vous pouvez désactiver le Wi‑Fi dans \"Réglages rapides\"</string>
-    <string name="wifi_enable_request_dialog_negative_button">Ne pas autoriser</string>
-    <string name="wifi_enable_request_dialog_positive_button">Autoriser</string>
-    <string name="wifi_enable_request_dialog_title">Autoriser %1$s à activer le Wi‑Fi ?</string>
-    <string name="wifi_interface_priority_approve">Autoriser</string>
-    <string name="wifi_interface_priority_message">Cela peut causer des problèmes pour %3$s.</string>
-    <string name="wifi_interface_priority_message_plural">Cela peut causer des problèmes pour ces applis : %3$s.</string>
-    <string name="wifi_interface_priority_reject">Interdire</string>
-    <string name="wifi_interface_priority_title">%1$s souhaite utiliser une ressource de mise en réseau</string>
     <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
-    <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
     <string name="wifi_p2p_from_message">De :</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{Accepter en # seconde.}one{Accepter en # seconde.}many{Accepter en # secondes.}other{Accepter en # secondes.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Invitation envoyée</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitation à se connecter</string>
     <string name="wifi_p2p_show_pin_message">Code :</string>
     <string name="wifi_p2p_to_message">À :</string>
-    <string name="wifi_sim_required_message">Pour vous connecter au réseau %1$s, insérez une carte SIM %2$s</string>
-    <string name="wifi_sim_required_title">Wi-Fi déconnecté</string>
-    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Aucun appareil connecté. Appuyez pour modifier.</string>
-    <string name="wifi_softap_auto_shutdown_timeout_expired_title">"Point d'accès désactivé"</string>
-    <string name="wifi_suggestion_action_allow_app">Autoriser</string>
-    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Se connecter</string>
-    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Connecter</string>
-    <string name="wifi_suggestion_action_disallow_app">Non, merci</string>
-    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Ne pas connecter</string>
-    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Ne pas connecter</string>
-    <string name="wifi_suggestion_content">"Réseaux suggérés par %s. L'appareil pourra se connecter automatiquement."</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Si vous établissez la connexion, les réseaux Wi-Fi %s peuvent accéder à un identifiant unique associé à votre carte SIM ou le partager. Suite à cette connexion, la position de votre appareil peut également d'être suivie."</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confirmer la connexion ?</string>
-    <string name="wifi_suggestion_imsi_privacy_title">Se connecter au Wi-Fi %s ?</string>
-    <string name="wifi_suggestion_title">Autoriser les suggestions de réseaux Wi‑Fi ?</string>
-    <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré : %1$s"</string>
-    <string name="wifi_wakeup_enabled_title">Wi-Fi activé automatiquement</string>
-    <string name="wifi_wakeup_onboarding_action_disable">Ne pas réactiver</string>
-    <string name="wifi_wakeup_onboarding_subtext">"Lorsque vous êtes à proximité d'un réseau enregistré de haute qualité"</string>
-    <string name="wifi_wakeup_onboarding_title">Le Wi-Fi sera activé automatiquement</string>
-    <string name="wifi_watchdog_network_disabled">Impossible de se connecter au Wi-Fi.</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion Internet."</string>
     <string name="yesterday">Hier</string>
 </resources>

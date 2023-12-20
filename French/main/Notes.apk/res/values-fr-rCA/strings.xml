@@ -33,7 +33,7 @@
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="copy">Copier</string>
     <string name="error_icon_content_description">Erreur</string>
-    <string name="expand_button_title">Avancé</string>
+    <string name="expand_button_title">Paramètres avancés</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="icon_content_description">Icône de boîte de dialogue</string>
     <string name="item_view_role_description">Onglet</string>

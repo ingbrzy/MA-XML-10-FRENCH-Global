@@ -68,7 +68,7 @@
   <string name="call_folder_name">"Notes d'appels"</string>
   <string name="cancel_alarm_description">"Annuler l'alarme"</string>
   <string name="canvas_is_too_large_to_share">Cet élément est trop gros pour être partagé</string>
-  <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+  <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="chip_text">Chip text</string>
   <string name="clear_text_end_icon_content_description">Effacer le texte</string>
@@ -193,7 +193,10 @@
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
+  <string name="folder_note">Dossiers de notes</string>
   <string name="folder_operation_rename">Renommer</string>
+  <string name="folder_other">Autres dossiers</string>
+  <string name="foler_pinned">Dossiers épinglés</string>
   <string name="format_move_note_out_folder">Cette note a été déplacée</string>
   <string name="format_move_note_to_folder">Déplacé vers %1$s</string>
   <string name="friday">Vendredi</string>
@@ -352,7 +355,7 @@
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
   <string name="miuix_appcompat_edit">Modifier</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-  <string name="miuix_appcompat_search_input_description">Recherche</string>
+  <string name="miuix_appcompat_search_input_description">Rechercher</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
@@ -438,11 +441,13 @@
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
   <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
+  <string name="new_alert_title_delete">Supprimer les notes</string>
   <string name="new_app_name">Mi Notes</string>
   <string name="new_audio_create_cancel_talkback_des">Annulé</string>
   <string name="new_audio_create_done_talkback_des">Créer</string>
   <string name="new_data_empty_note">"Pas d'éléments ici pour le moment"</string>
   <string name="new_lite_audio_create_talkback_des">Appuyez pour créer une note</string>
+  <string name="new_sync_desc_state_disable">Activez la synchronisation dans le cloud pour les notes, les tâches, etc.</string>
   <string name="night">Soirée</string>
   <string name="no_network">Connexion au réseau impossible</string>
   <string name="noon">Midi</string>
@@ -518,7 +523,6 @@
   <string name="pc_todo_set_remind_time_hint">"Régler l'heure"</string>
   <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
   <string name="permission_data_shared_desc">Remarques sur la déclaration de partage de données avec des tiers</string>
-  <string name="permission_get_account_desc">Synchronisation des notes avec le cloud</string>
   <string name="permission_intro_contact">Pour marquer les notes prises pendant les appels</string>
   <string name="permission_intro_microphone">Pour enregistrer des notes vocales</string>
   <string name="permission_intro_phone">Pour marquer les notes prises pendant les appels</string>

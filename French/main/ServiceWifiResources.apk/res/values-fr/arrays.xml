@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>":::1839::: %1$s : un problème est survenu lors de votre connexion à Verizon Wi-Fi Access en raison de l'erreur 16384."</item>
+        <item>:::1839:::%1$s : un problème est survenu lors de votre connexion au Wi-Fi Verizon (erreur 16384).</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>":::1839::: %1$s : un problème est survenu lors de votre connexion à Verizon Wi-Fi Access en raison de l'erreur 16385."</item>
+        <item>:::1839:::%1$s : un problème est survenu lors de votre connexion au Wi-Fi Verizon (erreur 16385).</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>":::1839::: %1$s : impossible de vous connecter à Verizon Wi-Fi Access si vous n'êtes pas dans une zone couverte par Verizon. (Erreur 32760)"</item>
@@ -28,9 +28,9 @@
         <item>":::1839::: %1$s : Verizon Wi-Fi Access n'est pas disponible dans votre région. Réessayez plus tard ou depuis un autre lieu. (Erreur 32766)"</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>:::1839::: %1$s : un problème est survenu lors de votre connexion à Verizon Wi-Fi Access. Réessayez plus tard ou depuis un autre lieu.</item>
+        <item>:::1839::: %1$s : un problème est survenu lors de votre connexion à Verizon Wi-Fi Access. Réessayez plus tard ou depuis un autre lieu (erreur 32767).</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>:::1839::: %1$s : un problème est survenu lors de votre connexion à Verizon Wi-Fi Access.</item>
+        <item>:::1839:::%1$s : un problème est survenu lors de votre connexion au Wi-Fi Verizon (erreur inconnue).</item>
     </string-array>
 </resources>

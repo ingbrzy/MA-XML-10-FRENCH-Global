@@ -28,11 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accessibility_fingerprint_dialog_help_area">"Zone de message d'aide"</string>
-    <string name="common_google_play_services_unknown_issue">"L'application %1$s éprouve un problème avec les services Google Play. Veuillez réessayer."</string>
     <string name="confirm_device_credential_password">Utiliser le mot de passe</string>
     <string name="copy">Copier</string>
     <string name="default_error_msg">Erreur inconnue</string>
-    <string name="expand_button_title">Avancé</string>
+    <string name="expand_button_title">Paramètres avancés</string>
     <string name="fingerprint_dialog_touch_sensor">Touch. capteur empr. digitales</string>
     <string name="fingerprint_error_hw_not_available">"Le matériel de lecture d'empreintes digitales n'est pas accessible."</string>
     <string name="fingerprint_error_hw_not_present">"Cet appareil ne possède pas de capteur d'empreintes digitales"</string>

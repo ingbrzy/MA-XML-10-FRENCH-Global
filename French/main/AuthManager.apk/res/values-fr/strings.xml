@@ -228,7 +228,7 @@
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
@@ -319,7 +319,7 @@
     <string name="permdesc_recognition">"Autoriser %1$s à accéder à vos informations d'activité ?"</string>
     <string name="permdesc_send_sms">Autoriser %1$s à envoyer des SMS ?</string>
     <string name="permdesc_sensors">Autoriser %1$s à lire les données générées par les capteurs corporels ?</string>
-    <string name="permdesc_shake">"Autoriser %1$s à accéder aux données de l'accéléromètre ?"</string>
+    <string name="permdesc_shake">Autoriser %1$s à utiliser les capteurs de l’appareil pour reconnaître les secousses et fournir des fonctionnalités sensorielles interactives ?</string>
     <string name="permdesc_use_sip">"Autoriser %1$s à utiliser le protocole d'initiation de session pour diffuser la vidéo ?"</string>
     <string name="permdesc_write_calendar">Autoriser %1$s à créer et enregistrer des événements du calendrier ?</string>
     <string name="permdesc_write_call_log">"Autoriser %1$s à modifier l'historique des appels ?"</string>

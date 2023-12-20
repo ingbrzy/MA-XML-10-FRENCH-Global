@@ -516,7 +516,7 @@ Sélection : Fréquence d'échantillonage"</string>
     <string name="category_personal">Personnel</string>
     <string name="category_work">Travail</string>
     <string name="change_theme_reboot">Changer le thème nécessite un redémarrage.</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_length_format">%1$s auparavant</string>
     <string name="chip_text">Chip text</string>
@@ -1390,7 +1390,7 @@ une capture d'écran de défilement"</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_indexer_collect">Collections</string>

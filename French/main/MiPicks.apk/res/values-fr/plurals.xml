@@ -5,16 +5,16 @@
         <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a 1 heure</item>
-        <item quantity="one">Il y a 1 heure</item>
+        <item quantity="other">Il y a %d heures</item>
+        <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Il y a une demi-heure</item>
         <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans 1 heure</item>
-        <item quantity="one">Dans 1 heure</item>
+        <item quantity="other">Dans %d heures</item>
+        <item quantity="one">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Dans une demi-heure</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d minutes</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
         <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Il y a %d minutes</item>
-        <item quantity="one">Il y a 1 minute</item>
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="age_restriction">
         <item quantity="other">Catégorisation %1$d+</item>
@@ -55,6 +55,26 @@
     <plurals name="click_to_use_debug_mode">
         <item quantity="other">Passer en mode débogage avec %1$d étapes</item>
         <item quantity="one">Passer en mode débogage avec %1$d étape</item>
+    </plurals>
+    <plurals name="cloud_game_little_time_desc">
+        <item quantity="other">Il vous reste %d minutes de temps de jeu. Achetez un passe cloud pour jouer sans interruption.</item>
+        <item quantity="one">Il vous reste %d minute de temps de jeu. Achetez un passe cloud pour jouer sans interruption.</item>
+    </plurals>
+    <plurals name="cloud_game_prioritize_queue">
+        <item quantity="other">"Utilisation de votre passe de %d jours pour accéder à la file d'attente prioritaire"</item>
+        <item quantity="one">"Utilisation de votre passe de %d jour pour accéder à la file d'attente prioritaire"</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_first">
+        <item quantity="other">Il y a %d personnes devant vous</item>
+        <item quantity="one">Il y a %d personne devant vous</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_second">
+        <item quantity="other">≈%d minutes restantes</item>
+        <item quantity="one">≈%d minute restante</item>
+    </plurals>
+    <plurals name="cloud_game_toast_time_left">
+        <item quantity="other">%d minutes de temps de jeu restant</item>
+        <item quantity="one">%d minute de temps de jeu restant</item>
     </plurals>
     <plurals name="collapse_update_apps_hint_v1">
         <item quantity="other">Cliquez pour afficher toutes les %1$d applications</item>
@@ -88,9 +108,13 @@
         <item quantity="other">"Les avis peuvent contenir jusqu'à %1$d caractères"</item>
         <item quantity="one">"Les avis peuvent contenir jusqu'à %1$d caractère"</item>
     </plurals>
+    <plurals name="dialog_title_uninstall_multiple_app_new">
+        <item quantity="other">Désinstaller %1$d applications en incluant %2$s ?</item>
+        <item quantity="one">Désinstaller %1$d application en incluant %2$s ?</item>
+    </plurals>
     <plurals name="download_list_delete_all_confirm_message">
-        <item quantity="other">Supprimer %1$d applications y compris %2$s ?</item>
-        <item quantity="one">Supprimer %1$d application y compris %2$s ?</item>
+        <item quantity="other">"Supprimer %1$d téléchargements y compris %2$s de la file d'attente ?"</item>
+        <item quantity="one">"Supprimer %1$d téléchargement y compris %2$s de la file d'attente ?"</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avancer de %d secondes</item>
@@ -111,6 +135,26 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a une demi-heure</item>
         <item quantity="one">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="iap_pin_err_re_input_count">
+        <item quantity="other">Ce code PIN est incorrect. %d tentatives restantes.</item>
+        <item quantity="one">Ce code PIN est incorrect. %d tentative restante.</item>
+    </plurals>
+    <plurals name="iap_time_day_unit">
+        <item quantity="other">%s jours</item>
+        <item quantity="one">%s jour</item>
+    </plurals>
+    <plurals name="iap_time_hour_unit">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="iap_time_minute_unit">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="iap_time_seconds_unit">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Dans 1 heure</item>
@@ -152,6 +196,10 @@
         <item quantity="other">Nous effectuons %d tests de conformité manuels sur les applications les plus populaires</item>
         <item quantity="one">Nous effectuons %d test de conformité manuel sur les applications les plus populaires</item>
     </plurals>
+    <plurals name="mine_uninstall_desc">
+        <item quantity="other">"%1$d applications n'ont pas été utilisé pour %2$d jours"</item>
+        <item quantity="one">"%1$d application n'a pas été utilisé pour %2$d jours"</item>
+    </plurals>
     <plurals name="mini_card_gp_num_reviews">
         <item quantity="other">%s analyses</item>
         <item quantity="one">%s analyse</item>
@@ -160,6 +208,10 @@
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="native_install_count">
         <item quantity="other">%s téléchargements</item>
         <item quantity="one">%s téléchargement</item>
@@ -167,6 +219,14 @@
     <plurals name="notif_apps_has_new_update">
         <item quantity="other">Vous pouvez mettre à jour &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> applications</item>
         <item quantity="one">Vous pouvez mettre à jour &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> application</item>
+    </plurals>
+    <plurals name="notif_auto_update_title">
+        <item quantity="other">%1$d mises à jour avec le Wi-Fi</item>
+        <item quantity="one">%1$d mise à jour avec le Wi-Fi</item>
+    </plurals>
+    <plurals name="notif_has_new_update_test1">
+        <item quantity="other">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> des utilisateurs ont déjà mis à jour ces &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> applications</item>
+        <item quantity="one">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> des utilisateurs ont déjà mis à jour cette &lt;font color=#ff5f32>&lt;xliff:g id=app_count> %2$d&lt;/xliff:g>&lt;/font> application</item>
     </plurals>
     <plurals name="notification_installing">
         <item quantity="other">Installation de %1$s applications</item>
