@@ -3,7 +3,7 @@
     <string-array name="drop_down_menu">
         <item>Trier par heure de réception</item>
         <item>Trier par nombre de notifications</item>
-        <item>Applications qui peuvent afficher des notifications</item>
-        <item>Applications qui ne peuvent pas afficher les notifications</item>
+        <item>Applications pouvant afficher les notifications</item>
+        <item>Applications ne pouvant pas afficher les notifications</item>
     </string-array>
 </resources>

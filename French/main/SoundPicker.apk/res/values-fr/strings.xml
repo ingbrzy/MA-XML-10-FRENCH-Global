@@ -32,6 +32,13 @@
     <string name="add_ringtone_text">Ajouter une sonnerie</string>
     <string name="alarm_sound_default">"Son de l'alarme par défaut"</string>
     <string name="app_label">Sounds</string>
+    <string name="call_notification_answer_action">Répondre</string>
+    <string name="call_notification_answer_video_action">Vidéo</string>
+    <string name="call_notification_decline_action">Refuser</string>
+    <string name="call_notification_hang_up_action">Raccrocher</string>
+    <string name="call_notification_incoming_text">Appel entrant</string>
+    <string name="call_notification_ongoing_text">Appel en cours</string>
+    <string name="call_notification_screening_text">"Filtrage d'un appel entrant"</string>
     <string name="delete_ringtone_text">Supprimer</string>
     <string name="notification_sound_default">Son de notification par défaut</string>
     <string name="ringtone_default">Sonnerie par défaut</string>

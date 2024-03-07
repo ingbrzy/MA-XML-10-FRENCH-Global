@@ -159,9 +159,15 @@
     <string name="mtrl_picker_toggle_to_day_selection">Touchez pour passer à la sélection de jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">"Passer au mode d'entrée Texte"</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Touchez pour passer à la sélection d'année"</string>
+    <string name="native_body">Corps</string>
+    <string name="native_headline">Titre</string>
+    <string name="native_media_view">Affichage multimédia</string>
     <string name="nav_app_bar_navigate_up_description">Revenir en arrière</string>
     <string name="nav_app_bar_open_drawer_description">Ouvrir le panneau de navigation</string>
     <string name="not_set">Non défini</string>
+    <string name="notifications_permission_confirm">Autoriser</string>
+    <string name="notifications_permission_decline">Ne pas autoriser</string>
+    <string name="notifications_permission_title">"Autoriser l'application à vous envoyer des notifications?"</string>
     <string name="offline_notification_text">"Toucher pour ouvrir l'annonce"</string>
     <string name="offline_notification_title">"Voir l'annonce que vous avez enregistrée lorsque vous étiez en ligne"</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -183,4 +189,5 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
+    <string name="watermark_label_prefix">AdMob -</string>
 </resources>

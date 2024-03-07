@@ -1,66 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d chansons</item>
-        <item quantity="one">Total %d chanson</item>
+        <item quantity="other">Total %d songs</item>
+        <item quantity="one">Total %d chansons</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">"La recherche de couvertures d'albums et les paroles (%1$d /%2$d)"</item>
-        <item quantity="one">"La recherche de couverture d'album et les paroles (%1$d /%2$d)"</item>
+        <item quantity="other">Searching for album covers and lyrics (%1$d/%2$d)</item>
+        <item quantity="one">Searching for album covers and lyrics (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Votre abonnement expire dans %d jours.
-Voulez-vous que nous vous aidons à le renouveler ?"</item>
-        <item quantity="one">"Votre abonnement expire dans %d jour.
-Voulez-vous que nous vous aidons à le renouveler ?"</item>
+        <item quantity="other">"Your subscription is expiring in %d days.
+Do you want us to help renew it?"</item>
+        <item quantity="one">"Votre abonnement expire dans %d jours.
+Voulez-vous que nous vous aidons à le renouveler ?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">Vous pouvez télécharger %1$d chansons gratuites. Télécharger %2$s maintenant ?</item>
-        <item quantity="one">Vous pouvez télécharger %1$d chanson gratuite. Télécharger %2$s maintenant ?</item>
+        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="one">Vous pouvez télécharger %1$d chansons gratuites. Télécharger %2$s maintenant ?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">"Le lecteur va s'arrêter dans %d minutes"</item>
-        <item quantity="one">"Le lecteur va s'arrêter dans %d minute"</item>
+        <item quantity="other">Player will stop in %d minutes</item>
+        <item quantity="one">"Le lecteur va s'arrêter dans %d minutes"</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Crée sur %1$s 
-total %2$d chansons"</item>
+        <item quantity="other">"Created on %1$s 
+total %2$d songs"</item>
         <item quantity="one">"Crée sur %1$s 
-total %2$d chanson"</item>
+total %2$d chansons"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d chansons ajoutées à la playlist</item>
-        <item quantity="one">%d chanson ajoutée à la playlist</item>
+        <item quantity="other">%d song added to playlist</item>
+        <item quantity="one">%d song added to playlist</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d chansons</item>
-        <item quantity="one">%d chanson</item>
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d chansons</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d chansons retirées de la playlist</item>
-        <item quantity="one">%d chanson retirée de la playlist</item>
+        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="one">%d chansons retirées de la playlist</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d chansons similaires</item>
-        <item quantity="one">%d chanson similaire</item>
+        <item quantity="other">%d similar songs</item>
+        <item quantity="one">%d chansons similaires</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a %d heure</item>
+        <item quantity="other">Il y a %d heures</item>
+        <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans %d heure</item>
+        <item quantity="other">Dans %d heures</item>
+        <item quantity="one">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Dans %d min</item>
@@ -68,142 +74,170 @@ total %2$d chanson"</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
+    </plurals>
+    <plurals name="asm_download_batch_action_start_download">
+        <item quantity="other">"Ajout de %1$d chansons à la file d'attente de téléchargement"</item>
+        <item quantity="one">"Ajout de %1$d chanson à la file d'attente de téléchargement"</item>
+    </plurals>
+    <plurals name="asm_main_slide_songlist_num">
+        <item quantity="other">%1$d chansons</item>
+        <item quantity="one">%1$d chanson</item>
+    </plurals>
+    <plurals name="asm_song_with_prefix">
+        <item quantity="other">%1$d chansons</item>
+        <item quantity="one">%1$d chanson</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d commentaires</item>
-        <item quantity="one">%d commentaire</item>
+        <item quantity="other">%d comments</item>
+        <item quantity="one">%d commentaires</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">il y a %d jours</item>
-        <item quantity="one">il y a %d jour</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Supprimer %d éléments ?</item>
-        <item quantity="one">Supprimer %d élément ?</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Supprimer %d éléments ?
-Note : Les fichiers seront également supprimés de cet appareil."</item>
-        <item quantity="one">"Supprimer %d élément ?
-Note : Le fichier sera également supprimé de cet appareil."</item>
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">il y a %d jours</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Supprimer %d chansons ?</item>
-        <item quantity="one">Supprimer %d chanson ?</item>
+        <item quantity="other">Delete %d songs?</item>
+        <item quantity="one">Supprimer %d chansons ?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Retirer %d chansons ?</item>
-        <item quantity="one">Retirer %d chanson ?</item>
+        <item quantity="other">Remove %d songs?</item>
+        <item quantity="one">Retirer %d chansons ?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
-        <item quantity="other">%d des chansons sélectionnées sont stockées dans un dossier externe. Accordez les autorisations requises pour les supprimer.</item>
-        <item quantity="one">%d des chansons sélectionnées est stockée dans un dossier externe. Accordez les autorisations requises pour la supprimer.</item>
+        <item quantity="other">%d des chansons sélectionnées sont stockés dans un dossier externe. Accordez les autorisations requises pour le supprimer.</item>
+        <item quantity="one">%d des chansons sélectionnées est stocké dans un dossier externe. Accordez les autorisations requises pour le supprimer.</item>
     </plurals>
-    <plurals name="download_finished">
-        <item quantity="other">&lt;font color==\"red\">%d chansons&lt;/font> téléchargées</item>
-        <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> téléchargée</item>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avancer de %d secondes</item>
+        <item quantity="one">Avancer de %d seconde</item>
     </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d téléchargements retirés</item>
-        <item quantity="one">%d téléchargement retiré</item>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Revenir en arrière de %d secondes</item>
+        <item quantity="one">Revenir en arrière de %d seconde</item>
     </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&lt;font color==\"red\">%d chansons&lt;/font> en téléchargement</item>
-        <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> en téléchargement</item>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s vues</item>
+        <item quantity="one">%s vue</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d téléchargements gratuits restants</item>
-        <item quantity="one">%d téléchargement gratuit restant</item>
+        <item quantity="other">%d free downloads left</item>
+        <item quantity="one">%d téléchargements gratuits restants</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
+    </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Less than %1$ds</item>
+        <item quantity="one">Less than %1$ds</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Dans 1 heure</item>
+        <item quantity="one">Dans 1 heure</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d abonnés</item>
-        <item quantity="one">%d abonné</item>
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d abonnés</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Abonné à %d personnes</item>
-        <item quantity="one">Abonné à %d personne</item>
+        <item quantity="other">Following %d people</item>
+        <item quantity="one">Abonnés à %d personnes</item>
+    </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d nouvelles chansons</item>
+        <item quantity="one">%d nouvelle chanson</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nouvelles notifications</item>
-        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d éléments sélectionnés</item>
-        <item quantity="one">%d élément sélectionné</item>
-    </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Téléchargement de %1$d fichiers</item>
-        <item quantity="one">Téléchargement de %1$d fichier</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">Impossible de télécharger %1$d éléments</item>
-        <item quantity="one">Impossible de télécharger %1$d élément</item>
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d éléments sélectionnés</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d abonnés</item>
-        <item quantity="one">%d abonné</item>
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d Abonnés</item>
+    </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">Abonnement VIP en %d secondes</item>
+        <item quantity="one">Abonnement VIP en %d seconde</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d chansons vont être envoyées</item>
-        <item quantity="one">%d chanson va être envoyée</item>
+        <item quantity="other">%d songs will be sent</item>
+        <item quantity="one">%d chansons vont être envoyées</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d chansons ignorées. Veuillez activer les services en ligne dans les paramètres pour les écouter.</item>
-        <item quantity="one">"%d chanson ignorée. Veuillez activer les services en ligne dans les paramètres pour l'écouter."</item>
+        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="one">%d chansons ignorées. Veuillez activer les services en ligne dans les paramètres pour les écouter.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Les chansons ont été ajoutées au favoris.</item>
-        <item quantity="one">La chanson a été ajoutée au favoris.</item>
+        <item quantity="other">Songs have been favorited.</item>
+        <item quantity="one">Les chansons ont été ajoutées au favoris.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d chansons</item>
-        <item quantity="one">%d chanson</item>
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d chansons</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Transition entre les chansons : %d secondes</item>
-        <item quantity="one">Transition entre les chansons : %d seconde</item>
+        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="one">Fondu enchaîné entre les chansons: %d secondes</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Earn %1$d coins today</item>
+        <item quantity="one">Earn %1$d coin today</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Vidéos</item>
-        <item quantity="one">Vidéo</item>
+        <item quantity="other">Videos</item>
+        <item quantity="one">Vidéos</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s vues</item>
-        <item quantity="one">%1$s vue</item>
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s vues</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d jours restants</item>
-        <item quantity="one">%d jour restant</item>
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d jours restants</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Si vous regardez pendant %d secondes, vous obtiendrez un abonnement VIP comme récompense. Quitter quand même ?</item>
+        <item quantity="one">Si vous regardez pendant %d seconde, vous obtiendrez un abonnement VIP comme récompense. Quitter quand même ?</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d fichiers ajoutés</item>
+        <item quantity="one">%d fichier ajouté</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d fichiers avaient été ajoutés avant</item>
+        <item quantity="one">%d fichier avait été ajouté avant</item>
     </plurals>
 </resources>

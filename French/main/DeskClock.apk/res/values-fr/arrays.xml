@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>"Alarme dans moins d'une minute"</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarme dans moins de %d minute</item>
         <item>Alarme dans %1$s</item>
         <item>Alarme dans %2$s</item>
         <item>Alarme dans %1$s %2$s</item>
@@ -24,15 +24,15 @@
         <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>"L'alarme sonnera dans moins d'une minute."</item>
-        <item>"L'alarme sonnera dans %1$s."</item>
-        <item>"L'alarme sonnera dans %2$s."</item>
-        <item>"L'alarme sonnera dans %1$s et %2$s."</item>
-        <item>"L'alarme sonnera dans %3$s."</item>
-        <item>"L'alarme sonnera dans %1$s et %3$s."</item>
-        <item>"L'alarme sonnera dans %2$s et %3$s."</item>
-        <item>"L'alarme sonnera dans %1$s, %2$s et %3$s."</item>
+    <string-array name="alarm_set_new_array">
+        <item>"L'alarme se déclenchera dans moins de %d minute."</item>
+        <item>"L'alarme se déclenchera dans %1$s."</item>
+        <item>"L'alarme se déclenchera dans %2$s."</item>
+        <item>"L'alarme se déclenchera dans %1$s et %2$s."</item>
+        <item>"L'alarme se déclenchera dans %3$s."</item>
+        <item>"L'alarme se déclenchera dans %1$s et %3$s."</item>
+        <item>"L'alarme se déclenchera dans %2$s et %3$s."</item>
+        <item>"L'alarme se déclenchera dans %1$s %2$s et %3$s."</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bon</item>
@@ -42,15 +42,25 @@
         <item>Très faible</item>
         <item>Sévère</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Jamais</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Lundi au vendredi</item>
+        <item>Tous les jours</item>
+        <item>Jours ouvrables</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Du lundi au vendredi</item>
+        <item>Tous les jours</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Tous les jours</item>
+        <item>Du lundi au vendredi</item>
+        <item>Personnalisé</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Tous les jours</item>
+        <item>Lundi au vendredi</item>
+        <item>Jours ouvrables</item>
+        <item>Personnaliser</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -239,7 +249,7 @@
         <item>Sofia</item>
         <item>Stockholm</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Cité du Vatican</item>
         <item>Vienne</item>
         <item>Vilnius</item>
         <item>Varsovie</item>
@@ -339,11 +349,6 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-	</string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Blanc</item>
-        <item>Noir</item>
-        <item>Auto</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Côte d'Ivoire"</item>
@@ -528,7 +533,7 @@
         <item></item>
         <item>Bosnie-Herzégovine</item>
         <item></item>
-        <item>Macédoine</item>
+        <item>Macédoine du Nord</item>
         <item>Bulgarie</item>
         <item>Suède</item>
         <item>Estonie</item>
@@ -633,14 +638,14 @@
         <item>Suriname</item>
         <item>Équateur</item>
     </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Total %1$s</item>
@@ -655,32 +660,5 @@
         <item>Ne rien faire</item>
         <item>Répéter</item>
         <item>Rejeter</item>
-    </string-array>
-    <string-array name="bedtime_guide_repeat_type">
-        <item>Lundi au vendredi</item>
-        <item>Tous les jours</item>
-        <item>Jours de travail</item>
-    </string-array>
-    <string-array name="bedtime_repeat_entries">
-        <item>Tous les jours</item>
-        <item>Lundi au vendredi</item>
-        <item>Jours de travail</item>
-        <item>Personnaliser</item>
-    </string-array>
-    <string-array name="days_of_week">
-        <item>Dim</item>
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mer</item>
-        <item>Jeu</item>
-        <item>Ven</item>
-        <item>Sam</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>"À l'heure fixée"</item>
-        <item>"15 minutes à l'avance"</item>
-        <item>"30 minutes à l'avance"</item>
-        <item>"1 heure à l'avance"</item>
-        <item>Aucun</item>
     </string-array>
 </resources>

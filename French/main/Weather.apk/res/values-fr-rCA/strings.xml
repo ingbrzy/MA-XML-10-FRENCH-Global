@@ -78,7 +78,7 @@
     <string name="exo_track_surround_5_point_1">Son ambiophonique 5.1</string>
     <string name="exo_track_surround_7_point_1">Son ambiophonique 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
-    <string name="expand_button_title">Avancé</string>
+    <string name="expand_button_title">Paramètres avancés</string>
     <string name="not_set">Non défini</string>
     <string name="preference_copied">« %1$s » copié dans le presse-papiers.</string>
     <string name="search_menu_title">Rechercher</string>

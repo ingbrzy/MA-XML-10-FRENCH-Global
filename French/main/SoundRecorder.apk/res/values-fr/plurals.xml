@@ -2,32 +2,39 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="other">Il y a %d heures</item>
+        <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans 1 heure</item>
+        <item quantity="other">Dans %d heures</item>
+        <item quantity="one">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Dans %d min</item>
-        <item quantity="one">Dans 1 min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">Supprimer %d enregistrements</item>
@@ -37,25 +44,29 @@
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
     </plurals>
-	<plurals name="confirm_delete_cloud_records">
-        <item quantity="other">Supprimer %d enregistrements du cloud ?</item>
-        <item quantity="one">Supprimer %d enregistrement du cloud ?</item>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Supprimer %d enregistrements depuis the cloud?</item>
+        <item quantity="one">Supprimer %d enregistrement depuis the cloud?</item>
     </plurals>
     <plurals name="confirm_delete_records">
-        <item quantity="other">Supprimer %d enregistrements ?</item>
-        <item quantity="one">Supprimer %d enregistrement ?</item>
+        <item quantity="other">Supprimer %d enregistrements?</item>
+        <item quantity="one">Supprimer %d enregistrement?</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Dans 1 heure</item>
+        <item quantity="one">Dans 1 heure</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">dans %d minutes</item>
@@ -63,6 +74,7 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d éléments</item>
@@ -73,8 +85,8 @@
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nouvelles notifications</item>
-        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
     </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Stockage insuffisant (moins de %d minutes)</item>
@@ -92,17 +104,13 @@
         <item quantity="other">"Impossible de restaurer %d éléments en raison d'une erreur inconnue."</item>
         <item quantity="one">"Impossible de restaurer %d élément en raison d'une erreur inconnue."</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
-        <item quantity="other">Rechercher parmi %d enregistrements</item>
-        <item quantity="one">Rechercher parmi %d enregistrement</item>
-    </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Rechercher parmi %d enregistrements</item>
-        <item quantity="one">Rechercher parmi %d enregistrement</item>
+        <item quantity="other">%d enregistrements</item>
+        <item quantity="one">%d enregistrement</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Rechercher parmi %d appels enregistrés</item>
-        <item quantity="one">Rechercher parmi %d appel enregistré</item>
+        <item quantity="other">"%d enregistrement d'appels"</item>
+        <item quantity="one">"%d enregistrements d'appel"</item>
     </plurals>
     <plurals name="search_fm_records_hint">
         <item quantity="other">%d enregistrements radio</item>
@@ -116,17 +124,13 @@
         <item quantity="other">%d enregistrements trouvés</item>
         <item quantity="one">%d enregistrement trouvé</item>
     </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">%d nouveaux enregistrements</item>
-        <item quantity="one">%d nouvel enregistrement</item>
-    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d jours restants</item>
         <item quantity="one">%d jour restant</item>
     </plurals>
     <plurals name="trash_box_delete_items">
-        <item quantity="other">Supprimer définitivement %d enregistrements sélectionnés ?</item>
-        <item quantity="one">Supprimer définitivement %d enregistrement sélectionné ?</item>
+        <item quantity="other">Supprimer %d enregistrements sélectionnés définitivement?</item>
+        <item quantity="one">Supprimer %d enregistrement sélectionné définitivement?</item>
     </plurals>
     <plurals name="trash_box_tip">
         <item quantity="other">"Les éléments supprimés peuvent être stockés dans la corbeille jusqu'à %d jours"</item>

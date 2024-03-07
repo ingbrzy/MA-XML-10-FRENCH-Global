@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="permissions_desc">
-        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
+        <item>"Pour accéder et sauvegarder les images, les applications, et d'autres fichiers, aussi bien que les transférer"</item>
+        <item>Pour transférer les fichiers en utilisant le Bluetooth et le Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_china">
-        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
-        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>"Pour accéder et sauvegarder les images, les applications, et d'autres fichiers, aussi bien que les transférer"</item>
+        <item>Pour transférer les fichiers en utilisant le Bluetooth et le Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12">
-        <item>For sending and receiving files</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
-        <item>For finding available devices nearby using Bluetooth</item>
-        <item>For finding available devices nearby and transferring files using Wi-Fi</item>
+        <item>Pour envoyer et recevoir des fichiers</item>
+        <item>Pour transférer les fichiers en utilisant le Bluetooth et le Wi-Fi</item>
+        <item>Pour trouver les appareils disponibles à proximité en utilisant le Bluetooth</item>
+        <item>Pour rechercher les appareils disponibles à proximité et transférer des fichiers en utilisant le Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
-        <item>For sending and receiving files</item>
-        <item>For transferring files using Bluetooth and WLAN</item>
-        <item>For finding available devices nearby using Bluetooth</item>
-        <item>For finding available devices nearby and transferring files using WLAN</item>
+        <item>Pour envoyer et recevoir des fichiers</item>
+        <item>Pour transférer les fichiers en utilisant le Bluetooth et le Wi-Fi</item>
+        <item>Pour trouver les appareils disponibles à proximité en utilisant le Bluetooth</item>
+        <item>Pour rechercher les appareils disponibles à proximité et transférer des fichiers en utilisant le Wi-Fi</item>
     </string-array>
 </resources>

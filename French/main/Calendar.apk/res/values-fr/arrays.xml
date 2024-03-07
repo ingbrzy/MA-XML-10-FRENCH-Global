@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Aucun</item>
+        <item>Calendrier Islamique</item>
+        <item>"Calendrier national de l'Inde"</item>
+        <item>Calendrier Vikram</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Verseau</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Bélier</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Cancer</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorne</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
     <string-array name="change_response_labels">
         <item>Cet événement uniquement</item>
         <item>Tous les événements dans la série</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Juste pour cette fois</item>
-        <item>Désactiver le rappel répété</item>
+        <item>Désactiver une fois</item>
+        <item>Toujours désactiver</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Date ultérieure</item>
@@ -23,21 +49,43 @@
         <item>2 jours avant</item>
         <item>1 semaine avant</item>
     </string-array>
-    <string-array name="default_reminder_later_time_labels">
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 heure</item>
-    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Uniquement pour cet événement</item>
         <item>Celui-ci et les événements futurs</item>
         <item>Tous les événements</item>
     </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Gémeaux</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Lion</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Balance</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Juste pour cette fois</item>
-        <item>Définir un rappel répété</item>
+        <item>Activer une fois</item>
+        <item>Toujours activer</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Dimanche</item>
@@ -48,10 +96,10 @@
         <item>Vendredi</item>
         <item>Samedi</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup">
-        <item>Désactivé</item>
-        <item>Pour tous les événements</item>
-        <item>Pour les événements les plus pertinents</item>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Poisson</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Désactivé</item>
@@ -62,11 +110,6 @@
         <item>Toujours</item>
         <item>Seulement quand la sonnerie est désactivée</item>
         <item>Jamais</item>
-    </string-array>
-    <string-array name="prefValues_alerts_popup">
-        <item>aucun</item>
-        <item>tout</item>
-        <item>intelligente</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Région par défaut</item>
@@ -113,25 +156,25 @@
         <item>Compteur</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Janvier</item>
-        <item>Février</item>
-        <item>Mars</item>
-        <item>Avril</item>
+        <item>Jan</item>
+        <item>Fév</item>
+        <item>Mar</item>
+        <item>Avr</item>
         <item>Mai</item>
         <item>Juin</item>
-        <item>Juillet</item>
+        <item>Juil</item>
         <item>Août</item>
-        <item>Septembre</item>
-        <item>Octobre</item>
-        <item>Novembre</item>
-        <item>Décembre</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>premier</item>
+        <item>première</item>
         <item>deuxième</item>
         <item>troisième</item>
         <item>quatrième</item>
-        <item>dernier</item>
+        <item>Dernier</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Lun - Ven</item>
@@ -145,7 +188,7 @@
         <item>Jeu</item>
         <item>Ven</item>
         <item>Sam</item>
-        <item>Dim</item>
+        <item>Dim.</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>Jamais</item>
@@ -159,47 +202,62 @@
         <item>année</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>premier lundi</item>
-        <item>premier mardi</item>
-        <item>premier mercredi</item>
-        <item>premier jeudi</item>
-        <item>premier vendredi</item>
-        <item>premier samedi</item>
-        <item>premier dimanche</item>
-        <item>deuxième lundi</item>
-        <item>deuxième mardi</item>
-        <item>deuxième mercredi</item>
-        <item>deuxième jeudi</item>
-        <item>deuxième vendredi</item>
-        <item>deuxième samedi</item>
-        <item>deuxième dimanche</item>
-        <item>troisième lundi</item>
-        <item>troisième mardi</item>
-        <item>troisième mercredi</item>
-        <item>troisième jeudi</item>
-        <item>troisième vendredi</item>
-        <item>troisième samedi</item>
-        <item>troisième dimanche</item>
-        <item>quatrième lundi</item>
-        <item>quatrième mardi</item>
-        <item>quatrième mercredi</item>
-        <item>quatrième jeudi</item>
-        <item>quatrième vendredi</item>
-        <item>quatrième samedi</item>
-        <item>quatrième dimanche</item>
-        <item>dernier lundi</item>
-        <item>dernier mardi</item>
-        <item>dernier mercredi</item>
-        <item>dernier jeudi</item>
-        <item>dernier vendredi</item>
-        <item>dernier samedi</item>
-        <item>dernier dimanche</item>
+        <item>premier Lundi</item>
+        <item>premier Mardi</item>
+        <item>premier Mercredi</item>
+        <item>premier Jeudi</item>
+        <item>premier Vendredi</item>
+        <item>premier Samedi</item>
+        <item>premier Dimanche</item>
+        <item>deuxième Lundi</item>
+        <item>deuxième Mardi</item>
+        <item>deuxième Mercredi</item>
+        <item>deuxième Jeudi</item>
+        <item>deuxième Vendredi</item>
+        <item>deuxième Samedi</item>
+        <item>deuxième Dimanche</item>
+        <item>troisième Lundi</item>
+        <item>troisième Mardi</item>
+        <item>troisième Mercredi</item>
+        <item>troisième Jeudi</item>
+        <item>troisième Vendredi</item>
+        <item>troisième Samedi</item>
+        <item>troisième Dimanche</item>
+        <item>quatrième Lundi</item>
+        <item>quatrième Mardi</item>
+        <item>quatrième Mercredi</item>
+        <item>quatrième Jeudi</item>
+        <item>quatrième Vendredi</item>
+        <item>quatrième Samedi</item>
+        <item>quatrième Dimanche</item>
+        <item>dernier Lundi</item>
+        <item>dernier Mardi</item>
+        <item>dernier Mercredi</item>
+        <item>dernier Jeudi</item>
+        <item>dernier Vendredi</item>
+        <item>dernier Samedi</item>
+        <item>dernier Dimanche</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Aucune réponse</item>
         <item>Oui</item>
         <item>Peut-être</item>
         <item>Non</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Sagittaire</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Scorpion</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Taureau</item>
+        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Îles Marshall</item>
@@ -289,12 +347,24 @@
         <item>Fidji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 heures avant</item>
-        <item>4 heures avant</item>
-        <item>5 heures avant</item>
-        <item>6 heures avant</item>
-        <item>1 jour avant</item>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Vierge</item>
+        <item>23/8 - 22/9</item>
     </string-array>
     <string-array name="weather_forecasts">
         <item>Dégagé</item>
@@ -303,35 +373,26 @@
         <item>Brouillard</item>
         <item>Forte tempête</item>
         <item>Tempête</item>
-        <item>Orage léger</item>
+        <item>Tempête légère</item>
         <item>Orage</item>
         <item>Averses</item>
         <item>Fortes pluies</item>
         <item>Pluie</item>
         <item>Pluie légère</item>
         <item>Pluie et neige</item>
-        <item>Blizzard</item>
+        <item>Tempête de neige</item>
         <item>Averses de neige</item>
-        <item>Forte neige</item>
+        <item>Fortes chutes de neige</item>
         <item>Neige</item>
-        <item>Neige faible</item>
+        <item>Neige fine</item>
         <item>Forte tempête de sable</item>
         <item>Tempête de sable</item>
-        <item>Poussière</item>
-        <item>Tempête de sable légère</item>
+        <item>Poussiéreux</item>
+        <item>Petite tempête de sable</item>
         <item>Grêle</item>
         <item>Poussière flottante</item>
         <item>Brume</item>
         <item>Pluie verglaçante</item>
-    </string-array>
-    <string-array name="week_array">
-        <item>Dimanche</item>
-        <item>Lundi</item>
-        <item>Mardi</item>
-        <item>Mercredi</item>
-        <item>Jeudi</item>
-        <item>Vendredi</item>
-        <item>Samedi</item>
     </string-array>
     <string-array name="week_header_name">
         <item>DIM</item>
@@ -354,5 +415,14 @@
         <item>J</item>
         <item>V</item>
         <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
     </string-array>
 </resources>

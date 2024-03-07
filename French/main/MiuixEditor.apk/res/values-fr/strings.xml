@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Ajouter des phrases fréquentes</string>
-    <string name="app_name">textaction</string>
-    <string name="call">Appel</string>
+    <string name="call_notification_answer_action">Répondre</string>
+    <string name="call_notification_answer_video_action">Vidéo</string>
+    <string name="call_notification_decline_action">Refuser</string>
+    <string name="call_notification_hang_up_action">Raccrocher</string>
+    <string name="call_notification_incoming_text">Appel entrant</string>
+    <string name="call_notification_ongoing_text">Appel en cours</string>
+    <string name="call_notification_screening_text">"Filtrage d'un appel entrant"</string>
     <string name="edit_frequent_phrases">Modifier les phrases fréquentes</string>
-    <string name="floating_toolbar_close_overflow_description">Fermer la superposition</string>
-    <string name="floating_toolbar_open_overflow_description">"Plus d'options"</string>
     <string name="frequent_phrases">Phrases fréquentes</string>
-    <string name="google_call">Appeler</string>
-    <string name="google_email">E-mail</string>
-    <string name="google_map">Carte</string>
-    <string name="google_open">Ouvrir</string>
-    <string name="google_translate">Traduire</string>
-    <string name="open">Parcourir</string>
-    <string name="query">Demander</string>
+    <string name="query">Rechercher</string>
     <string name="select">Sélectionner</string>
-    <string name="translate">Traduire</string>
-    <string name="translation_more">Plus</string>
-    <string name="translation_query_error">Impossible de trouver les résultats</string>
-    <string name="translation_query_error_network">"Impossible d'obtenir les informations, vérifiez la connexion réseau puis réessayez"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

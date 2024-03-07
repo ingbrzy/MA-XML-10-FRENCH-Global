@@ -2,32 +2,39 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="other">Il y a %d heures</item>
+        <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans 1 heure</item>
+        <item quantity="other">Dans %d heures</item>
+        <item quantity="one">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d min</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
         <item quantity="other">"%d fichiers de données de l'application"</item>
@@ -38,8 +45,8 @@
         <item quantity="one">%d fichier de données système</item>
     </plurals>
     <plurals name="custom_progress">
-        <item quantity="other">%d fichiers</item>
-        <item quantity="one">%d fichier</item>
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d éléments</item>
@@ -50,16 +57,20 @@
         <item quantity="one">%1$d/%2$d élément</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Il y a 1 demi-heure</item>
+        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="one">Il y a une demi-heure</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Dans 1 heure</item>
+        <item quantity="one">Dans 1 heure</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Dans 1 demi-heure</item>
+        <item quantity="other">Dans une demi-heure</item>
+        <item quantity="one">Dans une demi-heure</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Immédiatement</item>
+        <item quantity="one">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">dans %d minutes</item>
@@ -67,6 +78,7 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
+        <item quantity="one">"À l'instant"</item>
     </plurals>
     <plurals name="local_main_backup_manage_summary">
         <item quantity="other">%1$s sauvegardes (%2$s)</item>
@@ -76,13 +88,17 @@
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"Sauvegardé avec succès. Impossible de sauvegarder %d éléments."</item>
-        <item quantity="one">"Sauvegardé avec succès. Impossible de sauvegarder %d élément."</item>
+        <item quantity="other">Sauvegardé avec succès. Impossible de sauvegarder %d éléments.</item>
+        <item quantity="one">Sauvegardé avec succès. Impossible de sauvegarder %d élément.</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"Restauré avec succès. Impossible de restaurer %d éléments."</item>
-        <item quantity="one">"Restauré avec succès. Impossible de restaurer %d élément."</item>
+        <item quantity="other">Restauré avec succès. Impossible de restaurer %d éléments.</item>
+        <item quantity="one">Restauré avec succès. Impossible de restaurer %d élément.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
