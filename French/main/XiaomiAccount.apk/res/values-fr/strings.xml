@@ -93,18 +93,14 @@ L'ID de votre compte : %s"</string>
     <string name="binded">Connecté</string>
     <string name="binded_description" formatted="false">"%s a été connecté à votre Compte Xiaomi.
  Vous pouvez vous connecter à votre Compte Xiaomi à l'aide de %s maintenant."</string>
-    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
     <string name="button_agree">Accepter</string>
     <string name="button_close">Fermer</string>
     <string name="button_refuse">Refuser</string>
     <string name="button_unbind">Déconnecter</string>
     <string name="cancel">Annuler</string>
     <string name="change_password">Modifier le mot de passe</string>
-    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
-    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
     <string name="check_apk_update">Rechercher des mises à jour</string>
     <string name="child_account_system_ad_disable_hint">"Cette fonctionnalité n'est pas disponible pour les comptes enfants"</string>
-    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Nettoyer</string>
     <string name="close">Fermer</string>
     <string name="close_drawer">Fermer le menu de navigation</string>
@@ -208,13 +204,11 @@ L'ID de votre compte : %s"</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">BCE</string>
     <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Xiaomi.</string>
-    <string name="error_icon_content_description">Erreur</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="evening">Après midi</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Xiaomi.</string>
     <string name="exit">Quitter</string>
     <string name="expand_button_title">Paramètres avancés</string>
-    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Se connecter avec Facebook</string>
     <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé avec un autre Compte Xiaomi</string>
@@ -341,7 +335,6 @@ L'ID de votre compte : %s"</string>
     <string name="help_center">Aide</string>
     <string name="i_agree">OK </string>
     <string name="i_agree_continue">Accepter</string>
-    <string name="icon_content_description">Icône de la boîte de dialogue</string>
     <string name="identity">Identification</string>
     <string name="in_progress">En cours</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
@@ -350,7 +343,6 @@ L'ID de votre compte : %s"</string>
     <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
     <string name="input_ps">Saisir le mot de passe</string>
     <string name="io_error_title">Confirmez votre réseau</string>
-    <string name="item_view_role_description">Tabulation</string>
     <string name="just_a_second">Juste un instant…</string>
     <string name="keep_phone_ticket_login">Se connecter avec un code de vérification</string>
     <string name="kr_license_desc">"Vous devez accepter notre Accord Utilisateur et Politique de Confidentialité avant d'utiliser les services du Compte Xiaomi et Xiaomi Cloud."</string>
@@ -370,18 +362,6 @@ L'ID de votre compte : %s"</string>
     <string name="login_with_other">"Plus d'options"</string>
     <string name="logout_account">Se déconnecter</string>
     <string name="logout_failed">Impossible de se déconnecter</string>
-    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
-    <string name="material_hour_selection">Sélectionnez une heure</string>
-    <string name="material_hour_suffix">%1$s h</string>
-    <string name="material_minute_selection">Sélectionner des minutes</string>
-    <string name="material_minute_suffix">%1$s min</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">"Passer en mode horloge pour la saisie de l'heure."</string>
-    <string name="material_timepicker_hour">Heure</string>
-    <string name="material_timepicker_minute">Minute</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">"Sélectionner l'heure"</string>
-    <string name="material_timepicker_text_input_mode_description">"Passer en mode saisie de texte pour la saisie de l'heure."</string>
     <string name="mi_account">Mon compte</string>
     <string name="mi_health">Xiaomi Health</string>
     <string name="midnight">Nuit</string>
@@ -398,6 +378,7 @@ L'ID de votre compte : %s"</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -452,39 +433,6 @@ L'ID de votre compte : %s"</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
-    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
-    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
-    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
-    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
-    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
-    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
-    <string name="mtrl_picker_day_of_week_column_header">Colonne du jour de la semaine : %1$s</string>
-    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
-    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
-    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
-    <string name="mtrl_picker_navigate_to_year_description">"Accéder à l'année %1$s"</string>
-    <string name="mtrl_picker_out_of_range">Hors limite : %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
-    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
-    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
-    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
-    <string name="mtrl_picker_save">Enregistrer</string>
-    <string name="mtrl_picker_text_input_date_hint">Date</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
-    <string name="mtrl_picker_text_input_day_abbr">j</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">a</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Appuyer pour sélectionner un jour</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour sélectionner une année</string>
     <string name="multi_user_not_show_sync_activity_message_1">Il semble que vous utilisez votre Compte Xiaomi du Premier espace.</string>
     <string name="multi_user_not_show_sync_activity_message_2">"En tel cas, toutes les données seront synchronisés dans votre Second espace. Pour éviter cela, n'activez pas la synchronisation avec the cloud."</string>
     <string name="multi_user_not_show_sync_activity_title">"N'activez pas la synchronisation avec the cloud"</string>
@@ -821,7 +769,6 @@ L'ID de votre compte : %s"</string>
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_voice">Le code que vous avez saisi est incorrect</string>
-    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="password_view_hide_password">Masquer le mot de passe</string>
     <string name="password_view_show_password">Afficher le mot de passe</string>
     <string name="permission_group_contacts">Contacts</string>
@@ -983,7 +930,7 @@ L'ID de votre compte : %s"</string>
 %2$d. Si vous ne pouvez pas réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, accédez à i.mi.com pour le déverrouiller.
 %3$d. Votre numéro de déverrouillage : %4$s"</string>
     <string name="update_apk_version_later">Pas maintenant</string>
-    <string name="update_apk_version_now">Mettre à jour</string>
+    <string name="update_apk_version_now">Installer</string>
     <string name="update_email_address_dialog_message">Vous devez vérifier votre identité avant de mettre à jour votre E-mail.</string>
     <string name="update_email_address_dialog_title">"Mettre l'E-mail à jour"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
@@ -995,7 +942,6 @@ L'ID de votre compte : %s"</string>
     <string name="user_agreement_read_phone_permission_desc">Pour se connecter en utilisant le numéro de téléphone</string>
     <string name="user_agreement_read_phone_permission_title">Voir les numéros de téléphones</string>
     <string name="user_agreement_use_account_msg">Compte Xiaomi vous autorise à accéder à tous les services fournis par Xiaomi.</string>
-    <string name="user_agreement_wifi_permission_title">Activer et désactiver le Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">"Pour vérifier les problèmes de sécurité dans l'environnement de connexion"</string>
     <string name="user_agreement_wlan_permission_title_china">Activer et désactiver le WLAN</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>

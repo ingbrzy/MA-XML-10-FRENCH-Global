@@ -238,7 +238,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="encrypt_prefix">PRIVÉ</string>
     <string name="encrypt_setting">Chiffrement</string>
     <string name="encrypt_success">Les éléments sélectionnés sont désormais privés</string>
-    <string name="encrypt_success_first_five">Cet élément est désormais privé. Vous pouvez afficher les fichiers privés en glissant vers le bas sur la page de démarrage du Gestionnaire de fichiers.</string>
+    <string name="encrypt_success_first_five">"Cet élément est maintenant privé. Déroulez la page d'accueil du Gestionnaire de fichiers pour le consulter."</string>
     <string name="encrypting">Chiffrement…</string>
     <string name="enter">Ouvrir le Gestionnaire de fichiers</string>
     <string name="entry_phone_storage_internal">Stockage interne</string>
@@ -345,7 +345,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="ftp_account_req_notice">"Le nom d'utilisateur et le mot de passe doivent contenir%1$d–%2$d caractères, ont une sensibilité à la casse et ne doivent pas contenir de caractères spéciaux."</string>
+    <string name="ftp_account_req_notice">"Le nom d'utilisateur et le mot de passe doivent contenir%1$d–%2$d caractères, avoir une sensibilité à la casse et ne doivent pas contenir de caractères spéciaux."</string>
     <string name="ftp_anonymous_login">Connexion anonyme</string>
     <string name="ftp_anonymous_warning_msg">"Les fonctionnalités d'anonymisation peuvent présenter des risques pour la sécurité. Utiliser quand même la fonctionnalité ?"</string>
     <string name="ftp_anonymous_warning_title">Attention</string>
@@ -670,6 +670,14 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="partial_delete_failure">Impossible de supprimer certains fichiers. Réessayez.</string>
     <string name="partial_encrypt_success">Impossible de rendre certains fichiers privés. Réessayez.</string>
     <string name="path_name_email">E-mail</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">dd/MM</string>
+    <string name="pattern_month_day_hh_mm_12">dd/MM hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">dd/MM HH:mm</string>
+    <string name="pattern_year_month_day">dd/MM/yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">dd/MM/yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">dd/MM/yyyy HH:mm</string>
     <string name="perm_manage_external_storage">Accéder à tous les fichiers</string>
     <string name="permission_account_desc">Pour accéder aux informations de compte stockées sur votre appareil</string>
     <string name="permission_account_desc_pad">Pour accéder aux informations de compte stockées sur votre appareil</string>

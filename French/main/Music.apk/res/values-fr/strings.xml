@@ -79,6 +79,8 @@
     <string name="afternoon">Après midi</string>
     <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
     <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
+    <string name="alarm_clock_recommend_desc">Réveillez-vous avec une nouvelle chanson chaque jour</string>
+    <string name="alarm_clock_recommend_switch">Alarme de chanson recommandée</string>
     <string name="alarm_clock_ringtones_successful">Alarme définie avec succès</string>
     <string name="album_cover">"Couverture de l'album"</string>
     <string name="album_is_empty">"Le nom de l'album ne peut pas être vide."</string>
@@ -103,9 +105,9 @@
     <string name="app_disable_description_title">"Désactiver l'application système ?"</string>
     <string name="app_notify_dialog_btn_desc">Paramètres</string>
     <string name="app_notify_dialog_check_desc">"Activez le widget du Panneau de notification, mais n'autorisez pas les notifications permanentes"</string>
-    <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_10">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_8">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path">"Paramètres > Notifications et barre d'état > Notifications de l'application > Musique"</string>
+    <string name="app_notify_dialog_path_10">"Paramètres > Notifications et barre d'état > Notifications de l'application > Musique"</string>
+    <string name="app_notify_dialog_path_8">"Paramètres > Notifications et barre d'état > Notifications de l'application > Musique"</string>
     <string name="app_notify_dialog_subtitle">Activez les notifications pour que Mi Musique puisse contrôler la lecture de la musique dans le Panneau de notification.</string>
     <string name="app_notify_dialog_title">Autorisations requises</string>
     <string name="app_permission_confirm">"C'est compris"</string>
@@ -122,8 +124,8 @@
     <string name="app_third_privacy">Politiques de confidentialité des parties tierces</string>
     <string name="apply_for_the_following_permissions">Cette application requiert les autorisations suivantes :</string>
     <string name="apply_permissions_greater_than_pie">Vous pouvez accorder cette autorisation dans Paramètres > Applications > Autorisations > Autorisations > Fichiers et médias > Musique.</string>
-    <string name="apply_permissions_greater_than_tiramisu">You can grant this permission in Settings > Apps > Permissions > Music and audio/Photos and videos > Music.</string>
-    <string name="apply_permissions_less_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Access and change files on internal storage > Music.</string>
+    <string name="apply_permissions_greater_than_tiramisu">Vous pouvez accorder cette autorisation dans Paramètres > Applications > Autorisations > Musique et audio/Photos et vidéos > Musique.</string>
+    <string name="apply_permissions_less_than_pie">Vous pouvez accorder cette permission dans Paramètres > Applications > Autorisations > Autorisations > Accéder et changer des fichiers sur le stockage interne > Musique.</string>
     <string name="apply_permissions_tips_content">Autorisez cette application à accéder à des fichiers pour découvrir de la musique sur votre appareil.</string>
     <string name="artist">Artistes</string>
     <string name="artist_area_all">Tous</string>
@@ -138,15 +140,28 @@
     <string name="artist_home_search_hint">Rechercher des artistes</string>
     <string name="artist_is_empty">"Le nom de l'artiste ne peut pas être vide."</string>
     <string name="artist_name">Artiste</string>
+    <string name="asm_account_exception">Une erreur de compte est survenue</string>
     <string name="asm_batch_download_failed">Impossible de télécharger</string>
     <string name="asm_buy_member_success">Abonnement VIP acheté avec succès</string>
+    <string name="asm_check_video_playing">"Lecture de la vidéo. Il n'est pas d'ajouter un élément à la liste de lecture."</string>
+    <string name="asm_delete_all">Effacer</string>
+    <string name="asm_delete_all_data">Effacer toutes les données</string>
+    <string name="asm_delete_all_data_failed">"Impossible d'effacer les données. Réessayez."</string>
+    <string name="asm_delete_all_data_loading">Un instant…</string>
+    <string name="asm_delete_all_data_no_net">Une connexion réseau est nécessaire pour vérifier votre identité et clarifier les données. Connectez-vous au réseau et réessayez.</string>
+    <string name="asm_delete_all_data_success">Données effacées avec succès</string>
+    <string name="asm_delete_all_data_tips">"Si vous continuez, vous effacerez toutes les données de l'application, y compris les chansons, les listes de lecture et l'historique de navigation.
+Tous les avantages de l'adhésion et les chansons payantes seront effacés. Vous ne serez pas remboursé pour un abonnement existant, mais vous ne serez plus facturé.
+Une fois que vous aurez choisi d'effacer définitivement toutes les données, vous serez déconnecté de l'application. Effacer toutes les données maintenant ?"</string>
+    <string name="asm_delete_data">Effacer les données</string>
+    <string name="asm_delete_data_local_and_online">Effacer les données du service hors ligne et en continu</string>
     <string name="asm_dialog_title_tips">Abonnement VIP</string>
     <string name="asm_dialog_vip_confirm_text">Joindre</string>
     <string name="asm_dialog_vip_message">Inscrivez-vous à un abonnement VIP pour écouter des chansons de haute qualité et télécharger encore plus de contenu.</string>
     <string name="asm_disable_song_click_tip">"Cette chanson n'est pas disponible en raison de problèmes de droit d'auteur"</string>
     <string name="asm_download_failed">Impossible de télécharger \"%1$s\"</string>
     <string name="asm_download_is_downloaded">Chanson téléchargée avec succès</string>
-    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloaded_hq">Téléchargé en HD</string>
     <string name="asm_download_is_downloading">Téléchargment…</string>
     <string name="asm_download_list_not_supported">Impossible de télécharger certaines chansons de cette liste</string>
     <string name="asm_download_pending_status_msg">Préparation du téléchargement…</string>
@@ -155,7 +170,7 @@
     <string name="asm_fail_play_song">Impossible de télécharger la chanson</string>
     <string name="asm_google_connect_failed">"Impossible de terminer le paiement. Assurez-vous d'être connecté à Play Store."</string>
     <string name="asm_google_no_goods">"Impossible d'obtenir les informations du produit"</string>
-    <string name="asm_google_not_login">Sign in to Google Play and try again</string>
+    <string name="asm_google_not_login">Connectez-vous à Play Store et réessayez</string>
     <string name="asm_google_pay_success">Commande Google Pay générée</string>
     <string name="asm_google_query_failed">"Impossible d'obtenir les informations du produit"</string>
     <string name="asm_google_service_failed">Impossible de lancer les services Google. Réessayez.</string>
@@ -165,9 +180,10 @@
     <string name="asm_network_error">Vérifiez votre connexion réseau</string>
     <string name="asm_new_song_title">Nouvelles chansons</string>
     <string name="asm_no_need_download_songs">La chanson est en attente de téléchargement</string>
-    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_no_network">Impossible de se connecter au réseau</string>
     <string name="asm_not_action_is_local_music">"Impossible d'effectuer cette action sur les fichiers locaux"</string>
     <string name="asm_notify_use_mobile_download">Téléchargement avec les données mobiles</string>
+    <string name="asm_online_service_switch">"Activer les services en ligne dans les paramètres de l'application"</string>
     <string name="asm_page_empty_search">Importer de trouver des résultats</string>
     <string name="asm_page_error_airplane">Désactiver le Mode Avion pour pouvoir se connecter</string>
     <string name="asm_page_error_data">Une erreur est survenue</string>
@@ -178,11 +194,11 @@
     <string name="asm_pay_order_generate">Génération de la commande…</string>
     <string name="asm_pay_order_generate_failed">Impossible de générer la commande</string>
     <string name="asm_pay_query_overtime">La demande de statut de paiement a expiré</string>
-    <string name="asm_privacy_desc">Politique de Confidentialité de Wansheng</string>
-    <string name="asm_privacy_tips_content">Accepter la <a href="/link/click">Politique de Confidentialité de Wansheng</a> pour pouvoir utiliser les services de musique en ligne.</string>
-    <string name="asm_privacy_tips_title">Politique de Confidentialité de Wansheng</string>
+    <string name="asm_privacy_desc">Politique de Confidentialité de ASM</string>
+    <string name="asm_privacy_tips_content">Accepter la <a href="/link/click">Politique de Confidentialité de ASM</a> pour pouvoir utiliser les services de musique en ligne.</string>
+    <string name="asm_privacy_tips_title">Politique de Confidentialité de ASM</string>
     <string name="asm_pro_center">Abonnement</string>
-    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_search_result_contain_music">Contient : \"%1$s\"</string>
     <string name="asm_song_err_connect">Impossible de se connecter au serveur</string>
     <string name="asm_song_err_not_exist">"La source audio demandée n'existe pas"</string>
     <string name="asm_song_err_not_exist_clear">"La chanson n'existe pas. Supprimée de la file d'attente."</string>
@@ -196,7 +212,7 @@
     <string name="asm_toast_pay_failed">Impossible de terminer le paiement</string>
     <string name="asm_unknow_album">Album inconnu</string>
     <string name="asm_unknow_artist">Artiste inconnu</string>
-    <string name="audio_ad_countdown">Skip ad in %ss</string>
+    <string name="audio_ad_countdown">Ignorer la pub dans %s s</string>
     <string name="audio_ad_pass">Ignorer la pub</string>
     <string name="audio_picker_title">Choisir une chanson</string>
     <string name="auto_play_switch">Lecture automatique des vidéos</string>
@@ -207,14 +223,14 @@
     <string name="auto_update_tip">"Vous pouvez mettre à jour les applications système à l'aide de données mobiles. Cela pourrait générer des frais de données supplémentaires."</string>
     <string name="autoplay_is_off">La lecture automatique est désactivée</string>
     <string name="autoplay_is_on">La lecture automatique est activée</string>
-    <string name="available_playlist_name_format">New playlist %d</string>
-    <string name="avatar">Profile photo</string>
+    <string name="available_playlist_name_format">Nouvelle playlist %d</string>
+    <string name="avatar">Photo de profil</string>
     <string name="avoid_to_use_traffic_summary">Ne pas utiliser le réseau mobile pour écouter de la musique</string>
     <string name="avoid_to_use_traffic_title">Prévenir lorsque vous utilisez les données mobiles pour lire des chansons</string>
     <string name="back">Retour</string>
-    <string name="back_confirm">Tap again to exit</string>
+    <string name="back_confirm">Appuyer à nouveau pour quitter</string>
     <string name="best_experience">Meilleure expérience</string>
-    <string name="billion_char">%s B</string>
+    <string name="billion_char">%s Mds</string>
     <string name="bluetooth_device">Appareil audio Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
     <string name="btn_text_edit">Modifier</string>
@@ -385,13 +401,13 @@
     <string name="download_traffic_dialog_negative_button">En attente du Wi-Fi</string>
     <string name="download_traffic_dialog_position_button">Téléchargement</string>
     <string name="download_traffic_dialog_position_button_serious">Encore en téléchargement</string>
-    <string name="download_traffic_dialog_title">Data usage warning</string>
+    <string name="download_traffic_dialog_title">"Avertissement d'utilisation des données"</string>
     <string name="download_traffic_dialog_title_beyond">"Limite d'utilisation des données dépassée"</string>
     <string name="download_traffic_dialog_title_serious">Pas assez de données mobiles restantes</string>
     <string name="download_while_playing_no_vip_summary">Télécharger automatiquement les chansons que vous écoutez en ligne (Sauf les contenus payants)</string>
     <string name="download_while_playing_summary">Télécharger automatiquement les chansons que vous avez écoutées en ligne</string>
     <string name="download_while_playing_title">Télécharger pendant la diffusion</string>
-    <string name="downloaded">Downloaded</string>
+    <string name="downloaded">Téléchargé</string>
     <string name="downloading_apk">"Téléchargement…, l'état d'avancement dans le panneau de notification."</string>
     <string name="downloading_pause_apk">En pause. Reprendre le téléchargement dans le panneau de notification.</string>
     <string name="due_date">"Date d'échéance : %s"</string>
@@ -403,7 +419,7 @@
     <string name="enabled">Activé</string>
     <string name="enjoy_hungama_pro">Profitez de hungama Gold</string>
     <string name="enroll_in">"S'inscrire"</string>
-    <string name="entertainment">Entertainment</string>
+    <string name="entertainment">Divertissement</string>
     <string name="eq_auto">Personnaliser</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classique</string>
@@ -504,22 +520,35 @@
     <string name="favorite_tracks">Favoris</string>
     <string name="favorites">Favoris</string>
     <string name="feed_back">Commentaires</string>
+    <string name="feed_back_ad_desc">"Mi Musique est un service gratuit qui s'appuie sur les pubs comme principale source de revenus. Nous utilisons les revenus publicitaires pour continuer à améliorer nos fonctionnalités et services et les mises à jour des versions. Dans la mesure du possible, nous réduisons le nombre de pubs pour vous offrir une expérience plus simple."</string>
+    <string name="feed_back_ad_problem">Il y a trop de pubs</string>
+    <string name="feed_back_button_text">Envoyer des commentaires</string>
+    <string name="feed_back_button_toast">Commentaires envoyés avec succès</string>
+    <string name="feed_back_icon_problem">"Je ne trouve pas l'icône Mi Musique"</string>
+    <string name="feed_back_iconp_desc">"Assurez-vous d'avoir autorisé le raccourci de l'écran d’accueil de Mi Musique à s'afficher dans Paramètres > Applications > Gérer les raccourcis de l'écran d’accueil."</string>
+    <string name="feed_back_iconp_generate">"Vous pouvez également appuyer ci-dessous pour créer un raccourci de l'écran d’accueil pour Mi Musique."</string>
+    <string name="feed_back_iconp_text">Créer un raccourci</string>
+    <string name="feed_back_iconp_toast">"Raccourci vers l'Écran d'accueil créé avec succès"</string>
+    <string name="feed_back_other">Envoyer des commentaires</string>
+    <string name="feed_back_tab_disappear">"L'onglet \"Regarder\" a disparu"</string>
+    <string name="feed_back_tabd_desc">"Si l'onglet Regarder était précédemment visible et a disparu, connectez-vous au réseau et redémarrez l'application."</string>
+    <string name="feed_back_title">FAQ et Commentaire</string>
     <string name="file_and_media_permissions_for_display">"Accès aux fichiers : pour la numérisation, l'affichage et la lecture de fichiers locaux"</string>
     <string name="file_not_found">"Le fichier n'existe pas"</string>
     <string name="filter_by_MP4">Affichier les dossiers avec les fichiers MP4</string>
     <string name="filter_by_duration">Par longueur</string>
     <string name="filter_by_duration_max">%d min</string>
     <string name="filter_by_duration_min">%d s</string>
-    <string name="filter_by_duration_prefix">"Masquer lesfichiers plus courts que "</string>
-    <string name="filter_by_duration_summary">Masquer lesfichiers audio courts</string>
+    <string name="filter_by_duration_prefix">"Masquer les fichiers plus courts que "</string>
+    <string name="filter_by_duration_summary">Masquer les fichiers audio courts</string>
     <string name="filter_by_folder">Par dossier</string>
     <string name="filter_by_folder_summary">Choisir les dossiers à afficher</string>
     <string name="filter_by_size">Par taille</string>
-    <string name="filter_by_size_max">%d MB</string>
-    <string name="filter_by_size_min">%d KB</string>
-    <string name="filter_by_size_prefix">"Masquer lesfichiers plus petit que "</string>
-    <string name="filter_by_size_summary">Masquer lespetits fichiers audio</string>
-    <string name="filter_size_unit">%d KB</string>
+    <string name="filter_by_size_max">%d Mo</string>
+    <string name="filter_by_size_min">%d Ko</string>
+    <string name="filter_by_size_prefix">"Masquer les fichiers plus petit que "</string>
+    <string name="filter_by_size_summary">Masquer les petits fichiers audio</string>
+    <string name="filter_size_unit">%d Ko</string>
     <string name="find_you_tunes">Trouvez vos morceaux</string>
     <string name="floating_view_dialog_desc">La musique céssera de jouer si vous quitter cette page. Quitter quand même?</string>
     <string name="floating_view_dialog_leave">Quitter</string>
@@ -582,7 +611,7 @@
     <string name="format_not_support">"Ce format n'est pas pris en charge."</string>
     <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
     <string name="fragment_title_artist_album">Albums</string>
-    <string name="free">Free</string>
+    <string name="free">Gratuit</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -605,9 +634,9 @@
     <string name="hgm_failed_to_connect_hint">Vérifiez vos paramètres réseau et réessayez. Si le problème est une erreur de serveur hungama, nous la corrigerons dès que possible.</string>
     <string name="hgm_has_offline">Impossible de jouer la musique fournie par hungama</string>
     <string name="hgm_network_request_error_toast">Impossible de se connecter aux serveurs hungama. Réessayez.</string>
-    <string name="hgm_vip_btn_desc">Start free trial</string>
-    <string name="hgm_vip_high_quality">High quality downloads</string>
-    <string name="hgm_vip_no_ads">No ads or limits</string>
+    <string name="hgm_vip_btn_desc">Démarrer un essai gratuit</string>
+    <string name="hgm_vip_high_quality">Téléchargements de haute qualité</string>
+    <string name="hgm_vip_no_ads">Aucune pub ou limite</string>
     <string name="hide_album">"Masquer la couverture de l'album"</string>
     <string name="hide_lyric">Masquer les paroles</string>
     <string name="hide_or_add_songs_manually">Voir les chansons masquées</string>
@@ -620,7 +649,7 @@
     <string name="higher_quality_music">Audio haute qualité</string>
     <string name="higher_quality_music_summary">Écouter et télécharger des fichiers de haute qualité</string>
     <string name="hint_search_songs_playlists_artists">Rechercher des chansons, des listes de lecture et des artistes</string>
-    <string name="home_tab_home">Home</string>
+    <string name="home_tab_home">Accueil</string>
     <string name="home_tab_local">Ma musique</string>
     <string name="home_tab_more_music">Plus de musique</string>
     <string name="home_tab_online">Musique en ligne</string>
@@ -633,7 +662,7 @@
     <string name="hungama_batch_download_alert_summary_toast">Obtenez un abonnement pour télécharger toute la liste de lecture.</string>
     <string name="hungama_download_subscription_toast">Abonnez-vous à hungama Musique pour télécharger cette chanson</string>
     <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenir un abonnement Gold pour télécharger des chansons illimitées ?</string>
-    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
+    <string name="hungama_free_download_out_summary_toast">Vous avez déjà téléchargé %d chansons. Obtenez un abonnement pour en télécharger plus.</string>
     <string name="hungama_privacy_desc">Politique de Confidentialité de hungama (optionnel)</string>
     <string name="hungama_privacy_tips_content">Pour avoir accès au contenu en ligne, vous devez accepter la <a href="/link/click"> Politique de Confidentialité de hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Politique de Confidentialité de hungama</string>
@@ -643,7 +672,7 @@
     <string name="i_know">OK</string>
     <string name="icon_content_description">Icône de la boîte de dialogue</string>
     <string name="imported">Importé</string>
-    <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
+    <string name="impunity_declaration_content">"Vous devez lire et accepter notre &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Accord Utilisateur&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Politique de Confidentialité&lt;/a> avant d'utiliser le produit."</string>
     <string name="impunity_declaration_ignore">Ne plus afficher</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="impunity_declaration_positive_text">Accepter</string>
@@ -710,7 +739,7 @@
     <string name="jump_to_ytb_dialog_desc">"Vous êtes sur le point de quitter Mi Musique et d'ouvrir YouTube. Ouvrir YouTube maintenant ?"</string>
     <string name="jump_to_ytb_dialog_ok">Confirmer</string>
     <string name="jump_to_ytb_dialog_title">Sortie de Mi Musique</string>
-    <string name="just_hit_next">Just hit next</string>
+    <string name="just_hit_next">Appuyez simplement sur suivant</string>
     <string name="ktv_playlist">Playlist KTV</string>
     <string name="language_page_confirm">Confirmer</string>
     <string name="language_preference">Préférences de langue</string>
@@ -726,7 +755,7 @@
     <string name="loading_reached_the_bottom">"C'est tout pour l'instant."</string>
     <string name="loading_text">Un instant…</string>
     <string name="local_ad_title">Promotion</string>
-    <string name="local_download_download">Download</string>
+    <string name="local_download_download">Télécharger</string>
     <string name="local_download_hint">Activer le Wi-Fi avant de télécharger</string>
     <string name="local_download_item">Télécharger gratuitement</string>
     <string name="local_download_title">Sélectionner les chansons à télécharger</string>
@@ -734,7 +763,7 @@
     <string name="local_download_toast_notify">Téléchargement. Vérifiez la progression dans le Panneau de notification.</string>
     <string name="local_header_title">Musique locale</string>
     <string name="local_music">Chansons locales</string>
-    <string name="local_music_is_not_available">"Vous n'avez pas chansons sur votre appareil."</string>
+    <string name="local_music_is_not_available">"Vous n'avez pas de chanson sur votre appareil."</string>
     <string name="local_out_dialog_cancel">Annuler</string>
     <string name="local_out_dialog_desc">"Vous allez ouvrir une autre application qui n'est pas associée à Mi Musique."</string>
     <string name="local_out_dialog_ok">OK </string>
@@ -743,15 +772,44 @@
     <string name="local_page_artist_more">Plus de chansons par %s</string>
     <string name="local_page_playlist">Listes de lecture</string>
     <string name="local_page_song_download_history">Téléchargements</string>
+    <string name="lock_screen_music_settings">"Musique sur les paramètres de l'écran de verrouillage"</string>
+    <string name="lock_screen_settings">"Paramètres de l'Écran de verrouillage"</string>
+    <string name="lock_screen_slide_up">Glissez vers le haut pour déverrouiller</string>
+    <string name="lock_screen_switch">"Musique l'écran de verrouillage"</string>
     <string name="login_instantly">Se connecter</string>
     <string name="login_mi_account_and_gain_more_rights">Connectez-vous avec votre Compte Xiaomi pour accéder à plus de fonctionnalités.</string>
-    <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
+    <string name="login_out_tip">"Impossible de fermer la session pour l'instant. Vous pouvez effacer toutes les données de l'application à la place."</string>
     <string name="long_press_to_select_lyric">Appuyer et maintenir pour sélectionner le fichier de paroles local</string>
     <string name="lots_of_songs_for_free">Écoutez des millions de chansons gratuitement</string>
     <string name="low_sound_quality">Bas</string>
     <string name="lrc_search_failed">Impossible de trouver les paroles</string>
     <string name="lrc_searching">Recherche…</string>
-    <string name="ludo_tab_guide">Check out our new Music rooms</string>
+    <string name="ludo_tab_guide">Découvrez nos nouvelles salles de Musique</string>
+    <string name="lyric_ai_apply_fail">"Impossible d'utiliser. Réessayez."</string>
+    <string name="lyric_ai_button_text">Paroles IA</string>
+    <string name="lyric_ai_dialog_one">"•Vous pouvez appuyer pour reconnaître les paroles, et nous les écrirons pour vous à l'aide de la technologie de reconnaissance vocale par IA."</string>
+    <string name="lyric_ai_dialog_three">"•Vous pouvez vérifier la progression dans la barre d'outils des paroles."</string>
+    <string name="lyric_ai_dialog_two">"•La reconnaissance prendra quelques minutes. Une fois qu'elle sera terminée, les paroles seront remplies automatiquement."</string>
+    <string name="lyric_ai_fail_toast">Le fichier est trop volumineux pour être reconnu</string>
+    <string name="lyric_ai_identify_success">Paroles reconnues avec succès</string>
+    <string name="lyric_ai_song">Chanson actuelle</string>
+    <string name="lyric_ai_song_list">Chansons</string>
+    <string name="lyric_ai_state_apply">Utilisation des paroles</string>
+    <string name="lyric_ai_state_default">Chanson non reconnue</string>
+    <string name="lyric_ai_state_fail">Impossible de reconnaître les paroles</string>
+    <string name="lyric_ai_state_identify">Reconnaître</string>
+    <string name="lyric_ai_state_identifying">Un instant…</string>
+    <string name="lyric_ai_state_use">Utiliser</string>
+    <string name="lyric_ai_title">Reconnaissance des paroles IA</string>
+    <string name="lyric_feedback_inaccurate_timing">Les paroles sont désynchronisées</string>
+    <string name="lyric_feedback_lyrics_error">Les paroles de toute la chanson sont fausses</string>
+    <string name="lyric_feedback_misspelling">"Fautes d'orthographe et de frappe"</string>
+    <string name="lyric_feedback_other">Autre</string>
+    <string name="lyric_feedback_pure_music">Morceau instrumental</string>
+    <string name="lyric_feedback_report_optimization">Soumettez un rapport pour nous aider à optimiser nos services</string>
+    <string name="lyric_feedback_submit">Soumettre</string>
+    <string name="lyric_feedback_submit_success">Soumis avec succès</string>
+    <string name="lyric_feedback_title">Parlez-nous du problème</string>
     <string name="lyric_is_empty">Aucune parole disponible</string>
     <string name="lyric_label">Paroles</string>
     <string name="lyric_open_other_connect">Télécharger les paroles en utilisant le réseau mobile</string>
@@ -776,7 +834,7 @@
     <string name="material_timepicker_select_time">"Sélectionner l'heure"</string>
     <string name="material_timepicker_text_input_mode_description">"Passer en mode saisie de texte pour la saisie de l'heure."</string>
     <string name="message_delete_playlist">Supprimer la playlist %s ?</string>
-    <string name="metered_alert">Data usage warning</string>
+    <string name="metered_alert">"Avertissement d'utilisation des données"</string>
     <string name="metered_alert_msg">Vous utilisez des données mobiles pour lire des chansons. Lire quand même ?</string>
     <string name="metered_alert_msg_with_data">Il vous reste %s de données mobiles. Utilisez des données mobiles pour lire des chansons ?</string>
     <string name="metered_allow">Lecture</string>
@@ -812,6 +870,7 @@
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -1013,7 +1072,6 @@
     <string name="online_apk_install_network_error">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="online_apk_install_tips">Vous devez télécharger le plug-in de ce fournisseur de contenu une fois. Vous pourrez accéder aux chansons directement la prochaine fois.</string>
     <string name="online_list_delete_message">Toutes les chansons téléchargées dans cette playlist seront supprimées de votre stockage interne.</string>
-    <string name="online_playlist_category">Listes de lecture</string>
     <string name="online_recommend">Playlist</string>
     <string name="online_service_open_tip">Les services de musique en ligne sont activés</string>
     <string name="online_service_title">Services en ligne</string>
@@ -1022,6 +1080,7 @@
     <string name="online_switch_message">Désactiver les services en ligne affectera les services et les recommandations VIP. Désactiver quand même ?</string>
     <string name="online_switch_setting">Paramètres du contenu en ligne</string>
     <string name="only_pro_can_choose_hd_sound_quality">"L'audio HD est uniquement disponible pour les membres Gold"</string>
+    <string name="open_alarm_clock_recommend_switch">Alarme de chanson recommandée</string>
     <string name="open_online_service">"Vous avez besoin d'activer les services en ligne afin d'utiliser cette fonctionnalité. Activer maintenant ?"</string>
     <string name="open_service">Activer</string>
     <string name="operation_done_close">Fermer</string>
@@ -1057,7 +1116,6 @@
     <string name="passport_agree">Accepter</string>
     <string name="passport_area_code_title">Indicatif régional</string>
     <string name="passport_attention">Attention</string>
-    <string name="passport_auth_fail_warning">Session expirée. Reconnectez-vous.</string>
     <string name="passport_back">Retour</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
     <string name="passport_can_not_recevie_verify_code">"Vous n'avez pas reçu de code ?"</string>
@@ -1079,11 +1137,9 @@
     <string name="passport_doing_query_account">Vérification des informations du compte…</string>
     <string name="passport_error_auth_fail">La session a expiré. Connectez-vous à nouveau.</string>
     <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
-    <string name="passport_error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Xiaomi.</string>
     <string name="passport_error_empty_password">Entrez votre mot de passe</string>
     <string name="passport_error_empty_pwd">Le mot de passe ne peut pas être vide</string>
     <string name="passport_error_empty_user_id">"Saisissez votre nom d'utilisateur"</string>
-    <string name="passport_error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="passport_error_length_limit">Le texte que vous avez saisi est trop long</string>
     <string name="passport_error_network">Impossible de se connecter au réseau</string>
     <string name="passport_error_no_password_user">"Vous n'avez pas encore défini le mot de passe. Connectez-vous avec un SMS."</string>
@@ -1099,17 +1155,14 @@
     <string name="passport_error_unknown">Erreur inconnue</string>
     <string name="passport_error_user_name">"Le nom d'utilisateur que vous avez saisi n'est pas valide"</string>
     <string name="passport_error_user_password">Les mots de passe ne correspondent pas</string>
-    <string name="passport_exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Xiaomi.</string>
     <string name="passport_facebook_login_btn_content_description">Se connecter avec Facebook</string>
     <string name="passport_frequency_try_later">Trop de tentatives. Patientez une minute ou deux et réessayez.</string>
     <string name="passport_get_login_type_next">Suivant</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_google_login_btn_content_description">Se connecter avec Google</string>
     <string name="passport_help">Aide</string>
     <string name="passport_i_know">"C'est compris"</string>
     <string name="passport_identification_expired">Le code de vérification a expiré. Recommencez.</string>
     <string name="passport_input_captcha_hint">Saisir le code</string>
-    <string name="passport_input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="passport_input_password_hint">Saisir le mot de passe</string>
     <string name="passport_input_phone_number_hint">Entrez un numéro de téléphone</string>
     <string name="passport_input_verify_code">Entrez le code de vérification</string>
@@ -1150,39 +1203,35 @@
     <string name="passport_request_error_network">"Une erreur de réseau s'est produite. Vérifiez vos paramètres de réseau et réessayez."</string>
     <string name="passport_request_error_unknown">"Une erreur système s'est produite. Revenez en arrière et réessayez."</string>
     <string name="passport_request_gallery_permission_message">"Autoriser l'accès à la Galerie :&lt;br />Pour définir les photos de profil"</string>
-    <string name="passport_resend_email_reach_limit_message">"Vous avez envoyé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification n'est pas dans le dossier de courriers indésirables de votre boîte de réception."</string>
-    <string name="passport_resend_email_reach_limit_title">Trop de tentatives</string>
     <string name="passport_resend_ticket">Renvoyer le code</string>
     <string name="passport_retry">Réessayer</string>
-    <string name="passport_same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
     <string name="passport_send_sms_to">Code envoyé à %1$s</string>
     <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_sending_vcode">Envoi du code en cours…</string>
-    <string name="passport_service_error">Erreur serveur</string>
     <string name="passport_set_password_no_phone_msg">Ajoutez votre numéro de téléphone pour protéger votre compte.</string>
     <string name="passport_skip_query_account">Passer</string>
-    <string name="passport_sns_access_token_expired_warning">Session expirée. Connectez-vous à nouveau pour reconnecter ce compte.</string>
     <string name="passport_sns_bind_limit">"Trop de tentatives. Essayez d'autres moyens pour vous connecter."</string>
     <string name="passport_system_error">Le système est occupé. Patientez une ou deux minutes et réessayez.</string>
     <string name="passport_talkback_image_captcha">Image du code de vérification</string>
     <string name="passport_talkback_switch_image_captcha">Changer pour le code de vérification image</string>
     <string name="passport_talkback_switch_voice_captcha">Changer pour le code de vérification vocal</string>
     <string name="passport_talkback_voice_captcha">Lire le code de vérification vocal</string>
+    <string name="passport_third_sns_service_unavailable">"Le service n'est pas disponible. Assurez-vous que l'application est installée et non bloquée."</string>
     <string name="passport_ticket_send_by_second">Envoyer dans %d</string>
     <string name="passport_to_forget_password">Mot de passe oublié ?</string>
     <string name="passport_to_password_login">Se connecter avec un mot de passe</string>
     <string name="passport_to_verify_code_login">Se connecter via SMS</string>
     <string name="passport_unknown_error">Erreur inconnue</string>
     <string name="passport_unknown_host_network_error">Vérifiez vos paramètres de réseau et réessayez</string>
-    <string name="passport_user_agreement_hint_3rd_app">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> et l'&lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> , et l'&lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification de China Mobile&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s>Politique de Confidentialité&lt;/a>, et l' &lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification du compte eSurfing&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a>, et l' &lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification de China Unicom&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_default">"&lt;Data>J'ai lu et accepté l'&lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> et l'&lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a> , et l'&lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s>Politique de Confidentialité&lt;/a>, et l' &lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification du compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de Confidentialité&lt;/a>, et l' &lt;a href=%3$s>Accord Utilisateur&lt;/a> et &lt;a href=%4$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s>Politique de Confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">Nous créerons automatiquement un compte si vous utilisez votre numéro de téléphone pour la première fois.</string>
-    <string name="passport_user_agreement_hint_with_mobile">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification de China Mobile&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_with_telecom">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification du compte eSurfing&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_hint_with_unicom">"&lt;Data>J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification de China Unicom&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification du compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"J'ai lu et accepté l' &lt;a href=%1$s>Accord Utilisateur&lt;/a> et &lt;a href=%2$s> Politique de Confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Conditions d'utilisation des services de vérification de China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Changer de photo de profil</string>
     <string name="passport_user_avatar_uploading">Un instant…</string>
     <string name="passport_user_id_hint">E-mail/Numéro de téléphone/Identifiant Compte Xiaomi</string>
@@ -1221,6 +1270,21 @@
     <string name="play_setting">Lecture</string>
     <string name="play_video_with_traffic">CONTINUER</string>
     <string name="play_video_with_traffic_toast">Vous utilisez des données mobiles maintenant.</string>
+    <string name="playerui_lyric_dialog_cancel">Non</string>
+    <string name="playerui_lyric_dialog_hint">"J'autorise Mi Musique à accéder aux fichiers audio à des fins d'optimisation"</string>
+    <string name="playerui_lyric_dialog_ok">Oui</string>
+    <string name="playerui_lyric_dialog_title">Ces paroles sont-elles exactes ?</string>
+    <string name="playerui_lyric_edit_hint">Appuyez pour modifier les paroles</string>
+    <string name="playerui_lyric_fun_edit">Modifier les paroles</string>
+    <string name="playerui_lyric_fun_font">Taille du texte</string>
+    <string name="playerui_lyric_fun_history">Historique des paroles</string>
+    <string name="playerui_lyric_fun_research">Rechercher à nouveau</string>
+    <string name="playerui_lyric_searching">Recherche…</string>
+    <string name="playerui_lyric_selected">Utiliser ces paroles</string>
+    <string name="playerui_song_dialog_cancel">Ne pas autoriser</string>
+    <string name="playerui_song_dialog_hint">"Vous pouvez nous aider en permettant à Mi Musique d'accéder à ce fichier audio à des fins d'optimisation. Autoriser l'accès maintenant ?"</string>
+    <string name="playerui_song_dialog_ok">Autoriser</string>
+    <string name="playerui_song_dialog_title">"Autoriser l'accès au fichier audio"</string>
     <string name="playlist_empty">Aucune Liste de lecture trouvée.</string>
     <string name="playlist_title">Nom de la Playlist</string>
     <string name="playlist_title_is_empty">Le champ du nom de la Playlist ne peut pas être vide</string>
@@ -1245,10 +1309,11 @@
     <string name="privacy_authorize_revoking">"Révocation de l'autorisation en cours…"</string>
     <string name="privacy_desc">Politique de Confidentialité (obligatoire)</string>
     <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_title_asm">Un monde de musique à portée de main</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fr_FR</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
-Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
-If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
+    <string name="privacy_request_desc"><Data>"Mi Musique doit collecter les informations personnelles nécessaires pour vous fournir des services de streaming en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de Confidentialité&lt;/a>. Vous pouvez à tout moment retirer votre consentement à la Politique de Confidentialité de Mi Musique dans les Paramètres.
+Lisez et acceptez notre &lt;a href=\"%2$s\">Accord Utilisateur&lt;/a> et &lt;a href=\"%1$s\">Politique de Confidentialité &lt;/a> avant d'utiliser Mi Musique.
+Si vous n'acceptez pas d'utiliser les services susmentionnés, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous."</Data></string>
     <string name="privacy_request_subtitle">"Bienvenue sur Mi Musique! Cette application fournit les services suivants:
 - Un lecteur audio local
 - Services de streaming en ligne"</string>
@@ -1261,10 +1326,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="pulluprefreshrecyclerview_loading_finished">Téléchargée avec succès</string>
     <string name="pulluprefreshrecyclerview_loading_running">Chargement…</string>
     <string name="queue_is_empty">La liste de lecture est vide.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_asm_protocol"><Data>Lisez et acceptez la &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politique de Confidentialité de ASM&lt;/a>&lt;/font> pour pouvoir utiliser les services de musique en ligne.</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>"J'ai lu et accepté la &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politique de Confidentialité hungama&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>"J'ai lu et accepté la &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politique de Confidentialité JOOX&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>"J'ai lu et accepté l'&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Accord Utilisateur&lt;/a>&lt;/font> et &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Politique de Confidentialité&lt;/a>&lt;/font> de Xiaomi"</Data></string>
     <string name="read_and_agree_protocol">Lisez et acceptez notre Accord Utilisateur et Politique de Confidentialité avant de continuer.</string>
     <string name="ready_to_play">Passer au suivant</string>
     <string name="recently_played">Joué récemment</string>
@@ -1325,7 +1390,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="see_more_videos">Plus de vidéos</string>
     <string name="select">Sélectionnez</string>
     <string name="select_all">Sélectionner tout</string>
-    <string name="select_clip_desc">Select a clip from the song</string>
+    <string name="select_clip_desc">Sélectionnez un clip de la chanson</string>
     <string name="select_desc_sub">"Vous pouvez sélectionner jusqu'à %d langues"</string>
     <string name="select_device">Sélectionnez un périphérique</string>
     <string name="select_displayed_folders">Choisir les dossiers à afficher</string>
@@ -1420,12 +1485,12 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="sound_fade_in_and_out_when_change_song_automatically">Essayez des fondus enchaînés pendant la lecture</string>
     <string name="start_to_check_new_version">Vérification des mises à jour…</string>
     <string name="start_to_download">Téléchargement…</string>
-    <string name="start_to_play">Preparing to play…</string>
+    <string name="start_to_play">Préparation à jouer…</string>
     <string name="start_update">"Installation d'une nouvelle version…"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Stockage des applications clones</string>
     <string name="storage_space_permissions_for_display">"Accès au stockage de l'appareil : pour la numérisation, l'affichage et la lecture de fichiers locaux"</string>
-    <string name="streamloadingtext">Connecting to %s</string>
+    <string name="streamloadingtext">Connexion à %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
@@ -1438,7 +1503,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="tab_artist">Artistes</string>
     <string name="tab_artist_list">Artistes</string>
     <string name="tab_chart">Hit-parades</string>
-    <string name="tab_flow">Watch</string>
+    <string name="tab_flow">Regarder</string>
     <string name="tab_folder">Dossiers</string>
     <string name="tab_playlist">Listes de lecture</string>
     <string name="tab_top_results">Meilleur résultat</string>
@@ -1466,9 +1531,9 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="talkback_pre">Chanson précédente</string>
     <string name="talkback_search">Rechercher</string>
     <string name="talkback_show_navigation_draw">Afficher le tiroir</string>
-    <string name="task_card_button_exchange">Redeem</string>
-    <string name="task_card_message_received_successfully">"You've completed today's tasks. Redeem your coins now!"</string>
-    <string name="task_card_title_received_successfully">Claimed successfully</string>
+    <string name="task_card_button_exchange">Échanger</string>
+    <string name="task_card_message_received_successfully">"Vous avez terminé les tâches d'aujourd'hui. Échangez vos pièces maintenant !"</string>
+    <string name="task_card_title_received_successfully">Réclamé avec succès</string>
     <string name="telephone_permissions_for_push">"Autorisations d'appel : pour fournir des services de notification push de Google"</string>
     <string name="terms_of_service">"Conditions générales d'utilisation"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversaire de la Levée de la Loi Martiale</string>
@@ -1559,6 +1624,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="today">"Aujourd'hui"</string>
     <string name="today_hot_playlist">"Liste de lecture d'aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
+    <string name="tools_settings">Paramètres des outils</string>
     <string name="top_chart_title">Hit-parades</string>
     <string name="track_play_history_after_login">"Se connecter pour voir l'historique de lecture"</string>
     <string name="tt_00_00">00:00</string>
@@ -1693,7 +1759,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="unknown_artist_name">Artiste inconnu</string>
     <string name="unlimited_downloads">Téléchargements illimités</string>
     <string name="unlimited_offline_songs">Chansons hors connexion illimitées</string>
-    <string name="unlimited_skips">Unlimited skips</string>
+    <string name="unlimited_skips">Sauts illimités</string>
     <string name="update_now">METTRE À JOUR MAINTENANT</string>
     <string name="upgrade_music">Mettre Musique à jour</string>
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
@@ -1707,10 +1773,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_toast">Les chansons en ligne seront synchronisées avec hungama</string>
     <string name="user_agreement">Accord Utilisateur</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fr_FR</string>
-    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
+    <string name="user_experience_program_open">"En raison des restrictions du droit d'auteur, vous devez vous inscrire au Programme d'Expérience Utilisateur pour pouvoir lire les chansons téléchargées. Vous pouvez le faire dans Paramètres > Mots de passe et sécurité > Confidentialité > Inscription au Programme d'Expérience Utilisateur."</string>
     <string name="user_playlist_plaza">Listes de lecture</string>
     <string name="user_privacy_dialog_negative_text">Annuler</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Retirer (%s s)</string>
     <string name="user_privacy_dialog_positive_text">Retirer</string>
     <string name="user_privacy_setting_group_title">Retrait du consentement</string>
     <string name="user_privacy_setting_title">En désactivant le commutateur, vous retirez votre consentement à la Politique de Confidentialité Mi Musique .</string>
@@ -1781,4 +1847,5 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="youtube_tab_shorts">Vidéos courtes</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Tendance</string>
+    <string name="ytb_turn_on_sound">Appuyez pour activer le son</string>
 </resources>

@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Copié dans le presse-papiers</string>
     <string name="app_manager_data_size">Données utilisateur</string>
     <string name="app_manager_default_cleared">Vidé</string>
+    <string name="app_manager_default_close_summary">Aucune application par défaut définie.</string>
+    <string name="app_manager_default_open_summary">Vous avez choisi de lancer cette application par défaut pour certaines actions.</string>
+    <string name="app_manager_default_open_title">Annuler les applis par défaut</string>
     <string name="app_manager_defaults_setting">Gestion des apps par défaut</string>
     <string name="app_manager_details_electric_title">Batterie</string>
     <string name="app_manager_details_storage_title">Stockage</string>
@@ -1605,6 +1608,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="fod_finger_notice_title">"Placez votre doigt sur l'écran"</string>
     <string name="fod_finger_windows_tips">Vérifiez votre empreinte digitale</string>
     <string name="fod_tips_split_screen_more_than_half">Saisir le mot de passe</string>
+    <string name="fold_application_mode_name">"Mises en page de l'application"</string>
     <string name="forbid_autobright_summary">La luminosité automatique sera désactivée pendant que vous jouez et restaurée une fois que vous avez terminé</string>
     <string name="forbid_autobright_title">"Ajuster la luminosité de l'écran"</string>
     <string name="foreground_traffic">Premier plan %s</string>
@@ -3253,7 +3257,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_wireless_charging_special_stand_summary2">Installez votre appareil sur le support qui était avec votre chargeur sans fil pour une meilleure performance de charge</string>
     <string name="pc_wireless_charging_special_stand_title">Utiliser le support de charge fourni</string>
     <string name="pc_wireless_handle_connected">Appareil connecté</string>
-    <string name="pc_wireless_handle_title">Poignée de caméra sans fil</string>
+    <string name="pc_wireless_handle_title">"Poignée d'appareil photo"</string>
     <string name="pc_work_in_save_mode">Économiseur de batterie</string>
     <string name="pc_work_in_super_save_mode">Économiseur de batterie Ultra</string>
     <string name="pc_xiaoai_create_auto_task">Nouvelle tâche de Mi AI</string>
@@ -3433,7 +3437,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pm_remember_choice">Se souvenir de mon choix</string>
     <string name="pm_root_success_notification_infomation">"Assurez-vous de comprendre les risques liés à l'accès root"</string>
     <string name="pm_root_success_notification_title">Accès ROOT autorisé</string>
-    <string name="popular_action_anti_spam_title_global">Bloquer les appels et les messages</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_title_global">"Protéger les applications avec Verrouillage d'application"</string>
     <string name="popular_action_card_title">Fonctionnalités populaires</string>
     <string name="popular_action_first_aid_title_global">Pour les nouveaux utilisateurs</string>
@@ -5343,7 +5347,7 @@ L'activation de l'un désactivera l'autre."</string>
     <string name="vb_video_effects_spatial_summary_new">"Expérimentez une amélioration de la sensation d'espace et de la direction pour l'audio et lorsque vous utilisez les écouteurs"</string>
     <string name="vb_video_effects_srs_premium_sound">Son</string>
     <string name="vb_video_super_division">Amélioré</string>
-    <string name="vb_video_super_division_desc">"Améliorez automatiquement la résolution lorsqu'elle est ≤720p.
+    <string name="vb_video_super_division_desc">"Améliorez automatiquement la résolution lorsqu'elle est ≤720P.
 
 L'utilisation de cette fonctionnalité augmente la consommation d'énergie.
 
@@ -5393,6 +5397,7 @@ Essayez d'améliorer la résolution!"</string>
     <string name="virus_update_tips_title">Attention</string>
     <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données mobiles ?"</string>
     <string name="vtb_ai_subtitle">Sous-titres</string>
+    <string name="vtb_ai_subtitle_intl">Sous-titres IA</string>
     <string name="vtb_func_desc">À propos de cette fonctionnalité</string>
     <string name="vtb_func_display_style_desc0">"L'IA peut reconnaître les personnes, les animaux, les plantes, le ciel, les bâtiments et autres objets présentés dans les vidéos et les améliorer de manière dynamique."</string>
     <string name="vtb_func_display_style_desc1">Les effets sélectionnés ne seront pas appliqués aux vidéos HDR sur les appareils sélectionnés.</string>

@@ -48,10 +48,6 @@
         <item quantity="other">"%d publicités bloqué jusqu'à présent"</item>
         <item quantity="one">"%d publicité bloqué jusqu'à présent"</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">Pas été scanné depuis %d jours</item>
-        <item quantity="one">Pas été scanné depuis %d jour</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Découvrez %1$d les nouveaux articles</item>
         <item quantity="one">Découvrez %1$d le nouvel article</item>
@@ -59,18 +55,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Lecture de la vidéo suivante dans %d secondes</item>
         <item quantity="one">Lecture de la vidéo suivante dans %d seconde</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">"Vous n'avez pas scanné votre appareil depuis %d jours. Scanner maintenant ?"</item>
-        <item quantity="one">"Vous n'avez pas scanné votre appareil depuis %d jour. Scanner maintenant ?"</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">jours</item>
-        <item quantity="one">jour</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">"Vous n'avez pas optimisé votre appareil depuis %d jours. Optimiser maintenant ?"</item>
-        <item quantity="one">"Vous n'avez pas optimisé votre appareil depuis %d jour. Optimiser maintenant ?"</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">"%s j'aimes"</item>
@@ -116,10 +100,6 @@
         <item quantity="other">%d abonnés</item>
         <item quantity="one">%d abonné</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">il y a %1$d heures</item>
         <item quantity="one">il y a %1$d heure</item>
@@ -148,6 +128,10 @@
         <item quantity="other">Protegé %d fois</item>
         <item quantity="one">Protegé %d fois</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">Vous avez %d coupons</item>
+        <item quantity="one">Vous avez %d coupon</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s éléments téléchargés avec succès</item>
         <item quantity="one">%1$s élément téléchargé avec succès</item>
@@ -159,10 +143,6 @@
     <plurals name="mins_ago">
         <item quantity="other">il y a %1$d minutes</item>
         <item quantity="one">Il y a %1$d minute</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d éléments sélectionnés</item>

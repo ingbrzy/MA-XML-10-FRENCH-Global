@@ -28,11 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="copy">Copier</string>
-    <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="expand_button_title">Avancé</string>
-    <string name="fallback_menu_item_copy_link">Copier le lien</string>
-    <string name="fallback_menu_item_open_in_browser">Ouvrir dans le navigateur</string>
-    <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="installation_cancelled">Installation annulée.</string>
     <string name="installation_failed">"Échec de l'installation."</string>
     <string name="installing_module">Installation du module :</string>

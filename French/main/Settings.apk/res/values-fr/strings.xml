@@ -2971,6 +2971,9 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="display_cutout_emulation">Encoche</string>
     <string name="display_cutout_emulation_keywords">encoche pour écran, entaille</string>
     <string name="display_dashboard_summary">Thème sombre, taille de la police, luminosité</string>
+    <string name="display_notification_icon_0">Aucun</string>
+    <string name="display_notification_icon_1">%d icône</string>
+    <string name="display_notification_icon_3">%d icônes</string>
     <string name="display_prompt_confirm">"C'est compris"</string>
     <string name="display_settings">Affichage</string>
     <string name="display_settings_new">Affichage et luminosité</string>
@@ -7444,19 +7447,14 @@ Redémarrez votre appareil et réessayez."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Mise à jour des applications qui utilisent automatiquement le mode lecture</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Mettre à jour automatiquement</string>
     <string name="screen_paper_texture">Texture</string>
-    <string name="screen_pinning_description">"Les données personnelles peuvent être accessibles et d'autres applis peuvent être ouvertes depuis une appli épinglée. 
+    <string name="screen_pinning_description">"Les applications épinglées peuvent ouvrir d'autres applications et accéder à vos informations personnelles"</string>
+    <string name="screen_pinning_dialog_message">"Voici ce que les applications épinglées peuvent faire :
 
-Pour utiliser l'épinglage d'appli : \u0009
-1. Activez l'épinglage d'appli \u0009
-2. Ouvrez \"Récents\" \u0009
-3. Appuyez sur l'icône d'appli en haut de l'écran, puis sur \"Épingler\""</string>
-    <string name="screen_pinning_dialog_message">"Lorsqu'une application est épinglée : 
+• Accéder à vos informations personnelles
+(p. ex., contacts et courriels)
+• Ouvrez d'autres applications
 
-•\u0009 Des données à caractère personnel peuvent être accessibles (comme des contacts et le contenu d'e-mails) 
-•\u0009\u0009D'autres applis peuvent être ouvertes depuis l'application épinglée 
-
-N'utilisez l'épinglage d'application qu'avec des personnes de confiance.
-"</string>
+Utilisez cette fonctionnalité avec prudence lorsque vous partagez cet appareil avec d'autres personnes."</string>
     <string name="screen_pinning_guest_user_description">"Les données personnelles peuvent être accessibles et d'autres applis peuvent être ouvertes depuis une appli épinglée. 
 
 Si vous souhaitez partager votre appareil de manière sécurisée, essayez plutôt d'utiliser un profil invité. 
@@ -7465,10 +7463,11 @@ Pour utiliser l'épinglage d'application, procédez comme suit : \u0009
 1. Activez l'épinglage d'application \u0009
 2. Ouvrez \"Récents\" \u0009
 3. Appuyez sur l'icône d'appli en haut de l'écran, puis sur \"Épingler\""</string>
+    <string name="screen_pinning_summary">"Les applications épinglées resteront dans Récents jusqu'à ce que vous les désépinglez"</string>
     <string name="screen_pinning_switch_off_text">Désactivé</string>
     <string name="screen_pinning_switch_on_text">Activé</string>
-    <string name="screen_pinning_title">"Épinglage d'application"</string>
-    <string name="screen_pinning_unlock_none">"Verrouiller l'appareil quand l'épingle est retirée"</string>
+    <string name="screen_pinning_title">"Autoriser les applications d'épinglage"</string>
+    <string name="screen_pinning_unlock_none">"Vérifier le verrouillage de l'écran pour désépingler"</string>
     <string name="screen_pinning_unlock_password">"Demander le mot de passe avant de retirer l'épingle"</string>
     <string name="screen_pinning_unlock_pattern">"Demander le schéma de déverrouillage avant de retirer l'épingle"</string>
     <string name="screen_pinning_unlock_pin">"Demander le code avant de retirer l'épingle"</string>
@@ -9206,6 +9205,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="title_quick_control_all_devices">Afficher les commandes pour les appareils à proximité</string>
     <string name="title_regional_pref_footer">Si une appli ne prend pas en charge les préférences régionales, elle utilisera ses paramètres régionaux par défaut.</string>
     <string name="title_show_notification_icon">Afficher les icônes de notification</string>
+    <string name="title_show_notification_icon_count">"Nombre d'icônes de notification affichées"</string>
     <string name="title_smart_device_control">"Commandes de l'appareil intelligent"</string>
     <string name="title_special_features_health_global">Fréquence cardiaque</string>
     <string name="title_unavailable_locale">%s indisponible</string>

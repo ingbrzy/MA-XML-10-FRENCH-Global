@@ -88,6 +88,7 @@ Vérifiez les paramètres pour plus de détails."</string>
     <string name="fast_connect_device_battery">Batterie</string>
     <string name="fast_connect_device_box">Boîte</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
+    <string name="fast_connect_device_button_audio_share_fail">"C'est compris"</string>
     <string name="fast_connect_device_connect_cancel">Annuler</string>
     <string name="fast_connect_device_connect_ok">Connecter</string>
     <string name="fast_connect_device_connect_retry">Recommencer</string>
@@ -96,6 +97,12 @@ Vérifiez les paramètres pour plus de détails."</string>
     <string name="fast_connect_device_headset_l">Gauche</string>
     <string name="fast_connect_device_headset_r">Droite</string>
     <string name="fast_connect_device_headset_reset">Appuyez et maintenez le bouton sur la boîte</string>
+    <string name="fast_connect_device_message_audio_share">"Partagez l'audio de cet appareil avec cette paire d’écouteurs"</string>
+    <string name="fast_connect_device_replace_current_device">"Changer d'appareil"</string>
+    <string name="fast_connect_device_start_audio_share">Partager</string>
+    <string name="fast_connect_device_title_audio_share">Écoutez ensemble avec %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Impossible de se connecter à %1$s. Réessayer.</string>
+    <string name="fast_connect_device_title_audio_share_success">Écoute ensemble avec %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Impossible de connecter %1$s</string>
     <string name="fast_connect_device_title_connecting">Connexion…</string>
     <string name="fast_connect_device_title_find_headset">Trouver %1$s</string>

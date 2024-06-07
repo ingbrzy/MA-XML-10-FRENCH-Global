@@ -1691,7 +1691,7 @@ Veuillez confirmer le compte utilisé par défaut pour passer les appels."</stri
     <string name="smart_switch_dual_sim_title">Basculer entre les cartes SIM de données</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Assurez-vous que le nombre que vous avez entré soit correct. Autrement, vous ne serez pas en mesure d'envoyer ou de recevoir des SMS. Contactez votre opérateur pour confirmer votre numéro SMSC."</string>
-    <string name="speed_limit_card_toast">Vous avez utilisé des données à pleine vitesse. La vitesse de connexion sera limitée maintenant.</string>
+    <string name="speed_limit_card_toast">La vitesse de connexion peut maintenant être limitée. Contactez votre opérateur pour confirmation.</string>
     <string name="sports_news_settings">Actualités sportives</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_hint_label_incoming_wifi_call">Appel Wi-Fi de</string>
@@ -1908,6 +1908,8 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="vm_change_pin_old_pin">Ancien code</string>
     <string name="vm_change_pin_progress_message">Veuillez patienter.</string>
     <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
+    <string name="voice_link_switch_summary">"Utilisez la carte SIM de données pour faciliter la connexion des appels lorsque vous n'êtes pas connecté à Internet"</string>
+    <string name="voice_link_switch_title">Appels assistés par données</string>
     <string name="voice_number_setting_primary_user_only">"Seul l'utilisateur principal de la messagerie vocale peut en modifier les paramètres."</string>
     <string name="voice_privacy">Confidentialité voix</string>
     <string name="voice_privacy_summary">Activer le mode de confidentialité amélioré</string>

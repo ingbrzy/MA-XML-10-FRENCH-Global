@@ -33,7 +33,6 @@
     <string name="clearable_edittext_clear_description">Nettoyer</string>
     <string name="close">Fermer</string>
     <string name="copy">Copier</string>
-    <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -45,9 +44,6 @@
     <string name="eras_bc">BCE</string>
     <string name="evening">Après midi</string>
     <string name="expand_button_title">Paramètres avancés</string>
-    <string name="fallback_menu_item_copy_link">Copier le lien</string>
-    <string name="fallback_menu_item_open_in_browser">Ouvrir dans un navigateur</string>
-    <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>

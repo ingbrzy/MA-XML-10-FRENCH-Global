@@ -393,6 +393,7 @@
     <string name="iap_retain_message">Annuler ce paiement maintenant ?</string>
     <string name="icon_content_description">Icône de la boîte de dialogue</string>
     <string name="icon_size">"Taille de l'icône"</string>
+    <string name="icon_style">Icônes</string>
     <string name="in_the_end">"Plus d'éléments à afficher"</string>
     <string name="incompatible_dialog_cancel">"Ne s'applique pas"</string>
     <string name="incompatible_dialog_message">"Ce thème n'est pas compatible avec la version système de votre appareil. Certaines fonctionnalités du système peuvent ne pas fonctionner correctement si vous appliquez ce thème."</string>
@@ -492,6 +493,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -634,6 +636,9 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ne plus afficher</string>
     <string name="not_set">Non définie</string>
+    <string name="notifications_permission_confirm">Autoriser</string>
+    <string name="notifications_permission_decline">Ne pas autoriser</string>
+    <string name="notifications_permission_title">"Autoriser l'appli à vous envoyer des notifications ?"</string>
     <string name="notify_style">Effets de notification</string>
     <string name="offline_notification_text">"Appuyez pour ouvrir l'annonce"</string>
     <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous n'aviez pas accès à Internet"</string>

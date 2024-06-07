@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
+    <string name="miuix_appcompat_cloud_state_disabled">La synchronisation avec the cloud est désactivée</string>
+    <string name="miuix_appcompat_cloud_state_finished">Le cloud synchronisé avec succès</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Juste un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+    <string name="miuix_search_action_mode_cancel">Annuler</string>
+    <string name="miuix_search_history_clear">"Effacer l'historique des recherches"</string>
+    <string name="miuix_search_history_default_title">Historique de recherches</string>
+    <string name="miuix_search_recommendation_default_title">Vous pourriez être intéressé par ces</string>
+    <string name="miuix_search_recommendation_item_del_des">Supprimer</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>

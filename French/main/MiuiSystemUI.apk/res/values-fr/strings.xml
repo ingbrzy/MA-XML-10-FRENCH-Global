@@ -1423,6 +1423,8 @@ Si vous avez des questions, contactez %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data>sélectionner&lt;font color=#a5220e>\"Effacer et Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.&lt;/Data>"</string>
     <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
     <string name="phone_locked_string">Cet appareil est verrouillé</string>
+    <string name="pin_toast">"Faites glisser vers le haut à partir du bas de l'écran et faites une pause pour désépingler cette application"</string>
+    <string name="pin_toast_nav">Appuyez et maintenez les boutons retour et aperçu pour désépingler cette application</string>
     <string name="pip_close">Fermer</string>
     <string name="pip_collapse">Réduire</string>
     <string name="pip_edu_text">Commandes : appuyez deux fois sur <annotation icon="home_icon">ACCUEIL</annotation></string>
